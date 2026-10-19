@@ -147,6 +147,95 @@
   "unc_number": false
  },
  {
+  "id": "d2668c741594",
+  "headline": "Even Healthcare Raises $50M From Khosla Ventures",
+  "the_number": "$50 million",
+  "why_it_matters": "Funding helps expand to five Bengaluru hospitals by early 2027.",
+  "founder_takeaway": "Integrated healthcare models are attracting major venture capital.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "healthtech"
+  ],
+  "companies": [
+   "Even Healthcare",
+   "Khosla Ventures"
+  ],
+  "geography": "India",
+  "amount_usd_m": 50.0,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://www.livemint.com/companies/news/even-healthcare-raises-50-million-khosla-ventures-hospital-expansion-health-insurance-11792374713402.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-19T13:31:01+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-19T13:39:57.578007+05:30"
+ },
+ {
+  "id": "81abd14e9332",
+  "headline": "Reliance Jio IPO Sets Listing Timeline on BSE and NSE",
+  "the_number": "-",
+  "why_it_matters": "Jio Platforms IPO bidding closes October 23 with listing on October 28.",
+  "founder_takeaway": "Timing mega public listings requires navigating broad exchange schedules.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance Jio",
+   "Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://www.livemint.com/market/ipo/reliance-jio-ipo-gmp-today-what-grey-market-trend-reflects-ahead-of-subscription-opening-date-share-price-listing-gain-11792392614863.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-10-19T13:37:00+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-19T13:39:57.578007+05:30"
+ },
+ {
+  "id": "d19e4a6270de",
+  "headline": "Urban Company Slumps 9.5% Post Wider Q2 Loss",
+  "the_number": "9.5%",
+  "why_it_matters": "Shares fell to ₹143.30 despite board approving ₹2,500 Cr fundraise.",
+  "founder_takeaway": "Widening quarterly losses can overshadow capital raise announcements.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Urban Company"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://inc42.com/buzz/urban-company-slumps-9-5-after-q2-loss-widens-board-clears-%e2%82%b92500-cr-fundraise/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-10-19T06:58:41+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-19T13:39:57.578007+05:30"
+ },
+ {
   "id": "1235b5baabc0",
   "headline": "SEBI Reviews Derivatives Market Timings And Settlement",
   "the_number": "-",
@@ -585,5 +674,89 @@
   "first_seen": "2026-10-19T12:37:51.816830+05:30",
   "raw_impact": "Watch",
   "unc_number": false
+ },
+ {
+  "id": "5e11c438baa0",
+  "headline": "FIIs Pull $64B From Indian Equities, Erasing Inflows",
+  "the_number": "$64 billion",
+  "why_it_matters": "Outflows wiped out nine years of foreign buying in Indian equities.",
+  "founder_takeaway": "Rising yields and macro shocks can abruptly reverse foreign liquidity.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "fintech",
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/11-years-zero-net-fii-flow-how-a-64-billion-outflow-erased-9-years-of-equity-buying/articleshow/135039441.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-19T09:45:13+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-19T13:39:57.578007+05:30"
+ },
+ {
+  "id": "499158f78372",
+  "headline": "Sebi Forms Working Group to Review IPO Norms",
+  "the_number": "-",
+  "why_it_matters": "Regulator aims to review, clarify, and rationalize ICDR public offer rules.",
+  "founder_takeaway": "Expect potential regulatory updates ahead of planning mainboard IPOs.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Sebi"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/market/stock-market-news/sebi-working-group-review-mainboard-ipos-fpos-norms-profitability-valuations-11792392114933.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-19T13:34:23+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-19T13:39:57.578007+05:30"
+ },
+ {
+  "id": "10853d3a5570",
+  "headline": "India Sugar Stocks Fall as Government Halts Ethanol Diversion",
+  "the_number": "-",
+  "why_it_matters": "Policy shift impacts revenue streams from ethanol diversion for sugar producers.",
+  "founder_takeaway": "Prepare for regulatory shifts that suddenly impact core revenue models.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMlFmT0M5dG0wX2EyLUlXVzJHNlFjRjJGMUZ3dC1rUGpMbDFGRllfNlJlR2dTbEM0eV9sOUptaEZtTXYtS0RyQVozT2JkMjVxay0wT0hyT2c5Y09rZ3k0dHNfNFY4MVZaREVUdWk2eVVWTldqRGZqVVlmSkFnaks1UFBEMTNQSk9YV0NsQWZISGp0MjVNX1p1WE9oVmg4cDlXLW10ODN5WDVBVl9jQnZOUnZUVQ?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 7,
+  "date": "2026-10-19T04:37:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-19T13:39:57.578007+05:30"
  }
 ]
