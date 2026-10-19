@@ -1,0 +1,31 @@
+big_means:
+  - Startup funding rounds >= $10M, unicorns, down rounds, shutdowns, layoffs
+  - M&A, IPO filings (DRHP), listings and listing-day performance
+  - Big-tech and AI moves that affect startups
+  - RBI, SEBI, budget/tax, DPIIT/startup policy, FDI rules
+  - "Global macro: Fed decisions, oil, USD/INR, FII flows, tariffs"
+sectors: [fintech, quick commerce, D2C, SaaS, AI, EV, edtech, healthtech]
+min_score: 7
+watchlist_companies:
+  - Zepto
+  - Swiggy
+  - Zomato (Eternal)
+  - Paytm
+  - PhonePe
+  - Razorpay
+  - Flipkart
+  - Meesho
+  - Ola Electric
+  - Ather Energy
+  - Nykaa
+  - PolicyBazaar
+  - Lenskart
+  - Groww
+  - Physics Wallah
+  - BYJU'S
+  - CRED
+  - Ola Krutrim
+  - boAt
+  - Urban Company
+  - Rapido
+  - Zerodha

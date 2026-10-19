@@ -1,0 +1,24 @@
+# tier: official | verified_media. All free RSS / public feeds. Checked 2026-10-19.
+sources:
+  - {name: RBI Press Releases, url: "https://rbi.org.in/pressreleases_rss.xml", tier: official, domain: rbi.org.in}
+  - {name: RBI Notifications, url: "https://rbi.org.in/notifications_rss.xml", tier: official, domain: rbi.org.in}
+  - {name: SEBI, url: "https://www.sebi.gov.in/sebirss.xml", tier: official, domain: sebi.gov.in}
+  - {name: PIB, url: "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3", tier: official, domain: pib.gov.in}
+  - {name: NSE Announcements, url: "https://nsearchives.nseindia.com/content/RSS/Online_announcements.xml", tier: official, domain: nseindia.com, max_items: 60}
+  - {name: Economic Times Startups, url: "https://economictimes.indiatimes.com/small-biz/startups/rssfeeds/11993034.cms", tier: verified_media, domain: economictimes.indiatimes.com}
+  - {name: Economic Times Markets, url: "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms", tier: verified_media, domain: economictimes.indiatimes.com}
+  - {name: Economic Times Tech, url: "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms", tier: verified_media, domain: economictimes.indiatimes.com}
+  - {name: Mint Companies, url: "https://www.livemint.com/rss/companies", tier: verified_media, domain: livemint.com}
+  - {name: Mint Markets, url: "https://www.livemint.com/rss/markets", tier: verified_media, domain: livemint.com}
+  - {name: Business Standard Companies, url: "https://www.business-standard.com/rss/companies-101.rss", tier: verified_media, domain: business-standard.com}
+  - {name: Business Standard Markets, url: "https://www.business-standard.com/rss/markets-106.rss", tier: verified_media, domain: business-standard.com}
+  - {name: Inc42, url: "https://inc42.com/feed/", tier: verified_media, domain: inc42.com}
+  - {name: Entrackr, url: "https://entrackr.com/rss", tier: verified_media, domain: entrackr.com}
+  - {name: YourStory, url: "https://yourstory.com/feed", tier: verified_media, domain: yourstory.com}
+  - {name: TechCrunch, url: "https://techcrunch.com/feed/", tier: verified_media, domain: techcrunch.com}
+  - {name: Reuters (Google News), url: "https://news.google.com/rss/search?q=site:reuters.com+india+OR+fed+OR+oil+OR+tariff&hl=en-IN&gl=IN&ceid=IN:en", tier: verified_media, domain: reuters.com}
+  - {name: Startup India / DPIIT (Google News), url: "https://news.google.com/rss/search?q=DPIIT+OR+%22Startup+India%22+OR+%22startup+policy%22+when:3d&hl=en-IN&gl=IN&ceid=IN:en", tier: verified_media, domain: news.google.com}
+dead:   # verified dead on 2026-10-19, NOT wired in
+  - {name: Moneycontrol RSS, reason: "feed frozen since Apr 2024"}
+  - {name: Startup India site RSS, reason: "404; covered via PIB + Google News DPIIT query"}
+  - {name: BSE announcements XML, reason: "works but 6k items/run; deferred to Stage 2 (watchlist-filtered)"}

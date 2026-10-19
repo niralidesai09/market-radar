@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Market Radar</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📡</text></svg>">
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#0f172a;--mute:#64748b;--line:#e2e8f0;--up:#16a34a;--down:#dc2626;--flat:#6b7280;--warn:#d97706;--accent:#2563eb}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#0b1020;--card:#141b2d;--ink:#e8edf7;--mute:#93a0b8;--line:#243049;--up:#4ade80;--down:#f87171;--flat:#9ca3af;--warn:#fbbf24;--accent:#60a5fa}}
+:root[data-theme=dark]{--bg:#0b1020;--card:#141b2d;--ink:#e8edf7;--mute:#93a0b8;--line:#243049;--up:#4ade80;--down:#f87171;--flat:#9ca3af;--warn:#fbbf24;--accent:#60a5fa}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:1100px;margin:0 auto;padding:12px 16px 48px}
+header{display:flex;align-items:center;justify-content:space-between;padding:8px 0}
+h1{font-size:22px;margin:0;font-weight:800}
+.sub{color:var(--mute);font-size:12px}
+.tabs{display:flex;gap:8px;margin:6px 0 14px}
+.tab,.chip{border:1px solid var(--line);background:var(--card);color:var(--ink);padding:7px 14px;border-radius:999px;font-size:13px;font-weight:600;cursor:pointer}
+.tab[aria-selected=true],.chip[aria-pressed=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.strip{display:flex;gap:10px;overflow-x:auto;padding-bottom:6px;scroll-snap-type:x mandatory}
+.strip .mini{flex:0 0 74%;max-width:300px;scroll-snap-align:start;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 12px}
+.mini .n{font-size:24px;font-weight:800}
+.mini .t{font-size:13px;color:var(--mute);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+h2{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--mute);margin:20px 0 8px}
+.tiles{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+@media(min-width:720px){.tiles{grid-template-columns:repeat(4,1fr)}}
+.tile{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 12px}
+.tile .nm{font-size:12px;color:var(--mute)}.tile .v{font-size:22px;font-weight:800}.tile .c{font-size:12px;font-weight:700}
+.row2{display:grid;gap:12px;grid-template-columns:1fr}
+@media(min-width:720px){.row2{grid-template-columns:1fr 2fr}}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px}
+.gauge{text-align:center}.gauge .lab{font-size:20px;font-weight:800}
+.filters{display:flex;flex-direction:column;gap:8px;margin:6px 0 12px}
+.frow{display:flex;gap:6px;overflow-x:auto;align-items:center}
+.frow b{font-size:11px;color:var(--mute);text-transform:uppercase;flex:0 0 auto;width:62px}
+.chip{padding:5px 11px;font-size:12px;white-space:nowrap}
+.grid{display:grid;gap:12px;grid-template-columns:1fr}
+@media(min-width:640px){.grid{grid-template-columns:repeat(2,1fr)}}
+@media(min-width:980px){.grid{grid-template-columns:repeat(3,1fr)}}
+.card{background:var(--card);border:1px solid var(--line);border-left:6px solid var(--flat);border-radius:12px;padding:12px 14px;display:flex;flex-direction:column;gap:4px}
+.card.Bullish{border-left-color:var(--up)}.card.Bearish{border-left-color:var(--down)}
+.card .num{font-size:38px;line-height:1.05;font-weight:900;letter-spacing:-.02em}
+.Bullish .num{color:var(--up)}.Bearish .num{color:var(--down)}.Neutral .num{color:var(--flat)}
+.card a.hl{color:var(--ink);text-decoration:none;font-weight:700;font-size:16px}
+.card .line{font-size:13px;color:var(--mute);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.tags{display:flex;gap:5px;flex-wrap:wrap}
+.pill{font-size:11px;font-weight:700;padding:2px 8px;border-radius:999px;border:1px solid var(--line);color:var(--mute)}
+.pill.big{background:var(--down);border-color:var(--down);color:#fff}.pill.note{background:var(--warn);border-color:var(--warn);color:#111}
+.pill.unc{border-color:var(--warn);color:var(--warn)}.pill.cov{border-color:var(--accent);color:var(--accent)}
+.foot{font-size:11px;color:var(--mute);margin-top:4px;display:flex;justify-content:space-between;gap:8px}
+.health{font-size:12px;color:var(--warn);padding:8px 12px;border:1px dashed var(--warn);border-radius:10px;margin-top:20px}
+.empty{color:var(--mute);padding:24px;text-align:center}
+ul.arch{list-style:none;padding:0;margin:0;display:grid;gap:8px}
+ul.arch li{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px;display:flex;justify-content:space-between;gap:8px;font-size:14px}
+a{color:var(--accent)}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<div class="wrap">
+ <header><div><h1>📡 Market Radar</h1><div class="sub" id="upd">loading…</div></div></header>
+ <div class="tabs" role="tablist">
+  <button class="tab" role="tab" aria-selected="true" data-tab="radar">Radar</button>
+  <button class="tab" role="tab" aria-selected="false" data-tab="archive">Archive</button>
+ </div>
+
+ <section id="radar">
+  <h2>Today in 30 seconds</h2><div class="strip" id="strip"></div>
+  <h2>Market pulse</h2><div class="tiles" id="tiles"></div>
+  <div class="row2">
+   <div><h2>Sentiment</h2><div class="panel gauge" id="gauge"></div></div>
+   <div><h2>Weekly funding board ($M)</h2><div class="panel"><canvas id="fund" height="150" aria-label="Funding by day"></canvas></div></div>
+  </div>
+  <h2>Stories</h2>
+  <div class="filters" id="filters"></div>
+  <div class="grid" id="grid"></div>
+  <div class="health" id="health" hidden></div>
+ </section>
+
+ <section id="archive" hidden>
+  <h2>Official documents (saved originals)</h2>
+  <ul class="arch" id="arch"></ul>
+ </section>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script>
+const $=s=>document.querySelector(s);
+const el=(t,a={},...k)=>{const e=document.createElement(t);for(const[x,v]of Object.entries(a)){if(x==='class')e.className=v;else if(x==='text')e.textContent=v;else e.setAttribute(x,v)}k.flat().forEach(c=>c!=null&&e.append(c));return e};
+const AR={Bullish:'▲',Bearish:'▼',Neutral:'●'};
+const get=n=>fetch('data/'+n+'?t='+Date.now()).then(r=>r.json()).catch(()=>null);
+const F={category:'All',sector:'All',sentiment:'All',geography:'All'};
+let CARDS=[];
+
+function spark(vals,up){
+  const w=96,h=28;if(!vals||vals.length<2)return el('span');
+  const mn=Math.min(...vals),mx=Math.max(...vals),r=(mx-mn)||1;
+  const pts=vals.map((v,i)=>`${(i/(vals.length-1)*w).toFixed(1)},${(h-2-(v-mn)/r*(h-4)).toFixed(1)}`).join(' ');
+  const s=document.createElementNS('http://www.w3.org/2000/svg','svg');
+  s.setAttribute('viewBox',`0 0 ${w} ${h}`);s.setAttribute('width','100%');s.setAttribute('height',h);s.setAttribute('preserveAspectRatio','none');
+  s.innerHTML=`<polyline fill="none" stroke="${up?'var(--up)':'var(--down)'}" stroke-width="2" points="${pts}"/>`;return s;
+}
+function renderTiles(m){
+  const t=$('#tiles');t.replaceChildren();
+  (m?.tiles||[]).forEach(x=>{const up=x.change_pct>=0;
+    t.append(el('div',{class:'tile'},el('div',{class:'nm',text:x.name}),el('div',{class:'v',text:x.value}),
+      el('div',{class:'c',style:`color:var(${up?'--up':'--down'})`,text:`${up?'▲':'▼'} ${Math.abs(x.change_pct).toFixed(2)}%`}),spark(x.spark,up)))});
+}
+function renderGauge(cs){
+  const b=cs.filter(c=>c.sentiment==='Bullish').length,r=cs.filter(c=>c.sentiment==='Bearish').length;
+  const s=cs.length?(b-r)/cs.length:0;
+  const lab=s>0.15?'Bullish':s<-0.15?'Bearish':'Neutral',col=lab==='Bullish'?'var(--up)':lab==='Bearish'?'var(--down)':'var(--flat)';
+  const ang=-90+(s+1)*90;
+  $('#gauge').innerHTML=`<svg viewBox="0 0 200 115" width="100%" style="max-width:260px" role="img" aria-label="Sentiment ${lab}">
+   <path d="M20 100 A80 80 0 0 1 80 23" fill="none" stroke="var(--down)" stroke-width="16"/>
+   <path d="M80 23 A80 80 0 0 1 120 23" fill="none" stroke="var(--flat)" stroke-width="16"/>
+   <path d="M120 23 A80 80 0 0 1 180 100" fill="none" stroke="var(--up)" stroke-width="16"/>
+   <g transform="rotate(${ang} 100 100)"><line x1="100" y1="100" x2="100" y2="34" stroke="var(--ink)" stroke-width="4" stroke-linecap="round"/></g><circle cx="100" cy="100" r="7" fill="var(--ink)"/></svg>
+   <div class="lab" style="color:${col}">${AR[lab]} ${lab}</div><div class="sub">${b} bullish · ${r} bearish · ${cs.length-b-r} neutral</div>`;
+}
+function renderStrip(cs){
+  const s=$('#strip');s.replaceChildren();
+  [...cs].sort((a,b)=>b.score-a.score).slice(0,4).forEach(c=>s.append(el('div',{class:'mini'},
+    el('div',{class:'n',style:`color:var(--${c.sentiment==='Bullish'?'up':c.sentiment==='Bearish'?'down':'flat'})`,text:`${AR[c.sentiment]} ${c.the_number}`}),el('div',{class:'t',text:c.headline}))));
+}
+function card(c){
+  const tags=el('div',{class:'tags'},el('span',{class:'pill '+(c.impact==='Big Move'?'big':c.impact==='Notable'?'note':''),text:(c.impact==='Big Move'?'🔴 ':'')+c.impact}),
+    el('span',{class:'pill',text:c.category}));
+  if(c.unconfirmed)tags.append(el('span',{class:'pill unc',text:'Unconfirmed'}));
+  if(c.covered_by_count>1)tags.append(el('span',{class:'pill cov',text:`covered by ${c.covered_by_count}`}));
+  const foot=el('div',{class:'foot'},el('span',{text:`${c.source_badge==='Official'?'✔ Official':'Verified media'} · ${c.source}`}),
+    c.archive_url?el('a',{href:c.archive_url,text:'original'}):null);
+  return el('article',{class:'card '+c.sentiment},tags,el('div',{class:'num',text:`${AR[c.sentiment]} ${c.the_number}`}),
+    el('a',{class:'hl',href:c.url,target:'_blank',rel:'noopener',text:c.headline}),
+    el('div',{class:'line',text:'💡 '+c.why_it_matters}),el('div',{class:'line',text:'🚀 '+c.founder_takeaway}),
+    el('div',{class:'tags'},...c.sector_tags.map(x=>el('span',{class:'pill',text:x})),...c.companies.slice(0,2).map(x=>el('span',{class:'pill',text:x}))),foot);
+}
+function renderGrid(){
+  const g=$('#grid');g.replaceChildren();
+  const list=CARDS.filter(c=>(F.category==='All'||c.category===F.category)&&(F.sector==='All'||c.sector_tags.includes(F.sector))
+    &&(F.sentiment==='All'||c.sentiment===F.sentiment)&&(F.geography==='All'||c.geography===F.geography));
+  if(!list.length)g.append(el('div',{class:'empty',text:'No stories match. Try "All".'}));
+  list.forEach(c=>g.append(card(c)));
+}
+function renderFilters(){
+  const f=$('#filters');f.replaceChildren();
+  const opts={category:['Funding','M&A','IPO','Policy','Macro','Big Tech/AI','Layoffs','Earnings'],
+    sector:['fintech','quick commerce','D2C','SaaS','AI','EV','edtech','healthtech'],sentiment:['Bullish','Bearish','Neutral'],geography:['India','Global']};
+  for(const k in opts){const row=el('div',{class:'frow'},el('b',{text:k==='geography'?'region':k}));
+    ['All',...opts[k]].forEach(v=>{const b=el('button',{class:'chip','aria-pressed':String(F[k]===v),text:v==='Bullish'?'▲ Bullish':v==='Bearish'?'▼ Bearish':v==='Neutral'?'● Neutral':v});
+      b.onclick=()=>{F[k]=v;renderFilters();renderGrid()};row.append(b)});f.append(row)}
+}
+function renderFunding(cs){
+  const days=[...Array(7)].map((_,i)=>{const d=new Date();d.setDate(d.getDate()-6+i);return d});
+  const key=d=>d.toLocaleDateString('en-CA',{timeZone:'Asia/Kolkata'});
+  const tot=days.map(d=>cs.filter(c=>c.category==='Funding'&&c.amount_usd_m&&key(new Date(c.first_seen))===key(d)).reduce((a,c)=>a+c.amount_usd_m,0));
+  const css=getComputedStyle(document.documentElement);
+  new Chart($('#fund'),{type:'bar',data:{labels:days.map(d=>d.toLocaleDateString('en-IN',{weekday:'short'})),
+    datasets:[{data:tot,backgroundColor:css.getPropertyValue('--accent').trim(),borderRadius:6}]},
+    options:{plugins:{legend:{display:false}},scales:{y:{beginAtZero:true,ticks:{color:css.getPropertyValue('--mute')}},x:{ticks:{color:css.getPropertyValue('--mute')}}}}});
+}
+(async()=>{
+  const [cards,mk,hl,arc,meta]=await Promise.all(['cards.json','market.json','health.json','archive.json','meta.json'].map(get));
+  CARDS=cards||[];
+  $('#upd').textContent=meta?'Updated '+new Date(meta.updated).toLocaleString('en-IN',{timeZone:'Asia/Kolkata',dateStyle:'medium',timeStyle:'short'})+' IST':'No data yet';
+  const today=CARDS.filter(c=>Date.now()-new Date(c.first_seen)<36*3600e3);
+  renderTiles(mk);renderGauge(today.length?today:CARDS);renderStrip(today.length?today:CARDS);renderFilters();renderGrid();
+  if(window.Chart)renderFunding(CARDS);
+  const bad=Object.entries(hl||{}).filter(([,v])=>v.fails>=3);
+  if(bad.length){const h=$('#health');h.hidden=false;h.textContent='⚠ Sources failing 3+ runs: '+bad.map(([k])=>k).join(', ')}
+  const ul=$('#arch');(arc||[]).length?arc.forEach(a=>ul.append(el('li',{},el('span',{text:a.title+' · '+a.source}),el('span',{},el('a',{href:a.url,text:'saved'}),' · ',el('a',{href:a.original,text:'source'}))))):ul.append(el('div',{class:'empty',text:'No official documents saved yet.'}));
+})();
+document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>{document.querySelectorAll('.tab').forEach(x=>x.setAttribute('aria-selected',x===b));
+  $('#radar').hidden=b.dataset.tab!=='radar';$('#archive').hidden=b.dataset.tab!=='archive'});
+</script>
+</body>
+</html>
