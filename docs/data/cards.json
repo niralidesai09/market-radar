@@ -1,5 +1,35 @@
 [
  {
+  "id": "c02eddce0d1b",
+  "headline": "Jio Platforms Targets Largest Indian IPO Ever",
+  "the_number": "₹30,213 crore",
+  "why_it_matters": "The issue represents India’s largest-ever public market offering.",
+  "founder_takeaway": "Massive customer scale supports unprecedented valuation milestones.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms",
+   "Reliance Jio"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 5,
+  "url": "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-salute-mukesh-ambani-ace-investor-manish-chokhani-on-500-mn-customers-100-bn-valuation-11792409784245.html",
+  "source": "Mint Markets",
+  "score": 10,
+  "date": "2026-10-19T18:21:46+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-19T19:37:40.279053+05:30"
+ },
+ {
   "id": "030edb54f44f",
   "headline": "Jio Platforms Plans Rs 30,213-Crore IPO In October",
   "the_number": "Rs 30,213-crore",
@@ -27,6 +57,35 @@
   "first_seen": "2026-10-19T12:37:51.816830+05:30",
   "raw_impact": "Big Move",
   "unc_number": false
+ },
+ {
+  "id": "de17d52db7a8",
+  "headline": "Zetwerk IPO Achieves Full Subscription on Final Day",
+  "the_number": "$518 million",
+  "why_it_matters": "B2B manufacturing unicorn clears its primary listing hurdle.",
+  "founder_takeaway": "Late demand surges can secure full IPO subscription.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Zetwerk"
+  ],
+  "geography": "India",
+  "amount_usd_m": 518,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbGk0RG40TlBZVlFnWDYzdUVvRHZicC1PcW9KVUFqcGpvcjVWVG5IcU1lbFRSRkdNWXJZQkQzYnB1V3NRMnM4Qmh4VUp6U0lzbjZrc3EyTUJLdGRGdGlFNGtnMkg5ZzlRb1JJV3hrOEM1dDVNTXhYY0Rwek1jNGloOUwyeG9MUmpVRjRIbnM0Q3lkSlY3aVNMMEdwbmZUQjIzdEROdE1KX3FNYUxIR21PdHRmSQ?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 9,
+  "date": "2026-10-19T09:06:27+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-19T19:37:40.279053+05:30"
  },
  {
   "id": "69f0cc0de863",
@@ -234,6 +293,162 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-19T13:39:57.578007+05:30"
+ },
+ {
+  "id": "a272ff04a03a",
+  "headline": "Flipkart-Backed Super.money Triples Operating Revenue in FY26",
+  "the_number": "-",
+  "why_it_matters": "Rapid revenue expansion signals strong product traction in fintech.",
+  "founder_takeaway": "Parent-company distribution can supercharge early-stage revenue growth.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Super.money",
+   "Flipkart",
+   "Zetwerk"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/super-money-triples-revenues-zetwerk-ipo-fully-subscribed/articleshow/135049722.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-10-19T19:02:54+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-19T19:37:40.279053+05:30"
+ },
+ {
+  "id": "7d9ede3934db",
+  "headline": "Auto Tech Sector Secures $1.3 Billion in 2026",
+  "the_number": "$1.3 billion",
+  "why_it_matters": "Massive capital inflows flow into mobility and EV manufacturers.",
+  "founder_takeaway": "Investors favor capital-intensive hardware and mobility ecosystems.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "EV"
+  ],
+  "companies": [
+   "Rapido",
+   "Simple Energy",
+   "River",
+   "Tracxn"
+  ],
+  "geography": "India",
+  "amount_usd_m": 1300,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/tech/startups/auto-tech-companies-raise-1-3-billion-in-2026-so-far-tracxn/articleshow/135048738.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-10-19T17:54:09+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-19T19:37:40.279053+05:30"
+ },
+ {
+  "id": "37c5dda3e54d",
+  "headline": "Aegis Logistics Eyes $600 Million for Tristar Acquisition",
+  "the_number": "$600 million",
+  "why_it_matters": "Aegis seeks major international bank financing for overseas acquisition.",
+  "founder_takeaway": "Leverage banking syndicates to fund large cross-border acquisitions.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Aegis Logistics",
+   "Tristar Holdings",
+   "BNP Paribas",
+   "HSBC",
+   "JPMorgan Chase"
+  ],
+  "geography": "India",
+  "amount_usd_m": 600,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/aegis-logistics-in-talks-with-bnp-paribas-hsbc-jpmorgan-to-raise-600-million-for-tristar-deal-11792412782726.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-19T18:03:26+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-19T19:37:40.279053+05:30"
+ },
+ {
+  "id": "16bfc9acdb15",
+  "headline": "Fairfax Agrees to Acquire 60.72% IDBI Bank Stake",
+  "the_number": "₹53,000 cr",
+  "why_it_matters": "Long-awaited privatisation could revive two decades of sluggish returns.",
+  "founder_takeaway": "Strategic buyouts require fundamental earnings turnarounds to succeed.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "IDBI Bank",
+   "Fairfax Financial"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/idbi-bank-shares-delivered-almost-no-returns-in-20-years-can-fairfax-deal-finally-turn-stock-around-experts-weigh-in-11792400766427.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-10-19T15:42:54+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-19T19:37:40.279053+05:30"
+ },
+ {
+  "id": "a13b5c383b2d",
+  "headline": "Even Healthcare Secures $50 Million Series B",
+  "the_number": "$50 mn",
+  "why_it_matters": "Managed care model expands physical hospital footprint across Bengaluru.",
+  "founder_takeaway": "Hybrid digital-physical models attract major venture capital interest.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "healthtech"
+  ],
+  "companies": [
+   "Even Healthcare",
+   "Khosla Ventures"
+  ],
+  "geography": "India",
+  "amount_usd_m": 50,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 4,
+  "url": "https://www.business-standard.com/companies/news/even-healthcare-raises-50-mn-in-khosla-ventures-led-series-b-funding-126101900916_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-10-19T18:04:14+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-19T19:37:40.279053+05:30"
  },
  {
   "id": "1235b5baabc0",
@@ -758,5 +973,238 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-19T13:39:57.578007+05:30"
+ },
+ {
+  "id": "61eeaa95e1ee",
+  "headline": "SEBI Issues AIF Third Amendment Regulations 2026",
+  "the_number": "-",
+  "why_it_matters": "Regulatory amendments adjust compliance rules governing Alternative Investment Funds in India.",
+  "founder_takeaway": "Fund managers must stay aligned with evolving SEBI compliance updates.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Securities and Exchange Board of India",
+   "SEBI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Official",
+  "covered_by_count": 2,
+  "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-third-amendment-regulations-2026_105330.html",
+  "source": "SEBI",
+  "score": 7,
+  "date": null,
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": "archive/2026/10/61eeaa95e1ee.html",
+  "unconfirmed": false,
+  "first_seen": "2026-10-19T19:37:40.279053+05:30"
+ },
+ {
+  "id": "cca2471b4696",
+  "headline": "Govt Directs Meta to Address Content Recommendation Systems",
+  "the_number": "-",
+  "why_it_matters": "Government oversight challenges social media algorithms to provide balanced content context.",
+  "founder_takeaway": "Algorithmic recommendation platforms must build robust contextual transparency features.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Meta",
+   "Ministry of Electronics and Information Technology",
+   "MeitY"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/technology/govt-asks-meta-to-ensure-its-recommendation-systems-do-not-expose-users-to-a-limited-set-of-narratives/articleshow/135031354.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-10-18T21:26:50+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-19T19:37:40.279053+05:30"
+ },
+ {
+  "id": "1b11743c1db1",
+  "headline": "DP World Earmarks $2B for India Logistics Expansion",
+  "the_number": "$2 billion",
+  "why_it_matters": "Major supply chain infrastructure investment depends on Indian capacity constraints.",
+  "founder_takeaway": "Tie capital-intensive infrastructure rollouts directly to measured market demand.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "DP World"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/dp-world-to-deploy-remaining-2-billion-in-india-company-to-expand-ports-rail-and-logistics-capacity-11792401139077.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-19T17:39:50+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-19T19:37:40.279053+05:30"
+ },
+ {
+  "id": "3e591bf74095",
+  "headline": "Accenture Considers $1.5B Greater China Unit Sale",
+  "the_number": "$1.5 billion",
+  "why_it_matters": "Global IT consulting reallocates capital away from regions toward AI services.",
+  "founder_takeaway": "Divest non-core operations to fund critical strategic shifts into AI.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "Accenture",
+   "JPMorgan"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 1500,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/companies/news/accenture-weighs-1-5-billion-sale-of-greater-china-operations-amid-ai-shift-hires-jpmorgan-for-review-report-11792375064725.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-19T08:00:11+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-19T19:37:40.279053+05:30"
+ },
+ {
+  "id": "9fb2d0b369ca",
+  "headline": "Indian Stock Market Plunges Erasing ₹3.6 Lakh Crore",
+  "the_number": "₹3.6 lakh crore",
+  "why_it_matters": "Earnings disappointments and weak cues spark sharp sell-offs in Indian equities.",
+  "founder_takeaway": "Public market volatility can quickly dampen broad macroeconomic investor sentiment.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/manic-monday-at-indian-stock-market-sensex-nifty-bleed-rs-3-6-lakh-cr-gone-in-6-hours-what-went-wrong-big-reasons-11792405459477.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-19T17:05:01+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-19T19:37:40.279053+05:30"
+ },
+ {
+  "id": "31fba8394874",
+  "headline": "Sensex and Nifty Crash Erasing ₹4 Lakh Crore",
+  "the_number": "₹4 lakh crore",
+  "why_it_matters": "Broad benchmark declines highlight heightened risk aversion across midcaps and smallcaps.",
+  "founder_takeaway": "Prepare for market headwinds when macroeconomic risk aversion drags indices.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/sensex-nifty-crash-why-is-stock-market-down-today-massive-wealth-eroded-investors-lose-4-lakh-crore-top-3-reasons-11792397032355.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-19T13:49:09+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-19T19:37:40.279053+05:30"
+ },
+ {
+  "id": "e08843fbcfa8",
+  "headline": "Jio Platforms Shows Reasonable Valuation and Tariff Headroom",
+  "the_number": "-",
+  "why_it_matters": "Tariff headroom indicates pricing power and sustained revenue growth potential.",
+  "founder_takeaway": "Retaining pricing headroom bolsters long-term company valuation and margins.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/mark-to-market/jio-platforms-ipo-ai-patents-pricing-revenue-airtel-11792388156507.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-19T12:07:24+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-19T19:37:40.279053+05:30"
+ },
+ {
+  "id": "8474f7305e22",
+  "headline": "Urban Company Shares Drop Over 8% Post Q2 Results",
+  "the_number": "8.5%",
+  "why_it_matters": "Stock plunged to an intraday low following Q2 results.",
+  "founder_takeaway": "Public markets react sharply to quarterly performance announcements.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Urban Company"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/urban-company-shares-crash-over-8-after-q2-results-should-investors-buy-sell-or-hold-the-stock-experts-explain-11792383144839.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-19T09:59:39+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-19T19:37:40.279053+05:30"
  }
 ]
