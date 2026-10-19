@@ -15,43 +15,18 @@
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Notable",
+  "impact": "Big Move",
   "source_badge": "Verified media",
-  "covered_by_count": 1,
+  "covered_by_count": 2,
   "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-gmp-signals-22-potential-listing-gain-issue-opens-on-october-21/articleshow/135041581.cms",
   "source": "Economic Times Markets",
   "score": 9,
   "date": "2026-10-19T11:45:54+05:30",
-  "unconfirmed": true,
+  "unconfirmed": false,
   "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
- },
- {
-  "id": "b9c334bb2a7c",
-  "headline": "Jio Platforms GMP Indicates 22% Listing Gain",
-  "the_number": "22.25%",
-  "why_it_matters": "Grey market optimism suggests robust institutional and retail investor interest.",
-  "founder_takeaway": "Positive listing premiums set attractive benchmarks for sector valuations.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Jio Platforms"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/ipo/jio-platforms-ipo-gmp-today-reliance-backed-rs-30-213-cr-issue-listing-gains-expectations-for-oct-28-nse-bse-debut-11792340409791.html",
-  "source": "Mint Markets",
-  "score": 9,
-  "date": "2026-10-19T07:00:33+05:30",
-  "unconfirmed": true,
-  "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+  "first_seen": "2026-10-19T12:37:51.816830+05:30",
+  "raw_impact": "Big Move",
+  "unc_number": false
  },
  {
   "id": "69f0cc0de863",
@@ -79,7 +54,9 @@
   "date": "2026-10-19T09:03:42+05:30",
   "unconfirmed": false,
   "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+  "first_seen": "2026-10-19T12:37:51.816830+05:30",
+  "raw_impact": "Notable",
+  "unc_number": false
  },
  {
   "id": "0decf13bcce4",
@@ -106,7 +83,9 @@
   "date": "2026-10-18T16:55:28+05:30",
   "unconfirmed": false,
   "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+  "first_seen": "2026-10-19T12:37:51.816830+05:30",
+  "raw_impact": "Notable",
+  "unc_number": false
  },
  {
   "id": "f9c73f54a80d",
@@ -133,7 +112,9 @@
   "date": "2026-10-19T02:30:03+00:00",
   "unconfirmed": false,
   "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+  "first_seen": "2026-10-19T12:37:51.816830+05:30",
+  "raw_impact": "Notable",
+  "unc_number": false
  },
  {
   "id": "2f6c16309da4",
@@ -161,7 +142,9 @@
   "date": "2026-10-18T16:30:00+00:00",
   "unconfirmed": false,
   "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+  "first_seen": "2026-10-19T12:37:51.816830+05:30",
+  "raw_impact": "Notable",
+  "unc_number": false
  },
  {
   "id": "1235b5baabc0",
@@ -181,14 +164,16 @@
   "amount_usd_m": null,
   "impact": "Watch",
   "source_badge": "Official",
-  "covered_by_count": 1,
+  "covered_by_count": 2,
   "url": "https://www.sebi.gov.in/legal/circulars/oct-2026/review-of-certain-aspects-of-the-closing-auction-session-market-timings-and-settlement-methodology-for-derivatives-contracts_105293.html",
   "source": "SEBI",
   "score": 7,
   "date": null,
   "unconfirmed": false,
   "archive_url": "archive/2026/10/1235b5baabc0.html",
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+  "first_seen": "2026-10-19T12:37:51.816830+05:30",
+  "raw_impact": "Watch",
+  "unc_number": false
  },
  {
   "id": "d374c7de1aa7",
@@ -209,14 +194,16 @@
   "amount_usd_m": null,
   "impact": "Watch",
   "source_badge": "Verified media",
-  "covered_by_count": 1,
+  "covered_by_count": 2,
   "url": "https://economictimes.indiatimes.com/markets/stocks/news/urban-company-shares-slide-7-as-q2-net-loss-triples-yoy-on-instahelp-burn-should-you-buy-sell-or-hold/articleshow/135039550.cms",
   "source": "Economic Times Markets",
   "score": 7,
   "date": "2026-10-19T09:53:11+05:30",
   "unconfirmed": false,
   "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+  "first_seen": "2026-10-19T12:37:51.816830+05:30",
+  "raw_impact": "Watch",
+  "unc_number": false
  },
  {
   "id": "18a14a23966c",
@@ -243,7 +230,9 @@
   "date": "2026-10-19T11:04:28+05:30",
   "unconfirmed": false,
   "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+  "first_seen": "2026-10-19T12:37:51.816830+05:30",
+  "raw_impact": "Watch",
+  "unc_number": false
  },
  {
   "id": "145b0385f41d",
@@ -272,7 +261,9 @@
   "date": "2026-10-19T10:36:39+05:30",
   "unconfirmed": false,
   "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+  "first_seen": "2026-10-19T12:37:51.816830+05:30",
+  "raw_impact": "Watch",
+  "unc_number": false
  },
  {
   "id": "0be90a3be983",
@@ -299,7 +290,9 @@
   "date": "2026-10-19T07:03:01+05:30",
   "unconfirmed": false,
   "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+  "first_seen": "2026-10-19T12:37:51.816830+05:30",
+  "raw_impact": "Watch",
+  "unc_number": false
  },
  {
   "id": "c97a1d62e431",
@@ -328,7 +321,9 @@
   "date": "2026-10-19T06:00:47+05:30",
   "unconfirmed": false,
   "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+  "first_seen": "2026-10-19T12:37:51.816830+05:30",
+  "raw_impact": "Watch",
+  "unc_number": false
  },
  {
   "id": "ef0a882b92ef",
@@ -355,7 +350,9 @@
   "date": "2026-10-18T19:01:08+05:30",
   "unconfirmed": false,
   "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+  "first_seen": "2026-10-19T12:37:51.816830+05:30",
+  "raw_impact": "Watch",
+  "unc_number": false
  },
  {
   "id": "46ff9a101a08",
@@ -382,7 +379,9 @@
   "date": "2026-10-19T11:30:37+05:30",
   "unconfirmed": false,
   "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+  "first_seen": "2026-10-19T12:37:51.816830+05:30",
+  "raw_impact": "Watch",
+  "unc_number": false
  },
  {
   "id": "57c80a859ac4",
@@ -411,61 +410,9 @@
   "date": "2026-10-18T15:56:58+05:30",
   "unconfirmed": false,
   "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
- },
- {
-  "id": "2797d8d6e4ae",
-  "headline": "Urban Company Shares Slump 10% on Widened Q2 Loss",
-  "the_number": "₹182.48 crore",
-  "why_it_matters": "Quarterly net loss widened significantly despite recorded revenue expansion.",
-  "founder_takeaway": "Top-line growth without disciplined cost controls can trigger severe re-ratings.",
-  "sentiment": "Bearish",
-  "category": "Earnings",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Urban Company"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/markets/news/urban-company-shares-fall-10-as-q2-net-loss-widens-despite-revenue-growth-126101900225_1.html",
-  "source": "Business Standard Markets",
-  "score": 7,
-  "date": "2026-10-19T10:36:23+05:30",
-  "unconfirmed": false,
-  "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
- },
- {
-  "id": "d9ec412e967c",
-  "headline": "Sebi's CAS Rollback Offers Lifeline to Derivatives Market",
-  "the_number": "-",
-  "why_it_matters": "Provides relief to market participants grappling with strict speculative trading curbs.",
-  "founder_takeaway": "Stay agile around regulatory changes that directly impact trading volumes.",
-  "sentiment": "Bullish",
-  "category": "Policy",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Sebi"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/markets/news/sebi-s-cas-rollback-may-offer-new-lifeline-to-indian-derivatives-market-126101900078_1.html",
-  "source": "Business Standard Markets",
-  "score": 7,
-  "date": "2026-10-19T08:39:38+05:30",
-  "unconfirmed": false,
-  "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+  "first_seen": "2026-10-19T12:37:51.816830+05:30",
+  "raw_impact": "Watch",
+  "unc_number": false
  },
  {
   "id": "566cd87b2417",
@@ -492,7 +439,9 @@
   "date": "2026-10-19T05:44:23+00:00",
   "unconfirmed": false,
   "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+  "first_seen": "2026-10-19T12:37:51.816830+05:30",
+  "raw_impact": "Watch",
+  "unc_number": false
  },
  {
   "id": "f43842b4dacb",
@@ -512,14 +461,16 @@
   "amount_usd_m": 11.5,
   "impact": "Watch",
   "source_badge": "Verified media",
-  "covered_by_count": 1,
+  "covered_by_count": 3,
   "url": "https://inc42.com/buzz/the-pant-project-raises-%e2%82%b9109-cr-to-expand-store-network-portfolio/",
   "source": "Inc42",
   "score": 7,
   "date": "2026-10-19T00:30:13+00:00",
   "unconfirmed": false,
   "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+  "first_seen": "2026-10-19T12:37:51.816830+05:30",
+  "raw_impact": "Watch",
+  "unc_number": false
  },
  {
   "id": "9e6add1f6831",
@@ -548,34 +499,9 @@
   "date": "2026-10-19T11:40:55+05:30",
   "unconfirmed": false,
   "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
- },
- {
-  "id": "9d935b08be14",
-  "headline": "The Pant Project Bags Rs 109 Cr for Retail Expansion",
-  "the_number": "Rs 109 crore",
-  "why_it_matters": "Funds target larger market share in premium menswear through offline stores.",
-  "founder_takeaway": "Focus on high-margin product categories to justify offline retail footprint.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "D2C"
-  ],
-  "companies": [
-   "The Pant Project"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://yourstory.com/2026/10/the-pant-project-bags-rs-109-cr-to-accelerate-retail-expansion",
-  "source": "YourStory",
-  "score": 7,
-  "date": "2026-10-19T05:55:20+00:00",
-  "unconfirmed": false,
-  "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+  "first_seen": "2026-10-19T12:37:51.816830+05:30",
+  "raw_impact": "Watch",
+  "unc_number": false
  },
  {
   "id": "8768eef8cad2",
@@ -602,7 +528,9 @@
   "date": "2026-10-18T20:37:40+00:00",
   "unconfirmed": false,
   "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+  "first_seen": "2026-10-19T12:37:51.816830+05:30",
+  "raw_impact": "Watch",
+  "unc_number": false
  },
  {
   "id": "677033729d50",
@@ -627,40 +555,9 @@
   "date": "2026-10-18T22:23:00+00:00",
   "unconfirmed": false,
   "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
- },
- {
-  "id": "068d267f704d",
-  "headline": "The Pant Project Secures Rs 109 Cr Series B",
-  "the_number": "Rs 109 Cr",
-  "why_it_matters": "Funds will accelerate offline retail expansion and strengthen omnichannel presence.",
-  "founder_takeaway": "Omnichannel growth and category expansion attract Series B funding.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "D2C"
-  ],
-  "companies": [
-   "The Pant Project",
-   "Mirae Asset Venture Investments",
-   "Sorin Investments",
-   "Hyperscale Ventures",
-   "B&K Securities",
-   "MGA Ventures",
-   "B2V Ventures"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://entrackr.com/news/the-pant-project-raises-rs-109-cr-in-series-b-led-by-mirae-asset-12688468",
-  "source": "Entrackr",
-  "score": 7,
-  "date": "2026-10-19T10:05:57+05:30",
-  "unconfirmed": false,
-  "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+  "first_seen": "2026-10-19T12:37:51.816830+05:30",
+  "raw_impact": "Watch",
+  "unc_number": false
  },
  {
   "id": "a671780f1ac7",
@@ -685,6 +582,8 @@
   "date": "2026-10-18T11:27:03+00:00",
   "unconfirmed": false,
   "archive_url": null,
-  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+  "first_seen": "2026-10-19T12:37:51.816830+05:30",
+  "raw_impact": "Watch",
+  "unc_number": false
  }
 ]

@@ -64,13 +64,37 @@ def finish(c, s):
     official = s["tier"] == "official"
     sc = s["score"]
     impact = "Big Move" if sc >= 8.5 else "Notable" if sc >= 7.5 else "Watch"
-    if impact == "Big Move" and not (official or s["covered_by"] >= 2):
-        impact = "Notable"; unconfirmed = True           # Big Move needs official source OR 2+ outlets
     c.update({"impact": impact, "source_badge": "Official" if official else "Verified media",
               "covered_by_count": s["covered_by"], "url": s["url"], "source": s["source"],
-              "score": sc, "date": s["date"], "unconfirmed": unconfirmed,
+              "score": sc, "date": s["date"], "unc_number": unconfirmed, "raw_impact": impact,
               "id": hashlib.md5(s["url"].split("?")[0].encode()).hexdigest()[:12], "archive_url": None})
+    return verify(c)
+
+def verify(c):
+    """Big Move needs an Official source OR 2+ outlets; otherwise downgrade + 'Unconfirmed'."""
+    c["impact"], c["unconfirmed"] = c["raw_impact"], c["unc_number"]
+    if c["impact"] == "Big Move" and not (c["source_badge"] == "Official" or c["covered_by_count"] >= 2):
+        c["impact"], c["unconfirmed"] = "Notable", True
     return c
+
+def _tok(c):
+    return set(re.sub(r"[^a-z0-9 ]", "", c["headline"].lower()).split()) - STOP
+
+STOP = set("the a an of in on to for and as at by with from is are its it new after says amid over this that will may rs cr crore".split())
+
+def merge_cards(cards):
+    """Same story reported twice by different feeds -> ONE card with a 'covered by N' badge."""
+    out = []
+    for c in sorted(cards, key=lambda x: -x["score"]):
+        m = next((o for o in out if o["category"] == c["category"] and (
+            {x.lower() for x in o["companies"]} & {x.lower() for x in c["companies"]} or
+            len(_tok(o) & _tok(c)) / max(1, len(_tok(o) | _tok(c))) >= 0.4)), None)
+        if m:
+            m["covered_by_count"] += c["covered_by_count"]
+            if c["source_badge"] == "Official": m["source_badge"] = "Official"; m["url"] = c["url"]; m["source"] = c["source"]
+            verify(m)
+        else: out.append(c)
+    return out
 
 def archive_official(card, now):
     """Official items only: save the original document, link it from the card."""

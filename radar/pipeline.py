@@ -46,6 +46,7 @@ def run(dry=False):
         raise SystemExit("ERROR: every scoring call failed (check GEMINI_API_KEY secret). Failing the run so GitHub emails you.")
     print(f"{len(keep)} score >= 7")
     new = cardmod.make_cards(keep)
+    new = cardmod.merge_cards(new)
     new = [c for c in new if all(SequenceMatcher(None, core.norm_title(c["headline"]), t).ratio() < 0.85 for t in known_titles)]
     for c in new:
         c["first_seen"] = now.isoformat()
