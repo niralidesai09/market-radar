@@ -1,1 +1,690 @@
-[]
+[
+ {
+  "id": "030edb54f44f",
+  "headline": "Jio Platforms Plans Rs 30,213-Crore IPO In October",
+  "the_number": "Rs 30,213-crore",
+  "why_it_matters": "Signals strong public market appetite with anticipated double-digit listing gains.",
+  "founder_takeaway": "Mega public listings can stimulate broader market retail participation.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-gmp-signals-22-potential-listing-gain-issue-opens-on-october-21/articleshow/135041581.cms",
+  "source": "Economic Times Markets",
+  "score": 9,
+  "date": "2026-10-19T11:45:54+05:30",
+  "unconfirmed": true,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "b9c334bb2a7c",
+  "headline": "Jio Platforms GMP Indicates 22% Listing Gain",
+  "the_number": "22.25%",
+  "why_it_matters": "Grey market optimism suggests robust institutional and retail investor interest.",
+  "founder_takeaway": "Positive listing premiums set attractive benchmarks for sector valuations.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/ipo/jio-platforms-ipo-gmp-today-reliance-backed-rs-30-213-cr-issue-listing-gains-expectations-for-oct-28-nse-bse-debut-11792340409791.html",
+  "source": "Mint Markets",
+  "score": 9,
+  "date": "2026-10-19T07:00:33+05:30",
+  "unconfirmed": true,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "69f0cc0de863",
+  "headline": "RBI Infuses $10.5 Billion Liquidity Through Repo Operation",
+  "the_number": "$10.53 billion",
+  "why_it_matters": "Eases banking liquidity constraints driven by tax outflows and reserve requirements.",
+  "founder_takeaway": "Central bank liquidity interventions help stabilize short-term borrowing costs.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "fintech",
+   "other"
+  ],
+  "companies": [
+   "RBI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/forex/rbi-announces-10-5-billion-liquidity-infusion-via-repo/articleshow/135038836.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-10-19T09:03:42+05:30",
+  "unconfirmed": false,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "0decf13bcce4",
+  "headline": "SC Overturns Yes Bank AT-1 Bond Write-Off",
+  "the_number": "₹5,217 crore",
+  "why_it_matters": "Reversing write-offs introduces substantial unexpected quarterly loss risks.",
+  "founder_takeaway": "Legacy regulatory and legal liabilities can suddenly jeopardize financial health.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Yes Bank"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/sumitomobacked-yes-bank-faces-up-to-5-200-crore-earnings-hit-as-sc-upholds-squashing-of-its-at-1-bonds-writeoff-11792316431134.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-18T16:55:28+05:30",
+  "unconfirmed": false,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "f9c73f54a80d",
+  "headline": "Urban Company Eyes ₹2,500 Crore Fresh Fundraise",
+  "the_number": "₹2,500 Cr",
+  "why_it_matters": "Shows quick post-IPO capital needs to fund continued corporate operations.",
+  "founder_takeaway": "Public listings do not eliminate the necessity for secondary fundraises.",
+  "sentiment": "Neutral",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Urban Company"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/uc-eyes-more-capital-burma-burmas-ipo-more/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-10-19T02:30:03+00:00",
+  "unconfirmed": false,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "2f6c16309da4",
+  "headline": "Disney Agrees To Absorb Majority Character.AI Staff",
+  "the_number": "-",
+  "why_it_matters": "Highlights talent-focused acquisitions in AI amidst competitive market consolidation.",
+  "founder_takeaway": "Stalking horse bids allow teams to find strategic acquirers.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Disney",
+   "Character.AI"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+  "source": "TechCrunch",
+  "score": 8,
+  "date": "2026-10-18T16:30:00+00:00",
+  "unconfirmed": false,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "1235b5baabc0",
+  "headline": "SEBI Reviews Derivatives Market Timings And Settlement",
+  "the_number": "-",
+  "why_it_matters": "Regulatory shifts could impact closing auctions, trading volume, and liquidity.",
+  "founder_takeaway": "Market infrastructure changes directly alter derivatives risk and pricing strategies.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "SEBI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Official",
+  "covered_by_count": 1,
+  "url": "https://www.sebi.gov.in/legal/circulars/oct-2026/review-of-certain-aspects-of-the-closing-auction-session-market-timings-and-settlement-methodology-for-derivatives-contracts_105293.html",
+  "source": "SEBI",
+  "score": 7,
+  "date": null,
+  "unconfirmed": false,
+  "archive_url": "archive/2026/10/1235b5baabc0.html",
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "d374c7de1aa7",
+  "headline": "Urban Company Net Loss Triples To Rs 182 Crore",
+  "the_number": "Rs 182 crore",
+  "why_it_matters": "Heavy burn in new bets can severely erode market valuation.",
+  "founder_takeaway": "Investing heavily into new initiatives pressures overall public profitability.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Urban Company",
+   "Motilal Oswal"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/urban-company-shares-slide-7-as-q2-net-loss-triples-yoy-on-instahelp-burn-should-you-buy-sell-or-hold/articleshow/135039550.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-19T09:53:11+05:30",
+  "unconfirmed": false,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "18a14a23966c",
+  "headline": "Tata Sons Leadership Row Over Article 118 Disclosed",
+  "the_number": "-",
+  "why_it_matters": "Governance disputes at parent conglomerates create top-level corporate uncertainty.",
+  "founder_takeaway": "Strict adherence to corporate charter rules prevents governance succession conflicts.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Sons"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/tata-sons-row-what-is-article-118-and-why-does-it-matter-for-n-chandrasekarans-third-term-explained-11792387504686.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-19T11:04:28+05:30",
+  "unconfirmed": false,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "145b0385f41d",
+  "headline": "Indian IT Giants See H-1B Registrations Drop",
+  "the_number": "-",
+  "why_it_matters": "Higher visa costs force Indian tech exporters to alter staffing.",
+  "founder_takeaway": "Cross-border regulatory shifts necessitate diversification away from visa dependencies.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Infosys",
+   "Cognizant",
+   "TCS"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/indian-it-giants-h-1b-visa-registrations-fall-amid-trumps-crackdown-infosys-cognizant-tcs-report-fewer-entries-11792385645179.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-19T10:36:39+05:30",
+  "unconfirmed": false,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "0be90a3be983",
+  "headline": "Anthropic Sets Up 5% Public Benefit Fund Pre-IPO",
+  "the_number": "5%",
+  "why_it_matters": "Signals innovative governance models balancing public benefit with incoming IPOs.",
+  "founder_takeaway": "Aligning societal mission with equity structures attracts unique public attention.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/ahead-of-ipo-ai-firm-anthropic-announces-a-new-public-benefit-fund-to-commit-5-of-its-stocks-what-we-know-11792372858462.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-19T07:03:01+05:30",
+  "unconfirmed": false,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "c97a1d62e431",
+  "headline": "Focus Prism Secures ₹145 Crore And Buys FoodExo",
+  "the_number": "₹145 crore",
+  "why_it_matters": "Funding targeted consolidation to fast-track regional catering expansion.",
+  "founder_takeaway": "Acquisitions funded by fresh capital accelerate top-line revenue milestones.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Focus Prism",
+   "OAKS",
+   "FoodExo"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/focus-prism-food-services-oaks-asset-management-145-crore-fundraise-foodexo-catering-acquisition-11792309818833.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-19T06:00:47+05:30",
+  "unconfirmed": false,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "ef0a882b92ef",
+  "headline": "Vedanta Doubles South Africa Zinc Capacity With $600M Expansion",
+  "the_number": "$600 million",
+  "why_it_matters": "Doubles regional zinc output toward a 3-million-tonne global production target.",
+  "founder_takeaway": "Scale capital investments strategically to meet large-scale global capacity goals.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Vedanta"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/vedanta-doubles-south-africa-zinc-production-capacity-to-500-000-tonnes-with-600-million-investment-11792329756823.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-18T19:01:08+05:30",
+  "unconfirmed": false,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "46ff9a101a08",
+  "headline": "PhonePe Rebrands Share.Market to PhonePe Invest for Everyday Savers",
+  "the_number": "-",
+  "why_it_matters": "Aims to convert traditional savers into active equity and mutual-fund investors.",
+  "founder_takeaway": "Consolidate brand equity to cross-sell financial products across existing ecosystems.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "PhonePe"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/phonepe-invest-aims-to-bring-everyday-savers-into-equities-rahul-chari-126101900227_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-10-19T11:30:37+05:30",
+  "unconfirmed": false,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "57c80a859ac4",
+  "headline": "Moody's Revises Oyo Parent Prism's Outlook to Positive",
+  "the_number": "B2",
+  "why_it_matters": "Signals anticipated strengthening of earnings and free cash flow before IPO.",
+  "founder_takeaway": "Strong cash flows and sustained deleveraging drive improved corporate creditworthiness.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Oyo",
+   "Prism",
+   "Moody's"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/moody-s-revises-ipo-bound-oyo-parent-prism-s-outlook-to-positive-126101800364_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-10-18T15:56:58+05:30",
+  "unconfirmed": false,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "2797d8d6e4ae",
+  "headline": "Urban Company Shares Slump 10% on Widened Q2 Loss",
+  "the_number": "₹182.48 crore",
+  "why_it_matters": "Quarterly net loss widened significantly despite recorded revenue expansion.",
+  "founder_takeaway": "Top-line growth without disciplined cost controls can trigger severe re-ratings.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Urban Company"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/urban-company-shares-fall-10-as-q2-net-loss-widens-despite-revenue-growth-126101900225_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-10-19T10:36:23+05:30",
+  "unconfirmed": false,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "d9ec412e967c",
+  "headline": "Sebi's CAS Rollback Offers Lifeline to Derivatives Market",
+  "the_number": "-",
+  "why_it_matters": "Provides relief to market participants grappling with strict speculative trading curbs.",
+  "founder_takeaway": "Stay agile around regulatory changes that directly impact trading volumes.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Sebi"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/sebi-s-cas-rollback-may-offer-new-lifeline-to-indian-derivatives-market-126101900078_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-10-19T08:39:38+05:30",
+  "unconfirmed": false,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "566cd87b2417",
+  "headline": "Zerodha Launches Beta US Stock Investing on Kite Platform",
+  "the_number": "2,000",
+  "why_it_matters": "Allows domestic retail investors direct access to thousands of US equities.",
+  "founder_takeaway": "Expand your core platform with global asset access for user-retention.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Zerodha"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/zerodha-launches-us-stock-investing-offers-access-to-2000-stocks/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-10-19T05:44:23+00:00",
+  "unconfirmed": false,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "f43842b4dacb",
+  "headline": "The Pant Project Secures ₹109 Crore in Series B",
+  "the_number": "₹109 Cr",
+  "why_it_matters": "Provides fresh growth capital to accelerate physical retail and portfolio growth.",
+  "founder_takeaway": "Omnichannel expansion remains critical for scaling specialized direct-to-consumer apparel brands.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "D2C"
+  ],
+  "companies": [
+   "The Pant Project"
+  ],
+  "geography": "India",
+  "amount_usd_m": 11.5,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/the-pant-project-raises-%e2%82%b9109-cr-to-expand-store-network-portfolio/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-10-19T00:30:13+00:00",
+  "unconfirmed": false,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "9e6add1f6831",
+  "headline": "MakeMyTrip in Talks to Acquire Quick Ride via redBus",
+  "the_number": "-",
+  "why_it_matters": "Strategic consolidation expands redBus deeper into car and bike pooling services.",
+  "founder_takeaway": "Use synergistic subsidiaries to evaluate strategic tuck-in mobility acquisitions.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "MakeMyTrip",
+   "Quick Ride",
+   "redBus"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://entrackr.com/exclusive/exclusive-makemytrip-in-talks-to-acquire-quick-ride-through-redbus-12688763",
+  "source": "Entrackr",
+  "score": 7,
+  "date": "2026-10-19T11:40:55+05:30",
+  "unconfirmed": false,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "9d935b08be14",
+  "headline": "The Pant Project Bags Rs 109 Cr for Retail Expansion",
+  "the_number": "Rs 109 crore",
+  "why_it_matters": "Funds target larger market share in premium menswear through offline stores.",
+  "founder_takeaway": "Focus on high-margin product categories to justify offline retail footprint.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "D2C"
+  ],
+  "companies": [
+   "The Pant Project"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://yourstory.com/2026/10/the-pant-project-bags-rs-109-cr-to-accelerate-retail-expansion",
+  "source": "YourStory",
+  "score": 7,
+  "date": "2026-10-19T05:55:20+00:00",
+  "unconfirmed": false,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "8768eef8cad2",
+  "headline": "Anthropic Pledges 5% of Shares to Public Benefit Fund",
+  "the_number": "5%",
+  "why_it_matters": "Aligns company equity upside with broader public safety and social benefits.",
+  "founder_takeaway": "Corporate governance structures can institutionalize long-term societal mission commitments.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+  "source": "TechCrunch",
+  "score": 7,
+  "date": "2026-10-18T20:37:40+00:00",
+  "unconfirmed": false,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "677033729d50",
+  "headline": "Oil Prices Tumble on US Sanctions Waiver for Russia",
+  "the_number": "-",
+  "why_it_matters": "Expected supply increases drive down global crude and fuel benchmark prices.",
+  "founder_takeaway": "Monitor geopolitical policy decisions for sudden shocks to operational energy-costs.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmVLc19hd0VSYXIydVNTWENKZ2J5WVNvVDRQUjRfTUJXWGhjOGxGZkFHVm9SNnZzeU9TWUhrYnJTRU1sVFRnX1BwZVd3NHB5a0NLdThkbDRldlg2eHdhTll2b3RnQTJ4U3dHVGczM25FdjJHRGQ5WGJDV2Qxd1hzLV9EcjNWaUQ4cXEzbWVHRzNuS1dGVVNBSmdXWGR6THN1dXhvSUdFS0dMMTJZTnBBZEFfZ2JoYVVFSWNMZw?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 7,
+  "date": "2026-10-18T22:23:00+00:00",
+  "unconfirmed": false,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "068d267f704d",
+  "headline": "The Pant Project Secures Rs 109 Cr Series B",
+  "the_number": "Rs 109 Cr",
+  "why_it_matters": "Funds will accelerate offline retail expansion and strengthen omnichannel presence.",
+  "founder_takeaway": "Omnichannel growth and category expansion attract Series B funding.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "D2C"
+  ],
+  "companies": [
+   "The Pant Project",
+   "Mirae Asset Venture Investments",
+   "Sorin Investments",
+   "Hyperscale Ventures",
+   "B&K Securities",
+   "MGA Ventures",
+   "B2V Ventures"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://entrackr.com/news/the-pant-project-raises-rs-109-cr-in-series-b-led-by-mirae-asset-12688468",
+  "source": "Entrackr",
+  "score": 7,
+  "date": "2026-10-19T10:05:57+05:30",
+  "unconfirmed": false,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ },
+ {
+  "id": "a671780f1ac7",
+  "headline": "India Widens Cancer Drug Price Caps Across 137 Medicines",
+  "the_number": "137",
+  "why_it_matters": "Government expands price controls to make essential cancer treatments more affordable.",
+  "founder_takeaway": "Prepare for margin compression as healthcare price regulations broaden.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "healthtech"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYkkwM0RDdmdmQ1ktLWJBS05mMmp0SmNveGE5ZGRVWmNaYVA1czQwVEpSTGF0aXRSSVpYaGNYZ2tVVVVtN3Q0VUpqS1cxaVVMd3hUNkxPVEdhN2xfeHU3VjhuTkVoSlVJWDYxSXpSMkNiNUVOMGU2VUhWUTdBZUhzeUpidFhUTkhpZVFOOVRmYUV6alA3TC1BMTdYR2lJYktuZUI2UVZGMm5Wajg0MmNfMTg4NzJqeXVhVmpwNkVmbEpKbmhiUEJKUWQ4aTA3cmJTR0FR?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 7,
+  "date": "2026-10-18T11:27:03+00:00",
+  "unconfirmed": false,
+  "archive_url": null,
+  "first_seen": "2026-10-19T12:37:51.816830+05:30"
+ }
+]
