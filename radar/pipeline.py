@@ -42,6 +42,8 @@ def run(dry=False):
     print(f"fetched {len(items)} | stories {len(clusters)} | not seen before {len(fresh)}")
     scored = core.score(fresh)
     keep = sorted([c for c in scored if (c.get("score") or 0) >= core.load("topics.yaml")["min_score"]], key=lambda c: -c["score"])[:25]
+    if scored and not any(c.get("score") is not None for c in scored):
+        raise SystemExit("ERROR: every scoring call failed (check GEMINI_API_KEY secret). Failing the run so GitHub emails you.")
     print(f"{len(keep)} score >= 7")
     new = cardmod.make_cards(keep)
     new = [c for c in new if all(SequenceMatcher(None, core.norm_title(c["headline"]), t).ratio() < 0.85 for t in known_titles)]
