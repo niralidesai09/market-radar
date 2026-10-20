@@ -30,6 +30,35 @@
   "first_seen": "2026-10-19T19:37:40.279053+05:30"
  },
  {
+  "id": "2c7ee72c4433",
+  "headline": "Jio Platforms Anchor Book Draws Record ₹2.5 Trillion Bids",
+  "the_number": "₹2.5 trillion",
+  "why_it_matters": "Jio is set to stage India's biggest initial public offering.",
+  "founder_takeaway": "Massive institutional demand signals strong public appetite for market leaders.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": 3200,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 5,
+  "url": "https://www.business-standard.com/companies/news/jio-platforms-ipo-anchor-investor-quota-nearly-30-times-oversubscribed-126101900538_1.html",
+  "source": "Business Standard Companies",
+  "score": 10,
+  "date": "2026-10-19T15:30:22+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T19:34:59.336333+05:30"
+ },
+ {
   "id": "030edb54f44f",
   "headline": "Jio Platforms Plans Rs 30,213-Crore IPO In October",
   "the_number": "Rs 30,213-crore",
@@ -864,6 +893,128 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-20T13:31:43.483367+05:30"
+ },
+ {
+  "id": "7e2cbecac83d",
+  "headline": "Jio ₹30,213 Crore IPO Targets Record Listing In India",
+  "the_number": "Rs 30,213-crore",
+  "why_it_matters": "The listing is set to surpass Hyundai's record Indian IPO.",
+  "founder_takeaway": "Unprecedented issue scale tests domestic liquidity and retail appetite.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio",
+   "Airtel",
+   "Hyundai Motor India"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-10-20T09:30:00+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T19:34:59.336333+05:30"
+ },
+ {
+  "id": "7a4efeb16afa",
+  "headline": "Flipkart Tests Food Delivery Service Eat-in by Minutes",
+  "the_number": "8,000",
+  "why_it_matters": "Flipkart prepares to challenge established incumbents Zomato and Swiggy.",
+  "founder_takeaway": "Internal employee testing de-risks new consumer offerings prior to rollout.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Flipkart",
+   "Zomato",
+   "Swiggy"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/companies/news/flipkart-to-challenge-zomato-and-swiggy-with-eat-in-by-minutes-launch-date-features-explained-11792488539637.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-20T15:43:28+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T19:34:59.336333+05:30"
+ },
+ {
+  "id": "18f0ebdce2f3",
+  "headline": "Reliance Jio Anchor Bids Surpass $25 Billion Amount",
+  "the_number": "$25 bn",
+  "why_it_matters": "Jio will deploy up to ₹27,500 crore to retire borrowings.",
+  "founder_takeaway": "Use mega equity public offerings strategically to de-lever balance sheets.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance Jio Platforms",
+   "Reliance Jio Infocomm"
+  ],
+  "geography": "India",
+  "amount_usd_m": 25000,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/ipo/reliance-jio-ipo-massive-bids-top-25-bn-amount-for-anchor-book-okhow-mukesh-ambani-firm-attracted-top-notch-investors-11792488288719.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-10-20T16:06:29+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T19:34:59.336333+05:30"
+ },
+ {
+  "id": "5a73c73b09bb",
+  "headline": "OYO Parent Cuts Fresh Issue On Strong Cash Flows",
+  "the_number": "Rs 3,350 cr",
+  "why_it_matters": "Healthy operational performance lowers the capital required from public markets.",
+  "founder_takeaway": "Disciplined operations grant founders pricing power and issue size flexibility.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "OYO",
+   "PRISM"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://yourstory.com/2026/10/oyo-parent-prism-nearly-halve-ipo-fresh-issue-size-to-up-to-rs-3350-cr",
+  "source": "YourStory",
+  "score": 8,
+  "date": "2026-10-20T11:01:27+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T19:34:59.336333+05:30"
  },
  {
   "id": "1235b5baabc0",
@@ -2032,5 +2183,419 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-20T13:31:43.483367+05:30"
+ },
+ {
+  "id": "deb84aa31de3",
+  "headline": "Trading App Sahi Seeks $50 Million Funding Round",
+  "the_number": "$50 mn",
+  "why_it_matters": "Former Swiggy CTO targets discount brokerage market with price competition.",
+  "founder_takeaway": "Discounted unit pricing and technology differentiation can challenge entrenched leaders.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Sahi",
+   "Swiggy",
+   "Groww",
+   "Zerodha"
+  ],
+  "geography": "India",
+  "amount_usd_m": 50,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/sahi-trading-app-fundraise-valuation-500-million-11792482018126.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-20T15:07:35+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T19:34:59.336333+05:30"
+ },
+ {
+  "id": "be3b7002691e",
+  "headline": "South Korea KOSPI Drops 5% Amid AI Semiconductor Selloff",
+  "the_number": "5%",
+  "why_it_matters": "Doubts around AI returns drive a broad semiconductor market plunge.",
+  "founder_takeaway": "Public market skepticism on AI ROI can pressure hardware-dependent valuations.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Samsung Electronics",
+   "SK Hynix"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/crash-kospi-in-free-fall-south-korea-stock-market-down-another-5-tanks-40-from-record-high-what-s-driving-ai-rout-11792483921193.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-20T14:53:11+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T19:34:59.336333+05:30"
+ },
+ {
+  "id": "c5755c7aaf51",
+  "headline": "IDBI Bank Shares Fall After ₹52,878 Crore Fairfax Deal",
+  "the_number": "₹52,878 crore",
+  "why_it_matters": "IDBI disinvestment faces scrutiny amid a massive Fairfax deal and share drops.",
+  "founder_takeaway": "Large disinvestment deals invite intense regulatory and public scrutiny.",
+  "sentiment": "Bearish",
+  "category": "M&A",
+  "sector_tags": [
+   "fintech",
+   "other"
+  ],
+  "companies": [
+   "IDBI Bank",
+   "Fairfax"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/eas-sarma-idbi-disinvestment-letter-what-he-wrote-idbi-bank-shares-in-focus-after-massive-52-878-crore-fairfax-deal-11792480203630.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-20T13:49:24+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T19:34:59.336333+05:30"
+ },
+ {
+  "id": "3635446603cb",
+  "headline": "Apple India FY26 Net Profit Soars 66% YoY",
+  "the_number": "66%",
+  "why_it_matters": "Apple demonstrates strong revenue and profit growth in the Indian market.",
+  "founder_takeaway": "Focusing on India's premium segment can unlock massive profitability.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Apple India"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/apple-indias-fy26-profit-jumps-66-yoy-to-%e2%82%b95311-cr-revenue-up-31/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-10-20T10:35:23+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T19:34:59.336333+05:30"
+ },
+ {
+  "id": "8e9658f36cdc",
+  "headline": "Centre Considers Hardware Security Layer For Satcom Operators",
+  "the_number": "-",
+  "why_it_matters": "India seeks stronger regulatory and hardware-level oversight on satellite internet.",
+  "founder_takeaway": "Compliance and national security expectations for tech infrastructure are rising.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Starlink"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/centre-mulls-hardware-security-layer-for-starlink-other-satcom-operators/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-10-20T06:52:08+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T19:34:59.336333+05:30"
+ },
+ {
+  "id": "8c589091f61e",
+  "headline": "Nifty 50 Drops 12.4% YTD In 2026",
+  "the_number": "12.4%",
+  "why_it_matters": "Indian public equities face a rare down year, shifting brokerage dynamics.",
+  "founder_takeaway": "Domestic market headwinds push brokerages to seek foreign market opportunities.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Zerodha",
+   "Even Healthcare"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/zerodhas-wall-street-leap-even-healthcares-50-mn-raise-more/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-10-20T06:51:11+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T19:34:59.336333+05:30"
+ },
+ {
+  "id": "9be1f8bf4e0b",
+  "headline": "Tonbo Imaging ₹852 Cr IPO Oversubscribed 135.9X",
+  "the_number": "135.9X",
+  "why_it_matters": "Massive investor appetite highlights strong public demand for tech IPOs.",
+  "founder_takeaway": "High-conviction tech businesses can generate extraordinary public market demand.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tonbo Imaging"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/tonbo-imaging-ipo-oversubscribed-40x-on-day-3-till-now/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-10-19T13:46:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T19:34:59.336333+05:30"
+ },
+ {
+  "id": "1de15aad7497",
+  "headline": "Even Healthcare Raises $50M Series B For Bengaluru Hospitals",
+  "the_number": "$50 Mn",
+  "why_it_matters": "Managed healthcare models attract substantial capital to expand physical networks.",
+  "founder_takeaway": "Blended digital-physical healthcare models can secure strong venture backing.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "healthtech"
+  ],
+  "companies": [
+   "Even Healthcare"
+  ],
+  "geography": "India",
+  "amount_usd_m": 50,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/even-healthcare-raises-50-mn-to-expand-hospital-network-across-bengaluru/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-10-19T08:05:42+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T19:34:59.336333+05:30"
+ },
+ {
+  "id": "f7ab5c18f5ce",
+  "headline": "India-New Zealand Trade Pact Implemented With Duty-Free Access",
+  "the_number": "-",
+  "why_it_matters": "Indian labour-intensive export sectors gain duty-free access in New Zealand.",
+  "founder_takeaway": "Bilateral trade deals unlock duty-free expansion for domestic manufacturers.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://yourstory.com/2026/10/india-new-zealand-trade-pact-kicks-in",
+  "source": "YourStory",
+  "score": 7,
+  "date": "2026-10-20T08:54:28+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T19:34:59.336333+05:30"
+ },
+ {
+  "id": "55a52765c341",
+  "headline": "Reliable Robotics Lands $115M Equity, Tops $1B Valuation",
+  "the_number": "$115M",
+  "why_it_matters": "Aviation automation startups continue achieving unicorn valuations with large rounds.",
+  "founder_takeaway": "Deep tech founders can leverage structured debt alongside equity rounds.",
+  "sentiment": "Neutral",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliable Robotics"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 115,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
+  "source": "TechCrunch",
+  "score": 7,
+  "date": "2026-10-20T13:17:36+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T19:34:59.336333+05:30"
+ },
+ {
+  "id": "baab9c27d2ea",
+  "headline": "US Bans Chinese DeepSeek AI Across Federal Agencies",
+  "the_number": "-",
+  "why_it_matters": "Geopolitical conflicts increasingly restrict adoption of foreign-origin AI technologies.",
+  "founder_takeaway": "Geopolitical origin carries critical enterprise and government adoption risks.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "DeepSeek"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+  "source": "TechCrunch",
+  "score": 7,
+  "date": "2026-10-20T13:07:24+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T19:34:59.336333+05:30"
+ },
+ {
+  "id": "185426ba2ac3",
+  "headline": "Eka Robotics Valued At $1.45B On Physical AI Model",
+  "the_number": "$1.45B",
+  "why_it_matters": "Breakthrough human-like robotic manipulation commands multi-billion-dollar market valuations.",
+  "founder_takeaway": "Solving generalized physical tasks creates immediate and massive enterprise value.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Eka Robotics"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+  "source": "TechCrunch",
+  "score": 7,
+  "date": "2026-10-20T13:00:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T19:34:59.336333+05:30"
+ },
+ {
+  "id": "85e233d0b166",
+  "headline": "Otter.ai Raises $320 Million Non-Dilutive Growth Capital",
+  "the_number": "$320 million",
+  "why_it_matters": "Scale-ups leverage innovative non-dilutive financing tied to marketing ROI.",
+  "founder_takeaway": "Non-dilutive growth funds offer viable alternatives to traditional equity financing.",
+  "sentiment": "Neutral",
+  "category": "Funding",
+  "sector_tags": [
+   "AI",
+   "SaaS"
+  ],
+  "companies": [
+   "Otter.ai",
+   "General Catalyst"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 320,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+  "source": "TechCrunch",
+  "score": 7,
+  "date": "2026-10-20T11:00:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T19:34:59.336333+05:30"
+ },
+ {
+  "id": "4d8d2d06fa1f",
+  "headline": "Blackwall raises $100M at $2.2B valuation for web security",
+  "the_number": "$100M",
+  "why_it_matters": "Rising AI and bot traffic drives surging demand for website security.",
+  "founder_takeaway": "Tackle security challenges created by growing bot and AI traffic.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI",
+   "SaaS"
+  ],
+  "companies": [
+   "Blackwall"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 100,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+  "source": "TechCrunch",
+  "score": 7,
+  "date": "2026-10-20T07:01:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T19:34:59.336333+05:30"
  }
 ]
