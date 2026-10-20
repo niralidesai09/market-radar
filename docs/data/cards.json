@@ -150,6 +150,65 @@
   "first_seen": "2026-10-20T07:52:14.562289+05:30"
  },
  {
+  "id": "ab9b03da367e",
+  "headline": "Reliance Jio Platforms IPO Opens With Shareholder Reservation",
+  "the_number": "Rs 2,500 crore",
+  "why_it_matters": "Eligible Reliance shareholders get a dedicated quota to boost allotment chances.",
+  "founder_takeaway": "Rewarding parent company shareholders builds strong retail loyalty.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance Jio Platforms",
+   "Reliance Industries"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-opens-tomorrow-how-can-investors-maximise-allotment-chances-under-rs-2500-crore-ril-shareholders-quota/articleshow/135064168.cms",
+  "source": "Economic Times Markets",
+  "score": 9,
+  "date": "2026-10-20T13:05:56+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-10-20T13:31:43.483367+05:30"
+ },
+ {
+  "id": "46ca95e4b859",
+  "headline": "Jio IPO GMP Climbs to 22 Percent Ahead of Launch",
+  "the_number": "22%",
+  "why_it_matters": "Grey market premiums signal strong potential listing gains for upcoming IPO.",
+  "founder_takeaway": "Strong pre-market sentiment signals robust public appetite.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
+  "source": "Economic Times Markets",
+  "score": 9,
+  "date": "2026-10-20T09:52:31+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T13:31:43.483367+05:30"
+ },
+ {
   "id": "69f0cc0de863",
   "headline": "RBI Infuses $10.5 Billion Liquidity Through Repo Operation",
   "the_number": "$10.53 billion",
@@ -716,6 +775,95 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-20T07:52:14.562289+05:30"
+ },
+ {
+  "id": "6d0def36b349",
+  "headline": "Anthropic Negotiates Potential $45 Billion Computing Deal with Nscale",
+  "the_number": "$45 billion",
+  "why_it_matters": "A 460MW data centre deal advances Anthropic's AI infrastructure ahead of IPO.",
+  "founder_takeaway": "Securing massive compute infrastructure is critical before major public offerings.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic",
+   "Nscale"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/anthropic-eyes-second-45-billion-nscale-deal-as-460mw-ai-data-centre-plans-advance-ahead-of-potential-ipo-11792466448988.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-20T09:23:33+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T13:31:43.483367+05:30"
+ },
+ {
+  "id": "f436714464c2",
+  "headline": "Flipkart Targets October-End Launch for Food Delivery",
+  "the_number": "-",
+  "why_it_matters": "Flipkart enters the hyper-competitive food delivery space with 'Eat-in by Minutes'.",
+  "founder_takeaway": "Ecommerce giants continue expanding into high-frequency consumer verticals.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Flipkart",
+   "Walmart"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://inc42.com/buzz/flipkart-eyes-october-end-launch-for-food-delivery-service-report/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-10-20T06:55:58+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T13:31:43.483367+05:30"
+ },
+ {
+  "id": "35dfc6c1e1ca",
+  "headline": "Zetwerk IPO Subscribed Over 3 Times on Final Day",
+  "the_number": "3.06 times",
+  "why_it_matters": "Strong institutional interest drives manufacturing platform Zetwerk's IPO subscription success.",
+  "founder_takeaway": "QIB backing remains the primary anchor of successful startup listings.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Zetwerk Manufacturing Businesses"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://entrackr.com/news/zetwerks-ipo-subscribed-over-3-times-on-final-day-12689940",
+  "source": "Entrackr",
+  "score": 8,
+  "date": "2026-10-19T17:14:52+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T13:31:43.483367+05:30"
  },
  {
   "id": "1235b5baabc0",
@@ -1678,5 +1826,211 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-20T07:52:14.562289+05:30"
+ },
+ {
+  "id": "da1ab076a09c",
+  "headline": "SEBI Issues Listing Obligations and Disclosure Regulations 2026",
+  "the_number": "-",
+  "why_it_matters": "Updates regulatory framework governing listed company disclosures and compliance.",
+  "founder_takeaway": "Stay aligned with evolving public market compliance requirements.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "SEBI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Official",
+  "covered_by_count": 1,
+  "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-third-amendment-regulations-2026_105330.html",
+  "source": "SEBI",
+  "score": 7,
+  "date": null,
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": "archive/2026/10/da1ab076a09c.html",
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T13:31:43.483367+05:30"
+ },
+ {
+  "id": "9a82b0bc8e29",
+  "headline": "Tonbo Imaging IPO Subscribed 140x Driven by QIBs",
+  "the_number": "Rs 852 crore",
+  "why_it_matters": "Massive institutional demand signals strong public appetite for tech offerings.",
+  "founder_takeaway": "Institutional support can dramatically drive overall IPO subscription rates.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tonbo Imaging"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/tonbo-imagings-rs-852-crore-ipo-subscribed-140x-check-gmp-allotment-other-details/articleshow/135062276.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-20T11:15:38+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T13:31:43.483367+05:30"
+ },
+ {
+  "id": "3625efbcadd8",
+  "headline": "Brent Crude Hits $110.10 on Supply Concerns",
+  "the_number": "$110.10",
+  "why_it_matters": "Elevated energy prices stoke inflationary and input cost pressures globally.",
+  "founder_takeaway": "Monitor rising energy prices for impacts on operating margins.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/commodities/oil-prices-ease-as-russia-sanctions-relief-offsets-gulf-supply-risks-126102000063_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-10-20T07:49:48+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T13:31:43.483367+05:30"
+ },
+ {
+  "id": "683f9ab90693",
+  "headline": "Kissht Gets Exchange Nod for Rs 832.2 Cr Fundraise",
+  "the_number": "Rs 832.2 crore",
+  "why_it_matters": "Regulatory approvals pave the way for sizable preferential capital infusions.",
+  "founder_takeaway": "Exchange clearances are critical milestones for large preferential issuances.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Kissht",
+   "OnEMI Technology Solutions"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://entrackr.com/news/kissht-gets-bse-nse-nod-for-rs-832-cr-fundraise-12691676",
+  "source": "Entrackr",
+  "score": 7,
+  "date": "2026-10-20T13:10:22+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T13:31:43.483367+05:30"
+ },
+ {
+  "id": "8d6ad218d7d5",
+  "headline": "Angel One and Zerodha Expand US Stock Investing",
+  "the_number": "-",
+  "why_it_matters": "Domestic brokerages diversify product offerings to meet global investment demand.",
+  "founder_takeaway": "Expand product reach as retail user appetite matures outward.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Angel One",
+   "Zerodha"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://yourstory.com/2026/10/angel-one-zerodha-expand-us-stock-investing-access-for-indian-investors",
+  "source": "YourStory",
+  "score": 7,
+  "date": "2026-10-19T11:28:52+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T13:31:43.483367+05:30"
+ },
+ {
+  "id": "96c03e4a4483",
+  "headline": "AI Startup Town Nabs Unicorn Valuation in Series B",
+  "the_number": "$108 million",
+  "why_it_matters": "Rapid unicorn creation highlights extreme venture appetite for AI assistants.",
+  "founder_takeaway": "Exceptional growth momentum can accelerate funding rounds within months.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Town",
+   "Forerunner Ventures",
+   "Menlo Ventures"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 108.0,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+  "source": "TechCrunch",
+  "score": 7,
+  "date": "2026-10-19T18:00:39+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T13:31:43.483367+05:30"
+ },
+ {
+  "id": "98751df3872c",
+  "headline": "Even Healthcare Hits $300M Valuation in Khosla-Led Round",
+  "the_number": "$300 million",
+  "why_it_matters": "Funding fuels expansion to challenge India's traditional hospital economics.",
+  "founder_takeaway": "Disrupt legacy sector economics by expanding specialized networks.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "healthtech"
+  ],
+  "companies": [
+   "Even Healthcare",
+   "Khosla Ventures"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+  "source": "TechCrunch",
+  "score": 7,
+  "date": "2026-10-19T07:30:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-20T13:31:43.483367+05:30"
  }
 ]
