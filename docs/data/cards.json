@@ -59,6 +59,35 @@
   "first_seen": "2026-10-20T19:34:59.336333+05:30"
  },
  {
+  "id": "69c4db00bc40",
+  "headline": "India's Jio IPO Opens For Record Public Bidding",
+  "the_number": "$3.2 billion",
+  "why_it_matters": "A record-setting public sale marks a major Indian capital market milestone.",
+  "founder_takeaway": "Historic scale can unlock massive retail and public investor demand.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio"
+  ],
+  "geography": "India",
+  "amount_usd_m": 3200,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON1VVUmNkZDI5QkFtVV8zeWNRdWY2YkRtQXVPSHlNUnFwY3BhRTBYcU9uOXVKMmljOE05N1dLSUxkTm9PUjBmSXhhNHFTZ000cUgyNlpVMG1ia1diRlJ6WXFuN091VktQX3hJMjl3QUJCRy1yeGtzSDY5bm1FSHNydzRtbUZzcUY5amhobDM2eXBfZXIydUwyZDBJSElseDFDX1VIWjdB?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 10,
+  "date": "2026-10-20T23:29:19+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T07:53:29.942094+05:30"
+ },
+ {
   "id": "030edb54f44f",
   "headline": "Jio Platforms Plans Rs 30,213-Crore IPO In October",
   "the_number": "Rs 30,213-crore",
@@ -236,6 +265,37 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-20T13:31:43.483367+05:30"
+ },
+ {
+  "id": "b01ac18b5757",
+  "headline": "SpaceX and Tesla Review Potential Landmark Merger",
+  "the_number": "-",
+  "why_it_matters": "A merger could unite two leading electric vehicle and space giants.",
+  "founder_takeaway": "Independent committees are crucial to resolve related-party governance conflicts.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "EV",
+   "other"
+  ],
+  "companies": [
+   "SpaceX",
+   "Tesla"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+  "source": "TechCrunch",
+  "score": 9,
+  "date": "2026-10-20T22:57:57+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T07:53:29.942094+05:30"
  },
  {
   "id": "69f0cc0de863",
@@ -1015,6 +1075,162 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-20T19:34:59.336333+05:30"
+ },
+ {
+  "id": "2581f36325e1",
+  "headline": "Sun Pharma Raises Debt to Fund Organon Acquisition",
+  "the_number": "₹10,000 crore",
+  "why_it_matters": "Domestic bond markets effectively refinance large-scale global pharma acquisitions.",
+  "founder_takeaway": "Refinancing bridge loans via bonds optimizes long-term debt costs.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "healthtech"
+  ],
+  "companies": [
+   "Sun Pharmaceutical Industries",
+   "Organon",
+   "SBI Pension Fund",
+   "ICICI Prudential Mutual Fund"
+  ],
+  "geography": "India",
+  "amount_usd_m": 11750,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-to-raise-rs-10k-crore-to-part-finance-organon-deal/articleshow/135079260.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-10-21T06:46:56+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T07:53:29.942094+05:30"
+ },
+ {
+  "id": "7bc2b9f9bf01",
+  "headline": "Oyo Parent PRISM Halves IPO Fresh Issue Size",
+  "the_number": "Rs 3,350 crore",
+  "why_it_matters": "Better cash flows allow companies to reduce dilution during public listings.",
+  "founder_takeaway": "Improving internal cash flows reduces unnecessary equity dilution.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "PRISM",
+   "OYO",
+   "Moody's Ratings",
+   "SoftBank"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/oyo-parent-prism-to-nearly-halve-ipo-fresh-issue-size-to-up-to-rs-3350-cr-sources/articleshow/135068962.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-10-20T17:00:10+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T07:53:29.942094+05:30"
+ },
+ {
+  "id": "9cbe6710ec43",
+  "headline": "Minority Shareholders Contest Tata's Iveco Acquisition",
+  "the_number": "€3.9 billion",
+  "why_it_matters": "Minority shareholder alignment is essential for closing cross-border acquisitions.",
+  "founder_takeaway": "Never underestimate minority shareholder voting power in major acquisitions.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "EV",
+   "other"
+  ],
+  "companies": [
+   "Iveco",
+   "Tata Motors"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/tata-motors-iveco-deal-status-shareholder-approval-11792483781433.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-21T06:00:39+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T07:53:29.942094+05:30"
+ },
+ {
+  "id": "540bf5adbafe",
+  "headline": "Flipkart Expands Food Delivery Pilot to Employees",
+  "the_number": "8,000",
+  "why_it_matters": "Flipkart enters food delivery, intensifying competition against Swiggy and Zomato.",
+  "founder_takeaway": "Internal employee testing refines operations before public market launches.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Flipkart",
+   "Walmart",
+   "Zomato",
+   "Swiggy"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://entrackr.com/news/flipkart-expands-eat-in-pilot-to-over-8000-employees-12691236",
+  "source": "Entrackr",
+  "score": 8,
+  "date": "2026-10-20T10:20:35+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T07:53:29.942094+05:30"
+ },
+ {
+  "id": "d0ed25b4adb5",
+  "headline": "SpaceX Reaches Q3 Profitability Driven by AI",
+  "the_number": "$4.4 billion",
+  "why_it_matters": "AI-driven initiatives are generating massive, tangible profitability for frontier tech.",
+  "founder_takeaway": "Monetizing AI capabilities directly can dramatically transform bottom-line profitability.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "SpaceX"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+  "source": "TechCrunch",
+  "score": 8,
+  "date": "2026-10-20T20:40:41+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T07:53:29.942094+05:30"
  },
  {
   "id": "1235b5baabc0",
@@ -2597,5 +2813,276 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-20T19:34:59.336333+05:30"
+ },
+ {
+  "id": "4ac7e472daa6",
+  "headline": "Jio Platforms Prepares for India's Largest IPO",
+  "the_number": "533 million",
+  "why_it_matters": "A giant user base anchors India's biggest public market debut.",
+  "founder_takeaway": "Scale alone is not enough; ARPU monetization remains essential.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms",
+   "Bharti Airtel"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 4,
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-jio-platforms-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/135078638.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-21T05:42:32+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T07:53:29.942094+05:30"
+ },
+ {
+  "id": "896bbe500ad5",
+  "headline": "EAAA India Alternatives Launches Rs 1,200-Crore IPO",
+  "the_number": "Rs 1,200 crore",
+  "why_it_matters": "Alternative asset managers are increasingly accessing public markets for liquidity.",
+  "founder_takeaway": "Pure OFS IPOs provide clear exit liquidity for promoters.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "fintech",
+   "other"
+  ],
+  "companies": [
+   "EAAA India Alternatives Ltd",
+   "Edelweiss Group",
+   "SEC Environmental Technologies Ltd"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/eaaa-india-alternatives-to-float-rs-1200-cr-ipo-on-oct-26/articleshow/135064394.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-20T13:21:09+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T07:53:29.942094+05:30"
+ },
+ {
+  "id": "9ce3fcbe457c",
+  "headline": "Tesla Sets Vote On Elon Musk's Pay Package",
+  "the_number": "$158 billion",
+  "why_it_matters": "Tesla shareholders will vote on executive leadership and historic compensation.",
+  "founder_takeaway": "Executive compensation faces intense scrutiny in major public enterprise proxies.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "EV"
+  ],
+  "companies": [
+   "Tesla",
+   "SpaceX"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/people/tesla-sets-december-vote-on-elon-musk-s-ceo-role-and-his-158-billion-pay-package-spacex-merger-stays-off-ballot-11792462765668.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-20T08:36:23+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T07:53:29.942094+05:30"
+ },
+ {
+  "id": "03bfc8a084b1",
+  "headline": "Salesforce To Acquire Braze In $5.66 Billion Deal",
+  "the_number": "$5.66 billion",
+  "why_it_matters": "Salesforce strengthens its AI-powered marketing and customer engagement capabilities.",
+  "founder_takeaway": "Premium buyouts reward strong customer engagement and marketing platforms.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "SaaS",
+   "AI"
+  ],
+  "companies": [
+   "Salesforce",
+   "Braze"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 5660,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/braze-stock-surges-over-50-after-salesforce-announces-5-66-billion-acquisition-11792516251172.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-20T22:51:01+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T07:53:29.942094+05:30"
+ },
+ {
+  "id": "9a6f8e08c41f",
+  "headline": "Jio Platforms Eyes Listing Gains Bucking Mega-IPO Trend",
+  "the_number": "-",
+  "why_it_matters": "Jio aims to break the weak listing gains of Indian mega-IPOs.",
+  "founder_takeaway": "Anchor demand and secondary interest help counter listing headwinds.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance Jio",
+   "Hyundai Motor India",
+   "LIC",
+   "Paytm"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/bigticket-ipos-have-struggled-to-deliver-bumper-listing-gains-can-mukesh-ambani-backed-reliance-jio-buck-the-trend-11792505293980.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-20T19:57:56+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T07:53:29.942094+05:30"
+ },
+ {
+  "id": "6ab601f70da2",
+  "headline": "Anthropic Reportedly Eyes $100 Billion Mega IPO Listing",
+  "the_number": "$75 billion",
+  "why_it_matters": "AI competition fuels record-breaking public offerings in global capital markets.",
+  "founder_takeaway": "Soaring compute capital requirements are pushing AI giants to list.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "SpaceX",
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 100000,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/spacex-ipo-vs-upcoming-anthropic-ipo-will-claude-maker-beat-elon-musk-s-75-bn-record-11792493013233.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-20T17:33:15+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T07:53:29.942094+05:30"
+ },
+ {
+  "id": "6da513a923f7",
+  "headline": "Myntra Reports FY26 Revenue Drop And Net Loss",
+  "the_number": "Rs 5,242.5 crore",
+  "why_it_matters": "Restructuring and falling logistics revenue pushed Myntra into a net loss.",
+  "founder_takeaway": "Heavy ad spending cannot always offset drops in operating revenues.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Myntra",
+   "Flipkart"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://entrackr.com/fintrackr/myntra-spends-rs-2326-cr-on-advertising-for-rs-5242-cr-revenue-in-fy26-12691350",
+  "source": "Entrackr",
+  "score": 7,
+  "date": "2026-10-20T11:09:07+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T07:53:29.942094+05:30"
+ },
+ {
+  "id": "b14d2c98d7d9",
+  "headline": "Anthropic Faces Cloud Partner Tensions Ahead Of IPO",
+  "the_number": "-",
+  "why_it_matters": "Compute constraints and provider competition threaten Anthropic ahead of planned listing.",
+  "founder_takeaway": "Reliance on infrastructure partners who compete with you creates vulnerability.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+  "source": "TechCrunch",
+  "score": 7,
+  "date": "2026-10-20T21:25:22+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T07:53:29.942094+05:30"
+ },
+ {
+  "id": "3703dabc3c96",
+  "headline": "Economists Expect Fed Rate Hike In December",
+  "the_number": "-",
+  "why_it_matters": "Fed rate increases tighten liquidity across global financial and startup markets.",
+  "founder_takeaway": "Prolonged higher interest rates suppress liquidity and venture capital availability.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 7,
+  "date": "2026-10-20T13:27:27+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T07:53:29.942094+05:30"
  }
 ]
