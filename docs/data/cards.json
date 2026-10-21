@@ -88,6 +88,36 @@
   "first_seen": "2026-10-21T07:53:29.942094+05:30"
  },
  {
+  "id": "73c9bf1ace88",
+  "headline": "Jio Platforms opens Rs 30,213 crore IPO",
+  "the_number": "Rs 30,213 Cr",
+  "why_it_matters": "Marks a major public listing milestone for Reliance's digital arm.",
+  "founder_takeaway": "Pure fresh equity issues can signal complete growth reinvestment.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms",
+   "Reliance Industries"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 7,
+  "url": "https://entrackr.com/news/jio-platforms-opens-rs-30213-cr-ipo-for-subscription-12693808",
+  "source": "Entrackr",
+  "score": 10,
+  "date": "2026-10-21T10:36:16+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T19:33:19.102437+05:30"
+ },
+ {
   "id": "030edb54f44f",
   "headline": "Jio Platforms Plans Rs 30,213-Crore IPO In October",
   "the_number": "Rs 30,213-crore",
@@ -1410,6 +1440,157 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-21T13:34:53.224053+05:30"
+ },
+ {
+  "id": "f17524203863",
+  "headline": "Eternal Q2 profit surges 92%",
+  "the_number": "92.3%",
+  "why_it_matters": "Zomato and Blinkit parent posts sharp profit expansion.",
+  "founder_takeaway": "Quick commerce scale can co-exist with rising profitability.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Eternal",
+   "Zomato",
+   "Blinkit"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 7,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/eternal-q2-results-profit-soars-92-yoy-to-rs-125-crore-revenue-surges-78/articleshow/135088651.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-10-21T15:36:28+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T19:33:19.102437+05:30"
+ },
+ {
+  "id": "face311b51f0",
+  "headline": "Carlsberg prepares $700 million India IPO",
+  "the_number": "$700 million",
+  "why_it_matters": "Global brewing giant taps strong Indian capital markets.",
+  "founder_takeaway": "Market share leadership provides a clear path to listing.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Carlsberg",
+   "Carlsberg India"
+  ],
+  "geography": "India",
+  "amount_usd_m": 700,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/carlsberg-said-to-near-public-filing-for-700-million-india-ipo/articleshow/135086210.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-10-21T13:32:27+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T19:33:19.102437+05:30"
+ },
+ {
+  "id": "a7b94395ac5e",
+  "headline": "Vegafin gets ₹1,000 crore commitment for Bizloan",
+  "the_number": "₹1,000 crore",
+  "why_it_matters": "Major funds back MSME lending consolidation and AI platform.",
+  "founder_takeaway": "Hybrid lending models combined with AI attract top investors.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "fintech",
+   "AI"
+  ],
+  "companies": [
+   "Vegafin",
+   "Bizloan",
+   "Premji Invest",
+   "Norwest",
+   "Lok Capital"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/vegafin-raises-rs-1000-crore-premji-invest-norwest-lok-capital-11792581414623.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-21T17:28:49+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T19:33:19.102437+05:30"
+ },
+ {
+  "id": "66a557aafca1",
+  "headline": "Indian Shares Slip as Jio IPO Sees High Demand",
+  "the_number": "-",
+  "why_it_matters": "Elevated crude pressures broader indices despite strong demand for marquee IPOs.",
+  "founder_takeaway": "Strong consumer tech brands command liquidity despite macroeconomic headwinds.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjNITnczLXgyWGppRkFrTDc1dE9MOWM3aENNVGVKRkFJWU9XT0RUcWM4WTFUaVlxanNvVVZQV0E3OGFZWEM4UDFLSXFuV3psVEFxOGtqVFgxdGpVWDRILWJxS1IwUW1PU0FDSGg4ZUNjQnlUeG54aDI5TTREMDIwWXJHdXU5WW1ndEp2YTBVejl3UW5YeXpVRUItV2NKbGdqb2ZwNlV3Wm8xWThfRU9xVQ?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 8,
+  "date": "2026-10-21T02:35:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T19:33:19.102437+05:30"
+ },
+ {
+  "id": "db4cfeb16bf2",
+  "headline": "Government Proposes Raising PSU Bank FDI to 49%",
+  "the_number": "49%",
+  "why_it_matters": "Higher FDI limits could bring significant foreign capital into state banks.",
+  "founder_takeaway": "Policy easing in state banking expands institutional capital access.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWXdrNzd0LXJLMXJrUndZcTZoLVEyNlFfYUxad0JCc3BQdkNfQUxISG9kbXJ0WnlSN2l5cDBKUThtT01sbzBrSGlvanFNdGJ4eG9hWkN1RVZXNGV2aUVYckJhVGEtRi1nR1JLLVJrV3A0c3FXamdhSXNGaE8zUVlmZTF4X2xwdmQ1Y2Y1eFR0SXFRYWVwNWwwRFhEMm9Jb3lmcVVOc21jREJ4M1hWWXJrRWpXNDN2cjh1bUVxZWFGQWJ3SWFfSnFDcFU0eTNTMnhIcEYwa0N2ZzRYM2vSAdsBQVVfeXFMUFl3azc3dC1ySzFya1J3WXE2aC1RMjZRX2FMWndCQnNwUHZDX0FMSEhvZG1ydFp5UjdpeXAwSlE4bU9NbG8wa0hpb2pxTXRieHhvYVpDdUVWVzRldmlFWHJCYVRhLUYtZ0dSSy1Sa1dwNHNxV2pnYUlzRmhPM1FZZmUxeF9scHZkNWNmNXhUdElxUWFlcDVsMERYRDJvSW95ZnFVTnNtY0RCeDNYVllya0VqVzQzdnI4dW1FcWVhRkFid0lhX0pxQ3BVNHkzUzJ4SHBGMGtDdmc0WDNr?oc=5",
+  "source": "Startup India / DPIIT (Google News)",
+  "score": 8,
+  "date": "2026-10-21T07:09:30+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T19:33:19.102437+05:30"
  },
  {
   "id": "1235b5baabc0",
@@ -3353,5 +3534,155 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-21T13:34:53.224053+05:30"
+ },
+ {
+  "id": "66188bb8a52a",
+  "headline": "Jio Platforms IPO Inflows Lift Rupee Against Dollar",
+  "the_number": "94.46",
+  "why_it_matters": "Foreign investment flows temporarily offset pressures from elevated crude oil costs.",
+  "founder_takeaway": "Mega public market listings heavily influence national foreign exchange liquidity.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/jio-platforms-ipo-linked-inflows-boost-rupee-elevated-oil-prices-spur-caution/articleshow/135089592.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-21T16:07:48+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T19:33:19.102437+05:30"
+ },
+ {
+  "id": "121929770909",
+  "headline": "Elon Musk Envisions $3.5 Trillion Tesla-SpaceX Merger",
+  "the_number": "$3.5 trillion",
+  "why_it_matters": "Consolidating hardware, AI, and space could create an unprecedented tech giant.",
+  "founder_takeaway": "Synergies across advanced technologies can justify massive conglomerate structures.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "EV",
+   "AI"
+  ],
+  "companies": [
+   "Tesla",
+   "SpaceX"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-musk-backs-tesla-spacex-merger-idea-envisioning-a-3-5-trillion-giant/articleshow/135088139.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-21T15:06:33+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T19:33:19.102437+05:30"
+ },
+ {
+  "id": "2fc0a1e27abc",
+  "headline": "Blinkit Avoids Expanding Private Label Products",
+  "the_number": "-",
+  "why_it_matters": "Quick commerce platform focuses purely on distribution rather than product manufacturing.",
+  "founder_takeaway": "Stick to core platform strengths instead of competing with suppliers.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "quick commerce",
+   "D2C"
+  ],
+  "companies": [
+   "Blinkit"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/startups/blinkit-sees-no-compelling-case-for-expanding-private-labels-says-dhindsa/articleshow/135093867.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-10-21T19:12:09+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T19:33:19.102437+05:30"
+ },
+ {
+  "id": "da88ce564cb3",
+  "headline": "Glance Partners with Google on Android TVs",
+  "the_number": "-",
+  "why_it_matters": "Transforms smart TV home screens into default shoppable discovery storefronts globally.",
+  "founder_takeaway": "Hardware-level OEM integrations unlock immense passive customer distribution channels.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "D2C",
+   "other"
+  ],
+  "companies": [
+   "Glance",
+   "Google"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/startups/glance-to-be-integrated-by-default-on-android-tvs-in-us-india-japan-in-partnership-with-google/articleshow/135093538.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-10-21T18:55:24+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T19:33:19.102437+05:30"
+ },
+ {
+  "id": "25fcd6713969",
+  "headline": "Eternal Unveils Privacy-Centric Dark AI Chatbot",
+  "the_number": "-",
+  "why_it_matters": "Focuses on absolute data privacy to drive user trust in AI.",
+  "founder_takeaway": "Radical privacy guarantees can be a distinct consumer product differentiator.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Eternal"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/tech/technology/dark-matter-eternals-chatbot-will-keep-user-conversations-private-even-from-the-company-deepinder-goyal/articleshow/135091934.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-10-21T17:35:55+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T19:33:19.102437+05:30"
  }
 ]
