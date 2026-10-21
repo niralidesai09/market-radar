@@ -298,6 +298,97 @@
   "first_seen": "2026-10-21T07:53:29.942094+05:30"
  },
  {
+  "id": "f88ad5995744",
+  "headline": "Jio Platforms Sets Record As India's Largest-Ever IPO",
+  "the_number": "Rs 30,213 crore",
+  "why_it_matters": "Becomes India's largest public offering, surpassing Hyundai Motor India's 2024 issue.",
+  "founder_takeaway": "Scale and domestic dominance can unlock massive public market liquidity.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance Industries",
+   "Jio Platforms",
+   "Hyundai Motor India"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 11,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-30213-crore-100-minutes-rs-2-5-lakh-crore-how-jio-ipo-broke-3-records-even-before-listing/articleshow/135085644.cms",
+  "source": "Economic Times Markets",
+  "score": 9,
+  "date": "2026-10-21T13:01:37+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T13:34:53.224053+05:30"
+ },
+ {
+  "id": "e4128dc108b4",
+  "headline": "Tesla And SpaceX Form Committees For Merger Talks",
+  "the_number": "$3.5 trillion",
+  "why_it_matters": "A potential merger could create a company valued at $3.5 trillion.",
+  "founder_takeaway": "Independent committees protect corporate governance during complex founder-led mergers.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "EV",
+   "other"
+  ],
+  "companies": [
+   "Tesla",
+   "SpaceX"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/a-good-idea-elon-musk-says-special-committees-will-discuss-tesla-and-spacex-merger-while-he-sits-out-11792544836520.html",
+  "source": "Mint Companies",
+  "score": 9,
+  "date": "2026-10-21T06:52:10+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-10-21T13:34:53.224053+05:30"
+ },
+ {
+  "id": "d18a4fb10a7c",
+  "headline": "Jio Reaches Historic IPO Milestone Within Hours",
+  "the_number": "-",
+  "why_it_matters": "Achieves full subscription a decade after disrupting India's telecom sector.",
+  "founder_takeaway": "Long-term industry disruption can culminate in historic capital market milestones.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/ipo/jio-has-record-ipo-fully-subscribed-within-hours-11792562581882.html",
+  "source": "Mint Markets",
+  "score": 9,
+  "date": "2026-10-21T11:37:31+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-10-21T13:34:53.224053+05:30"
+ },
+ {
   "id": "69f0cc0de863",
   "headline": "RBI Infuses $10.5 Billion Liquidity Through Repo Operation",
   "the_number": "$10.53 billion",
@@ -1231,6 +1322,94 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-21T07:53:29.942094+05:30"
+ },
+ {
+  "id": "fec8c3cd70ee",
+  "headline": "Anthropic Posts Over $80 Billion First-Half Loss",
+  "the_number": ">$80B",
+  "why_it_matters": "Enormous capital expenditure and accounting costs highlight generative AI development intensity.",
+  "founder_takeaway": "Frontier AI development demands unprecedented amounts of sustaining capital.",
+  "sentiment": "Neutral",
+  "category": "Earnings",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-recorded-net-loss-of-over-80-billion-in-first-half-of-this-year-wsj-reports/articleshow/135079928.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-10-21T07:41:42+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T13:34:53.224053+05:30"
+ },
+ {
+  "id": "2e8ef96ebc4d",
+  "headline": "OYO Parent Plans to Halve IPO Fresh Issue",
+  "the_number": "Rs 3,350 Cr",
+  "why_it_matters": "Strong internal cash generation lowers OYO's public market dilution needs.",
+  "founder_takeaway": "Strong cash flows reduce reliance on excessive public market dilution.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "OYO",
+   "PRISM"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.business-standard.com/companies/news/oyo-parent-to-nearly-halve-ipo-fresh-issue-size-to-up-to-3-350-crore-126102000460_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-10-20T22:55:44+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T13:34:53.224053+05:30"
+ },
+ {
+  "id": "0549bc033e71",
+  "headline": "Rupee Reaches Six-Week High Driven by Jio Inflows",
+  "the_number": "-",
+  "why_it_matters": "Foreign inflows for mega offerings strengthen domestic currency and liquidity.",
+  "founder_takeaway": "Macro currency tailwinds often track large marquee corporate capital raises.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTW50dk9NZE9aaGFzX24yNmxGN19HMlRSd29NajBxMFVXdDQ5RUVHYUVGTVBFX21jZDM4bnNVVXVFVE1jOHowcUpVWHJnNUZkSEVxaS1samY5ems0MEtqUUJGWm9OS0dmZGp1bmVkcEp3cTVMbmRkTi04LXpzT0lFQlhFYm9RbnZVYXM3ZkJoTTVBYlRLS3dvY1FRNmFrcDJFSXI3Qm9zMGk5TlZp?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 8,
+  "date": "2026-10-21T03:07:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T13:34:53.224053+05:30"
  },
  {
   "id": "1235b5baabc0",
@@ -3084,5 +3263,95 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-21T07:53:29.942094+05:30"
+ },
+ {
+  "id": "4f98645a632e",
+  "headline": "Anthropic to Allocate 5% Shares for Public Fund",
+  "the_number": "5%",
+  "why_it_matters": "Pre-IPO AI giants are structuring formal mechanisms for broad societal benefit.",
+  "founder_takeaway": "Commit equity early to public interest initiatives before listing publicly.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ahead-of-massive-ipos-ai-companies-are-sketching-plans-to-share-their-wealth/articleshow/135080049.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-10-21T07:50:00+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T13:34:53.224053+05:30"
+ },
+ {
+  "id": "fd175831437e",
+  "headline": "India E-Commerce to Top $90B in 2026",
+  "the_number": "$90b",
+  "why_it_matters": "Indian retail expands rapidly as grocery overtakes mobile phones online.",
+  "founder_takeaway": "E-commerce expansion is shifting heavily toward daily essential grocery categories.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "quick commerce",
+   "other"
+  ],
+  "companies": [
+   "Redseer"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://yourstory.com/2026/10/online-retail-market-to-cross-90b-in-2026-with-grocery-overtaking-mobiles-redseer",
+  "source": "YourStory",
+  "score": 7,
+  "date": "2026-10-20T13:53:53+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T13:34:53.224053+05:30"
+ },
+ {
+  "id": "b275807812b7",
+  "headline": "OpenAI Acquires Biotech Startup Orchestra Bio",
+  "the_number": "-",
+  "why_it_matters": "OpenAI integrates life sciences technology to accelerate AI experiment planning tools.",
+  "founder_takeaway": "Bolster core vertical AI models by acqui-hiring specialized niche startups.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "AI",
+   "healthtech"
+  ],
+  "companies": [
+   "OpenAI",
+   "Orchestra Bio"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+  "source": "TechCrunch",
+  "score": 7,
+  "date": "2026-10-20T20:35:10+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-21T13:34:53.224053+05:30"
  }
 ]
