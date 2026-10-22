@@ -118,6 +118,65 @@
   "first_seen": "2026-10-21T19:33:19.102437+05:30"
  },
  {
+  "id": "6679013f5663",
+  "headline": "RBI hikes repo rate by 25 bps amid inflation",
+  "the_number": "25 basis points",
+  "why_it_matters": "Rising benchmark rates pause rate cuts and elevate borrowing costs across sectors.",
+  "founder_takeaway": "Prepare for sustained higher borrowing costs and tighter capital conditions.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "fintech",
+   "other"
+  ],
+  "companies": [
+   "RBI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-flags-widening-inflation-risks-puts-rate-cuts-on-ice/articleshow/135103555.cms",
+  "source": "Economic Times Markets",
+  "score": 10,
+  "date": "2026-10-22T01:22:04+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-10-22T07:53:46.438802+05:30"
+ },
+ {
+  "id": "ad98ac0f3848",
+  "headline": "Jio Platforms IPO subscribed 3.15x on day one",
+  "the_number": "₹30,213 Cr",
+  "why_it_matters": "High institutional interest confirms robust appetite for mega public offerings.",
+  "founder_takeaway": "Quality tech and telecom mega-offerings command strong institutional interest.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 8,
+  "url": "https://inc42.com/buzz/jio-platforms-ipo-qib-quota-booked-within-minutes-issue-subscribed-58-so-far/",
+  "source": "Inc42",
+  "score": 10,
+  "date": "2026-10-21T13:56:34+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T07:53:46.438802+05:30"
+ },
+ {
   "id": "030edb54f44f",
   "headline": "Jio Platforms Plans Rs 30,213-Crore IPO In October",
   "the_number": "Rs 30,213-crore",
@@ -417,6 +476,94 @@
   "archive_url": null,
   "unconfirmed": true,
   "first_seen": "2026-10-21T13:34:53.224053+05:30"
+ },
+ {
+  "id": "4f7c455dafe1",
+  "headline": "Flapping Airplanes raises $1B Series A valuation",
+  "the_number": "$1B",
+  "why_it_matters": "High-capital rounds persist for foundation models seeking efficient data training.",
+  "founder_takeaway": "Novel model training paradigms attract enormous capital despite early stage.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Flapping Airplanes"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 1000,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+  "source": "TechCrunch",
+  "score": 9,
+  "date": "2026-10-21T20:57:40+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-10-22T07:53:46.438802+05:30"
+ },
+ {
+  "id": "8e40d39c9399",
+  "headline": "Meta ordered to pay $25B over privacy practices",
+  "the_number": "$25B",
+  "why_it_matters": "Regulatory and legal enforcement on user privacy creates historic financial liabilities.",
+  "founder_takeaway": "Neglecting user data governance risks crippling, multibillion-dollar regulatory penalties.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Meta"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
+  "source": "TechCrunch",
+  "score": 9,
+  "date": "2026-10-21T19:42:32+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T07:53:46.438802+05:30"
+ },
+ {
+  "id": "4960e1be9e7e",
+  "headline": "Eternal expects faster Blinkit growth as profits double",
+  "the_number": "-",
+  "why_it_matters": "Quick commerce scale drives strong quarterly profit improvement for Eternal.",
+  "founder_takeaway": "Operational efficiency in quick commerce can rapidly double company-wide profitability.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Eternal",
+   "Blinkit"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 7,
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNWlrdnFzcnJPc0I5SUw2NTAwbFphdVNrZ1hhYXJDWVZPODUwQkxEZnliQ3lfUkUwVFJaSm9wc3JFLXk3cHlRaGZWeF9LbnB5cnNRMVEzaWxHZVVGVjQ3cE1KZnoxWE5hamIyTHlCbFdVVU5zZHV1bGtWMmlVckRPRFFfeGQyaFZqRDlhWTNON0ZYaS1vaWhkeHdzR2Z6cWV0UkJkY3B0cjIzcjNkT1JUQVdGR1ZoWTZwQjg3cEdXT282aUww?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 9,
+  "date": "2026-10-21T13:32:41+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T07:53:46.438802+05:30"
  },
  {
   "id": "69f0cc0de863",
@@ -1591,6 +1738,97 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-21T19:33:19.102437+05:30"
+ },
+ {
+  "id": "ac934075d9e7",
+  "headline": "Meta Ordered to Pay $25 Billion Over Privacy Violations",
+  "the_number": "$25 billion",
+  "why_it_matters": "Enormous regulatory and legal liabilities can arise from historical data privacy breaches.",
+  "founder_takeaway": "Take user data privacy seriously to avoid existential penalties.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Meta",
+   "Cambridge Analytica"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/tech/technology/meta-ordered-to-pay-new-mexico-25-billion-after-jury-finds-it-deceived-facebook-users-about-privacy/articleshow/135097554.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-10-21T22:57:47+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T07:53:46.438802+05:30"
+ },
+ {
+  "id": "22ea4ec26df9",
+  "headline": "Carlsberg India Plans $700 Million IPO Filing",
+  "the_number": "$700 million",
+  "why_it_matters": "Large multinational subsidiaries continue tapping Indian public equity markets.",
+  "founder_takeaway": "Favorable public market conditions offer strong fundraising avenues.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Carlsberg India"
+  ],
+  "geography": "India",
+  "amount_usd_m": 700,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/carlsberg-india-prepares-to-file-ipo-papers-this-week-eyes-700-million-126102100539_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-10-21T13:39:54+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T07:53:46.438802+05:30"
+ },
+ {
+  "id": "76a2bf6c637c",
+  "headline": "Blacksmith Raises $66 Million at Unicorn Valuation",
+  "the_number": "$66 Mn",
+  "why_it_matters": "AI-focused developer tooling continues commanding top-tier market valuations.",
+  "founder_takeaway": "Specialized AI software solutions can attract premium unicorn valuations.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI",
+   "SaaS"
+  ],
+  "companies": [
+   "Blacksmith",
+   "Peak XV Partners",
+   "Sequoia"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 66,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://inc42.com/buzz/peak-xv-backed-ai-startup-blacksmith-nets-66-mn-at-a-unicorn-valuation/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-10-21T16:00:27+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T07:53:46.438802+05:30"
  },
  {
   "id": "1235b5baabc0",
