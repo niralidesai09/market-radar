@@ -566,6 +566,65 @@
   "first_seen": "2026-10-22T07:53:46.438802+05:30"
  },
  {
+  "id": "5e16afa88c33",
+  "headline": "DeepSeek Raises Nearly $15 Billion Challenging US AI Labs",
+  "the_number": "$14.98 billion",
+  "why_it_matters": "Massive capital injection intensifies the global AI race against US rivals.",
+  "founder_takeaway": "Frontier AI development requires access to unprecedented scale of capital.",
+  "sentiment": "Neutral",
+  "category": "Funding",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "DeepSeek"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 14980,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseek-raises-15-billion-in-challenge-to-leading-us-labs/articleshow/135105489.cms",
+  "source": "Economic Times Tech",
+  "score": 9,
+  "date": "2026-10-22T08:26:44+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T18:34:48.863662+05:30"
+ },
+ {
+  "id": "e093521890f1",
+  "headline": "Legal AI Startup Legora Raises $550M Series E",
+  "the_number": "$550 million",
+  "why_it_matters": "High-tier valuations persist for specialized vertical AI platforms.",
+  "founder_takeaway": "Vertical AI software command massive premiums at late stages.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI",
+   "SaaS"
+  ],
+  "companies": [
+   "Legora"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 550,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+  "source": "TechCrunch",
+  "score": 9,
+  "date": "2026-10-21T18:51:56+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-10-22T18:34:48.863662+05:30"
+ },
+ {
   "id": "69f0cc0de863",
   "headline": "RBI Infuses $10.5 Billion Liquidity Through Repo Operation",
   "the_number": "$10.53 billion",
@@ -1829,6 +1888,250 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-22T07:53:46.438802+05:30"
+ },
+ {
+  "id": "362134465d50",
+  "headline": "Swiggy Q2 Loss Narrows YoY to Rs 922 Crore",
+  "the_number": "Rs 922 crore",
+  "why_it_matters": "Topline growth continues while profitability improves on a yearly basis.",
+  "founder_takeaway": "Balance YoY bottom-line reduction with sequential margin discipline.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Swiggy"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 4,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/swiggy-q2-results-loss-narrows-yoy-to-rs-922-crore-revenue-up-36/articleshow/135115858.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-10-22T15:57:08+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T18:34:48.863662+05:30"
+ },
+ {
+  "id": "2a10baba4c67",
+  "headline": "SBI Securities Offers 60% Leverage for Jio Platforms IPO",
+  "the_number": "60%",
+  "why_it_matters": "IPO financing products provide leverage to boost retail and HNI bids.",
+  "founder_takeaway": "Brokerage leverage can significantly magnify public issue participation rates.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "fintech",
+   "other"
+  ],
+  "companies": [
+   "SBI Securities",
+   "Jio Platforms Ltd"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-leverage-play-pops-up-at-sbi-as-india-brokers-lure-ipo-bets/articleshow/135114335.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-10-22T14:51:01+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T18:34:48.863662+05:30"
+ },
+ {
+  "id": "b75bf77ceb79",
+  "headline": "Eternal Q2 Profit Soars 92% to Rs 125 Crore",
+  "the_number": "Rs 125 crore",
+  "why_it_matters": "Rapid profit expansion validates operating leverage across food delivery and quick commerce.",
+  "founder_takeaway": "Operating leverage unlocks exponential profit growth once scale is achieved.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Eternal",
+   "Zomato",
+   "Blinkit"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 6,
+  "url": "https://economictimes.indiatimes.com/tech/startups/eternal-q2-results-profit-soars-92-yoy-to-rs-125-crore-revenue-surges-78/articleshow/135090087.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-10-21T15:36:28+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T18:34:48.863662+05:30"
+ },
+ {
+  "id": "870db0f58a4b",
+  "headline": "Meta Hit With $25 Billion Privacy Penalty in Court",
+  "the_number": "$25 billion",
+  "why_it_matters": "Enormous legal penalties reflect escalating regulatory risks over consumer privacy violations.",
+  "founder_takeaway": "Lax consumer privacy compliance can trigger crippling judicial penalties.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Meta"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://www.livemint.com/companies/news/43-million-willful-violations-here-s-why-meta-has-been-ordered-to-pay-25-billion-in-privacy-case-11792656112112.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-22T13:56:05+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T18:34:48.863662+05:30"
+ },
+ {
+  "id": "d7893324bb3b",
+  "headline": "Motilal Oswal Bids in Ola Electric's Rights Issue",
+  "the_number": "Rs 1,000 crore",
+  "why_it_matters": "Institutional backing supports Ola Electric's ongoing rights issue funding effort.",
+  "founder_takeaway": "Rights issues allow existing investors to inject fresh capital.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "EV"
+  ],
+  "companies": [
+   "Motilal Oswal Financial Services",
+   "Calliope Capital Advisors",
+   "Ola Electric Mobility"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/technology/ola-electric-rights-issue-motilal-oswal-entities-apply-for-2-39-crore-shares/articleshow/135108718.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-10-22T11:12:48+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T18:34:48.863662+05:30"
+ },
+ {
+  "id": "8cfc564d3379",
+  "headline": "Reliance Jio IPO Nears 3.76x Subscription On Day 2",
+  "the_number": "3.76x",
+  "why_it_matters": "Institutional investors drive robust appetite for massive telecom and digital listings.",
+  "founder_takeaway": "Institutional backing remains vital for clearing mega-scale public market debuts.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance Jio"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-gmp-today-day-2-subscription-nears-3-76x-qib-nii-or-retail-which-segment-is-driving-biggest-demand-11792652142369.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-10-22T13:28:04+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T18:34:48.863662+05:30"
+ },
+ {
+  "id": "f722c42e9d89",
+  "headline": "Blacksmith Raises $66M Series C At $1B Valuation",
+  "the_number": "$66 million",
+  "why_it_matters": "AI developer tools command premium valuations from top global venture investors.",
+  "founder_takeaway": "Specialized AI workflow tooling can rapidly reach unicorn status globally.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI",
+   "SaaS"
+  ],
+  "companies": [
+   "Blacksmith",
+   "Sequoia Capital",
+   "Premji Invest",
+   "Peak XV Partners",
+   "Google Ventures",
+   "Y Combinator"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 66,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://entrackr.com/news/blacksmith-raises-66-mn-at-1-bn-valuation-led-by-sequoia-12696481",
+  "source": "Entrackr",
+  "score": 8,
+  "date": "2026-10-21T19:40:04+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T18:34:48.863662+05:30"
+ },
+ {
+  "id": "8970a44b5bb8",
+  "headline": "Apple India Revenue Crosses Rs 1 Lakh Crore In FY26",
+  "the_number": "Rs 1,03,853 Cr",
+  "why_it_matters": "Surging demand for premium devices drives massive revenue and profit growth.",
+  "founder_takeaway": "Indian consumers are increasingly willing to pay for premium products.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Apple India"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://entrackr.com/fintrackr/apple-indias-revenue-crosses-rs-1-lakh-cr-in-fy26-profit-jumps-66-to-rs-5311-cr-12695417",
+  "source": "Entrackr",
+  "score": 8,
+  "date": "2026-10-21T14:31:22+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T18:34:48.863662+05:30"
  },
  {
   "id": "1235b5baabc0",
