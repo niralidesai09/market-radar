@@ -625,6 +625,125 @@
   "first_seen": "2026-10-22T18:34:48.863662+05:30"
  },
  {
+  "id": "a9a604210c8a",
+  "headline": "Jio Platforms IPO Sees Record QIB Demand",
+  "the_number": "Rs 30,213-crore",
+  "why_it_matters": "Institutional appetite remains massive for mega-cap Indian tech offerings.",
+  "founder_takeaway": "Strong institutional backing drives public market confidence.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms",
+   "NSE"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 5,
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/record-galore-jio-ipo-claims-crown-for-highest-qib-demand-among-indias-5-largest-issues-edges-past-nse/articleshow/135120259.cms",
+  "source": "Economic Times Markets",
+  "score": 9,
+  "date": "2026-10-22T18:51:18+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T23:35:57.751424+05:30"
+ },
+ {
+  "id": "2584b4244c87",
+  "headline": "DeepSeek Raises $15 Billion In Massive Funding Round",
+  "the_number": "$15 billion",
+  "why_it_matters": "Chinese AI labs are securing historic capital to rival US frontrunners.",
+  "founder_takeaway": "Frontier AI battles demand unprecedented war chests.",
+  "sentiment": "Neutral",
+  "category": "Funding",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "DeepSeek",
+   "Anthropic",
+   "OpenAI"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 15000,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/companies/news/deepseek-raises-15-billion-to-challenge-anthropic-openai-and-other-us-ai-labs-11792649782182.html",
+  "source": "Mint Companies",
+  "score": 9,
+  "date": "2026-10-22T11:50:13+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T23:35:57.751424+05:30"
+ },
+ {
+  "id": "60a1bcb6be53",
+  "headline": "Reliance Jio IPO Subscription Climbs to 5.57 Times",
+  "the_number": "5.57 times",
+  "why_it_matters": "Broad investor categories show rising participation across all tranches.",
+  "founder_takeaway": "Tiered investor demand helps sustain IPO momentum.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-subscription-status-day-1-day-2-check-qib-nii-retail-employee-ril-shareholders-wise-data-details-11792681049708.html",
+  "source": "Mint Markets",
+  "score": 9,
+  "date": "2026-10-22T20:33:05+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-10-22T23:35:57.751424+05:30"
+ },
+ {
+  "id": "1f3379e7aef6",
+  "headline": "Akash Ambani Leads As Jio Moves Towards Public Listing",
+  "the_number": "-",
+  "why_it_matters": "Leadership succession takes center stage during critical conglomerate market milestones.",
+  "founder_takeaway": "Succession clarity signals stability to public investors.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS3dHMi01b1EtNXE0S2Zhcm80ejNLZlg3YWpEaTBkazB5aVhpRmhzNHpsSFdrSDZhQW9EUktWaU5QMV9yYW1VY0thWUZCNHUwX2lkRXhST0hYaUp0RmdIRUVnWHJheTREV2w2ZlJaZXg0NFRGbFFTenRFTzRjUDNjRXlLQlVyVjVNOFJLWlpqUVdmc1JyeF9qOTRJYVNsYWdhTWE5YmJRdTYzczNNNFhj?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 9,
+  "date": "2026-10-22T10:26:23+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-10-22T23:35:57.751424+05:30"
+ },
+ {
   "id": "69f0cc0de863",
   "headline": "RBI Infuses $10.5 Billion Liquidity Through Repo Operation",
   "the_number": "$10.53 billion",
@@ -2132,6 +2251,246 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-22T18:34:48.863662+05:30"
+ },
+ {
+  "id": "31c0c0f4ab88",
+  "headline": "Anthropic Plans IPO Amid Volatile Market Environment",
+  "the_number": "-",
+  "why_it_matters": "Public market appetite for AI companies faces intense institutional scrutiny.",
+  "founder_takeaway": "Public listings in rocky markets require strong differentiation.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic",
+   "Oura"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-stands-alone-as-ai-market-jitters-sideline-others/articleshow/135121938.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-10-22T20:46:29+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T23:35:57.751424+05:30"
+ },
+ {
+  "id": "f7e14ffd4330",
+  "headline": "Swiggy Eyes Instamart Margin Boost Via Inventory Shift",
+  "the_number": "80 bps",
+  "why_it_matters": "Transitioning to direct inventory models can enhance unit economics significantly.",
+  "founder_takeaway": "Owning inventory unlocks greater margin and operational control.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Swiggy",
+   "Instamart"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 6,
+  "url": "https://economictimes.indiatimes.com/tech/technology/swiggy-to-transition-to-indian-owned-entity-starting-q3fy27-eyes-80-bps-instamart-margin-boost/articleshow/135120230.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-10-22T18:57:42+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T23:35:57.751424+05:30"
+ },
+ {
+  "id": "70ced13594b9",
+  "headline": "Meta Ordered to Pay $25 Billion Privacy Penalty",
+  "the_number": "$25 billion",
+  "why_it_matters": "Meta faces massive penalty over consumer data privacy violations.",
+  "founder_takeaway": "Data privacy compliance must be prioritized to prevent massive liabilities.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Meta"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/companies/news/meta-ordered-to-pay-a-25-billion-penalty-what-data-privacy-case-will-impact-value-of-zuckerberg-company-new-mexico-11792630656853.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-22T06:47:19+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T23:35:57.751424+05:30"
+ },
+ {
+  "id": "069fcc115e78",
+  "headline": "Eternal Q2FY27 Net Profit Jumps 92% to ₹125 Crore",
+  "the_number": "₹125 crore",
+  "why_it_matters": "Blinkit and Zomato drove surging adjusted Ebitda and 78% revenue growth.",
+  "founder_takeaway": "Marketplace scale and subsidiary growth can rapidly accelerate profitability.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Eternal",
+   "Zomato",
+   "Blinkit"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.business-standard.com/companies/quarterly-results/eternal-q2fy27-net-profit-jumps-92-to-125-crore-revenue-rises-78-126102101130_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-10-21T18:51:32+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T23:35:57.751424+05:30"
+ },
+ {
+  "id": "667b3b52e62f",
+  "headline": "Swiggy Stock Drops 26% in Month to Record Low",
+  "the_number": "-26%",
+  "why_it_matters": "Foreign portfolio investors reduced their holdings as Swiggy hit record lows.",
+  "founder_takeaway": "Post-IPO stock stability requires continuous institutional confidence and backing.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Swiggy"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/swiggy-slips-26-in-1-month-hits-record-low-stock-down-46-from-ipo-price-126102200468_1.html",
+  "source": "Business Standard Markets",
+  "score": 8,
+  "date": "2026-10-22T12:29:48+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T23:35:57.751424+05:30"
+ },
+ {
+  "id": "566605fcbc6a",
+  "headline": "Swiggy to Begin Instamart Inventory Model Transition",
+  "the_number": "-",
+  "why_it_matters": "Achieving Indian-owned status lets Swiggy shift Instamart to an inventory model.",
+  "founder_takeaway": "Regulatory restructuring can create opportunities to pivot operational models.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Swiggy",
+   "Instamart"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/swiggy-to-begin-instamart-inventory-model-transition-eyes-pivot-within-three-quarters/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-10-22T16:56:53+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T23:35:57.751424+05:30"
+ },
+ {
+  "id": "5e0de5e0c992",
+  "headline": "Zetwerk IPO Yields 38.3X Returns for Early Backers",
+  "the_number": "38.3X",
+  "why_it_matters": "Early venture backers achieved up to 38.3X returns in Zetwerk's IPO.",
+  "founder_takeaway": "Patience in B2B manufacturing can generate massive venture exits.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Zetwerk",
+   "Kae Capital",
+   "Kalysta Capital",
+   "Lightspeed"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/zetwerk-ipo-kae-capital-kalysta-bag-38-3x-returns-lightspeed-pockets-%e2%82%b9440-cr/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-10-22T13:29:58+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T23:35:57.751424+05:30"
+ },
+ {
+  "id": "6fe976e46aa8",
+  "headline": "Elon Musk Invests $1 Billion in Skydance",
+  "the_number": "$1 billion",
+  "why_it_matters": "Provides financial boost as company cuts costs and lifts stock price.",
+  "founder_takeaway": "Large capital infusions can support corporate cost-cutting turnarounds.",
+  "sentiment": "Neutral",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Skydance"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 1000,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
+  "source": "TechCrunch",
+  "score": 8,
+  "date": "2026-10-22T17:36:38+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-22T23:35:57.751424+05:30"
  },
  {
   "id": "1235b5baabc0",
