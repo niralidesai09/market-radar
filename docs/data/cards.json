@@ -744,6 +744,123 @@
   "first_seen": "2026-10-22T23:35:57.751424+05:30"
  },
  {
+  "id": "be8f777ceb65",
+  "headline": "Jio Platforms IPO Over 5X Subscribed on Day 3",
+  "the_number": "₹30,213 crore",
+  "why_it_matters": "High demand signals robust market appetite for massive tech-telecom public offerings.",
+  "founder_takeaway": "Strong profitability and telecom leadership build solid public market demand.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 4,
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-day-3-gmp-at-22-issue-subscribed-over-5x-check-brokerage-views-and-key-details/articleshow/135134397.cms",
+  "source": "Economic Times Markets",
+  "score": 9,
+  "date": "2026-10-23T10:06:55+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-23T12:30:33.490846+05:30"
+ },
+ {
+  "id": "ac8a60c16f49",
+  "headline": "Reliance Jio IPO Oversubscribed on Second Day",
+  "the_number": "5.57 times",
+  "why_it_matters": "Broad participation shows deep interest across institutional and non-institutional investors.",
+  "founder_takeaway": "Widespread investor category interest supports strong post-listing stability.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance Jio"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/reliance-jio-ipo-oversubscribed-should-investors-apply-or-avoid-or-buy-shares-after-listing-what-experts-suggest-11792663479297.html",
+  "source": "Mint Markets",
+  "score": 9,
+  "date": "2026-10-23T09:16:10+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-10-23T12:30:33.490846+05:30"
+ },
+ {
+  "id": "063850081e90",
+  "headline": "Zetwerk Makes Stock Market Debut at 5.5% Premium",
+  "the_number": "₹5,012 Cr",
+  "why_it_matters": "B2B manufacturing platforms can successfully list at a premium on public markets.",
+  "founder_takeaway": "B2B manufacturing models command positive market debuts.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Zetwerk"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://inc42.com/buzz/zetwerk-makes-nse-debut-at-5-5-premium-after-%e2%82%b95012-cr-ipo/",
+  "source": "Inc42",
+  "score": 9,
+  "date": "2026-10-23T04:36:10+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-23T12:30:33.490846+05:30"
+ },
+ {
+  "id": "c4c762c6b747",
+  "headline": "OpenAI Eyes $30B Raise at $1.25T Valuation",
+  "the_number": "$30B",
+  "why_it_matters": "Would establish the company as the highest valued private firm ever.",
+  "founder_takeaway": "Generative AI dominance can command unprecedented mega-round valuations.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "OpenAI"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 30000.0,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+  "source": "TechCrunch",
+  "score": 9,
+  "date": "2026-10-22T22:08:24+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-23T12:30:33.490846+05:30"
+ },
+ {
   "id": "69f0cc0de863",
   "headline": "RBI Infuses $10.5 Billion Liquidity Through Repo Operation",
   "the_number": "$10.53 billion",
@@ -2491,6 +2608,188 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-22T23:35:57.751424+05:30"
+ },
+ {
+  "id": "b7f83c026f4c",
+  "headline": "Swiggy Value Drops Rs 9,000 Cr on Instamart Losses",
+  "the_number": "₹9,000 crore",
+  "why_it_matters": "Widening quick-commerce losses trigger price target cuts and investor skepticism.",
+  "founder_takeaway": "Rapid quick-commerce scale must balance deteriorating contribution margins.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Swiggy",
+   "Instamart"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 14,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-9000-crore-wiped-out-in-a-day-why-swiggy-investors-are-losing-patience-with-instamart/articleshow/135136399.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-10-23T11:19:34+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-23T12:30:33.490846+05:30"
+ },
+ {
+  "id": "b28f75915095",
+  "headline": "Musk Considers SpaceX and Tesla Mega Merger",
+  "the_number": "-",
+  "why_it_matters": "A combination would merge two massive tech and EV leaders.",
+  "founder_takeaway": "Special committees allow formal evaluation of strategic company mergers.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "EV",
+   "other"
+  ],
+  "companies": [
+   "SpaceX",
+   "Tesla"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/technology/elon-musk-wants-to-merge-spacex-and-tesla-heres-what-to-know/articleshow/135133989.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-10-23T09:39:25+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-23T12:30:33.490846+05:30"
+ },
+ {
+  "id": "55e3a99d1b33",
+  "headline": "Zetwerk Manufacturing shares list at 5% premium over IPO",
+  "the_number": "5%",
+  "why_it_matters": "Zetwerk completes its public debut, securing fresh capital alongside shareholder liquidity.",
+  "founder_takeaway": "IPOs can combine fresh growth capital with secondary exits.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Zetwerk Manufacturing"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://economictimes.indiatimes.com/tech/technology/zetwerk-manufacturing-business-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/135134461.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-10-23T07:48:56+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-23T12:30:33.490846+05:30"
+ },
+ {
+  "id": "b4e5c534c797",
+  "headline": "Eternal Q2 Revenue Surges Driven by Blinkit Growth",
+  "the_number": "-",
+  "why_it_matters": "Blinkit's expansion powers Eternal's top-line performance.",
+  "founder_takeaway": "Quick commerce scale can significantly accelerate parent company revenue.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Eternal",
+   "Blinkit"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/eternals-strong-q2-report-exits-outpace-hiring-at-top-it-firms/articleshow/135103914.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-10-22T07:18:56+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-23T12:30:33.490846+05:30"
+ },
+ {
+  "id": "46b4b11704d6",
+  "headline": "Flipkart Pilots 'Eat-in by Minutes' in Bengaluru",
+  "the_number": "-",
+  "why_it_matters": "Flipkart challenges food delivery incumbents amid growing food services demand.",
+  "founder_takeaway": "Expanding food services markets attract deep-pocketed e-commerce giants.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "quick commerce",
+   "other"
+  ],
+  "companies": [
+   "Flipkart",
+   "Zomato",
+   "Swiggy"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/flipkart-tests-eat-in-by-minutes-in-bengaluru-to-challenge-zomato-swiggy-in-food-delivery-market-11792668070064.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-22T17:10:27+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-23T12:30:33.490846+05:30"
+ },
+ {
+  "id": "61bd68397566",
+  "headline": "Crude Oil Spikes 85% Threatening Global Growth",
+  "the_number": "85%",
+  "why_it_matters": "Brent crude above $113 threatens macroeconomic stability and inflation.",
+  "founder_takeaway": "Surging energy prices drive up logistics and operational expenditures.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Saudi Aramco",
+   "Mirae Asset Sharekhan"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/crude-oil-up-85-in-2026-poses-threat-to-global-economy-brent-may-hit-120-126102300498_1.html",
+  "source": "Business Standard Markets",
+  "score": 8,
+  "date": "2026-10-23T12:21:02+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-23T12:30:33.490846+05:30"
  },
  {
   "id": "1235b5baabc0",
