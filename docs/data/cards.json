@@ -890,6 +890,35 @@
   "first_seen": "2026-10-23T18:13:33.024659+05:30"
  },
  {
+  "id": "57484abcee0f",
+  "headline": "Jio Platforms Crosses One Crore Applications Setting Global Record",
+  "the_number": "1 crore",
+  "why_it_matters": "First issue globally to cross one crore investor applications.",
+  "founder_takeaway": "Unprecedented scale and brand trust drive record-shattering retail subscription numbers.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 8,
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-creates-history-first-issue-globally-to-cross-1-crore-applications/articleshow/135139371.cms",
+  "source": "Economic Times Markets",
+  "score": 9,
+  "date": "2026-10-23T13:18:47+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-23T23:25:24.074517+05:30"
+ },
+ {
   "id": "69f0cc0de863",
   "headline": "RBI Infuses $10.5 Billion Liquidity Through Repo Operation",
   "the_number": "$10.53 billion",
@@ -2998,6 +3027,130 @@
   "first_seen": "2026-10-23T18:13:33.024659+05:30"
  },
  {
+  "id": "ff67aec39948",
+  "headline": "RBI Governor Reiterates Mandatory Listing For Upper-Layer NBFCs",
+  "the_number": "-",
+  "why_it_matters": "Regulatory pressure mounts for top non-banking lenders to enter public markets.",
+  "founder_takeaway": "Regulatory compliance mandates listing timelines irrespective of company preference.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech",
+   "other"
+  ],
+  "companies": [
+   "Tata Sons"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-governor-reiterates-listing-requirement-for-top-nbfcs-as-focus-intensifies-on-tata-sons/articleshow/135149631.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-10-23T20:55:41+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-23T23:25:24.074517+05:30"
+ },
+ {
+  "id": "7869b1916cb7",
+  "headline": "Swiggy Narrows Losses In Second Quarter FY27",
+  "the_number": "-",
+  "why_it_matters": "Demonstrates positive top-line growth while cutting net losses.",
+  "founder_takeaway": "Prioritize sustainable revenue expansion to steadily narrow operational losses.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "quick commerce",
+   "other"
+  ],
+  "companies": [
+   "Swiggy",
+   "eMudhra"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 10,
+  "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/swiggy-narrows-loss-in-q2-emudhra-cofounder-on-what-went-wrong/articleshow/135131640.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-10-23T07:37:17+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-23T23:25:24.074517+05:30"
+ },
+ {
+  "id": "cb83dd264009",
+  "headline": "Eternal Scales Blinkit While Swiggy Prioritizes Instamart Efficiency",
+  "the_number": "-",
+  "why_it_matters": "Highlights contrasting market strategies between aggressive growth and unit efficiency.",
+  "founder_takeaway": "Choose clearly between blitzscaling market share and maximizing operational efficiency.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "quick commerce",
+   "other"
+  ],
+  "companies": [
+   "Eternal",
+   "Swiggy",
+   "Blinkit",
+   "Instamart",
+   "Toing"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/eternal-swiggy-blinkit-instamart-course-tough-market-quick-commerce-food-delivery-11792736732684.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-23T14:05:09+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-23T23:25:24.074517+05:30"
+ },
+ {
+  "id": "1a718913f4f4",
+  "headline": "Zetwerk Makes Market Debut Questioning Margin Expansion Viability",
+  "the_number": "$150 Mn",
+  "why_it_matters": "Public markets test whether massive scale alone can fix thin margins.",
+  "founder_takeaway": "Scaling operations must eventually yield improved operating profit margins.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Zetwerk"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://inc42.com/features/zetwerk-makes-its-market-debut-can-scale-alone-widen-its-thin-margins/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-10-23T13:16:38+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-23T23:25:24.074517+05:30"
+ },
+ {
   "id": "1235b5baabc0",
   "headline": "SEBI Reviews Derivatives Market Timings And Settlement",
   "the_number": "-",
@@ -5089,5 +5242,62 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-21T19:33:19.102437+05:30"
+ },
+ {
+  "id": "f93d4835b2b0",
+  "headline": "RBI targets curbing currency volatility over specific rupee levels",
+  "the_number": "-",
+  "why_it_matters": "RBI prioritizes orderly forex market conditions instead of defending specific levels.",
+  "founder_takeaway": "Manage foreign exchange risk without expecting fixed currency rates.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-does-not-target-any-specific-rupee-level-focuses-on-curbing-volatility-says-governor-sanjay-malhotra/articleshow/135148201.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-23T19:38:55+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-23T23:25:24.074517+05:30"
+ },
+ {
+  "id": "bf0ab20dcd18",
+  "headline": "Infosys ADRs Drop 6.3% After Lowering Growth Guidance",
+  "the_number": "6.3%",
+  "why_it_matters": "Guidance cuts and profit misses highlight cautious corporate technology spending.",
+  "founder_takeaway": "AI revenue growth provides resilience despite broader tech spending caution.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "Infosys"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/infosys-adrs-crash-6-after-q2-results-as-revenue-guidance-cut-spooks-investors/articleshow/135145145.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-23T17:33:48+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-23T23:25:24.074517+05:30"
  }
 ]
