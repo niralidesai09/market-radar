@@ -861,6 +861,35 @@
   "first_seen": "2026-10-23T12:30:33.490846+05:30"
  },
  {
+  "id": "b050c45ade68",
+  "headline": "Jio Platforms Crosses 1 Crore IPO Applications Record",
+  "the_number": "1 crore",
+  "why_it_matters": "Demonstrates massive depth and participation of India's retail investor base.",
+  "founder_takeaway": "Consumer-style marketing can effectively drive massive public participation.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 7,
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-becomes-first-public-issue-globally-to-cross-1-crore-applications-record-puts-spotlight-on-depth-of-indias-retail-investor-base/articleshow/135144742.cms",
+  "source": "Economic Times Markets",
+  "score": 9,
+  "date": "2026-10-23T17:26:48+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-23T18:13:33.024659+05:30"
+ },
+ {
   "id": "69f0cc0de863",
   "headline": "RBI Infuses $10.5 Billion Liquidity Through Repo Operation",
   "the_number": "$10.53 billion",
@@ -2790,6 +2819,183 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-23T12:30:33.490846+05:30"
+ },
+ {
+  "id": "2fed16dcc5d7",
+  "headline": "Anthropic Targets Mid-November IPO at $1.5 Trillion Valuation",
+  "the_number": "$1.5 trillion",
+  "why_it_matters": "Serves as a major litmus test for public market AI spending.",
+  "founder_takeaway": "Bold market timing can set precedents despite broader macro volatility.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-anthropic-presses-ahead-with-november-ipo-as-ai-listings-face-delays/articleshow/135139929.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-10-23T13:39:22+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-23T18:13:33.024659+05:30"
+ },
+ {
+  "id": "c24b6ef617f5",
+  "headline": "Zetwerk Debuts on Exchanges at 5.3% Listing Premium",
+  "the_number": "5.3%",
+  "why_it_matters": "B2B manufacturing platforms face listing volatility tied to broader market sentiment.",
+  "founder_takeaway": "Listing gains can erode swiftly amid weaker broader market conditions.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Zetwerk"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://economictimes.indiatimes.com/tech/technology/zetwerk-eyes-manufacturing-demand-from-ai-clean-energy-as-shares-debut/articleshow/135135770.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-10-23T11:12:20+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-23T18:13:33.024659+05:30"
+ },
+ {
+  "id": "91dd822fa4d1",
+  "headline": "Swiggy Shares Drop 14% Following Q2 Results",
+  "the_number": "Rs 922 crore",
+  "why_it_matters": "Widening EBITDA losses in quick commerce prompt analyst target price cuts.",
+  "founder_takeaway": "Revenue growth without bottom-line improvements can trigger steep market selloffs.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Swiggy",
+   "Jefferies",
+   "Nomura",
+   "Bernstein"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 13,
+  "url": "https://economictimes.indiatimes.com/tech/technology/swiggy-shares-tumble-over-8-after-q2-results-heres-why-jefferies-nomura-bernstein-cut-target-price/articleshow/135135738.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-10-23T09:33:20+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-23T18:13:33.024659+05:30"
+ },
+ {
+  "id": "4ac0bf1caf06",
+  "headline": "OpenAI Lowers Valuation Target and Delays IPO Plans",
+  "the_number": "$150 billion",
+  "why_it_matters": "Growing investor scrutiny over high AI expenditures dampens mega-round valuations.",
+  "founder_takeaway": "Valuation targets may require recalibration when investor sentiment tightens.",
+  "sentiment": "Bearish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "OpenAI"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 30000.0,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/openai-cuts-valuation-target-by-150-bn-to-1-25-tn-why-it-has-scaled-back-its-funding-ambitions-ahead-of-ipo-11792720384756.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-23T07:49:17+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-23T18:13:33.024659+05:30"
+ },
+ {
+  "id": "c5aed61e3f73",
+  "headline": "Reliance Jio Platforms ₹30,213 Crore IPO Subscribed 7.64x",
+  "the_number": "₹30,213 crore",
+  "why_it_matters": "Robust subscription numbers underline strong institutional appetite for telecommunications giants.",
+  "founder_takeaway": "Large offering sizes can absorb significant institutional capital efficiently.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/ipo/reliance-jio-ipo-what-todays-gmp-signals-last-few-hours-to-apply-latest-grey-market-premium-and-subscription-status-11792740992082.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-10-23T13:09:25+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-23T18:13:33.024659+05:30"
+ },
+ {
+  "id": "cc1ea2e142fa",
+  "headline": "Sensex Sinks 1,314 Points Amid High Crude",
+  "the_number": "1,314 pts",
+  "why_it_matters": "Surging crude oil prices introduce headwinds for oil-sensitive industries.",
+  "founder_takeaway": "Macro commodity pressures can quickly dampen broader equity sentiment.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "HST Wealth"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/market-crash-sensex-sinks-1-279-pts-from-day-s-high-nifty-tests-22-400-126102300346_1.html",
+  "source": "Business Standard Markets",
+  "score": 8,
+  "date": "2026-10-23T10:57:28+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-23T18:13:33.024659+05:30"
  },
  {
   "id": "1235b5baabc0",
