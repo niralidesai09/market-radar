@@ -177,6 +177,35 @@
   "first_seen": "2026-10-22T07:53:46.438802+05:30"
  },
  {
+  "id": "243751b51e35",
+  "headline": "Ambani's Jio becomes most subscribed Indian IPO",
+  "the_number": "$77 billion",
+  "why_it_matters": "Massive global demand drives unprecedented subscription volume for Jio.",
+  "founder_takeaway": "Mega public offerings can attract immense institutional capital globally.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVnRMTFMtTUhERkVlZG4zSVcxcm54ODQ5SXo5NGMxNmVZM2RSbjdqTko3NzB4Q053b09iMEJiX3dRd3Rpem9RQ2pDa1dVMFFOZG54WjhLMkdSbHpyQnF6OXpQbDhBd0ExQ0QyRFNXRm93Q0dfUEdCSllQdTBrUVNzRFUzTWc1OVZva3F0YkVDLUdyeEZvNFh1S1VhNVdMZjFDbVVFTDZPUk9MQVVMTEN1ZmRiX3BjaEJDNi00OWlLNDY?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 10,
+  "date": "2026-10-23T06:28:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T17:37:35.414927+05:30"
+ },
+ {
   "id": "030edb54f44f",
   "headline": "Jio Platforms Plans Rs 30,213-Crore IPO In October",
   "the_number": "Rs 30,213-crore",
@@ -946,6 +975,35 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-24T12:23:48.598224+05:30"
+ },
+ {
+  "id": "6c4a9d9f6825",
+  "headline": "Jio Platforms IPO secures massive 22x subscription",
+  "the_number": "₹7.41 lakh crore",
+  "why_it_matters": "Enormous bids show strong institutional faith despite secondary market trends.",
+  "founder_takeaway": "Institutional appetite remains strong for high-performing digital market leaders.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 5,
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/friday-blockbuster-for-jio-ipo-rs-7-4-lakh-crore-bids-22x-subscription/articleshow/135160249.cms",
+  "source": "Economic Times Markets",
+  "score": 9,
+  "date": "2026-10-24T08:16:08+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T17:37:35.414927+05:30"
  },
  {
   "id": "69f0cc0de863",
@@ -3462,6 +3520,93 @@
   "first_seen": "2026-10-24T12:23:48.598224+05:30"
  },
  {
+  "id": "533b54ced82b",
+  "headline": "Infosys Q2 profit rises but guidance is lowered",
+  "the_number": "Rs 7,823 crore",
+  "why_it_matters": "IT bellwether cuts revenue growth forecast to 1-2%.",
+  "founder_takeaway": "Manage expenses tightly when client revenue outlook softens.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Infosys Ltd"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/information-tech/infosys-q2-results-profit-rises-6-yoy-to-rs-7823-crore-co-lowers-revenue-guidance/articleshow/135144436.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-10-23T16:21:38+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T17:37:35.414927+05:30"
+ },
+ {
+  "id": "e9484a2b3af7",
+  "headline": "Reliance Jio Platforms IPO fully booked in 100 minutes",
+  "the_number": "22.19 times",
+  "why_it_matters": "Extraordinary speed of book closure reflects massive investor appetite.",
+  "founder_takeaway": "Pre-launch momentum can compress subscription timelines dramatically.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-overall-subscription-status-gmp-day-1-2-3-details-allotment-listing-date-share-price-prediction-11792766738298.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-10-23T20:21:06+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T17:37:35.414927+05:30"
+ },
+ {
+  "id": "88fe2f9bf4f1",
+  "headline": "Swiggy shares plunge to 52-week low post-Q2",
+  "the_number": "16.3%",
+  "why_it_matters": "Sharp stock fall indicates immediate post-earnings investor skepticism.",
+  "founder_takeaway": "Public markets penalize quarterly disappointments heavily.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Swiggy"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/swiggy-shares-plunge-17-to-52-week-low-after-q2-brokerages-cut-price-targets/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-10-23T06:22:28+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T17:37:35.414927+05:30"
+ },
+ {
   "id": "1235b5baabc0",
   "headline": "SEBI Reviews Derivatives Market Timings And Settlement",
   "the_number": "-",
@@ -5699,5 +5844,297 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-24T12:23:48.598224+05:30"
+ },
+ {
+  "id": "7e738d77e31d",
+  "headline": "Supreme Court judgment update on Yes Bank AT-1 bonds",
+  "the_number": "-",
+  "why_it_matters": "Legal clarity on AT-1 bonds impacts capital structure and liabilities.",
+  "founder_takeaway": "Regulatory and legal risks directly affect core balance sheet stability.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Yes Bank Limited"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Official",
+  "covered_by_count": 1,
+  "url": "https://nsearchives.nseindia.com/corporate/YESBANK_24102026172125_YBL_Stock_Exchange_Intimation_AT1_Bonds_Disclosure_signed.pdf",
+  "source": "NSE Announcements",
+  "score": 7,
+  "date": "2026-10-24T17:21:42+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": "archive/2026/10/7e738d77e31d.pdf",
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T17:37:35.414927+05:30"
+ },
+ {
+  "id": "207cc2870fc9",
+  "headline": "Instacart Explores Potential Sale Valued at Around $12 Billion",
+  "the_number": "$12 billion",
+  "why_it_matters": "A potential sale signals consolidation pressures in the grocery delivery market.",
+  "founder_takeaway": "Exits can occur via M&A even after going public.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Instacart"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 12000,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/startups/instacart-in-talks-for-sale-the-information/articleshow/135162186.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-10-24T10:19:29+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T17:37:35.414927+05:30"
+ },
+ {
+  "id": "3fc53f23247e",
+  "headline": "India to Release Consultation Paper on AI Law Soon",
+  "the_number": "-",
+  "why_it_matters": "Upcoming regulation will establish fundamental operating principles for AI ecosystems.",
+  "founder_takeaway": "Prepare AI architectures to align with emerging national regulatory frameworks.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/technology/govt-to-issue-consultation-paper-on-ai-law-in-coming-weeks-vaishnaw/articleshow/135152578.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-10-23T23:20:29+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T17:37:35.414927+05:30"
+ },
+ {
+  "id": "4d196c0a9644",
+  "headline": "Volkswagen Freezes India EV Investments Amid JSW Partnership Talks",
+  "the_number": "-",
+  "why_it_matters": "Global automakers face severe cost and competitive pressures in India.",
+  "founder_takeaway": "Local partnerships are vital to build cost-competitive EV platforms.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "EV"
+  ],
+  "companies": [
+   "Volkswagen",
+   "JSW Group"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/companies/news/volkswagen-freezes-india-ev-investment-amid-jsw-talks-what-the-pause-means-for-its-electric-car-plans-11792841759828.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-24T17:21:38+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T17:37:35.414927+05:30"
+ },
+ {
+  "id": "d40b54068cf6",
+  "headline": "SpaceX $40 Billion AI Debt Plan Encounters Market Turmoil",
+  "the_number": "$40 billion",
+  "why_it_matters": "Rising borrowing costs complicate massive off-balance-sheet AI infrastructure funding.",
+  "founder_takeaway": "Debt-funded tech expansion remains highly exposed to macroeconomic volatility.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "SpaceX"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/spacexs-40-billion-ai-debt-plan-faces-market-turmoil-can-investors-stomach-the-growing-borrowing-risks-11792809682686.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-24T08:22:14+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T17:37:35.414927+05:30"
+ },
+ {
+  "id": "12761f515468",
+  "headline": "Parsi Groups Petition PM Modi on Tata Sons Listing",
+  "the_number": "-",
+  "why_it_matters": "Tata Sons' potential listing sparks tensions between compliance and tradition.",
+  "founder_takeaway": "Balancing regulatory requirements with institutional heritage can create friction.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Sons",
+   "Tata Group"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/tata-sons-listing-row-parsi-zoroastrian-groups-write-to-pm-modi-in-support-of-tata-trusts-11792775937728.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-23T23:15:52+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T17:37:35.414927+05:30"
+ },
+ {
+  "id": "a937e19295c4",
+  "headline": "JSW Steel Q2 Profit Triples and Approves Fresh Capex",
+  "the_number": "₹16,150 crore",
+  "why_it_matters": "Strong domestic steel demand reinforces heavy manufacturing expansion in India.",
+  "founder_takeaway": "High realisations offer a strong cushion to fund capex.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "JSW Steel"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/company-results/jsw-steel-profit-more-than-triples-on-strong-demand-beats-street-estimates-11792764827881.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-23T22:04:32+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T17:37:35.414927+05:30"
+ },
+ {
+  "id": "2422db8e025f",
+  "headline": "Infosys Lowers Annual Revenue Growth Forecast to 1%-2%",
+  "the_number": "1%-2%",
+  "why_it_matters": "Lower revenue guidance highlights ongoing growth headwinds in IT services.",
+  "founder_takeaway": "Trim forecasts realistically when broader client IT spending slows down.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Infosys"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/company-results/infosys-q2-results-revenue-growth-forecast-11792753857538.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-23T16:50:14+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T17:37:35.414927+05:30"
+ },
+ {
+  "id": "99309589059a",
+  "headline": "Goldman Sachs Downgrades Ola Electric to Sell Target ₹23",
+  "the_number": "₹23",
+  "why_it_matters": "Mounting losses and cash flow weakness create major EV headwinds.",
+  "founder_takeaway": "Operational challenges and high interest costs quickly undermine investor faith.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "EV"
+  ],
+  "companies": [
+   "Ola Electric",
+   "Goldman Sachs"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/goldman-sachs-ola-electric-downgrade-why-stock-rating-changed-to-sell-23-downside-seen-new-target-price-rationale-11792817294346.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-24T10:50:11+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T17:37:35.414927+05:30"
+ },
+ {
+  "id": "61113c36b04d",
+  "headline": "Sebi Bars Avadhut Sathe, Imposes Penalty And Refund Order",
+  "the_number": "₹546.17 crore",
+  "why_it_matters": "Regulator penalizes unregistered advisory services, ordering massive investor refunds.",
+  "founder_takeaway": "Ensure full regulatory compliance before offering financial training services.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech",
+   "edtech"
+  ],
+  "companies": [
+   "ASTAPL"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/sebi-bars-avadhut-sathe-academy-from-markets-imposes-11-5-crore-penalty-11792771771945.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-23T22:46:34+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T17:37:35.414927+05:30"
  }
 ]
