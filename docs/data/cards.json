@@ -919,6 +919,35 @@
   "first_seen": "2026-10-23T23:25:24.074517+05:30"
  },
  {
+  "id": "9fba898e70c6",
+  "headline": "Jio IPO Fully Subscribed in 100 Minutes",
+  "the_number": "1.4 crore",
+  "why_it_matters": "Unprecedented speed and demand set records across major Indian IPOs.",
+  "founder_takeaway": "Exceptional brand equity can secure lightning-fast investor commitments.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 8,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-breaks-multiple-records-from-fundraising-to-investor-demand-how-the-mega-issue-rewrote-indias-ipo-history/articleshow/135163295.cms",
+  "source": "Economic Times Markets",
+  "score": 9,
+  "date": "2026-10-24T11:20:10+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T12:23:48.598224+05:30"
+ },
+ {
   "id": "69f0cc0de863",
   "headline": "RBI Infuses $10.5 Billion Liquidity Through Repo Operation",
   "the_number": "$10.53 billion",
@@ -3151,6 +3180,288 @@
   "first_seen": "2026-10-23T23:25:24.074517+05:30"
  },
  {
+  "id": "884821c113d6",
+  "headline": "Swiggy Falls 16.4% on Quick-Commerce Loss Concerns",
+  "the_number": "16.4%",
+  "why_it_matters": "Widening quick-commerce cash burn triggers a record post-debut low.",
+  "founder_takeaway": "Public markets punish widening segment losses without visible profitability.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Swiggy"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 5,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-falls-16-to-new-low-qcomm-losses-spook-street/articleshow/135160761.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-10-24T08:43:22+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T12:23:48.598224+05:30"
+ },
+ {
+  "id": "7e5941a316b1",
+  "headline": "Weekly Startup Funding Reaches $246M, Down 27%",
+  "the_number": "$246 million",
+  "why_it_matters": "Funding slips year-on-year despite large deals in healthcare and AI.",
+  "founder_takeaway": "Investors remain selective, concentrating capital into high-conviction rounds.",
+  "sentiment": "Neutral",
+  "category": "Funding",
+  "sector_tags": [
+   "healthtech",
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "Even Healthcare",
+   "Different",
+   "Baba Care",
+   "AuxoAI",
+   "General Catalyst",
+   "Blume Ventures",
+   "Hunar.AI",
+   "Harajuku",
+   "Seedstars",
+   "Karta"
+  ],
+  "geography": "India",
+  "amount_usd_m": 246.0,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/startups/ettech-deals-digest-even-different-lead-as-weekly-funding-hits-246-million-down-27-on-year/articleshow/135152641.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-10-23T23:25:26+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T12:23:48.598224+05:30"
+ },
+ {
+  "id": "5bd1a1344e7c",
+  "headline": "Amazon AWS Capacity Nearly Sold Out Through 2027",
+  "the_number": "$220 billion",
+  "why_it_matters": "Surging AI demand outpaces infrastructure capacity despite huge planned capex.",
+  "founder_takeaway": "Compute supply shortages create massive tailwinds for infrastructure builders.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Amazon",
+   "AWS"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/amazons-cloud-is-nearly-sold-out-through-2027-can-its-ai-spending-keep-up-with-demand-11792813908903.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-24T09:37:12+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T12:23:48.598224+05:30"
+ },
+ {
+  "id": "a1c7b46c6ad8",
+  "headline": "Reliance Jio IPO Subscribed 22.19 Times",
+  "the_number": "70.55 times",
+  "why_it_matters": "Becomes India's biggest-ever offering, outstripping Hyundai's 2024 record.",
+  "founder_takeaway": "Institutional subscription power can make historic mega-IPOs massive successes.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance Jio Platforms",
+   "Hyundai Motor India",
+   "NSE"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/market/stock-market-news/ipo-subscription-status-comparison-reliance-jio-ipo-vs-hyundai-ipo-vs-nse-ipo-who-won-the-race-11792769886858.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-10-23T22:49:23+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T12:23:48.598224+05:30"
+ },
+ {
+  "id": "1d30076b212c",
+  "headline": "Tonbo Imaging Lists At 66% Premium In Debut Race",
+  "the_number": "66%",
+  "why_it_matters": "Tonbo Imaging led IPO debut gains against peers with a huge premium.",
+  "founder_takeaway": "Premium listings reward companies with strong differentiated market positioning.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tonbo Imaging India",
+   "Zetwerk",
+   "Bonfiglioli",
+   "Sahajanand"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/ipo-listings-share-price-today-tonbo-imaging-vs-zetwerk-vs-bonfiglioli-vs-sahajanand-who-won-debut-race-on-nse-bse-11792733810920.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-10-23T13:05:55+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T12:23:48.598224+05:30"
+ },
+ {
+  "id": "5effe552cf6c",
+  "headline": "Indian Government Bond Yields Rise For Tenth Straight Week",
+  "the_number": "$65 billion",
+  "why_it_matters": "Crude prices and US yields pushed forex reserves down $65 billion.",
+  "founder_takeaway": "Macro headwinds and rising yields tighten sovereign financial conditions.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/economy/news/govt-bonds-log-worst-losing-streak-in-30-years-as-crude-us-yields-rise-126102301399_1.html",
+  "source": "Business Standard Markets",
+  "score": 8,
+  "date": "2026-10-23T19:45:36+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T12:23:48.598224+05:30"
+ },
+ {
+  "id": "608f3e065625",
+  "headline": "WhatsApp And Telegram Face SIM-Binding Mandate From January",
+  "the_number": "-",
+  "why_it_matters": "Messaging apps must implement the Department of Telecommunications' SIM-binding rules.",
+  "founder_takeaway": "Prepare for tightening compliance mandates from telecom regulators early.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "WhatsApp",
+   "Telegram"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/whatsapp-telegram-sim-binding-mandate-to-take-effect-from-january-1-report/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-10-23T10:45:35+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T12:23:48.598224+05:30"
+ },
+ {
+  "id": "79e04d329853",
+  "headline": "Daytona Hits $1B Valuation For Agent Cloud Infrastructure",
+  "the_number": "$1B",
+  "why_it_matters": "FirstMark and high-profile angel founders back Daytona's $1B unicorn valuation.",
+  "founder_takeaway": "Cloud infrastructure for AI agents is commanding unicorn valuations.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Daytona",
+   "FirstMark",
+   "Stripe",
+   "Perplexity",
+   "Datadog",
+   "Mercor"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+  "source": "TechCrunch",
+  "score": 8,
+  "date": "2026-10-23T16:26:29+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T12:23:48.598224+05:30"
+ },
+ {
+  "id": "66d57b9647e3",
+  "headline": "Infosys Cuts Forecast Over Shift In AI Spending",
+  "the_number": "-",
+  "why_it_matters": "Shifting AI spend deepens slowdown across North American enterprise clients.",
+  "founder_takeaway": "Tech spending reallocations toward AI can hurt legacy service revenues.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Infosys"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNWdWWnJFN3I3MnZQQzBBRUFVMnBTbkduVklRcFVPbWZVTGFxM2NRbkRtRHlXa2JBdlpnQWMxSkh1WU91clBJQnpqYXItXzAtcTJ5NlFETjRETndtM2VyRGxkaElVREFxRjRfeUdkMzlxR3hYdlZSX1R1LXNRX3dxTUlyYzJNYUp1NGpfOU5mNUQ0YWZ3bE1TOVAxaUk?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 8,
+  "date": "2026-10-23T12:51:32+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T12:23:48.598224+05:30"
+ },
+ {
   "id": "1235b5baabc0",
   "headline": "SEBI Reviews Derivatives Market Timings And Settlement",
   "the_number": "-",
@@ -5299,5 +5610,94 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-23T23:25:24.074517+05:30"
+ },
+ {
+  "id": "f6690b3e57c3",
+  "headline": "Sebi Orders Avadhut Sathe Academy To Refund Rs 546 Crore",
+  "the_number": "Rs 546.18 crore",
+  "why_it_matters": "Regulator cracks down on unregistered investment advisory services masking as education.",
+  "founder_takeaway": "Disguising advisory services as education risks massive regulatory clawbacks.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "edtech",
+   "fintech"
+  ],
+  "companies": [
+   "Avadhut Sathe Trading Academy",
+   "Securities and Exchange Board of India"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-orders-avadhut-sathe-academy-to-refund-rs-546-crore/articleshow/135162877.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-24T11:01:13+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T12:23:48.598224+05:30"
+ },
+ {
+  "id": "3f647cfeae37",
+  "headline": "Anthropic Eyes IPO Despite Massive Eighty-Billion-Dollar Loss",
+  "the_number": "$16.3 billion",
+  "why_it_matters": "Anthropic reports $16.3 billion revenue but an $80 billion net loss.",
+  "founder_takeaway": "Enormous revenue scale cannot entirely mask staggering operating cash burns.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-what-should-investors-consider-when-valuing-the-ai-company-aswath-damodaran-explains/articleshow/135162319.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-24T10:33:17+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T12:23:48.598224+05:30"
+ },
+ {
+  "id": "ccf66ee4a77d",
+  "headline": "RBI Forward Dollar Sales Hit Record $200 Billion in August",
+  "the_number": "$200 billion",
+  "why_it_matters": "Central bank manages major dollar inflows through active swap operations.",
+  "founder_takeaway": "Active central bank intervention points toward stable currency environments.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reserve Bank of India"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-net-forex-buys-hit-a-record-43-billion-in-august-balances-it-with-swaps/articleshow/135159794.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-24T07:50:15+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T12:23:48.598224+05:30"
  }
 ]
