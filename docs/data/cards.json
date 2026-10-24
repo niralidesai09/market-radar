@@ -206,6 +206,36 @@
   "first_seen": "2026-10-24T17:37:35.414927+05:30"
  },
  {
+  "id": "6c99d7f65014",
+  "headline": "Reliance Industries announces Jio Platforms IPO update",
+  "the_number": "-",
+  "why_it_matters": "Jio Platforms moves ahead with its planned public listing process.",
+  "founder_takeaway": "Track public listing disclosures for strategic market benchmark planning.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance Industries Limited",
+   "Jio Platforms Limited"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Official",
+  "covered_by_count": 3,
+  "url": "https://nsearchives.nseindia.com/corporate/PVIVINMA_24102026214355_RIL_SE_241026.pdf",
+  "source": "NSE Announcements",
+  "score": 10,
+  "date": "2026-10-24T21:48:04+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": "archive/2026/10/6c99d7f65014.pdf",
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T22:16:42.560228+05:30"
+ },
+ {
   "id": "030edb54f44f",
   "headline": "Jio Platforms Plans Rs 30,213-Crore IPO In October",
   "the_number": "Rs 30,213-crore",
@@ -1004,6 +1034,65 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-24T17:37:35.414927+05:30"
+ },
+ {
+  "id": "b89af89b60ec",
+  "headline": "Jio Platforms breaks records as India's largest IPO ever",
+  "the_number": "₹30,188-crore",
+  "why_it_matters": "Draws unprecedented investor bids totaling ₹4.72 lakh crore.",
+  "founder_takeaway": "Immense retail appetite awaits premier digital and telecom giants.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 4,
+  "url": "https://www.livemint.com/market/stock-market-news/mother-of-all-ipos-jio-platforms-shatters-many-existing-records-full-list-here-11792775064634.html",
+  "source": "Mint Markets",
+  "score": 9,
+  "date": "2026-10-23T23:48:05+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T22:16:42.560228+05:30"
+ },
+ {
+  "id": "6f2b4f2f5887",
+  "headline": "RBI reiterates mandatory listing requirement for top NBFCs",
+  "the_number": "-",
+  "why_it_matters": "Stricter regulatory mandates may force Tata Sons to list publicly.",
+  "founder_takeaway": "Regulatory compliance can force major unexpected structural capital changes.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "RBI",
+   "Tata Sons"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONHZ0cHc0bG5hMG44WVVBUF9NOEloVU52WnNZaXh1dWVlTDg3VGNKajlBNHZmN3FJRC1HSVR1eDg2cFY1VjdVdWRqNTdIZzlqY1NrV293SUREZDlPeVpScm1pZUJzNXROcTNaZGZpWTBiNVRjMkpzTFhlU0F6T0g5OFBtRFRETHpjTzdnS1pJaVVlWmNpYmkwaWNsb20zUzNHMFc4LXNuVlhtOVoyOW1tc1JCei13VUpiTlBURldZcEVCRU5v?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 9,
+  "date": "2026-10-23T14:51:55+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-10-24T22:16:42.560228+05:30"
  },
  {
   "id": "69f0cc0de863",
@@ -3607,6 +3696,127 @@
   "first_seen": "2026-10-24T17:37:35.414927+05:30"
  },
  {
+  "id": "a90e2ef4b9fa",
+  "headline": "Apple India revenue jumps 32% to surpass milestone",
+  "the_number": "32%",
+  "why_it_matters": "Reaching Rs 1 lakh crore proves accelerating Indian premium consumer demand.",
+  "founder_takeaway": "Premiumization is accelerating rapidly across India's consumer hardware market.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Apple India Private Limited",
+   "Tofler"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/tech/technology/apple-india-revenue-grows-32-to-cross-rs-1-lakh-crore-mark-in-fy26/articleshow/135152541.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-10-23T23:18:57+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T22:16:42.560228+05:30"
+ },
+ {
+  "id": "ba491552a099",
+  "headline": "IDBI Bank employee terms protected in Fairfax sale deal",
+  "the_number": "₹52,878 crore",
+  "why_it_matters": "Resolves labor and pension concerns during major privatization process.",
+  "founder_takeaway": "Clear employee communication eases friction during complex acquisition transactions.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "IDBI Bank",
+   "Fairfax"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/idbi-bank-sale-employees-service-conditions-to-remain-unchanged-says-dipam-secretary-11792845187639.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-24T18:53:15+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T22:16:42.560228+05:30"
+ },
+ {
+  "id": "75c2b9c69b06",
+  "headline": "Infosys cuts FY27 guidance despite Q2 profit growth",
+  "the_number": "6.2%",
+  "why_it_matters": "Guidance cuts signal lingering headwinds in global enterprise tech spending.",
+  "founder_takeaway": "Conservative growth projections reflect tightening global enterprise IT budgets.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "SaaS",
+   "other"
+  ],
+  "companies": [
+   "Infosys"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/quarterly-results/infosys-q2-results-net-profit-rises-6-2-to-7-823-cr-revenue-up-10-2-126102300941_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-10-23T16:21:32+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T22:16:42.560228+05:30"
+ },
+ {
+  "id": "7253feb50236",
+  "headline": "Instacart reportedly held acquisition talks with DoorDash and Uber",
+  "the_number": "-",
+  "why_it_matters": "Potential mega-merger signals rapid consolidation pressure in quick delivery.",
+  "founder_takeaway": "Industry maturation often drives consolidation discussions among giant rivals.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Instacart",
+   "DoorDash",
+   "Uber"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+  "source": "TechCrunch",
+  "score": 8,
+  "date": "2026-10-24T16:30:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T22:16:42.560228+05:30"
+ },
+ {
   "id": "1235b5baabc0",
   "headline": "SEBI Reviews Derivatives Market Timings And Settlement",
   "the_number": "-",
@@ -6136,5 +6346,297 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-24T17:37:35.414927+05:30"
+ },
+ {
+  "id": "cf7d6e11073f",
+  "headline": "FIIs Dump Indian Stocks for 10th Consecutive Week",
+  "the_number": "2.4%",
+  "why_it_matters": "Sustained foreign selling drives broad-based drops across Indian equity benchmarks.",
+  "founder_takeaway": "Prepare for cautious market liquidity as institutional investors pull back.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "fintech",
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-indian-stocks-for-10th-straight-week-as-markets-slide-is-the-worst-over-or-more-pain-ahead/articleshow/135165684.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-24T13:41:14+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T22:16:42.560228+05:30"
+ },
+ {
+  "id": "9cf3aff4765c",
+  "headline": "Amazon Cloud Capacity Sold Out Through 2027",
+  "the_number": "2027",
+  "why_it_matters": "Exploding enterprise AI demand creates severe bottlenecks in compute infrastructure.",
+  "founder_takeaway": "Secure your core cloud computing capacity years ahead of time.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI",
+   "SaaS"
+  ],
+  "companies": [
+   "Amazon",
+   "Amazon Web Services"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/technology/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says/articleshow/135161200.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-10-24T09:23:58+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T22:16:42.560228+05:30"
+ },
+ {
+  "id": "3c073e327959",
+  "headline": "CoinDCX Confirms Losses on Compromised Old Wallets",
+  "the_number": "-",
+  "why_it_matters": "Legacy infrastructure vulnerabilities present persistent operational and security risks.",
+  "founder_takeaway": "Deprecate and audit old security architecture to prevent repeated breaches.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "CoinDCX"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/coindcx-confirms-losses-after-sweep-failure-on-compromised-old-wallets-says-active-addresses-remain-safe-11792853557409.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-24T20:40:53+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T22:16:42.560228+05:30"
+ },
+ {
+  "id": "105d0fa166d0",
+  "headline": "Volkswagen Pauses India EV Investments Amid JSW Talks",
+  "the_number": "-",
+  "why_it_matters": "Global automakers require viable local supply chains to justify EV investments.",
+  "founder_takeaway": "Tie manufacturing expansion directly to realistic unit economics and partnerships.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "EV"
+  ],
+  "companies": [
+   "Volkswagen",
+   "JSW Group"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/volkswagen-frozen-india-ev-investments-as-jsw-joint-venture-talks-continue-what-is-next-11792831037225.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-24T14:17:36+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T22:16:42.560228+05:30"
+ },
+ {
+  "id": "f33b87397b7a",
+  "headline": "NLC India Lines Up ₹37,000 Crore Odisha Projects",
+  "the_number": "₹37,000 crore",
+  "why_it_matters": "Large capex deployment boosts national thermal power and mineral processing capacity.",
+  "founder_takeaway": "Infrastructure suppliers can position for major regional state-led capital expenditure.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "NLC India"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/nlc-india-lines-up-37-000-crore-for-power-and-mineral-projects-in-odisha-126102301587_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-10-23T21:42:17+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T22:16:42.560228+05:30"
+ },
+ {
+  "id": "c5b0fc59740d",
+  "headline": "Midcaps and Smallcaps Face Worst Losses in 20 Months",
+  "the_number": "7.3%",
+  "why_it_matters": "Rising crude and geopolitical tensions trigger heavy risk-off market selloffs.",
+  "founder_takeaway": "High beta assets suffer fast when macroeconomic headwinds turn negative.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/tumultuous-week-midcaps-and-smallcaps-suffer-worst-losses-in-20-months-126102301443_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-10-23T22:49:00+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T22:16:42.560228+05:30"
+ },
+ {
+  "id": "5a46991db34d",
+  "headline": "Myntra Reports ₹581.8 Crore Loss in FY26",
+  "the_number": "₹581.8 Cr",
+  "why_it_matters": "Major ecommerce platforms still face profitability challenges despite extensive scale.",
+  "founder_takeaway": "Scale alone does not guarantee operating profits in fashion ecommerce.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "D2C",
+   "quick commerce"
+  ],
+  "companies": [
+   "Myntra"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/myntra-slips-into-the-red-in-fy26-reports-%e2%82%b9582-cr-loss/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-10-24T14:37:28+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T22:16:42.560228+05:30"
+ },
+ {
+  "id": "e44862f1b186",
+  "headline": "Tonbo Imaging Debuts at 62% Premium",
+  "the_number": "62%",
+  "why_it_matters": "Public markets are awarding strong valuations to domestic defence-tech innovations.",
+  "founder_takeaway": "Defence tech startups can achieve rich market premiums upon listing.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tonbo Imaging"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/tonbo-imaging-makes-strong-market-debut-lists-at-66-premium-to-ipo-price/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-10-23T11:43:32+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T22:16:42.560228+05:30"
+ },
+ {
+  "id": "2fe6cd8fcca6",
+  "headline": "Ola Electric Drops Over 6% Following Bearish Call",
+  "the_number": "6.39%",
+  "why_it_matters": "Negative analyst sentiment can trigger sharp selloffs in emerging EV stocks.",
+  "founder_takeaway": "Prepare for high public stock volatility after prominent negative ratings.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "EV"
+  ],
+  "companies": [
+   "Ola Electric",
+   "Goldman Sachs"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/ola-electric-slides-over-7-after-bearish-call-from-goldman-sachs/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-10-23T11:29:11+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T22:16:42.560228+05:30"
+ },
+ {
+  "id": "7384891d7abd",
+  "headline": "OpenAI Stops Training AI Models on Live Internet",
+  "the_number": "-",
+  "why_it_matters": "Live internet training poses significant risks for frontier AI models.",
+  "founder_takeaway": "Re-evaluate live data risks when training AI models.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "OpenAI"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+  "source": "TechCrunch",
+  "score": 7,
+  "date": "2026-10-23T23:05:49+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-24T22:16:42.560228+05:30"
  }
 ]
