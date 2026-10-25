@@ -7112,5 +7112,97 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-25T18:10:25.296631+05:30"
+ },
+ {
+  "id": "2a7707f4f3c0",
+  "headline": "Jio Platforms IPO Subscribed Over 22 Times",
+  "the_number": "22.19 times",
+  "why_it_matters": "Massive investor demand signals strong public market appetite for tech giants.",
+  "founder_takeaway": "Dominant market leaders command immense public subscription and premium valuations.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms",
+   "Reliance Jio",
+   "RIL"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-listing-on-oct-28-will-mukesh-ambanis-firm-be-in-top-5-m-cap-ril-to-hold-top-spot-11792854254054.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-24T21:19:15+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-25T22:38:29.627539+05:30"
+ },
+ {
+  "id": "b761b4dfb766",
+  "headline": "Senco Gold Acquires Majority Stake in Melorra Operator",
+  "the_number": "₹68 crore",
+  "why_it_matters": "Traditional retail giants continue acquiring D2C jewelry brands for expansion.",
+  "founder_takeaway": "M&A provides an exit path for scaling D2C brands.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "D2C"
+  ],
+  "companies": [
+   "Senco Gold",
+   "August Jewellery",
+   "Melorra"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/senco-gold-to-acquire-68-stake-in-august-jewellery-for-68-crore-126102500549_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-10-25T19:46:02+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-25T22:38:29.627539+05:30"
+ },
+ {
+  "id": "29c8672820ab",
+  "headline": "Super.money FY26 Revenue Triples as Net Loss Expands",
+  "the_number": "₹292 Cr",
+  "why_it_matters": "Rapid top-line growth is accompanied by widening losses in fintech.",
+  "founder_takeaway": "Scaling UPI products often requires enduring steep cash burn.",
+  "sentiment": "Neutral",
+  "category": "Earnings",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "super.money",
+   "Flipkart"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/flipkart-backed-super-moneys-fy26-revenue-triples-to-%e2%82%b9292-cr/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-10-24T12:58:50+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-25T22:38:29.627539+05:30"
  }
 ]
