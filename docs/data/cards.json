@@ -3938,6 +3938,96 @@
   "first_seen": "2026-10-25T12:48:17.268041+05:30"
  },
  {
+  "id": "359230ccd9bd",
+  "headline": "RBI Clarifies Upper-Layer NBFC Rules, Tata Sons Listing Likely",
+  "the_number": "-",
+  "why_it_matters": "RBI rejected Tata Sons' license surrender, making its public listing likely.",
+  "founder_takeaway": "Large holding structures must prepare early for mandatory regulatory listing.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech",
+   "other"
+  ],
+  "companies": [
+   "Tata Sons",
+   "RBI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/tata-sons-listing-latest-news-how-rbi-governor-sanjay-malhotras-first-public-comment-dispels-doubts-on-sept-11-order-11792915550831.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-25T13:45:55+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-25T18:10:25.296631+05:30"
+ },
+ {
+  "id": "74c4e768db4a",
+  "headline": "Jio Platforms IPO Bids Exceed ₹7.4 Lakh Crore",
+  "the_number": "₹7.4 lakh crore",
+  "why_it_matters": "Jio Platforms was subscribed 22.19 times, far outperforming Paras Healthcare.",
+  "founder_takeaway": "Massive brand scale can drive unprecedented institutional and retail demand.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance Jio Platforms",
+   "Paras Healthcare"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/market/ipo/ipo-gmp-subscription-race-reliance-jio-platforms-vs-paras-healthcare-grey-market-premium-qib-nii-retail-details-11792926098381.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-10-25T17:26:00+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-25T18:10:25.296631+05:30"
+ },
+ {
+  "id": "1b6077660f7f",
+  "headline": "Jio Platforms IPO Closes; Listing Slated For October 28",
+  "the_number": "-",
+  "why_it_matters": "India's most subscribed stock offering heads for a market listing.",
+  "founder_takeaway": "Large public listings require rigorous adherence to rapid operational timelines.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-listing-date-and-time-share-price-prediction-expected-money-gains-basis-gmp-expected-m-cap-details-11792924052178.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-10-25T16:13:54+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-25T18:10:25.296631+05:30"
+ },
+ {
   "id": "1235b5baabc0",
   "headline": "SEBI Reviews Derivatives Market Timings And Settlement",
   "the_number": "-",
@@ -6904,5 +6994,123 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-25T12:48:17.268041+05:30"
+ },
+ {
+  "id": "1b4a25bf0486",
+  "headline": "Sebi To Overhaul Short-Selling And Securities Lending Rules",
+  "the_number": "-",
+  "why_it_matters": "Regulatory changes aim to improve liquidity, price discovery, and compliance costs.",
+  "founder_takeaway": "Anticipate regulatory revamps to capitalise on enhanced market liquidity.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech",
+   "other"
+  ],
+  "companies": [
+   "Sebi"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-revamp-short-selling-securities-lending-rules/articleshow/135182788.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-25T09:28:23+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-25T18:10:25.296631+05:30"
+ },
+ {
+  "id": "7bf0972eae4d",
+  "headline": "Tata Motors Holds Firm On ₹1,531 Iveco Bid",
+  "the_number": "₹1,531",
+  "why_it_matters": "Tata Motors expects to acquire over 80% despite investor pushback.",
+  "founder_takeaway": "Hold firm on valuation when acquiring major controlling stakes globally.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "EV",
+   "other"
+  ],
+  "companies": [
+   "Tata Motors",
+   "Iveco"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/tata-motors-stands-firm-on-1-531-per-share-iveco-bid-as-investor-questions-valuation-all-you-need-to-know-11792865438375.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-24T23:59:44+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-25T18:10:25.296631+05:30"
+ },
+ {
+  "id": "5d6c4ae18e64",
+  "headline": "Centre Plans Privatisation Of At Least Two Public Lenders",
+  "the_number": "75%",
+  "why_it_matters": "Government explores stake sales to meet minimum public-shareholding regulatory norms.",
+  "founder_takeaway": "State divestments create fresh private banking and market-share opportunities.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Indian Overseas Bank",
+   "IDBI Bank"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/indian-overseas-bank-privatisation-what-is-the-buzz-about-centres-rules-and-regulations-for-the-process-explained-11792819469291.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-24T14:03:17+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-25T18:10:25.296631+05:30"
+ },
+ {
+  "id": "9514e7ec24af",
+  "headline": "South Africa Moves Toward ₹5,400 Crore Mittal Steel Deal",
+  "the_number": "₹5,400 crore",
+  "why_it_matters": "South Africa is advancing a ₹5,400 crore takeover of Mittal's steel unit.",
+  "founder_takeaway": "Sovereign takeovers provide exits for struggling capital-intensive business units.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/south-africa-moves-towards-5-400-crore-takeover-of-lakshmi-mittal-s-struggling-steel-business-what-s-in-the-deal-11792823948118.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-24T12:55:17+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-25T18:10:25.296631+05:30"
  }
 ]
