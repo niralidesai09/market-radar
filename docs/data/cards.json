@@ -1095,6 +1095,35 @@
   "first_seen": "2026-10-24T22:16:42.560228+05:30"
  },
  {
+  "id": "0dc55c56131e",
+  "headline": "Jio Platforms Lists October 28 After Overwhelming IPO Demand",
+  "the_number": "Rs 30,213-crore",
+  "why_it_matters": "Massive institutional demand signals strong public market appetite for digital giants.",
+  "founder_takeaway": "Large-scale tech leaders can capture tremendous public liquidity.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jioipogmptoday-alleyes-on-telecom-majors-megalisting-this-week-what-is-greymarketsignalling/articleshow/135183339.cms",
+  "source": "Economic Times Markets",
+  "score": 9,
+  "date": "2026-10-25T10:10:04+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-25T12:48:17.268041+05:30"
+ },
+ {
   "id": "69f0cc0de863",
   "headline": "RBI Infuses $10.5 Billion Liquidity Through Repo Operation",
   "the_number": "$10.53 billion",
@@ -3815,6 +3844,98 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-24T22:16:42.560228+05:30"
+ },
+ {
+  "id": "19875c21e568",
+  "headline": "Reliance Jio Platforms Finalises Allotment and Listing Dates",
+  "the_number": "₹30,213-crore",
+  "why_it_matters": "Enters final stages of listing India's mega public offering.",
+  "founder_takeaway": "Adhere tightly to exchange timelines during public market debuts.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance Jio Platforms",
+   "BSE",
+   "NSE",
+   "KFin Technologies"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/market/ipo/reliance-jio-platforms-ipo-gmp-allotment-date-listing-date-time-overall-subscription-status-qib-nii-retail-ril-11792812938496.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-10-24T09:39:44+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-25T12:48:17.268041+05:30"
+ },
+ {
+  "id": "78c205bc2b0a",
+  "headline": "Sebi Reviews Short Selling Rules, Plans AI Sandbox",
+  "the_number": "-",
+  "why_it_matters": "Capital market reforms introduce structured frameworks for AI deployment.",
+  "founder_takeaway": "Align emerging AI fintech tools with forthcoming compliance guidelines.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech",
+   "AI"
+  ],
+  "companies": [
+   "Sebi"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://www.business-standard.com/markets/news/sebi-short-selling-slb-ai-sandbox-market-making-tuhin-kanta-pandey-126102400650_1.html",
+  "source": "Business Standard Markets",
+  "score": 8,
+  "date": "2026-10-24T14:51:21+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-25T12:48:17.268041+05:30"
+ },
+ {
+  "id": "c81012957abe",
+  "headline": "New-Age Tech Stocks Lose Over $11 Billion",
+  "the_number": "$11 Bn",
+  "why_it_matters": "Tech rout highlights shifting sentiment around new-age public valuations.",
+  "founder_takeaway": "Public markets heavily scrutinise quick commerce and tech fundamentals.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "quick commerce",
+   "other"
+  ],
+  "companies": [
+   "Swiggy"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/new-age-tech-stocks-tumble-this-week-swiggy-leads-sell-off-with-24-5-fall/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-10-24T18:49:58+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-25T12:48:17.268041+05:30"
  },
  {
   "id": "1235b5baabc0",
@@ -6638,5 +6759,150 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-24T22:16:42.560228+05:30"
+ },
+ {
+  "id": "9305cd4d65e2",
+  "headline": "FPIs Withdraw Rs 48,056 Crore in October",
+  "the_number": "Rs 48,056 cr",
+  "why_it_matters": "Foreign capital outflow highlights risk aversion amid elevated crude prices.",
+  "founder_takeaway": "Macro external shocks can tighten domestic equity liquidity fast.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-withdraw-rs-48056-cr-from-equities-in-oct-so-far-amid-elevated-crude-oil-prices/articleshow/135185267.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-25T12:03:10+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-25T12:48:17.268041+05:30"
+ },
+ {
+  "id": "8807ef9ce68e",
+  "headline": "Kotak Mahindra Bank Q2 PAT Rises 26% YoY",
+  "the_number": "26%",
+  "why_it_matters": "Robust banking earnings signal strong underlying financial sector health.",
+  "founder_takeaway": "Strong balance sheets and loan assets sustain steady growth.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Kotak Mahindra Bank"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q2-results-consolidated-pat-rises-26-yoy-to-rs-5645-crore-lenders-nii-up-16/articleshow/135165924.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-24T13:54:37+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-25T12:48:17.268041+05:30"
+ },
+ {
+  "id": "bbfab449c98b",
+  "headline": "Flipkart Faces Pressures Over IPO and Heavy Investments",
+  "the_number": "-",
+  "why_it_matters": "Heavy quick commerce investments mount pressure to deliver profits.",
+  "founder_takeaway": "Balance aggressive expansion with sustainable paths to profitability.",
+  "sentiment": "Bearish",
+  "category": "IPO",
+  "sector_tags": [
+   "quick commerce",
+   "other"
+  ],
+  "companies": [
+   "Flipkart"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/features/flipkarts-summer-of-discontent/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-10-25T05:30:22+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-25T12:48:17.268041+05:30"
+ },
+ {
+  "id": "77e6c36a3f89",
+  "headline": "Infosys AI Revenue Surges 29% In Q2 FY27",
+  "the_number": "29%",
+  "why_it_matters": "Strong AI demand is driving substantial deal wins for IT.",
+  "founder_takeaway": "Position offerings to capture enterprise AI spending momentum.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Infosys",
+   "Apple"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://yourstory.com/2026/10/infosys-ai-revenue-jumps-29-but-growth-outlook-dims",
+  "source": "YourStory",
+  "score": 7,
+  "date": "2026-10-24T02:00:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-25T12:48:17.268041+05:30"
+ },
+ {
+  "id": "3e2d9b988c6e",
+  "headline": "Kotak Bank Q2 Profit Jumps 29% Beating Estimates",
+  "the_number": "29%",
+  "why_it_matters": "Beating profit estimates indicates robust financial health in banking.",
+  "founder_takeaway": "Consistent execution drives bottom-line growth ahead of market forecasts.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Kotak Bank"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0plbzI1SGJsanpnTUpVU2lBUHBLczJtTXFFQnI4aGhVR3Z0aXhReXlpWGtIWFBMV3BSWUpkOW9FWGltNXBOdVA2Mi1CUHdNLVNheTJDdXMta2p4WWY2bXo5clRja2JwSjQ0cndEOFhEem5Fb3NUVjE5emVkRHZ6QTdxNDVabWhmTlhpZjdpSENVS3RqNW8zeGVRUE9LUFZsUWc?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 7,
+  "date": "2026-10-24T09:19:43+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-25T12:48:17.268041+05:30"
  }
 ]
