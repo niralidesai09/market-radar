@@ -4028,6 +4028,99 @@
   "first_seen": "2026-10-25T18:10:25.296631+05:30"
  },
  {
+  "id": "e4c4423005f8",
+  "headline": "SpaceX Raises $40 Billion Debt for AI Chips",
+  "the_number": "$40 billion",
+  "why_it_matters": "Tech giants are securing unprecedented debt financing to purchase Nvidia GPUs.",
+  "founder_takeaway": "Access to massive capital enables front-running critical computing infrastructure bottlenecks.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "SpaceX",
+   "Nvidia"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musk-says-spacex-raised-40-billion-in-debt-for-gpus/articleshow/135201386.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-10-26T08:24:55+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-26T12:57:04.239870+05:30"
+ },
+ {
+  "id": "e159dbe4a4be",
+  "headline": "SpaceX Closes $40 Billion Debt Deal for AI Chips",
+  "the_number": "$40 billion",
+  "why_it_matters": "Massive debt financing funds AI hardware infrastructure backed by operational cash flows.",
+  "founder_takeaway": "Strong recurring revenue supports massive debt for strategic capex investments.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "SpaceX",
+   "Nvidia"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 40000,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/elon-musk-says-spacex-closed-40-billion-debt-deal-for-ai-chips-as-firm-investment-grade-has-starlink-launch-revenue-11792979546399.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-26T07:42:02+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-26T12:57:04.239870+05:30"
+ },
+ {
+  "id": "7f9cd561da3b",
+  "headline": "Jio Platforms IPO Allotment Status Declared Online",
+  "the_number": "-",
+  "why_it_matters": "Allotment status is now accessible across official registrar and exchanges.",
+  "founder_takeaway": "Managing investor allotment visibility is vital during major public listings.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance",
+   "Jio Platforms",
+   "KFin Technologies Ltd",
+   "BSE",
+   "NSE"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/market/ipo/reliances-jio-platforms-ipo-allotment-today-26-oct-check-status-online-latest-gmp-price-share-listing-prediction-11792980669475.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-10-26T08:23:04+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-26T12:57:04.239870+05:30"
+ },
+ {
   "id": "1235b5baabc0",
   "headline": "SEBI Reviews Derivatives Market Timings And Settlement",
   "the_number": "-",
@@ -7204,5 +7297,217 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-25T22:38:29.627539+05:30"
+ },
+ {
+  "id": "456994a2e435",
+  "headline": "L Catterton Invests Strategically in InMobi-Backed Glance",
+  "the_number": "-",
+  "why_it_matters": "Global private equity backs AI-driven consumer discovery and mobile shopping platforms.",
+  "founder_takeaway": "Positioning product discovery alongside AI transformation attracts premier strategic capital.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "L Catterton",
+   "Glance",
+   "InMobi"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/companies/l-catterton-invests-in-glance-ai-shopping-platform-inmobi-11792994552879.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-26T12:35:07+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-26T12:57:04.239870+05:30"
+ },
+ {
+  "id": "7c68ac25adac",
+  "headline": "Big Tech Earnings to Test AI Investment Sentiment",
+  "the_number": "-",
+  "why_it_matters": "Upcoming tech earnings test whether massive AI infrastructure investments are paying off.",
+  "founder_takeaway": "Markets demand clear revenue realization following intense capital expenditure cycles.",
+  "sentiment": "Neutral",
+  "category": "Earnings",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Alphabet",
+   "Microsoft",
+   "Amazon"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/us-stock-markets-this-week-wall-street-gears-up-for-fed-rate-decision-q3-earnings-from-alphabet-microsoft-amazon-11792944787786.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-25T23:30:39+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-26T12:57:04.239870+05:30"
+ },
+ {
+  "id": "c520092c30cb",
+  "headline": "Eternal’s District Plans Live Venues Against AI Threat",
+  "the_number": "-",
+  "why_it_matters": "Physical venues help reduce concert costs and defend against digital AI disruption.",
+  "founder_takeaway": "Owning physical infrastructure shields experience-focused businesses from digital disruption.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "District",
+   "Eternal"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/eternals-district-explores-live-event-venues-to-cut-concert-costs-counter-ai-threat-11792903705050.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-26T06:00:43+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-26T12:57:04.239870+05:30"
+ },
+ {
+  "id": "f89115917c79",
+  "headline": "Wow! Momo Plans ₹300 Crore Pre-IPO Fundraise",
+  "the_number": "₹300 crore",
+  "why_it_matters": "Capital fuels global expansion and packaged foods ahead of planned IPO.",
+  "founder_takeaway": "Pre-IPO rounds can fund strategic international expansion and multi-category growth.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "D2C"
+  ],
+  "companies": [
+   "Wow! Momo"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/wow-momo-ipo-plans-fundraise-overseas-expansion-11792751168706.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-26T06:00:36+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-26T12:57:04.239870+05:30"
+ },
+ {
+  "id": "df4f712f65fd",
+  "headline": "Unacademy Founders Plan ₹700 Cr AI Deeptech Fund",
+  "the_number": "₹700 Cr",
+  "why_it_matters": "Founders are channeling capital into domestic AI and deeptech innovation.",
+  "founder_takeaway": "Deeptech and AI ecosystems continue attracting substantial local capital.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Unacademy",
+   "Longshot Capital"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/unacademy-cofounders-plan-%e2%82%b9700-cr-ai-deeptech-fund-longshot-capital/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-10-26T05:29:24+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-26T12:57:04.239870+05:30"
+ },
+ {
+  "id": "5cafeb0da0ed",
+  "headline": "Swiggy Faces Tug-Of-War Between Growth And Profitability",
+  "the_number": "-",
+  "why_it_matters": "Quarterly results underscore balancing expansion against bottom-line sustainability.",
+  "founder_takeaway": "Prioritizing rapid scaling consistently stresses operational profitability.",
+  "sentiment": "Neutral",
+  "category": "Earnings",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Swiggy"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/features/growth-vs-profitability-swiggys-tug-of-war/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-10-26T00:30:39+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-26T12:57:04.239870+05:30"
+ },
+ {
+  "id": "adbbddc5a5d1",
+  "headline": "Infosys Falls After Cutting Revenue Growth Outlook",
+  "the_number": "-",
+  "why_it_matters": "AI-led disruption and competitive pressures are hitting traditional IT services.",
+  "founder_takeaway": "Legacy tech business models must rapidly navigate AI competition.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "Infosys"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWkVSX0U4bzJ0NS15dGRlUG96cGItNW5zNXZ0bF84bmRiNmJQOEdubGdlVkZUVnUzNDl1UFNvZHhZRVJZMXpzanBGRGtCQnRueTZKR3gweTdWYXlCWE4zOUZ1Q3RoUjBZaHpobVlNZHo5SXhzbTF1ZmpOODlnUWFJUER1TVp6Z1Jnc0QyemxOdEhOdzlyYndvVFNjelI2Rnpicm14U2pjSU1zM1ZFVWJOYU51NWctdnlJRnc?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 7,
+  "date": "2026-10-26T03:50:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-26T12:57:04.239870+05:30"
  }
 ]
