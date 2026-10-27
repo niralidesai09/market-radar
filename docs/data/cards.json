@@ -1453,6 +1453,36 @@
   "first_seen": "2026-10-27T18:57:01.150736+05:30"
  },
  {
+  "id": "00fb0d0d389e",
+  "headline": "Tata Motors Clears Acceptance Threshold for Iveco Buyout",
+  "the_number": "87.81%",
+  "why_it_matters": "Tata Motors expands its global commercial vehicle footprint significantly.",
+  "founder_takeaway": "Cross-border acquisitions can scale global manufacturing footprint strategically.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Motors",
+   "Iveco"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/companies/news/tata-motors-3-43-bn-iveco-bid-sees-87-8-acceptance-paves-way-for-biggest-buyout-since-jlr-what-exchange-filing-says-11793124606335.html",
+  "source": "Mint Companies",
+  "score": 9,
+  "date": "2026-10-28T00:00:36+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T00:19:14.032724+05:30"
+ },
+ {
   "id": "69f0cc0de863",
   "headline": "RBI Infuses $10.5 Billion Liquidity Through Repo Operation",
   "the_number": "$10.53 billion",
@@ -5217,6 +5247,156 @@
   "first_seen": "2026-10-27T18:57:01.150736+05:30"
  },
  {
+  "id": "dec824678b2e",
+  "headline": "Microsoft Offers Voluntary Buyouts to 60,000 Employees",
+  "the_number": "60k",
+  "why_it_matters": "Microsoft reallocates human capital toward rising artificial intelligence investments.",
+  "founder_takeaway": "Workforce restructuring helps pivot corporate resources into strategic bets.",
+  "sentiment": "Neutral",
+  "category": "Layoffs",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Microsoft"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/microsofts-voluntary-exit-offer-to-60k-employees-explained-what-is-a-buyout-and-how-will-it-affect-indians-11793106339191.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-27T20:15:05+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T00:19:14.032724+05:30"
+ },
+ {
+  "id": "6bca44358ea4",
+  "headline": "Anthropic Prepares IPO with Five Founders Holding Top Stakes",
+  "the_number": "-",
+  "why_it_matters": "A major AI pioneer approaches public markets amid equity scrutiny.",
+  "founder_takeaway": "Founding equity distribution can balance power beyond the chief executive.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/companies/people/ipo-meet-the-five-anthropic-co-founders-who-own-more-shares-than-ceo-dario-amodei-as-the-ai-firm-prepares-for-its-offer-11793077283073.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-27T10:47:16+05:30",
+  "unc_number": true,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-10-28T00:19:14.032724+05:30"
+ },
+ {
+  "id": "3919bf2daad5",
+  "headline": "Baillie Gifford Slashes VerSe Innovation Valuation Up To 80%",
+  "the_number": "80%",
+  "why_it_matters": "Institutional markdowns pressure late-stage Indian startup valuations and funding.",
+  "founder_takeaway": "Build sustainable unit economics to withstand investor valuation markdowns.",
+  "sentiment": "Bearish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Baillie Gifford",
+   "VerSe Innovation",
+   "Dailyhunt",
+   "Josh"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/baillie-gifford-funds-slash-value-of-holdings-in-dailyhunt-parent-verse-by-up-to-80/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-10-27T07:43:39+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T00:19:14.032724+05:30"
+ },
+ {
+  "id": "4507fea04f7c",
+  "headline": "Paytm Operating Revenue Hits Rs 2,648 Crore in Q2",
+  "the_number": "Rs 2,648 Cr",
+  "why_it_matters": "Paytm shows sharp profit rebound and sustained top-line operational growth.",
+  "founder_takeaway": "Operating leverage can turn growing revenues into rapid profit expansion.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Paytm",
+   "One97 Communications"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 4,
+  "url": "https://entrackr.com/fintrackr/paytm-reports-rs-2648-cr-revenue-in-q2-fy27-profit-jumps-107x-12755092",
+  "source": "Entrackr",
+  "score": 8,
+  "date": "2026-10-26T21:52:57+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T00:19:14.032724+05:30"
+ },
+ {
+  "id": "ac0b0342a30f",
+  "headline": "Ather Swings to Profit with 63% Revenue Growth",
+  "the_number": "63%",
+  "why_it_matters": "EV manufacturing achieves profitability alongside aggressive operational capacity expansion.",
+  "founder_takeaway": "Scale manufacturing capacity efficiently to convert surging demand into profitability.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "EV"
+  ],
+  "companies": [
+   "Ather Energy",
+   "Meta"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://yourstory.com/2026/10/ather-turns-profitable-after-rs-154-cr-loss-meta-ai-expansion",
+  "source": "YourStory",
+  "score": 8,
+  "date": "2026-10-27T02:00:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T00:19:14.032724+05:30"
+ },
+ {
   "id": "1235b5baabc0",
   "headline": "SEBI Reviews Derivatives Market Timings And Settlement",
   "the_number": "-",
@@ -8903,5 +9083,336 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-27T18:57:01.150736+05:30"
+ },
+ {
+  "id": "9bc6275802c9",
+  "headline": "US Fed Opens Meeting with Markets Expecting Rate Hold",
+  "the_number": "90 percent",
+  "why_it_matters": "Stable benchmark interest rates maintain predictability for global capital flows.",
+  "founder_takeaway": "Rate stability reduces borrowing cost volatility for capital-intensive plans.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "US Federal Reserve",
+   "CME"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/us-fed-opens-two-day-meeting-with-markets-expecting-rate-hold/articleshow/135238252.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-27T20:21:31+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T00:19:14.032724+05:30"
+ },
+ {
+  "id": "7d5939e715a2",
+  "headline": "Ola Electric shares surge 16% in major rebound",
+  "the_number": "16.3%",
+  "why_it_matters": "Trading volume surges drove a rebound despite recent analyst downgrades.",
+  "founder_takeaway": "Market momentum can reverse swiftly despite analyst downgrades.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "EV"
+  ],
+  "companies": [
+   "Ola Electric"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/ola-electric-shares-surge-16-biggest-1-day-gain-since-april-why-is-the-stock-rallying-despite-brokerage-downgrades-11793103468902.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-27T18:03:21+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T00:19:14.032724+05:30"
+ },
+ {
+  "id": "86e8a9d4a23d",
+  "headline": "Simplismart raises $14 million in Series B round",
+  "the_number": "$14 million",
+  "why_it_matters": "Funding supports AI inference platform expansion across global markets.",
+  "founder_takeaway": "Strong AI infrastructure offerings attract global venture capital backing.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI",
+   "SaaS"
+  ],
+  "companies": [
+   "Simplismart",
+   "Dallas Venture Capital"
+  ],
+  "geography": "India",
+  "amount_usd_m": 14,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.business-standard.com/companies/start-ups/simplismart-raises-14-million-in-series-b-to-expand-ai-inference-platform-126102701498_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-10-27T19:47:40+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T00:19:14.032724+05:30"
+ },
+ {
+  "id": "cc5633150742",
+  "headline": "Cent raises $15 million for AI preventive healthcare",
+  "the_number": "$15 million",
+  "why_it_matters": "Capital accelerates AI-driven diagnostics and preventive healthcare across India.",
+  "founder_takeaway": "AI applications in preventive healthcare command strong investor interest.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI",
+   "healthtech"
+  ],
+  "companies": [
+   "Cent",
+   "Blume Ventures",
+   "South Park Commons"
+  ],
+  "geography": "India",
+  "amount_usd_m": 15,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.business-standard.com/companies/start-ups/cent-raises-15-million-to-expand-ai-powered-preventive-healthcare-platform-126102701118_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-10-27T17:05:58+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T00:19:14.032724+05:30"
+ },
+ {
+  "id": "bd7ba02e8c73",
+  "headline": "Jio Platforms trades at 22% grey market premium",
+  "the_number": "22%",
+  "why_it_matters": "Grey market premium signals strong demand ahead of mega IPO.",
+  "founder_takeaway": "Pre-IPO grey market sentiment reflects broader retail and institutional demand.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/jio-platforms-shares-trade-at-22-premium-in-grey-market-ahead-of-ipo-debut-126102701879_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-10-27T23:49:19+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T00:19:14.032724+05:30"
+ },
+ {
+  "id": "78fbe4e97e40",
+  "headline": "Defence stocks rally up to 9% on approvals",
+  "the_number": "₹2.12 trn",
+  "why_it_matters": "Defence acquisition approvals boost valuation for domestic defence manufacturers.",
+  "founder_takeaway": "Government procurement approvals create immediate positive market tailwinds.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "GRSE",
+   "BEL"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/grse-bel-defence-stocks-zoom-up-to-9-on-dac-nod-to-2-12-trn-proposals-126102700288_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-10-27T10:37:49+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T00:19:14.032724+05:30"
+ },
+ {
+  "id": "f04f427d6e01",
+  "headline": "Ather Energy stock surges 20% in two days",
+  "the_number": "20%",
+  "why_it_matters": "Volume growth and profitability outlook drive strong rally in Ather.",
+  "founder_takeaway": "Demonstrating clear paths to profitability satisfies public market scrutiny.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "EV"
+  ],
+  "companies": [
+   "Ather Energy",
+   "ICICI Securities"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/ather-energy-extends-rally-ev-stock-surges-20-in-2-days-here-s-why-126102700280_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-10-27T10:32:29+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T00:19:14.032724+05:30"
+ },
+ {
+  "id": "977eb37066de",
+  "headline": "Live2.ai raises ₹130 Cr in pre-Series B",
+  "the_number": "₹130 Cr",
+  "why_it_matters": "Funding enables expansion of AI-driven marketing SaaS solutions.",
+  "founder_takeaway": "Domain-specific AI SaaS platforms continue securing growth-stage venture capital.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI",
+   "SaaS"
+  ],
+  "companies": [
+   "Live2.ai",
+   "IvyCap Ventures"
+  ],
+  "geography": "India",
+  "amount_usd_m": 13.7,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/live2-ai-raises-%e2%82%b9130-cr-to-scale-ai-marketing-saas-platform/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-10-27T12:34:34+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T00:19:14.032724+05:30"
+ },
+ {
+  "id": "659b6090c9e9",
+  "headline": "Troovy raises ₹100 Cr to expand offline presence",
+  "the_number": "₹100 Cr",
+  "why_it_matters": "Capital fuels offline expansion and new product category rollouts.",
+  "founder_takeaway": "Omnichannel expansion remains critical for consumer brands seeking scale.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "D2C"
+  ],
+  "companies": [
+   "Troovy"
+  ],
+  "geography": "India",
+  "amount_usd_m": 10.5,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/healthy-snacking-brand-troovy-bags-%e2%82%b9100-cr-to-expand-offline-presence-enter-new-categories/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-10-27T12:30:34+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T00:19:14.032724+05:30"
+ },
+ {
+  "id": "29dc08909ac9",
+  "headline": "SoftBank sells 1.2% stake in Ola Electric",
+  "the_number": "1.2%",
+  "why_it_matters": "Major early investor trims holding via open market transactions.",
+  "founder_takeaway": "Anticipate institutional investor exits following public market listings.",
+  "sentiment": "Bearish",
+  "category": "M&A",
+  "sector_tags": [
+   "EV"
+  ],
+  "companies": [
+   "SoftBank",
+   "Ola Electric"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://inc42.com/buzz/softbank-sells-1-2-stake-in-ola-electric-offloads-1-12-cr-rights-entitlements/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-10-27T10:45:49+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T00:19:14.032724+05:30"
+ },
+ {
+  "id": "a81b7e238eac",
+  "headline": "Ministry of Defence partners with Sarvam for AI",
+  "the_number": "-",
+  "why_it_matters": "MoD partnership accelerates AI adoption across India's armed forces.",
+  "founder_takeaway": "Government contracts provide immense validation for deep tech startups.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Sarvam",
+   "Ministry of Defence"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/ministry-of-defence-partners-with-sarvam-to-drive-ai-adoption-for-armed-forces/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-10-27T08:15:22+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T00:19:14.032724+05:30"
  }
 ]
