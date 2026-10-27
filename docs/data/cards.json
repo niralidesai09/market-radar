@@ -1304,6 +1304,95 @@
   "first_seen": "2026-10-27T00:58:31.009152+05:30"
  },
  {
+  "id": "0e20785c5eb3",
+  "headline": "Jio Platforms Set to List Tomorrow with 22% Premium",
+  "the_number": "Rs 30,213-crore",
+  "why_it_matters": "Signals strong institutional appetite for mega public listings in India.",
+  "founder_takeaway": "Strong institutional demand can drive healthy listing premiums.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 4,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-shares-to-list-on-bse-nse-tomorrow-gmp-signals-22-premium/articleshow/135226292.cms",
+  "source": "Economic Times Markets",
+  "score": 9,
+  "date": "2026-10-27T11:46:21+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-27T12:51:04.098783+05:30"
+ },
+ {
+  "id": "13cb175eb6aa",
+  "headline": "Anthropic Files for Wall Street Debut Ahead of OpenAI",
+  "the_number": "$86 billion",
+  "why_it_matters": "Sets valuation benchmarks for public market investor appetite in AI.",
+  "founder_takeaway": "Timing public debuts ahead of rivals creates strategic advantages.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic",
+   "OpenAI",
+   "SpaceX"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 4,
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ipo-by-the-numbers-from-a-possible-valuation-in-the-trillions-to-surging-revenue/articleshow/135222913.cms",
+  "source": "Economic Times Tech",
+  "score": 9,
+  "date": "2026-10-27T08:03:06+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-27T12:51:04.098783+05:30"
+ },
+ {
+  "id": "2f0a3ebc131f",
+  "headline": "Meta Plans $95 Billion Stock Offering for AI Expansion",
+  "the_number": "$95 billion",
+  "why_it_matters": "Massive capital is essential for building hyperscale AI infrastructure.",
+  "founder_takeaway": "Heavy AI infrastructure buildouts demand unprecedented capital resources.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Meta"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 95000,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/meta-platform-seeks-to-raise-95-billion-through-stock-offering-in-largest-ever-funding-round-for-ai-expansion-11793066342072.html",
+  "source": "Mint Companies",
+  "score": 9,
+  "date": "2026-10-27T08:05:38+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-10-27T12:51:04.098783+05:30"
+ },
+ {
   "id": "69f0cc0de863",
   "headline": "RBI Infuses $10.5 Billion Liquidity Through Repo Operation",
   "the_number": "$10.53 billion",
@@ -4625,6 +4714,212 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-27T00:58:31.009152+05:30"
+ },
+ {
+  "id": "a214eed3a15b",
+  "headline": "DoorDash in Advanced Talks to Buy Instacart for $17B",
+  "the_number": "$17 billion",
+  "why_it_matters": "Consolidation creates a massive dominant player in online delivery.",
+  "founder_takeaway": "Scale through M&A can dominate competitive last-mile delivery markets.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "DoorDash",
+   "Instacart"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 17000,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/technology/doordash-in-talks-to-buy-instacart-in-roughly-17-billion-deal/articleshow/135222954.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-10-27T08:06:07+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-27T12:51:04.098783+05:30"
+ },
+ {
+  "id": "d94fd87182a1",
+  "headline": "Microsoft Offers Voluntary Exit to 60,000 Employees Globally",
+  "the_number": "60,000",
+  "why_it_matters": "AI transformation is accelerating major workforce restructuring in global tech.",
+  "founder_takeaway": "Shift resources toward AI capabilities by trimming legacy workforce expenses.",
+  "sentiment": "Bearish",
+  "category": "Layoffs",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Microsoft"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://www.livemint.com/companies/news/microsoft-offers-voluntary-exit-to-60-000-employees-across-4-countries-including-india-is-there-an-ai-connection-11793077567978.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-27T11:06:24+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-27T12:51:04.098783+05:30"
+ },
+ {
+  "id": "407d0d92446b",
+  "headline": "Anup Bagchi Takes Charge as HDFC Bank MD and CEO",
+  "the_number": "-",
+  "why_it_matters": "HDFC Bank appoints first outsider CEO in over three decades.",
+  "founder_takeaway": "Succession planning may require external talent during major leadership shifts.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "HDFC Bank",
+   "ICICI Prudential Life Insurance"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/anup-bagchi-takes-charge-as-hdfc-bank-ceo-and-md-succeeds-jagdishan-126102700313_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-10-27T11:05:53+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-27T12:51:04.098783+05:30"
+ },
+ {
+  "id": "7887fb3ab41d",
+  "headline": "Tata Motors Iveco Takeover Bid Clears Key Acceptance Threshold",
+  "the_number": "87.81%",
+  "why_it_matters": "Acceptances hit 87.81%, clearing the revised minimum takeover threshold.",
+  "founder_takeaway": "Reaching high shareholder acceptance clears major hurdles in mega-acquisitions.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Motors",
+   "Iveco"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.business-standard.com/companies/news/tata-motors-iveco-takeover-bid-acceptance-threshold-acquisition-126102700175_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-10-27T09:15:09+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-27T12:51:04.098783+05:30"
+ },
+ {
+  "id": "e43f6f3fb5be",
+  "headline": "Ather Energy Shares Jump 18% on Q2 Turnaround",
+  "the_number": "18%",
+  "why_it_matters": "Ather turns profitable in Q2, reversing previous year losses.",
+  "founder_takeaway": "Reaching profitability turnaround drives strong positive market sentiment.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "EV"
+  ],
+  "companies": [
+   "Ather Energy"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 4,
+  "url": "https://www.business-standard.com/markets/news/ather-energy-share-price-zooms-18-on-q2-turnaround-robust-revenue-growth-126102600694_1.html",
+  "source": "Business Standard Markets",
+  "score": 8,
+  "date": "2026-10-26T15:05:53+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-27T12:51:04.098783+05:30"
+ },
+ {
+  "id": "708772141722",
+  "headline": "Paytm Q2 Profit Surges Over 10X to ₹225 Crore",
+  "the_number": "₹225 Cr",
+  "why_it_matters": "Net profit skyrockets 10.7x while quarterly revenue expands 28%.",
+  "founder_takeaway": "Demonstrating operating leverage rapidly accelerates net profits at scale.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Paytm"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://inc42.com/buzz/paytm-q2-profit-skyrockets-over-10x-yoy-to-%e2%82%b9225-cr-revenue-up-28/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-10-26T15:36:18+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-27T12:51:04.098783+05:30"
+ },
+ {
+  "id": "68b7f3982fd6",
+  "headline": "Tata Communications to Invest $450 Million in AI Infrastructure",
+  "the_number": "$450 Mn",
+  "why_it_matters": "Plan to build 10,000 km of AI-ready connectivity across India.",
+  "founder_takeaway": "Early investments in underlying infrastructure capture growing AI demand.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Tata Communications"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://inc42.com/buzz/tata-communications-to-pour-up-to-450-mn-in-build-ai-connectivity-infrastructure/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-10-26T15:27:25+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-27T12:51:04.098783+05:30"
  },
  {
   "id": "1235b5baabc0",
