@@ -1393,6 +1393,66 @@
   "first_seen": "2026-10-27T12:51:04.098783+05:30"
  },
  {
+  "id": "68541ef9881e",
+  "headline": "Jio GMP hints at 22% listing-day pop",
+  "the_number": "22%",
+  "why_it_matters": "Could make Jio India's second-largest company by market cap.",
+  "founder_takeaway": "Massive market scale enables top-tier public market valuation.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms",
+   "Reliance Industries",
+   "Bharti Airtel"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/market/ipo/jio-platforms-ipo-share-price-gmp-market-cap-11793102563152.html",
+  "source": "Mint Markets",
+  "score": 9,
+  "date": "2026-10-27T17:50:54+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-27T18:57:01.150736+05:30"
+ },
+ {
+  "id": "bb06af6daa74",
+  "headline": "Anthropic files for public debut with founder control",
+  "the_number": "-",
+  "why_it_matters": "Major AI company tests public markets despite mounting losses.",
+  "founder_takeaway": "Structure governance carefully to preserve your core company mission.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 5,
+  "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+  "source": "TechCrunch",
+  "score": 9,
+  "date": "2026-10-26T14:35:22+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-27T18:57:01.150736+05:30"
+ },
+ {
   "id": "69f0cc0de863",
   "headline": "RBI Infuses $10.5 Billion Liquidity Through Repo Operation",
   "the_number": "$10.53 billion",
@@ -4920,6 +4980,241 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-27T12:51:04.098783+05:30"
+ },
+ {
+  "id": "5f2681d78cad",
+  "headline": "Microsoft offers buyouts to 60,000 workers",
+  "the_number": "60,000",
+  "why_it_matters": "Trims corporate costs while realigning workforce toward artificial intelligence.",
+  "founder_takeaway": "Reallocate headcount and resources to prioritize emerging AI technologies.",
+  "sentiment": "Neutral",
+  "category": "Layoffs",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Microsoft"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/companies/microsoft-to-offer-buyouts-to-60-000-workers-in-latest-cost-cut-11793066021811.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-27T07:25:19+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-27T18:57:01.150736+05:30"
+ },
+ {
+  "id": "f5283a5bf8c9",
+  "headline": "Ather achieves profitability via operating leverage",
+  "the_number": "-",
+  "why_it_matters": "Reaches key profitability milestone despite existing supply constraints.",
+  "founder_takeaway": "Focus on operating leverage to achieve turnaround amidst constraints.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "EV"
+  ],
+  "companies": [
+   "Ather"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/mark-to-market/ather-energy-q2-results-net-profit-revenue-growth-11793081766549.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-10-27T12:52:19+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-27T18:57:01.150736+05:30"
+ },
+ {
+  "id": "d261456d79c2",
+  "headline": "Nikkei rises as Anthropic IPO lifts AI shares",
+  "the_number": "-",
+  "why_it_matters": "Global AI public market moves drive sentiment across indices.",
+  "founder_takeaway": "High-profile AI listings create strong positive tailwinds across markets.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/japans-nikkei-rises-as-anthropic-ipo-filing-lifts-ai-related-shares-11793084848508.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-10-27T12:37:27+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-27T18:57:01.150736+05:30"
+ },
+ {
+  "id": "8492bc9ec4ac",
+  "headline": "Defence stocks surge as DAC clears proposals",
+  "the_number": "₹2.12 lakh crore",
+  "why_it_matters": "Procurement approval earmarks 82% of budget for domestic industry.",
+  "founder_takeaway": "Government procurement initiatives provide a solid medium-term order pipeline.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Apollo Micro",
+   "Paras Defence",
+   "BEL",
+   "HAL"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/apollo-micro-paras-defence-bel-hal-defence-stocks-today-soar-up-to-9-as-dac-clears-rs-2-12-lakh-crore-proposals-11793081045775.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-10-27T12:02:11+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-27T18:57:01.150736+05:30"
+ },
+ {
+  "id": "c71233a0d161",
+  "headline": "Paytm Q2 net profit jumps 10-fold",
+  "the_number": "₹225 crore",
+  "why_it_matters": "Marks sixth consecutive profitable quarter with 28% revenue growth.",
+  "founder_takeaway": "Continuous monetisation and AI adoption can substantially scale profitability.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "fintech",
+   "AI"
+  ],
+  "companies": [
+   "One 97 Communications Ltd",
+   "Paytm"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://www.business-standard.com/companies/quarterly-results/paytm-q2fy27-net-profit-jumps-10-fold-to-225-crore-revenue-up-28-126102601539_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-10-26T23:42:27+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-27T18:57:01.150736+05:30"
+ },
+ {
+  "id": "f2010519fbe2",
+  "headline": "Noel Tata challenges reappointment of Chandra",
+  "the_number": "-",
+  "why_it_matters": "Alleges procedural lapses in five-year reappointment of chairman.",
+  "founder_takeaway": "Ensure strict agenda and procedural compliance during board resolutions.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Sons"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.business-standard.com/companies/news/noel-tata-challenges-resolution-to-reappoint-chandra-as-tata-sons-chairman-126102601651_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-10-26T23:08:13+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-27T18:57:01.150736+05:30"
+ },
+ {
+  "id": "70d40b1ae6b4",
+  "headline": "Ather Energy turns profitable with 63% revenue growth",
+  "the_number": "63%",
+  "why_it_matters": "Rising demand drives Ather to quarterly profitability with surging operating revenue.",
+  "founder_takeaway": "Scale and product demand can eventually shift unit economics profitable.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "EV"
+  ],
+  "companies": [
+   "Ather Energy"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 4,
+  "url": "https://entrackr.com/fintrackr/ather-energy-turns-profitable-in-q2-fy27-revenue-surges-63-12753153",
+  "source": "Entrackr",
+  "score": 8,
+  "date": "2026-10-26T14:40:09+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-27T18:57:01.150736+05:30"
+ },
+ {
+  "id": "73ae40bc8807",
+  "headline": "Federal Reserve set to pause interest rate hikes",
+  "the_number": "-",
+  "why_it_matters": "A pause in rate hikes brings temporary stability to borrowing.",
+  "founder_takeaway": "Monitor rate pauses closely as policy shifts remain uncertain.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMFBxcEVKT0RxYVJKYWZGOUlGd0VJTE5vN2lNTnozcm92NTV5Vzg3aVdhT2p3eGpoVlZlZ19aaGtPa0s2VzBsS2xuamdkTnU4X2dhNGRzYjlaVTFpVzdLSkg4TDRlQThPdnZOandxOE1wV0o0WDFCcDgtbEZIQmR0a3BFOWdIM1dPZGdmQQ?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 8,
+  "date": "2026-10-26T10:22:43+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-27T18:57:01.150736+05:30"
  },
  {
   "id": "1235b5baabc0",
@@ -8489,5 +8784,124 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-26T19:57:31.975368+05:30"
+ },
+ {
+  "id": "2ff5b52f805e",
+  "headline": "US Fed expected to hold interest rates steady",
+  "the_number": "-",
+  "why_it_matters": "Persistent inflation keeps borrowing costs elevated despite unchanged policy rates.",
+  "founder_takeaway": "Prepare capital structures for prolonged periods of high interest rates.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-decision-what-to-expect-from-warshs-october-meeting/articleshow/135227694.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-27T13:02:12+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-27T18:57:01.150736+05:30"
+ },
+ {
+  "id": "63789b71ed7b",
+  "headline": "Advent International raises $30 billion across two funds",
+  "the_number": "$30 billion",
+  "why_it_matters": "Massive private equity capital pools remain available for mature assets.",
+  "founder_takeaway": "Strong realizations and track records unlock massive institutional investor capital.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Advent International"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 30000.0,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/advent-international-raises-30-billion-across-two-new-funds-beats-flagship-target-11793097660326.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-27T16:56:29+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-27T18:57:01.150736+05:30"
+ },
+ {
+  "id": "b06733cfe605",
+  "headline": "Preventive health startup Cent raises $15 million",
+  "the_number": "$15 million",
+  "why_it_matters": "Funding supports AI radiology deployment and multi-city physical expansion.",
+  "founder_takeaway": "Combine proprietary AI technology with physical screening expansion to scale.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "healthtech",
+   "AI"
+  ],
+  "companies": [
+   "Cent",
+   "Blume Ventures",
+   "South Park Commons"
+  ],
+  "geography": "India",
+  "amount_usd_m": 15.0,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/cent-startup-raises-15-million-series-a-blume-ventures-11793090537213.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-27T16:00:39+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-27T18:57:01.150736+05:30"
+ },
+ {
+  "id": "51eac2224039",
+  "headline": "Pune Police Seek Rapido App Removal Over Unlicensed Operations",
+  "the_number": "-",
+  "why_it_matters": "Regulatory crackdowns threaten core app distribution and local operations.",
+  "founder_takeaway": "Secure regulatory approvals before scaling local operations.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Rapido",
+   "Google",
+   "Apple"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/under-scanner-for-tiger-shroff-shooting-pune-police-asks-google-apple-to-remove-rapido-app-for-operating-illegally-11793090870773.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-27T14:34:55+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-27T18:57:01.150736+05:30"
  }
 ]
