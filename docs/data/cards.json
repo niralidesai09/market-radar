@@ -390,6 +390,36 @@
   "first_seen": "2026-10-28T19:44:44.921074+05:30"
  },
  {
+  "id": "9664a451b39d",
+  "headline": "Jio Platforms Lists at 21% Premium on NSE",
+  "the_number": "21%",
+  "why_it_matters": "Jio becomes India's second-largest listed firm by market capitalisation.",
+  "founder_takeaway": "Strong public market demand exists for dominant digital infrastructure leaders.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms",
+   "Reliance Industries"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 10,
+  "url": "https://entrackr.com/news/jio-platforms-lists-at-21-premium-values-company-at-rs-125-lakh-crore-12759885",
+  "source": "Entrackr",
+  "score": 10,
+  "date": "2026-10-28T10:29:16+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T00:28:37.704837+05:30"
+ },
+ {
   "id": "030edb54f44f",
   "headline": "Jio Platforms Plans Rs 30,213-Crore IPO In October",
   "the_number": "Rs 30,213-crore",
@@ -1696,6 +1726,35 @@
   "archive_url": null,
   "unconfirmed": true,
   "first_seen": "2026-10-28T19:44:44.921074+05:30"
+ },
+ {
+  "id": "e4124e11ee29",
+  "headline": "US Fed Holds Interest Rates Steady Amid Persistent Inflation",
+  "the_number": "-",
+  "why_it_matters": "Elevated US inflation keeps potential future interest rate hikes on the table.",
+  "founder_takeaway": "High interest rates prolong cautious capital allocation and tighter liquidity.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "US Federal Reserve"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-us-federal-reserve-holds-interest-rates-steady-as-stubborn-inflation-puts-future-rate-hikes-in-focus/articleshow/135275622.cms",
+  "source": "Economic Times Markets",
+  "score": 9,
+  "date": "2026-10-28T23:31:23+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T00:28:37.704837+05:30"
  },
  {
   "id": "69f0cc0de863",
@@ -5973,6 +6032,246 @@
   "first_seen": "2026-10-28T19:44:44.921074+05:30"
  },
  {
+  "id": "76d46e0b2859",
+  "headline": "US Stocks Pull Back as Federal Reserve Holds Rates",
+  "the_number": "-",
+  "why_it_matters": "Markets react negatively as central bank maintains interest rates.",
+  "founder_takeaway": "Macro rate certainty remains elusive, influencing global risk asset sentiment.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Federal Reserve"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-meeting-live-updates-dow-jones-nasdaq-sp-500-us-stock-market-today-kevin-warsh-fomc-meet-rate-cut-news-28th-oct/liveblog/135265171.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-10-28T17:33:22+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T00:28:37.704837+05:30"
+ },
+ {
+  "id": "555fa8ba6a34",
+  "headline": "US DOJ Inquiring About Nvidia's Hugging Face Purchase",
+  "the_number": "-",
+  "why_it_matters": "Antitrust scrutiny intensifies around major tech acquisitions in AI sector.",
+  "founder_takeaway": "Big Tech acquisition exits face heightened regulatory and antitrust headwinds.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia",
+   "Hugging Face",
+   "US DOJ"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/exclusiveus-doj-is-inquiring-about-nvidias-purchase-of-hugging-face-sources-say-11793212486758.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-29T00:04:46+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T00:28:37.704837+05:30"
+ },
+ {
+  "id": "fa9df7fb03e2",
+  "headline": "Meesho Q2 Margins Hit 6% Despite Rising Tech Costs",
+  "the_number": "6%",
+  "why_it_matters": "Higher CAC and server costs may temper Meesho's near-term margin gains.",
+  "founder_takeaway": "Balance customer acquisition and infrastructure costs against margin growth.",
+  "sentiment": "Neutral",
+  "category": "Earnings",
+  "sector_tags": [
+   "quick commerce",
+   "other"
+  ],
+  "companies": [
+   "Meesho"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/companies/company-results/meesho-flags-higher-festive-and-tech-costs-in-q2-as-margins-improve-11793199216905.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-28T21:54:37+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T00:28:37.704837+05:30"
+ },
+ {
+  "id": "844594114d4a",
+  "headline": "US Fed FOMC Scheduled to Announce Rate Decision",
+  "the_number": "-",
+  "why_it_matters": "Global capital costs and liquidity hinge on impending Federal Reserve decisions.",
+  "founder_takeaway": "Track central bank rate policy decisions for macroeconomic runway impacts.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/us-fed-meeting-october-2026-today-expectations-date-and-time-when-where-to-watch-kevin-warshs-speech-11793175022190.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-10-28T14:50:31+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T00:28:37.704837+05:30"
+ },
+ {
+  "id": "d75bbfb276cb",
+  "headline": "Ola Electric ₹1,000 Cr Rights Issue Fully Subscribed",
+  "the_number": "₹1,000 cr",
+  "why_it_matters": "Strong shareholder participation provides fresh capital while shares rallied 23%.",
+  "founder_takeaway": "Active founder participation signals confidence during follow-on public capital raises.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "EV"
+  ],
+  "companies": [
+   "Ola Electric"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/ola-electric-s-1-000-cr-rights-issue-fully-subscribed-as-shares-rally-23-126102801875_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-10-28T21:08:29+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T00:28:37.704837+05:30"
+ },
+ {
+  "id": "6dca50c55a1a",
+  "headline": "Sarvam AI in Talks to Raise From Cognizant",
+  "the_number": "$3.5 Bn",
+  "why_it_matters": "Strategic IT services backing highlights surging enterprise interest in AI.",
+  "founder_takeaway": "Strategic IT corporate investors offer strong enterprise distribution channels.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Sarvam AI",
+   "Cognizant Technology Solutions"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/cognizant-in-talks-to-invest-in-sarvam-at-3-5-bn-to-4-bn-valuation-report/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-10-28T09:50:02+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T00:28:37.704837+05:30"
+ },
+ {
+  "id": "9f7133723eef",
+  "headline": "US DOE Loans $5B to Power Tech Data Centers",
+  "the_number": "$5B",
+  "why_it_matters": "Government-backed nuclear modernization addresses massive energy needs of hyperscalers.",
+  "founder_takeaway": "Secure massive baseline energy and infrastructure early for compute scaling.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "Constellation Energy",
+   "Google",
+   "Amazon",
+   "Meta"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+  "source": "TechCrunch",
+  "score": 8,
+  "date": "2026-10-28T15:53:21+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T00:28:37.704837+05:30"
+ },
+ {
+  "id": "87e2d1810ab9",
+  "headline": "Guidewire Acquires Hyperexponential for $1.7B in Cash",
+  "the_number": "$1.7B",
+  "why_it_matters": "Major cash acquisition accelerates AI agent deployment for insurance underwriting.",
+  "founder_takeaway": "Specialized AI workflow software commands premium cash valuations from incumbents.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "SaaS",
+   "AI"
+  ],
+  "companies": [
+   "Guidewire",
+   "Hyperexponential"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 1700,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+  "source": "TechCrunch",
+  "score": 8,
+  "date": "2026-10-27T22:26:03+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T00:28:37.704837+05:30"
+ },
+ {
   "id": "1235b5baabc0",
   "headline": "SEBI Reviews Derivatives Market Timings And Settlement",
   "the_number": "-",
@@ -9990,5 +10289,92 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-28T00:19:14.032724+05:30"
+ },
+ {
+  "id": "8745f938db34",
+  "headline": "World Bank Projects 23% Commodity Price Surge",
+  "the_number": "23%",
+  "why_it_matters": "War and shipping disruptions threaten to escalate inflation and food risks.",
+  "founder_takeaway": "Prepare supply chains and input pricing for potential macro shocks.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "World Bank"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/world-bank-sees-commodity-prices-surging-23-in-2026-on-middle-east-war/articleshow/135274754.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-28T22:56:20+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T00:28:37.704837+05:30"
+ },
+ {
+  "id": "635d5016b302",
+  "headline": "Cholamandalam Q2 Profit Jumps 41%, Plans ₹5000 Cr QIP",
+  "the_number": "Rs 5000 crore",
+  "why_it_matters": "Strong income and lower credit losses back a massive capital raise.",
+  "founder_takeaway": "Leverage peak operating performance to execute large equity funding rounds.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Cholamandalam Investment and Finance"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/cholamandalam-investment-q2-net-profit-rises-41-on-strong-income-growth-plans-rs-5000-crore-capital-raise/articleshow/135272371.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-28T21:34:42+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T00:28:37.704837+05:30"
+ },
+ {
+  "id": "01784e4c3b21",
+  "headline": "Carlsberg India Files Updated DRHP for Complete OFS IPO",
+  "the_number": "$700 million",
+  "why_it_matters": "Multinationals continue tapping Indian equity markets to monetise local business units.",
+  "founder_takeaway": "Indian public markets provide strong liquidity and shareholder exits.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Carlsberg India"
+  ],
+  "geography": "India",
+  "amount_usd_m": 700,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/tuborg-maker-carlsberg-india-moves-closer-to-ipo-files-updated-drhp-for-complete-ofs-issue/articleshow/135265478.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-28T17:57:57+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T00:28:37.704837+05:30"
  }
 ]
