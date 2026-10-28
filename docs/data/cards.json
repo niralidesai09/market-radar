@@ -358,6 +358,38 @@
   "first_seen": "2026-10-28T13:27:01.131153+05:30"
  },
  {
+  "id": "247c3e2c0047",
+  "headline": "Jio Platforms Enters $100 Billion Valuation Club Post-IPO",
+  "the_number": "$108 billion",
+  "why_it_matters": "Jio becomes India's second-most valuable company and largest telecom firm.",
+  "founder_takeaway": "Scale and market leadership can unlock massive global valuations.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms",
+   "Meta",
+   "Alibaba",
+   "SpaceX"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 16,
+  "url": "https://www.livemint.com/companies/news/jio-valued-at-108-billion-in-ipo-joins-meta-alibaba-and-spacex-club-all-you-need-to-know-11793173313752.html",
+  "source": "Mint Companies",
+  "score": 10,
+  "date": "2026-10-28T13:32:54+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T19:44:44.921074+05:30"
+ },
+ {
   "id": "030edb54f44f",
   "headline": "Jio Platforms Plans Rs 30,213-Crore IPO In October",
   "the_number": "Rs 30,213-crore",
@@ -1602,6 +1634,68 @@
   "archive_url": null,
   "unconfirmed": true,
   "first_seen": "2026-10-28T13:27:01.131153+05:30"
+ },
+ {
+  "id": "8145fe5ddb51",
+  "headline": "Manufacturing accelerator Re:Build raises $2.1B",
+  "the_number": "$2.1B",
+  "why_it_matters": "Re:Build secures massive capital to build an American alternative to Shenzhen.",
+  "founder_takeaway": "Domestic advanced manufacturing infrastructure commands massive investor interest.",
+  "sentiment": "Neutral",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Re:Build",
+   "Slate Auto"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 2100,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+  "source": "TechCrunch",
+  "score": 9,
+  "date": "2026-10-27T20:31:17+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-10-28T19:44:44.921074+05:30"
+ },
+ {
+  "id": "fc5f9bdbfc14",
+  "headline": "Disruptive raises $10B fund for concentrated tech bets",
+  "the_number": "$10B",
+  "why_it_matters": "A $10B fund targets concentrated investments in at least ten companies.",
+  "founder_takeaway": "Mega-funds are increasingly focusing heavy capital on concentrated winners.",
+  "sentiment": "Neutral",
+  "category": "Funding",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "Disruptive",
+   "Groq",
+   "ElevenLabs"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 10000,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+  "source": "TechCrunch",
+  "score": 9,
+  "date": "2026-10-27T18:55:35+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-10-28T19:44:44.921074+05:30"
  },
  {
   "id": "69f0cc0de863",
@@ -5699,6 +5793,184 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-28T13:27:01.131153+05:30"
+ },
+ {
+  "id": "f7c8ea1dacdf",
+  "headline": "Meesho Q2 loss narrows 68% as revenue reaches ₹4,132 Cr",
+  "the_number": "Rs 132.45 crore",
+  "why_it_matters": "Meesho drives 34% revenue growth alongside substantial loss reduction in Q2.",
+  "founder_takeaway": "Improving contribution margins paves the path toward e-commerce profitability.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Meesho"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/meesho-q2-results-loss-narrows-to-rs-132-crore-yoy-revenue-rises-34/articleshow/135265538.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-10-28T18:00:58+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T19:44:44.921074+05:30"
+ },
+ {
+  "id": "4d61540cd618",
+  "headline": "Interest income makes up 32% of Zerodha FY26 revenue",
+  "the_number": "32%",
+  "why_it_matters": "Zerodha diversifies revenue toward interest income as broking's share drops significantly.",
+  "founder_takeaway": "Lending and interest income provide vital diversification away from brokerage.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Zerodha",
+   "Groww",
+   "Angel One",
+   "ICRA"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/interest-income-contributes-32-of-zerodha-revenue-how-it-compares-with-groww-angel-one-11793159885918.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-28T11:27:05+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T19:44:44.921074+05:30"
+ },
+ {
+  "id": "14c56a3fca3c",
+  "headline": "Sarvam secures 87% of Indic AI funding in 2026",
+  "the_number": "$346 million",
+  "why_it_matters": "Investors heavily concentrate capital into Sarvam amid AI sovereignty priorities.",
+  "founder_takeaway": "Sovereignty-aligned foundation models capture the lion's share of regional capital.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Sarvam"
+  ],
+  "geography": "India",
+  "amount_usd_m": 346,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/sarvam-dominates-indic-ai-funding-in-2026-with-87-share-tracxn-report-126102801327_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-10-28T17:21:39+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T19:44:44.921074+05:30"
+ },
+ {
+  "id": "71915d632c65",
+  "headline": "Jio plans expansion into AI, cloud, and space tech",
+  "the_number": "-",
+  "why_it_matters": "Following a strong debut, Jio targets future growth in frontier technologies.",
+  "founder_takeaway": "Sustain post-listing growth by expanding into high-margin frontier technology spaces.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/jio-s-next-decade-is-about-ai-cloud-and-space-tech-akash-ambani-126102800423_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-10-28T11:17:10+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T19:44:44.921074+05:30"
+ },
+ {
+  "id": "0f2b3c5c9325",
+  "headline": "Jio Approaches Global Telecom Top Five by Market Cap",
+  "the_number": "$137 billion",
+  "why_it_matters": "High valuation spotlights earnings growth despite a smaller revenue base.",
+  "founder_takeaway": "Valuation premiums require eventual earnings and capital return justification.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/jio-nears-global-telecom-top-five-by-market-cap-monetization-in-focus-11793183311157.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-28T18:35:56+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T19:44:44.921074+05:30"
+ },
+ {
+  "id": "f5a58b5f9378",
+  "headline": "Jio to debut after record $3.1 billion IPO",
+  "the_number": "$3.1 bn",
+  "why_it_matters": "Shows massive investor appetite despite volatile Indian and global markets.",
+  "founder_takeaway": "Strong offerings can thrive even amid broad market headwinds.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio"
+  ],
+  "geography": "India",
+  "amount_usd_m": 3100,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/ipo/ambani-looks-to-defy-market-headwinds-as-jio-makes-debut-after-record-ipo-126102800224_1.html",
+  "source": "Business Standard Markets",
+  "score": 8,
+  "date": "2026-10-28T09:13:38+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T19:44:44.921074+05:30"
  },
  {
   "id": "1235b5baabc0",
