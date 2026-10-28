@@ -296,6 +296,68 @@
   "first_seen": "2026-10-27T00:58:31.009152+05:30"
  },
  {
+  "id": "e326703623f5",
+  "headline": "Jio Platforms Surges 21% in Record Mega-IPO Debut",
+  "the_number": "21.35%",
+  "why_it_matters": "Delivers the largest listing gain among India's five biggest IPOs.",
+  "founder_takeaway": "Strong fundamentals and subscriber monetization drive massive listing-day gains.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms",
+   "Nomura",
+   "Motilal Oswal",
+   "Elara Capital"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 12,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-delivers-biggest-listing-gain-among-indias-5-largest-ipos-jumps-21-on-debut/articleshow/135256268.cms",
+  "source": "Economic Times Markets",
+  "score": 10,
+  "date": "2026-10-28T12:48:18+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T13:27:01.131153+05:30"
+ },
+ {
+  "id": "298e50473163",
+  "headline": "Jio Shares Surge 21% in Blockbuster Debut",
+  "the_number": "21%",
+  "why_it_matters": "Ranks as India's second-most valuable company, behind parent Reliance.",
+  "founder_takeaway": "Spin-offs can rival parent corporations in public valuation.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio",
+   "Reliance Industries"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+  "source": "TechCrunch",
+  "score": 10,
+  "date": "2026-10-28T05:20:32+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T13:27:01.131153+05:30"
+ },
+ {
   "id": "030edb54f44f",
   "headline": "Jio Platforms Plans Rs 30,213-Crore IPO In October",
   "the_number": "Rs 30,213-crore",
@@ -1481,6 +1543,65 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-28T00:19:14.032724+05:30"
+ },
+ {
+  "id": "1db5649f0de5",
+  "headline": "Jio Expands into AI and Cloud Post-Listing",
+  "the_number": "21%",
+  "why_it_matters": "Outlines strategic expansion beyond connectivity into AI and cloud infrastructure.",
+  "founder_takeaway": "Leverage core telecom connectivity to cross-sell emerging AI technologies.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Jio Platforms",
+   "Bharti Airtel"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/jio-ipo-largest-telecom-player-airtel-11793164174685.html",
+  "source": "Mint Companies",
+  "score": 9,
+  "date": "2026-10-28T11:21:53+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-10-28T13:27:01.131153+05:30"
+ },
+ {
+  "id": "84419bf13379",
+  "headline": "Noel Tata Challenges Chandrasekaran's Reappointment Resolution",
+  "the_number": "-",
+  "why_it_matters": "Internal boardroom conflicts surface publicly at century-old conglomerate Tata Sons.",
+  "founder_takeaway": "Governance and succession disputes can divide even veteran boards.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Sons"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://yourstory.com/2026/10/noel-tata-challenges-resolution-reappoint-chandrasekaran-tata-sons-chairman",
+  "source": "YourStory",
+  "score": 9,
+  "date": "2026-10-27T05:23:13+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-10-28T13:27:01.131153+05:30"
  },
  {
   "id": "69f0cc0de863",
@@ -5395,6 +5516,189 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-28T00:19:14.032724+05:30"
+ },
+ {
+  "id": "201286e41d31",
+  "headline": "FCC Approves Amazon's Globalstar Acquisition",
+  "the_number": "$11.5 billion",
+  "why_it_matters": "Amazon secures regulatory clearance to scale satellite communications against SpaceX Starlink.",
+  "founder_takeaway": "Strategic megadeals accelerate satellite connectivity infrastructure building.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Amazon Leo",
+   "Globalstar",
+   "SpaceX"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 11500,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/technology/us-agency-approves-amazon-leos-11-5-billion-acquisition-of-globalstar/articleshow/135251028.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-10-28T09:11:28+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T13:27:01.131153+05:30"
+ },
+ {
+  "id": "1e303c1e4685",
+  "headline": "Anthropic's Fast-Paced IPO Faces Skepticism",
+  "the_number": "-",
+  "why_it_matters": "Rapid growth at Anthropic raises nervous questions among public market investors.",
+  "founder_takeaway": "Record-setting growth invites heightened investor scrutiny during public offerings.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/technology/anthropics-record-ipo-faces-some-big-questions/articleshow/135249836.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-10-28T08:12:31+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T13:27:01.131153+05:30"
+ },
+ {
+  "id": "22c4d39a9956",
+  "headline": "OpenAI Plans to Buy Google AI Chips",
+  "the_number": "-",
+  "why_it_matters": "Tech giants diversify chip sourcing to satisfy soaring AI computing demand.",
+  "founder_takeaway": "Hardware partnerships can bridge crucial computing capacity bottlenecks.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "OpenAI",
+   "Google"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-plans-to-buy-googles-ai-chips/articleshow/135249807.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-10-28T08:09:55+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T13:27:01.131153+05:30"
+ },
+ {
+  "id": "d89da3ade087",
+  "headline": "Anthropic IPO Filing Hits Indian IT Stocks",
+  "the_number": "-",
+  "why_it_matters": "Global AI public filings cause immediate tremors across Indian IT equities.",
+  "founder_takeaway": "Shifts in global AI technology alter traditional IT demand perceptions.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "Anthropic",
+   "Walmart",
+   "Flipkart"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/anthropic-ipo-rocks-indian-it-walmart-in-no-hurry-to-list-flipkart/articleshow/135235874.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-10-27T19:05:54+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T13:27:01.131153+05:30"
+ },
+ {
+  "id": "ba1f3390c1f7",
+  "headline": "US Fed Rate Target Ranges 3.75%-4.00%",
+  "the_number": "25-basis-point",
+  "why_it_matters": "US benchmark interest rates set at 3.75%-4.00% impact global market liquidity.",
+  "founder_takeaway": "Rate trajectory directly guides international cost of capital assumptions.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/us-fed-meeting-live-expectations-time-where-to-watch-kevin-warshs-speech-how-rate-decision-may-impact-gold-markets-11793157523493.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-10-28T12:26:49+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T13:27:01.131153+05:30"
+ },
+ {
+  "id": "a709a1beb213",
+  "headline": "Cent Raises $15 Million, Acquires Medsee",
+  "the_number": "$15 million",
+  "why_it_matters": "Preventive healthcare startup Cent funds expansion and absorbs AI radiology capabilities.",
+  "founder_takeaway": "Pair early-stage equity funding with strategic AI tuck-in acquisitions.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "healthtech",
+   "AI"
+  ],
+  "companies": [
+   "Cent",
+   "Blume Ventures",
+   "South Park Commons",
+   "Medsee",
+   "Practo"
+  ],
+  "geography": "India",
+  "amount_usd_m": 15,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://entrackr.com/news/practo-co-founder-shashank-nds-startup-cent-raises-15-mn-led-by-blume-acquires-medsee-12757196",
+  "source": "Entrackr",
+  "score": 8,
+  "date": "2026-10-27T13:56:37+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-28T13:27:01.131153+05:30"
  },
  {
   "id": "1235b5baabc0",
