@@ -1757,6 +1757,65 @@
   "first_seen": "2026-10-29T00:28:37.704837+05:30"
  },
  {
+  "id": "9d1c41bf56fc",
+  "headline": "Jio Platforms Raises $3.1 Billion in Record Debut",
+  "the_number": "$3.1 billion",
+  "why_it_matters": "Jio's valuation topped $130 billion, becoming India's second-most valuable firm.",
+  "founder_takeaway": "Strategic pricing and adjusted structures can ensure massive investor demand.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms Ltd."
+  ],
+  "geography": "India",
+  "amount_usd_m": 3100,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/ambani-magic-captivates-india-once-more-with-blockbuster-deal/articleshow/135288554.cms",
+  "source": "Economic Times Markets",
+  "score": 9,
+  "date": "2026-10-29T09:18:13+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-10-29T13:34:05.589475+05:30"
+ },
+ {
+  "id": "b6b8c8a17381",
+  "headline": "DoorDash Nears $17 Billion Buyout of Instacart",
+  "the_number": "$17 billion",
+  "why_it_matters": "Consolidation creates a dominant powerhouse in US online grocery delivery.",
+  "founder_takeaway": "Scale through mega-acquisitions provides leverage in low-margin delivery sectors.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "DoorDash",
+   "Instacart"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 17000,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/online-grocery-delivery-deal-worth-1-6-lakh-crore-doordash-likely-to-make-instacart-buyout-official-today-report-11793243922460.html",
+  "source": "Mint Companies",
+  "score": 9,
+  "date": "2026-10-29T09:20:25+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-10-29T13:34:05.589475+05:30"
+ },
+ {
   "id": "69f0cc0de863",
   "headline": "RBI Infuses $10.5 Billion Liquidity Through Repo Operation",
   "the_number": "$10.53 billion",
@@ -6272,6 +6331,246 @@
   "first_seen": "2026-10-29T00:28:37.704837+05:30"
  },
  {
+  "id": "c26ef11dad97",
+  "headline": "Jio Platforms Gains 32% Over IPO Issue Price",
+  "the_number": "32%",
+  "why_it_matters": "Brokerages issued buy ratings on strong ARPU and tariff expectations.",
+  "founder_takeaway": "Clear digital monetization drivers maintain momentum after market debut.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms",
+   "Nomura",
+   "Motilal Oswal",
+   "Elara Capital"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-shares-jump-5-on-day-2-after-ending-27-higher-on-debut-day-buy-sell-or-hold/articleshow/135289058.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-10-29T09:34:05+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T13:34:05.589475+05:30"
+ },
+ {
+  "id": "99fcc15cd898",
+  "headline": "Marvell in Talks to Buy Lumentum for $83B",
+  "the_number": "$83 billion",
+  "why_it_matters": "Optical tech in AI data centers becomes a key hardware bottleneck.",
+  "founder_takeaway": "Control critical infrastructure bottlenecks to capitalize on broader AI expansion.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Marvell",
+   "Lumentum"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 83000,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/marvelllumentum-deal-ai-s-next-bottleneck-is-moving-data-can-an-83-billion-bet-pay-off-11793245977844.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-29T10:10:04+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T13:34:05.589475+05:30"
+ },
+ {
+  "id": "831522f11c81",
+  "headline": "Adani Explores €3 Billion Acquisition of VTTI",
+  "the_number": "€3 billion",
+  "why_it_matters": "Supply chain disruptions significantly increase the strategic value of energy storage.",
+  "founder_takeaway": "Targeting infrastructure assets during supply disruption unlocks high trading margins.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "VTTI"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/people/adani-eyes-3-billion-acquisition-of-dutch-energy-storage-firm-vtti-as-supply-disruptions-boost-demand-11793209049359.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-28T23:39:39+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T13:34:05.589475+05:30"
+ },
+ {
+  "id": "23c10fc1b304",
+  "headline": "Jio Platforms Crosses ₹13 Lakh Crore Valuation",
+  "the_number": "₹13 lakh crore",
+  "why_it_matters": "Two-day gains placed Jio Platforms 33% above its initial offer price.",
+  "founder_takeaway": "Sustaining high market caps demands continued improvement in margins.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/reliance-jio-platforms-shares-after-26-68-ipo-debut-gains-jump-5-more-what-should-investors-do-buy-more-or-exit-11793248224964.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-10-29T10:26:09+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T13:34:05.589475+05:30"
+ },
+ {
+  "id": "64c0524e95d3",
+  "headline": "US Fed Holds Interest Rates at 3.75%–4%",
+  "the_number": "3.75%–4%",
+  "why_it_matters": "Persistent inflation keeps US benchmark borrowing rates at elevated levels.",
+  "founder_takeaway": "Prepare for sustained elevated cost of capital in global markets.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Federal Reserve"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/explained-why-us-fed-reserve-decided-to-not-hike-rate-after-fomc-meeting-what-chair-kevin-warsh-said-in-press-speech-11793215854245.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-10-29T01:06:42+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T13:34:05.589475+05:30"
+ },
+ {
+  "id": "4f729164eb21",
+  "headline": "Jio Success Lifts Pipeline for Major Indian IPOs",
+  "the_number": "113",
+  "why_it_matters": "Over 200 firms are cleared or filed for public listings.",
+  "founder_takeaway": "Robust market liquidity creates strong windows for large-scale enterprise listings.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "fintech",
+   "other"
+  ],
+  "companies": [
+   "PhonePe",
+   "Flipkart",
+   "Hindustan Coca-Cola Beverages"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/ipo/jio-s-strong-market-debut-boosts-confidence-in-india-s-ipo-pipeline-126102900518_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-10-29T12:15:24+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T13:34:05.589475+05:30"
+ },
+ {
+  "id": "e6a14413bdab",
+  "headline": "Meesho Q2 Loss Narrows 68% as Revenue Climbs",
+  "the_number": "68%",
+  "why_it_matters": "Festive demand and better unit economics reduced loss to ₹132 crore.",
+  "founder_takeaway": "Scaling order volumes alongside margin management rapidly reduces burn.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "quick commerce",
+   "other"
+  ],
+  "companies": [
+   "Meesho"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 5,
+  "url": "https://www.business-standard.com/companies/quarterly-results/meesho-q2-net-loss-narrows-68-to-132-crore-as-revenue-rises-34-126102801811_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-10-28T20:37:20+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T13:34:05.589475+05:30"
+ },
+ {
+  "id": "5ffd680f641b",
+  "headline": "Fed Holds Rates Awaiting Further Economic Data",
+  "the_number": "-",
+  "why_it_matters": "Central bank policy remains on hold until further economic signals clarify.",
+  "founder_takeaway": "Macro uncertainty persists; plan runways without expecting near-term monetary easing.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Fed"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 8,
+  "date": "2026-10-28T10:05:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T13:34:05.589475+05:30"
+ },
+ {
   "id": "1235b5baabc0",
   "headline": "SEBI Reviews Derivatives Market Timings And Settlement",
   "the_number": "-",
@@ -10376,5 +10675,247 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-29T00:28:37.704837+05:30"
+ },
+ {
+  "id": "db157d7805a5",
+  "headline": "Microsoft Reports $92.3B Revenue on Azure Growth",
+  "the_number": "$92.3 billion",
+  "why_it_matters": "Azure expanded 48% on soaring enterprise adoption of AI technologies.",
+  "founder_takeaway": "Position software offerings directly alongside enterprise cloud and AI demand.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "AI",
+   "SaaS"
+  ],
+  "companies": [
+   "Microsoft"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/microsoft-beats-expectations-fueled-by-azure-cloud-business/articleshow/135292316.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-29T11:18:23+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T13:34:05.589475+05:30"
+ },
+ {
+  "id": "79b7ddb0d33d",
+  "headline": "Alphabet Net Profit Drops 25% Amid Ad Slowdown",
+  "the_number": "25 percent",
+  "why_it_matters": "Ad slowdown hit profit, although Google Cloud revenue surged 103%.",
+  "founder_takeaway": "Diversify revenue lines to survive cyclical slowdowns in digital advertising.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Alphabet",
+   "Google",
+   "YouTube"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 4,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/shares-in-google-owner-alphabet-sink-on-profit-miss-ad-slowdown/articleshow/135292200.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-29T11:14:46+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T13:34:05.589475+05:30"
+ },
+ {
+  "id": "f19ecfe84df9",
+  "headline": "US DOJ Inquires Into Nvidia's Deal Practices",
+  "the_number": "-",
+  "why_it_matters": "Regulators examine chip market power, vendor acquisitions, and customer sales practices.",
+  "founder_takeaway": "Rapid market dominance attracts intense antitrust and regulatory scrutiny.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia",
+   "Hugging Face"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/tech/technology/us-doj-is-inquiring-about-nvidias-purchase-of-hugging-face/articleshow/135287206.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-10-29T08:17:26+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T13:34:05.589475+05:30"
+ },
+ {
+  "id": "54ee1453aa1c",
+  "headline": "TPG Pursues $5 Billion Acquisition of Ark",
+  "the_number": "$5 billion",
+  "why_it_matters": "Massive private equity bets target critical data centre infrastructure assets.",
+  "founder_takeaway": "AI compute expansion makes enterprise data centre assets highly lucrative.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "TPG",
+   "Ark",
+   "Elliott Investment Management"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 5000,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/technology/tpg-pursues-5-billion-acquisition-of-british-data-centre-group-ark-ft/articleshow/135255354.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-10-28T12:14:42+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T13:34:05.589475+05:30"
+ },
+ {
+  "id": "9fbf50feb1ff",
+  "headline": "Anthropic Faces $110 Billion AWS Minimum Spend",
+  "the_number": "$110 billion",
+  "why_it_matters": "Long-term cloud commitments lock in payments regardless of actual capacity usage.",
+  "founder_takeaway": "Beware of huge minimum-spend commitments when signing major cloud partnerships.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI",
+   "SaaS"
+  ],
+  "companies": [
+   "Anthropic",
+   "Amazon"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/explained-why-anthropic-could-owe-amazon-110-b-even-if-it-doesnt-use-all-the-cloud-capacity-it-has-committed-to-buy-11793254224225.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-29T12:52:42+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T13:34:05.589475+05:30"
+ },
+ {
+  "id": "580446152f75",
+  "headline": "Samsung reports record quarterly operating profit of $80.5 billion",
+  "the_number": "$80.5 billion",
+  "why_it_matters": "Record AI earnings overshadowed by sustainability and semiconductor performance concerns.",
+  "founder_takeaway": "Massive profit growth does not guarantee positive market reactions.",
+  "sentiment": "Neutral",
+  "category": "Earnings",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Samsung Electronics"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-samsung-electronics-posts-record-80-5-billion-quarterly-operating-profit-on-ai-chip-boom/articleshow/135289961.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-29T09:56:38+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T13:34:05.589475+05:30"
+ },
+ {
+  "id": "d2f22ca40976",
+  "headline": "One Planet Partners, SMTB partner for ₹3,000 crore fund",
+  "the_number": "₹3,000 crore",
+  "why_it_matters": "Injects substantial capital into energy transition, mobility, and manufacturing sectors.",
+  "founder_takeaway": "Fresh institutional capital unlocks for mobility and manufacturing ventures.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "EV",
+   "other"
+  ],
+  "companies": [
+   "One Planet Partners",
+   "Sumitomo Mitsui Trust Bank"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/start-ups/one-planet-partners-sumitomo-mitsui-trust-bank-rs-3000-crore-fund-11793251105137.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-29T11:45:34+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T13:34:05.589475+05:30"
+ },
+ {
+  "id": "092ef1e2b23f",
+  "headline": "Info Edge CEO Hitesh Oberoi to Step Down",
+  "the_number": "27 years",
+  "why_it_matters": "Founder Sanjeev Bikhchandani returns to lead the company as CEO.",
+  "founder_takeaway": "Founders can step back into top executive leadership roles.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Info Edge"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/companies/people/info-edge-ceo-hitesh-oberoi-to-step-down-after-27-years-11793188642542.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-28T20:44:36+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T13:34:05.589475+05:30"
  }
 ]
