@@ -6806,6 +6806,124 @@
   "first_seen": "2026-10-29T20:03:35.692874+05:30"
  },
  {
+  "id": "4664b9f69925",
+  "headline": "Alphabet shares drop 13.5% after disappointing quarterly results",
+  "the_number": "13.5%",
+  "why_it_matters": "Ad revenue missed expectations and free cash flow turned negative.",
+  "founder_takeaway": "Free cash flow matters as much as top-line growth.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "Alphabet",
+   "Google"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 4,
+  "url": "https://www.livemint.com/market/stock-market-news/alphabet-shares-plunge-13-set-for-biggest-1-day-drop-in-over-20-years-why-is-google-parent-falling-after-q3-results-11793284509177.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-10-29T20:56:57+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T00:35:12.396457+05:30"
+ },
+ {
+  "id": "a34ad84b8a44",
+  "headline": "Alphabet sheds over $500 billion on AI and search concerns",
+  "the_number": "$500 billion",
+  "why_it_matters": "Weak ad sales and soaring AI infrastructure costs rattled market confidence.",
+  "founder_takeaway": "Heavy AI spending without immediate returns spooks public market investors.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "Alphabet",
+   "Google"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://www.business-standard.com/companies/news/alphabet-loses-over-500-billion-in-market-value-as-ai-hits-google-search-126102901917_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-10-29T23:24:02+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T00:35:12.396457+05:30"
+ },
+ {
+  "id": "27f55f37b3c7",
+  "headline": "Meesho narrows Q2 loss by 68% as revenue rises",
+  "the_number": "68%",
+  "why_it_matters": "Meesho's transacting user base reached 284 million amid scaling operations.",
+  "founder_takeaway": "Unit economics can improve rapidly alongside strong revenue growth.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Meesho"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 5,
+  "url": "https://yourstory.com/2026/10/meesho-reduces-losses-by-68-while-revenues-rises-34-in-q2-of-fy27",
+  "source": "YourStory",
+  "score": 8,
+  "date": "2026-10-28T15:04:11+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T00:35:12.396457+05:30"
+ },
+ {
+  "id": "9242c9500021",
+  "headline": "Wall Street ends higher as Fed holds rate steady",
+  "the_number": "-",
+  "why_it_matters": "Stable interest rates shift market attention toward corporate quarterly earnings.",
+  "founder_takeaway": "Macro rate pauses offer short-term valuation relief for equities.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 8,
+  "date": "2026-10-28T23:53:34+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T00:35:12.396457+05:30"
+ },
+ {
   "id": "1235b5baabc0",
   "headline": "SEBI Reviews Derivatives Market Timings And Settlement",
   "the_number": "-",
@@ -11511,5 +11629,296 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-29T20:03:35.692874+05:30"
+ },
+ {
+  "id": "6e9f16a28e02",
+  "headline": "Euro slips as ECB holds interest rates steady",
+  "the_number": "-",
+  "why_it_matters": "Rising energy inflation and leadership shifts pressure the European currency.",
+  "founder_takeaway": "European macroeconomic softness may prolong currency volatility for exporters.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/euro-nudges-lower-after-ecb-holds-steady-stocks-inch-up/articleshow/135317787.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-29T19:07:39+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T00:35:12.396457+05:30"
+ },
+ {
+  "id": "e256ac04d40c",
+  "headline": "US September PCE inflation climbs to 0.5%",
+  "the_number": "0.5%",
+  "why_it_matters": "Higher inflation pressures raise the likelihood of a December rate hike.",
+  "founder_takeaway": "Persistent inflation means capital costs may remain elevated longer.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-inflation-heats-up-in-september-consumer-spending-rises/articleshow/135317736.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-29T19:04:37+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T00:35:12.396457+05:30"
+ },
+ {
+  "id": "8140b0685e52",
+  "headline": "ED investigates Mudrex and Instadapp over crypto transfers",
+  "the_number": "₹4,900 crore",
+  "why_it_matters": "Regulatory scrutiny on crypto platforms intensifies over foreign exchange compliance.",
+  "founder_takeaway": "Strict adherence to foreign exchange regulations is essential for fintechs.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Mudrex",
+   "Instadapp"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/companies/news/unauthorised-cross-border-crypto-transfers-why-ed-searched-mudrex-and-instadapp-what-is-the-case-11793296006073.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-30T00:28:13+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T00:35:12.396457+05:30"
+ },
+ {
+  "id": "0cac8ea55235",
+  "headline": "Tata Group faces leadership and governance disputes in November",
+  "the_number": "-",
+  "why_it_matters": "Internal leadership scrutiny tests governance at India's largest conglomerate.",
+  "founder_takeaway": "Maintain transparent board records and clear succession frameworks early.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Group"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/tata-group-s-november-test-chandrasekaran-s-reappointment-row-and-mehli-mistry-s-november-5-hearing-11793292372289.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-30T00:13:11+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T00:35:12.396457+05:30"
+ },
+ {
+  "id": "66c550266930",
+  "headline": "Mobile connectivity startup Braid raises $38 million funding",
+  "the_number": "$38 million",
+  "why_it_matters": "Significant early capital flows into mobile connectivity solutions.",
+  "founder_takeaway": "Strategic venture backing validates deep-tech connectivity infrastructure plays.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Braid",
+   "Octopus Ventures",
+   "KPN Ventures"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 38.0,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/mobile-connectivity-startup-braid-raises-38-million-from-octopus-ventures-heres-how-it-plans-to-use-the-funding-11793280746390.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-29T20:11:30+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T00:35:12.396457+05:30"
+ },
+ {
+  "id": "b62fc3358523",
+  "headline": "Jio Platforms readies first post-listing Q2 earnings report",
+  "the_number": "9.2%",
+  "why_it_matters": "Post-listing performance tests telecom giant's sustained ARPU and profit growth.",
+  "founder_takeaway": "Public markets reward simultaneous revenue expansion and operating efficiency.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/jio-platforms-first-q2-results-after-bumper-listing-check-date-reliance-firm-s-earnings-in-focus-key-numbers-to-watch-11793290112398.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-29T22:10:04+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T00:35:12.396457+05:30"
+ },
+ {
+  "id": "a93a623c26a2",
+  "headline": "SEBI and RBI ease foreign investor onboarding process",
+  "the_number": "-",
+  "why_it_matters": "Streamlining foreign portfolio investment rules boosts global capital inflows into India.",
+  "founder_takeaway": "Anticipate easier access to international institutional capital in India.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "SEBI",
+   "RBI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/working-with-rbi-to-make-process-of-bringing-foreign-investors-into-indian-markets-faster-and-easier-sebi-chief-11793268804709.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-29T15:47:47+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T00:35:12.396457+05:30"
+ },
+ {
+  "id": "1e5dcff21b47",
+  "headline": "Indian government defends $1.2 billion tax demand against Volkswagen",
+  "the_number": "$1.2 billion",
+  "why_it_matters": "Large-scale tax disputes increase regulatory unpredictability for multinational corporations.",
+  "founder_takeaway": "Thoroughly review import duties to mitigate future litigation risks.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "EV",
+   "other"
+  ],
+  "companies": [
+   "Volkswagen"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/govt-volkswagen-clash-in-court-over-record-1-2-billion-tax-dispute-126102901520_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-10-29T23:32:30+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T00:35:12.396457+05:30"
+ },
+ {
+  "id": "2cb6d01fe1fb",
+  "headline": "Microsoft plans $25 billion bond sale for AI spending",
+  "the_number": "$25 billion",
+  "why_it_matters": "Massive debt issuance tests institutional appetite for funding AI infrastructure.",
+  "founder_takeaway": "Evaluate debt markets to fund long-term infrastructure and capital expenditure.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Microsoft"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/world-news/microsoft-eyes-to-raise-at-least-25-billion-in-first-us-bond-since-2017-126102901884_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-10-29T22:52:24+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T00:35:12.396457+05:30"
+ },
+ {
+  "id": "f348a08d88d6",
+  "headline": "Pine Labs Q2 profit surges over 6X to ₹38.6 Cr",
+  "the_number": "₹38.6 Cr",
+  "why_it_matters": "Strong profit and revenue growth showcase maturing Indian fintech business models.",
+  "founder_takeaway": "Demonstrating exponential profit growth builds confidence for potential IPOs.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Pine Labs"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://inc42.com/buzz/pine-labs-q2-profit-jumps-over-6x-yoy-to-%e2%82%b938-6-cr-revenue-rises-24/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-10-29T07:58:49+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T00:35:12.396457+05:30"
  }
 ]
