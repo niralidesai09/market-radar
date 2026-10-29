@@ -1816,6 +1816,36 @@
   "first_seen": "2026-10-29T13:34:05.589475+05:30"
  },
  {
+  "id": "51e53bf8b6d9",
+  "headline": "DoorDash to Acquire Instacart for $17B",
+  "the_number": "$17B",
+  "why_it_matters": "Combines restaurant takeout dominance with grocery delivery reach.",
+  "founder_takeaway": "Consolidation unites complementary delivery verticals into single platforms.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "DoorDash",
+   "Instacart"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 17000,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
+  "source": "TechCrunch",
+  "score": 9,
+  "date": "2026-10-29T13:40:57+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-10-29T20:03:35.692874+05:30"
+ },
+ {
   "id": "69f0cc0de863",
   "headline": "RBI Infuses $10.5 Billion Liquidity Through Repo Operation",
   "the_number": "$10.53 billion",
@@ -6571,6 +6601,211 @@
   "first_seen": "2026-10-29T13:34:05.589475+05:30"
  },
  {
+  "id": "260702b5ec0c",
+  "headline": "Google Shares Crash 13% After $9B Cash Burn",
+  "the_number": "13%",
+  "why_it_matters": "Heavy AI spending and cash burn impacted quarterly profit.",
+  "founder_takeaway": "Surging AI capital expenditures can compress profitability.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Alphabet",
+   "Google"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 4,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/google-shares-crash-13-after-9-billion-cash-burn-sparks-ai-spending-fears/articleshow/135319102.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-10-29T19:41:28+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T20:03:35.692874+05:30"
+ },
+ {
+  "id": "5bc2f13c85d0",
+  "headline": "Fed Holds Rates Steady Amid Ongoing Inflation Concerns",
+  "the_number": "-",
+  "why_it_matters": "Investors weigh inflation risks, government borrowing, and rate outlooks.",
+  "founder_takeaway": "Macro interest rate uncertainty requires conservative cash planning.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-fed-holds-rates-steady-but-bond-investors-remain-concerned-over-inflation/articleshow/135296667.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-10-29T13:35:27+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T20:03:35.692874+05:30"
+ },
+ {
+  "id": "0c3a2ed967b0",
+  "headline": "Meesho Reports Rs 4,132 Cr Q2 Revenue",
+  "the_number": "Rs 4,132 Cr",
+  "why_it_matters": "Revenue increased thirty-four percent while losses narrowed sharply.",
+  "founder_takeaway": "Narrowing losses while scaling revenue strengthens ecommerce sustainability.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Meesho"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://entrackr.com/fintrackr/meesho-posts-rs-4132-cr-revenue-in-q2-fy27-narrows-losses-by-68-12761653",
+  "source": "Entrackr",
+  "score": 8,
+  "date": "2026-10-28T17:27:15+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T20:03:35.692874+05:30"
+ },
+ {
+  "id": "edad344f449a",
+  "headline": "Upwind Raises $400M After Rejecting Acquisition Offer",
+  "the_number": "$400M",
+  "why_it_matters": "Startup raised Series C at $3.8B valuation instead of selling.",
+  "founder_takeaway": "Strong market traction empowers founders to remain independent.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "SaaS"
+  ],
+  "companies": [
+   "Upwind",
+   "Datadog"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 400,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+  "source": "TechCrunch",
+  "score": 8,
+  "date": "2026-10-28T23:15:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T20:03:35.692874+05:30"
+ },
+ {
+  "id": "7d5ffdad902f",
+  "headline": "Microsoft Discloses Azure Revenue at $33.2 Billion",
+  "the_number": "$33.2 billion",
+  "why_it_matters": "First-ever dollar disclosure shows Azure closing gap with AWS.",
+  "founder_takeaway": "Transparent segment reporting demonstrates market scale and confidence.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "SaaS"
+  ],
+  "companies": [
+   "Microsoft",
+   "AWS"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+  "source": "TechCrunch",
+  "score": 8,
+  "date": "2026-10-28T21:58:32+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T20:03:35.692874+05:30"
+ },
+ {
+  "id": "65911ac3f4f5",
+  "headline": "Microsoft Generates $10 Billion Revenue from OpenAI Partnership",
+  "the_number": "$10 billion",
+  "why_it_matters": "Commercial revenue-sharing underscores significant financial dependency on OpenAI.",
+  "founder_takeaway": "Deep enterprise distribution agreements can monetize frontier AI directly.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Microsoft",
+   "OpenAI"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+  "source": "TechCrunch",
+  "score": 8,
+  "date": "2026-10-28T21:34:30+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T20:03:35.692874+05:30"
+ },
+ {
+  "id": "f13457c1c872",
+  "headline": "Jio Valuation Reaches $137 Billion in India",
+  "the_number": "$137 billion",
+  "why_it_matters": "Becomes India's second-most valuable firm behind parent group expansion.",
+  "founder_takeaway": "Massive telecommunications scale enables unmatched market valuation creation.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnBsQUVaem9YZkdBUHZ0aFRjRFVadWg5ektvU0ozc3VOWmhpXzRQcmJjY3BZaS0yRERZa1hTdjZxSjkwdFRlWWhuUnJIRk9HMUVjdzdibExtbnJIbnFUVzZKM1BhemljWDI3MTlTTEZHUmEzX1dkWC1RcHd6TjIxMVBxUDAzS1VUMjIzZkpIaHlLbHpJVGtpcUVLTERnWklieDJlVldNUkplUnJjNjFZVkMzYjRpaXpJQ3B3?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 8,
+  "date": "2026-10-28T09:55:05+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T20:03:35.692874+05:30"
+ },
+ {
   "id": "1235b5baabc0",
   "headline": "SEBI Reviews Derivatives Market Timings And Settlement",
   "the_number": "-",
@@ -10917,5 +11152,364 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-29T13:34:05.589475+05:30"
+ },
+ {
+  "id": "fc2824912527",
+  "headline": "Anthropic Valued at $1.475 Trillion Ahead of IPO",
+  "the_number": "$1.475 trillion",
+  "why_it_matters": "High compute costs and competition create wide valuation outcomes.",
+  "founder_takeaway": "Frontier AI valuations fluctuate widely based on compute cost assumptions.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dean-of-valuation-aswath-damodaran-pegs-anthropics-worth-at-1-475-trillion-ahead-of-mega-ipo/articleshow/135300228.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-29T15:23:33+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T20:03:35.692874+05:30"
+ },
+ {
+  "id": "620f06327b5e",
+  "headline": "Pine Labs Net Profit Jumps 543% in Q2",
+  "the_number": "543%",
+  "why_it_matters": "Payments, UPI growth, and international expansion drove strong profitability.",
+  "founder_takeaway": "Diversifying payments channels and international markets accelerates profitability.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "fintech",
+   "AI"
+  ],
+  "companies": [
+   "Pine Labs"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/pine-labs-shares-jump-7-as-q2-net-profit-soars-543-yoy-to-rs-39-crore/articleshow/135298034.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-29T14:21:41+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T20:03:35.692874+05:30"
+ },
+ {
+  "id": "a5ebfb6ff25c",
+  "headline": "Michael Burry Warns AI Sector Is Catastrophically Vulnerable",
+  "the_number": "-",
+  "why_it_matters": "High infrastructure costs and slowing revenue could trigger major market corrections.",
+  "founder_takeaway": "Ensure sustainable unit economics before committing to massive infrastructure costs.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/michael-burry-says-anthropic-ipo-papers-show-ai-industry-is-catastrophically-vulnerable-what-the-big-short-investor-sees/articleshow/135296998.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-29T13:47:01+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T20:03:35.692874+05:30"
+ },
+ {
+  "id": "e5d3e131b894",
+  "headline": "Marvell in Advanced Talks to Acquire Lumentum",
+  "the_number": "-",
+  "why_it_matters": "Consolidation grows as AI chipmakers expand data center networking hardware.",
+  "founder_takeaway": "M&A can rapidly integrate critical infrastructure hardware components.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Marvell",
+   "Lumentum"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/technology/marvell-in-advanced-talks-to-buy-lumentum-bloomberg-news/articleshow/135296091.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-10-29T13:14:20+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T20:03:35.692874+05:30"
+ },
+ {
+  "id": "40c9d5abc033",
+  "headline": "China Tightens Export Curbs on Domestic AI Models",
+  "the_number": "-",
+  "why_it_matters": "New regulations limit foreign access to Chinese AI models and data.",
+  "founder_takeaway": "Navigate cross-border regulatory compliance strictly when deploying foundational AI tech.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-new-export-curbs-draw-a-line-around-its-ai-crown-jewels/articleshow/135289950.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-10-29T09:55:01+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T20:03:35.692874+05:30"
+ },
+ {
+  "id": "b37666fc91a5",
+  "headline": "responsAbility Invests $20 Million in Navitas Solar",
+  "the_number": "$20 million",
+  "why_it_matters": "Climate-focused funds continue injecting capital into Indian renewable energy players.",
+  "founder_takeaway": "Align expansion plans with targeted climate and sustainability venture funds.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "responsAbility",
+   "Navitas Solar"
+  ],
+  "geography": "India",
+  "amount_usd_m": 20,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/responsability-invests-20-million-in-navitas-solar-as-part-of-its-asia-climate-fund-what-is-it-11793277860187.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-29T19:18:36+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T20:03:35.692874+05:30"
+ },
+ {
+  "id": "b9022937297e",
+  "headline": "Trent Appoints Bahram Vakil Chairman as Profit Jumps",
+  "the_number": "22%",
+  "why_it_matters": "Retail leadership transitions as fashion store expansions fuel double-digit growth.",
+  "founder_takeaway": "Smooth succession planning secures operational momentum during rapid business expansion.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Trent"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/companies/company-results/trent-names-bahram-vakil-chairman-as-noel-tata-to-step-down-after-nearly-three-decades-11793273318615.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-29T17:59:50+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T20:03:35.692874+05:30"
+ },
+ {
+  "id": "9dd69ba6b011",
+  "headline": "SEBI to Review IPO, FPO and SME Listings",
+  "the_number": "-",
+  "why_it_matters": "Regulator aims to improve listing disclosures and reduce SME compliance costs.",
+  "founder_takeaway": "Prepare strong governance early to meet stricter listing disclosure norms.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "SEBI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/market/stock-market-news/ipo-fpo-and-sme-listing-rules-sebi-to-review-framework-says-chairman-tuhin-kanta-pandey-11793270623870.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-29T17:04:42+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T20:03:35.692874+05:30"
+ },
+ {
+  "id": "26cf835d5435",
+  "headline": "MSCI Rejig May Add Meesho and LIC",
+  "the_number": "$1.4 billion",
+  "why_it_matters": "Index additions could bring massive passive institutional capital into Indian firms.",
+  "founder_takeaway": "Public index inclusion acts as a significant long-term liquidity catalyst.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "MSCI",
+   "LIC",
+   "Meesho",
+   "Oracle Financial Services Software",
+   "Siemens Energy India",
+   "JM Financial"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/msci-rejig-lic-meesho-likely-to-enter-india-standard-index-ofss-siemens-energy-may-be-dropped-11793271137051.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-29T16:54:39+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T20:03:35.692874+05:30"
+ },
+ {
+  "id": "7ab438a93b46",
+  "headline": "Samsung Hits Record Revenue Driven by AI Chip Demand",
+  "the_number": "USD 146 billion",
+  "why_it_matters": "Surging AI adoption drives sustained record profits in semiconductor manufacturing.",
+  "founder_takeaway": "Riding macro tech waves creates massive compounding revenue tailwinds.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "Samsung"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/technology/samsung-keeps-shattering-profit-records-as-ai-boom-lifts-chip-demand/articleshow/135289645.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-10-29T09:46:40+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T20:03:35.692874+05:30"
+ },
+ {
+  "id": "581077fcac65",
+  "headline": "Adani and Tata Partner for 8 Airport Hotels",
+  "the_number": "2,000 rooms",
+  "why_it_matters": "Major infrastructure collaboration captures rising airport and transit hospitality demand.",
+  "founder_takeaway": "Asset-light operational partnerships enable rapid large-scale expansion.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Adani Group",
+   "Tata Group",
+   "IHCL",
+   "Adani Airport Holdings"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/inside-adani-group-tata-group-mega-deal-8-hotels-2-000-rooms-hcl-taj-vivanta-gateway-and-ginger-brands-details-11793272198411.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-29T17:06:10+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T20:03:35.692874+05:30"
+ },
+ {
+  "id": "3712fd95d93a",
+  "headline": "Groww and Zerodha Enable US Stock Investing for Indians",
+  "the_number": "-",
+  "why_it_matters": "Enables retail diversification amid weak domestic markets and falling rupee.",
+  "founder_takeaway": "Capitalize on user demand by launching global investment features.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Groww",
+   "Zerodha"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/groww-zerodha-open-us-stock-investing-to-indians-what-it-means-for-retail-investors-the-risks-and-rewards-explained-11793258691997.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-29T13:38:23+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-29T20:03:35.692874+05:30"
  }
 ]
