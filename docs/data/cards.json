@@ -7081,6 +7081,153 @@
   "first_seen": "2026-10-30T13:36:11.359854+05:30"
  },
  {
+  "id": "a7ed69a7a163",
+  "headline": "Binance Hit by Massive $6.3 Billion Crypto Breach",
+  "the_number": "$6.3 billion",
+  "why_it_matters": "Major security breach renews persistent vulnerabilities in digital asset platforms.",
+  "founder_takeaway": "Security infrastructure must be prioritized as digital platform scale increases.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Binance",
+   "Bybit",
+   "Ronin Network",
+   "Wormhole"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 8,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-binance-breach-rekindles-fears-over-cryptocurrency-security/articleshow/135351569.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-10-30T14:00:16+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T19:55:02.241721+05:30"
+ },
+ {
+  "id": "7e8484eea2c8",
+  "headline": "Jio Platforms Posts 14% Profit Growth Post-Listing",
+  "the_number": "14%",
+  "why_it_matters": "Strong subscriber additions drive profitability in Jio's first post-listing quarterly performance.",
+  "founder_takeaway": "Scaled digital services can unlock consistent post-listing earnings expansion.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 5,
+  "url": "https://www.livemint.com/companies/company-results/jio-platforms-reliance-industries-q2fy27-results-quarterly-earnings-stock-market-debut-subscriber-additions-11793345497424.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-30T19:25:37+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T19:55:02.241721+05:30"
+ },
+ {
+  "id": "c49987fff0bf",
+  "headline": "Labour Ministry Notifies Social Security Board for Gig Workers",
+  "the_number": "-",
+  "why_it_matters": "Regulatory moves expand formal welfare frameworks to India's gig workforce.",
+  "founder_takeaway": "Platform startups must prepare compliance for mandatory gig worker welfare.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "quick commerce",
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://inc42.com/buzz/labour-ministry-notifies-national-social-security-board-for-gig-platform-workers/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-10-30T11:56:37+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T19:55:02.241721+05:30"
+ },
+ {
+  "id": "dcbd0e2bfa80",
+  "headline": "Pine Labs Profit Jumps Sixfold on Digital Payments",
+  "the_number": "sixfold",
+  "why_it_matters": "Surging digital payment demand propels fintech profitability in India.",
+  "founder_takeaway": "Merchant digitization tailwinds can drive exponential bottom-line expansion.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Pine Labs"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeG14cEZMTjVMS0dPdEZ6R2lWYUdvYlpuVHFMS3gzNXFjTlNqOFM0SjhSZy1KSnVkVG9ISmRVZGlWRW8ydlpONjQybzJZVDM5NTQ4cTRkdExDYy03Ylh3OEdrYUVoMTlRRXZzbmtGU0U2VzJHSVJKOTQ1VElSUkFqbzZUUVc3Qnd3NUJxVG5wUmVYUDVGZk42eDM0T3dRM21mRFRsWGdWVkhTOU51ZDM4OXVycDlXTVpOMk1LbmF4VDZuWHc?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 8,
+  "date": "2026-10-29T14:34:56+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T19:55:02.241721+05:30"
+ },
+ {
+  "id": "b6a62f2440c1",
+  "headline": "EPFO Prepares Guidelines to Invest in Startups and AIFs",
+  "the_number": "-",
+  "why_it_matters": "Domestic retirement funds could unlock massive patient capital for Indian startups.",
+  "founder_takeaway": "Institutional domestic capital pools could reduce reliance on foreign funding.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "EPFO"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUmwzVExSLXphTkFVVVNjTVpfbXFWOXR5bUpDTHlmdFlnVzdMMWhzaDA4SU5fQm1odm84bXdIWUJyNklhUlpxY0hQOXN6UlJiMGRnYVl3NnAzb2JKX1BfQmZTYlhieWxld1ZKNWNmdXk4OFJCRTA3MnlNWm9kWmFEbTZEdDBmUUM5WkpoOFNtWVZZbHZOdnhrN2lkYURpMlV6T3h5M3ZVR0RBMTNZSlBOdzNtdEItUWxaQU4wY1RfTXhsRURuSUFadUNGei1xZ2RsVjQtTkRSdWVCRmNyd05sa2VTQzdubEdfVFhsSFVpX3ZQLUhfdHfSAfsBQVVfeXFMTmZBckNsV1czYnItMFdpUkREVEN2cUVfcERNX3duU1Rxejl6ME80Q3EwVjNRTEpQM0Q3X3lmTmhwYjliVDJUZ3lYaWtYSGdWYmw2eExEZHFIMjVUOEhlRHk2NkFGZktXc3JSRnpkU29OQlJ0UFY1LVhDN0VVMi10OHdFSnV3cGdrNjIwR2VfRU53c0Q4bVhkdkxwcE9aenVIR0tjUGhBLVBxRkMwVElpVVZ5bndXUkZZNXhJLVJ5N3lIeFBicVBndFlFcmI1NGhnV2laNGVXRzc0dllRaWpwTWt5QUlYVWlQekh3aGh0QXNhdGdtdGlNSXJVMVk?oc=5",
+  "source": "Startup India / DPIIT (Google News)",
+  "score": 8,
+  "date": "2026-10-29T12:16:06+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T19:55:02.241721+05:30"
+ },
+ {
   "id": "1235b5baabc0",
   "headline": "SEBI Reviews Derivatives Market Timings And Settlement",
   "the_number": "-",
@@ -12406,5 +12553,127 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-30T13:36:11.359854+05:30"
+ },
+ {
+  "id": "2ac45f7fa831",
+  "headline": "US stocks tumble on Amazon and Intel AI spending woes",
+  "the_number": "2%",
+  "why_it_matters": "Aggressive AI spending and cash burn concerns triggered a tech sell-off.",
+  "founder_takeaway": "Unchecked capital expenditure without immediate returns spooks public investors.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Amazon",
+   "Intel"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-tumbles-over-2-sp-1-at-open-as-amazon-intel-add-to-ai-spending-woes/articleshow/135364444.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-30T19:08:23+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T19:55:02.241721+05:30"
+ },
+ {
+  "id": "df2acb96f942",
+  "headline": "PB Fintech and Delhivery report improved Q2 profits",
+  "the_number": "$6.3 billion",
+  "why_it_matters": "Key Indian tech firms showed profit improvements in the July-September quarter.",
+  "founder_takeaway": "Sustained revenue and profit improvements validate maturing tech business models.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "fintech",
+   "other"
+  ],
+  "companies": [
+   "PB Fintech",
+   "Delhivery",
+   "Binance"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/pb-fintech-q2-profit-surges-binance-suffers-6-3-billion-crypto-hack/articleshow/135363878.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-10-30T19:02:19+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T19:55:02.241721+05:30"
+ },
+ {
+  "id": "6e013b62c7a6",
+  "headline": "Nvidia considers credit support for Nscale deal with Anthropic",
+  "the_number": "-",
+  "why_it_matters": "Nvidia may guarantee billions in debt to build data center capacity.",
+  "founder_takeaway": "Strategic vendor financing can aggressively unlock critical enterprise infrastructure growth.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia",
+   "Nscale",
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-in-talks-to-give-credit-support-for-nscales-deal-with-anthropic/articleshow/135341285.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-10-30T08:48:58+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T19:55:02.241721+05:30"
+ },
+ {
+  "id": "cb944ca15ac6",
+  "headline": "Indian government defends ₹11,000 crore customs demand on Volkswagen",
+  "the_number": "₹11,000-crore",
+  "why_it_matters": "Authorities accuse Volkswagen of withholding information and underpaying historical import duties.",
+  "founder_takeaway": "Regulatory tariff ambiguities create massive long-term legal and balance-sheet liabilities.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Volkswagen"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/govt-defends-rs-11-000-cr-customs-duty-demand-against-volkswagen-accuses-it-of-underpaying-tariffs-what-is-the-dispute-11793330795513.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-30T09:10:22+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T19:55:02.241721+05:30"
  }
 ]
