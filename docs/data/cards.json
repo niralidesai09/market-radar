@@ -7228,6 +7228,156 @@
   "first_seen": "2026-10-30T19:55:02.241721+05:30"
  },
  {
+  "id": "0a5c8c486c57",
+  "headline": "Intel Plunges 30% Triggering Global Semiconductor Selloff",
+  "the_number": "30%",
+  "why_it_matters": "Weak PC demand and rising AI costs trigger broad semiconductor slump.",
+  "founder_takeaway": "Watch rising infrastructure costs and prepare for volatile hardware demand.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "Intel",
+   "Nvidia",
+   "AMD"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/intel-plunges-25-as-weak-pc-demand-and-ai-costs-trigger-global-chip-selloff/articleshow/135371230.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-10-30T22:37:17+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T00:12:14.445471+05:30"
+ },
+ {
+  "id": "871f8c200fdb",
+  "headline": "Reliance Q2 Profit Surges 41% YoY to Rs 25,548 Crore",
+  "the_number": "Rs 25,548 crore",
+  "why_it_matters": "Conglomerate delivers strong consolidated net profit and 29% revenue growth.",
+  "founder_takeaway": "Scale and diverse revenue engines drive resilient enterprise profitability.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance Industries Ltd"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 4,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-industries-q2-results-profit-shoots-up-41-yoy-to-rs-25548-crore-revenue-up-12/articleshow/135361960.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-10-30T19:46:49+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T00:12:14.445471+05:30"
+ },
+ {
+  "id": "10ede64bdd06",
+  "headline": "CCI Clears Navi's $100 Mn Investment From Prosus",
+  "the_number": "$100 Mn",
+  "why_it_matters": "Antitrust approval unblocks strategic global capital into Indian fintech player.",
+  "founder_takeaway": "Plan for regulatory antitrust clearance in large institutional funding rounds.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Navi",
+   "Prosus",
+   "CCI"
+  ],
+  "geography": "India",
+  "amount_usd_m": 100,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/ipo-bound-navi-raises-100-mn-from-prosus-in-maiden-institutional-round/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-10-30T14:25:27+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T00:12:14.445471+05:30"
+ },
+ {
+  "id": "282e162d1e9c",
+  "headline": "Binance Halts Withdrawals After Record $6.3 Bn Crypto Breach",
+  "the_number": "$6.3 Bn",
+  "why_it_matters": "Unprecedented security breach hits assets and freezes crypto market liquidity.",
+  "founder_takeaway": "Enterprise security failures can immediately disrupt critical customer operations.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Binance"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://inc42.com/buzz/binance-hit-by-record-6-3-bn-crypto-breach-suspends-withdrawals/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-10-30T06:18:42+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T00:12:14.445471+05:30"
+ },
+ {
+  "id": "9d27dbf51731",
+  "headline": "India Finalises 15 Funds Under $1.05B Startup Fund",
+  "the_number": "$1.05B",
+  "why_it_matters": "Government finalises 15 funds to channel venture capital into startups.",
+  "founder_takeaway": "Government-backed fund-of-funds expands long-term capital access for early-stage companies.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Dealroom"
+  ],
+  "geography": "India",
+  "amount_usd_m": 1050,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONzBHSWhaM0ZEN0o2Yk5ITDE2MUhxS2RHWHZBQUFGRDRhTU9Ja0lzeXJRSmdVbWNWZFZPSHdiYW9EbHNrOU5rN1Z1aXRraWV4ZEpaYlNFNVBxQWlSZVFlTmtyekZvTWJHUlVyZlhRV1NpclZPTEMzVE5ONjVlcG1NeXRzVVZkY0htNkZ4bzRzVkZKZVBpYVQ0cjNzclhkalE?oc=5",
+  "source": "Startup India / DPIIT (Google News)",
+  "score": 8,
+  "date": "2026-10-30T15:32:18+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T00:12:14.445471+05:30"
+ },
+ {
   "id": "1235b5baabc0",
   "headline": "SEBI Reviews Derivatives Market Timings And Settlement",
   "the_number": "-",
@@ -12675,5 +12825,240 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-30T19:55:02.241721+05:30"
+ },
+ {
+  "id": "47e2fe2e1c7d",
+  "headline": "Reliance Reports Record Q2 Net Profit of Rs 29,550 Cr",
+  "the_number": "Rs 29,550 crore",
+  "why_it_matters": "Refining and Jio fuel record profits while corporate debt levels fall.",
+  "founder_takeaway": "Strong digital and energy margins can offset retail segment weakness.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance Industries",
+   "Jio"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/record-earnings-5-big-takeaways-from-ril-q2-results-investors-should-watch-for-monday-trading/articleshow/135367917.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-30T20:48:47+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T00:12:14.445471+05:30"
+ },
+ {
+  "id": "6e1e1e8f46c5",
+  "headline": "Reliance Retail Q2 Revenue Rises 6.4% Despite Margin Hit",
+  "the_number": "6.4%",
+  "why_it_matters": "Delayed festive quarter and increased digital investments suppress retail bottom line.",
+  "founder_takeaway": "Seasonal calendar shifts can compress quarterly margins despite revenue gains.",
+  "sentiment": "Neutral",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance Retail"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q2-results-net-profit-falls-24-yoy-to-rs-2611-crore-gross-revenue-rises-6/articleshow/135366729.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-30T20:15:00+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T00:12:14.445471+05:30"
+ },
+ {
+  "id": "10b757507b9a",
+  "headline": "Jio Platforms Q2 profit rises 14% to Rs 8,389 crore",
+  "the_number": "Rs 8,389 crore",
+  "why_it_matters": "Demonstrates robust post-listing earnings momentum powered by ARPU and subscriber growth.",
+  "founder_takeaway": "Scale digital offerings alongside telecom to compound revenue and profitability.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 4,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/jio-platforms-q2-results-profit-rises-14-yoy-to-rs-8389-crore-revenue-up-11/articleshow/135364558.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-30T19:13:48+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T00:12:14.445471+05:30"
+ },
+ {
+  "id": "27773f1ae693",
+  "headline": "GAIL Q2 profit jumps 139%; approves GAIL Gas IPO",
+  "the_number": "139.3%",
+  "why_it_matters": "Strong earnings and subsidiary IPO approval unlock substantial public market value.",
+  "founder_takeaway": "Carve out and list high-performing subsidiaries to monetize operational scale.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "GAIL (India)",
+   "GAIL Gas Ltd."
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/gail-q2-results-profit-zooms-139-yoy-to-rs-4720-crore-revenue-rises-33-board-approves-gail-gas-ipo/articleshow/135356210.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-30T15:51:14+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T00:12:14.445471+05:30"
+ },
+ {
+  "id": "352acba428ae",
+  "headline": "Bitcoin drops below $78,000 following reported Binance security breach",
+  "the_number": "$6.3 billion",
+  "why_it_matters": "A massive crypto security breach shakes investor confidence and market prices.",
+  "founder_takeaway": "Centralized infrastructure vulnerabilities can instantly destabilize entire platform ecosystems.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Binance"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-hits-6-week-low-drops-below-78000-as-binances-6-billion-hack-rattles-crypto-markets-what-should-investors-do/articleshow/135349699.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-30T12:59:59+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T00:12:14.445471+05:30"
+ },
+ {
+  "id": "628e3bfcb761",
+  "headline": "Reliance Retail Q2 revenue climbs to ₹80,220 crore",
+  "the_number": "₹80,220 crore",
+  "why_it_matters": "Top-line revenue grew 5.78% despite bottom-line declines in the quarter.",
+  "founder_takeaway": "Sustained revenue expansion requires stringent cost control to protect margins.",
+  "sentiment": "Neutral",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance Retail Venture Ltd"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/company-results/reliance-retail-q2-profit-falls-24-5-revenue-up-64-11793373430955.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-30T20:49:46+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T00:12:14.445471+05:30"
+ },
+ {
+  "id": "4230f07d2441",
+  "headline": "Policybazaar Faces Business Model Shift Under Irdai Draft Rules",
+  "the_number": "-",
+  "why_it_matters": "Draft rules from Irdai may force Policybazaar agent model to evolve.",
+  "founder_takeaway": "Adapt business models proactively to navigate impending regulatory changes.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Policybazaar",
+   "PB Fintech"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/company-results/policybazaars-agent-business-may-need-to-change-under-irdai-s-draft-rules-says-ceo-yashish-dahiya-11793368953587.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-30T22:03:56+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T00:12:14.445471+05:30"
+ },
+ {
+  "id": "101e3e252d5d",
+  "headline": "Aswath Damodaran Values Anthropic at $1.475 Trillion",
+  "the_number": "$1.475 trillion",
+  "why_it_matters": "Reflects massive valuation uncertainty surrounding computing costs and margins.",
+  "founder_takeaway": "Account for computing costs and market uncertainty in valuations.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/anthropic-ipo-mega-valuation-top-finance-mind-aswath-damodaran-estimates-claude-makers-worth-at-1-475-trn-11793356354028.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-30T16:40:00+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T00:12:14.445471+05:30"
  }
 ]
