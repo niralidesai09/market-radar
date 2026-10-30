@@ -1846,6 +1846,68 @@
   "first_seen": "2026-10-29T20:03:35.692874+05:30"
  },
  {
+  "id": "9900c238c80f",
+  "headline": "Binance Hit by $6.3B Security Breach, Freezes $3B Assets",
+  "the_number": "$6.3B",
+  "why_it_matters": "A massive crypto breach highlights critical vulnerabilities in exchange infrastructure.",
+  "founder_takeaway": "Secure engineer endpoints to prevent catastrophic single-point failures.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "fintech",
+   "other"
+  ],
+  "companies": [
+   "Binance"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 7,
+  "url": "https://yourstory.com/2026/10/binance-63-billion-impact-security-breach-freezes-3-billion-crypto-assets",
+  "source": "YourStory",
+  "score": 9,
+  "date": "2026-10-30T04:59:02+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T13:36:11.359854+05:30"
+ },
+ {
+  "id": "db83db5c214c",
+  "headline": "OpenAI-Backed Thrive Holdings Acquires ADT for $15.3 Billion",
+  "the_number": "$15.3 billion",
+  "why_it_matters": "Massive legacy security consolidation aims to deploy AI into homes.",
+  "founder_takeaway": "Traditional sectors offer massive scale for AI-driven transformation.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "Thrive Holdings",
+   "ADT",
+   "OpenAI"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 15300,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+  "source": "TechCrunch",
+  "score": 9,
+  "date": "2026-10-29T19:56:19+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-10-30T13:36:11.359854+05:30"
+ },
+ {
   "id": "69f0cc0de863",
   "headline": "RBI Infuses $10.5 Billion Liquidity Through Repo Operation",
   "the_number": "$10.53 billion",
@@ -6924,6 +6986,101 @@
   "first_seen": "2026-10-30T00:35:12.396457+05:30"
  },
  {
+  "id": "96971faa1e61",
+  "headline": "Centre Defends ₹52,878 Crore IDBI Bank Stake Sale Process",
+  "the_number": "₹52,878 crore",
+  "why_it_matters": "The government validates strategic disinvestment and high valuations in banking.",
+  "founder_takeaway": "Transparent valuation metrics protect contested institutional deal structures.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "fintech",
+   "other"
+  ],
+  "companies": [
+   "IDBI Bank",
+   "Fairfax",
+   "LIC"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/idbi-banks-52-878-crore-sale-what-explains-the-3-917-crore-increase-in-winning-bid-centre-clarifies-11793336038355.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-10-30T11:08:14+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T13:36:11.359854+05:30"
+ },
+ {
+  "id": "d4c07f1abea4",
+  "headline": "AM Intelligence Seeks $3B Debt Financing for Nvidia Chips",
+  "the_number": "$3 billion",
+  "why_it_matters": "Surging enterprise demand for compute drives massive multi-billion debt deals.",
+  "founder_takeaway": "Capital-intensive tech bets require diverse debt and bond strategies.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "AM Intelligence",
+   "Nvidia",
+   "Greenko Group"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 3000,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/ai-firm-am-intelligence-seeks-3-billion-financing-for-nvidia-chips-order-126103000083_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-10-30T08:01:48+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T13:36:11.359854+05:30"
+ },
+ {
+  "id": "43e6f98d2304",
+  "headline": "Sachin Bansal Retains 84.34% Stake in Navi After Prosus Round",
+  "the_number": "Rs 940 crore",
+  "why_it_matters": "Navi raises large capital while founder retains strong majority ownership.",
+  "founder_takeaway": "High equity retention preserves founder control even through massive rounds.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Navi",
+   "Prosus",
+   "Prosus Ventures",
+   "MIH Payments"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://entrackr.com/decoding/decoding-sachin-bansal-retains-8434-stake-in-navi-after-rs-940-cr-prosus-investment-12766936",
+  "source": "Entrackr",
+  "score": 8,
+  "date": "2026-10-30T10:42:09+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T13:36:11.359854+05:30"
+ },
+ {
   "id": "1235b5baabc0",
   "headline": "SEBI Reviews Derivatives Market Timings And Settlement",
   "the_number": "-",
@@ -11920,5 +12077,334 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-30T00:35:12.396457+05:30"
+ },
+ {
+  "id": "06218364b58c",
+  "headline": "Tech Giants Plunge up to 23% Over Heavy AI Costs",
+  "the_number": "23%",
+  "why_it_matters": "Investors penalize big tech over mounting capex and slowing margins.",
+  "founder_takeaway": "Balance heavy infrastructure spending with clear near-term monetisation metrics.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Alphabet",
+   "Amazon",
+   "Intel",
+   "Google"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-ai-giants-google-amazon-intel-shares-crashed-up-to-23-in-a-single-day/articleshow/135349077.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-30T12:39:40+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T13:36:11.359854+05:30"
+ },
+ {
+  "id": "a00a61f997d3",
+  "headline": "Indian Markets Fall as Crude Oil Tops $116",
+  "the_number": "$116/barrel",
+  "why_it_matters": "Surging crude oil prices stoke inflation and hit economic growth.",
+  "founder_takeaway": "Prepare for input cost inflation and tighter macro liquidity.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-turn-lower-broader-markets-crash-as-oil-tops-116/barrel-what-lies-ahead/articleshow/135345897.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-30T11:06:52+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T13:36:11.359854+05:30"
+ },
+ {
+  "id": "bb55349178ab",
+  "headline": "Jio Platforms Shares Surge 28% Following Recent Listing",
+  "the_number": "28%",
+  "why_it_matters": "Brokers see growth driven by 5G monetisation and tariff hikes.",
+  "founder_takeaway": "Demonstrating clear monetization paths rewards public market debuts.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio Platforms",
+   "Nomura",
+   "Motilal Oswal",
+   "Dolat Capital",
+   "Elara Capital"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-share-price-up-28-from-ipo-price-heres-what-these-4-brokerages-are-saying/articleshow/135343944.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-30T10:10:52+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T13:36:11.359854+05:30"
+ },
+ {
+  "id": "4d7adaa07313",
+  "headline": "North Korean Hackers Tied to $6.3 Billion Binance Raid",
+  "the_number": "$6.3 billion",
+  "why_it_matters": "Massive crypto breaches severely undermine trust in digital asset security.",
+  "founder_takeaway": "Invest aggressively in institutional-grade cybersecurity to avoid catastrophic loss.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Binance",
+   "TRM Labs"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/technology/blockchain-analysis-firm-trm-says-north-korea-behind-binance-crypto-theft/articleshow/135344258.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-10-30T10:15:55+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T13:36:11.359854+05:30"
+ },
+ {
+  "id": "1a745fec5134",
+  "headline": "Nvidia Expands AI Web with Multi-Billion Dollar Commitments",
+  "the_number": "$3 billion",
+  "why_it_matters": "Nvidia's financial backing underpins massive data center and compute expansion.",
+  "founder_takeaway": "Leverage ecosystem partnerships to anchor demand for core offerings.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia",
+   "Meta",
+   "OpenAI"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidias-web-of-ai-bets-smart-strategy-or-bubble-risk/articleshow/135343465.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-10-30T09:53:50+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T13:36:11.359854+05:30"
+ },
+ {
+  "id": "3223f48f1081",
+  "headline": "Rivian Secures Path for $250 Million Uber Funding",
+  "the_number": "$250 million",
+  "why_it_matters": "Fresh capital helps Rivian narrow losses and fund autonomous bets.",
+  "founder_takeaway": "Strategic partnerships provide vital capital during cash-intensive operational phases.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "EV"
+  ],
+  "companies": [
+   "Rivian",
+   "Uber",
+   "Volkswagen"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 250,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/technology/rivian-says-its-on-track-for-250-million-uber-funding-by-year-end-r2-demand-strong/articleshow/135341594.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-10-30T08:59:49+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T13:36:11.359854+05:30"
+ },
+ {
+  "id": "a12c7ece91f6",
+  "headline": "Wall Street Slides on Alphabet Revenue Miss and Jitters",
+  "the_number": "-",
+  "why_it_matters": "Disappointing Big Tech earnings trigger broad market concerns over spending.",
+  "founder_takeaway": "Investor sentiment sours when heavy AI capital expenditure delays returns.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Alphabet"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/wall-street-slides-as-alphabet-revenue-miss-revives-ai-capex-jitters-11793298623792.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-30T00:00:23+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T13:36:11.359854+05:30"
+ },
+ {
+  "id": "c6c86f177b73",
+  "headline": "Vedanta Announces $25 Billion Three-Year Expansion Plan",
+  "the_number": "$25 billion",
+  "why_it_matters": "Massive industrial capex signals confidence in long-term domestic capacity needs.",
+  "founder_takeaway": "Prioritizing organic expansion builds scale without taking high acquisition risks.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Vedanta Group"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/vedanta-lines-up-25-bn-investment-over-next-three-years-for-organic-growth-126102901712_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-10-30T08:58:48+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T13:36:11.359854+05:30"
+ },
+ {
+  "id": "d39455a50409",
+  "headline": "Chola Aims for 20-23% Growth and ₹5,000 Crore QIP",
+  "the_number": "₹5,000 crore",
+  "why_it_matters": "Strong quarterly profit growth enables ambitious balance sheet expansion plans.",
+  "founder_takeaway": "Consistent profit surges lay the foundation for successful equity raises.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Cholamandalam Investment"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/quarterly-results/chola-targets-20-23-aum-growth-in-fy27-plans-5-000-crore-qip-fundraise-126102901590_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-10-29T19:48:56+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T13:36:11.359854+05:30"
+ },
+ {
+  "id": "bf527bfc70cc",
+  "headline": "ED Probes ₹4,940 Crore Cross-Border Crypto Transfers",
+  "the_number": "₹4,940 Cr",
+  "why_it_matters": "Regulatory enforcement escalates against unauthorized cross-border cryptocurrency transactions in India.",
+  "founder_takeaway": "Strict adherence to foreign exchange regulations is crucial for survival.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Enforcement Directorate"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/ed-probes-unauthorised-cross-border-crypto-transfers-worth-%e2%82%b94940-cr/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-10-29T16:43:56+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T13:36:11.359854+05:30"
+ },
+ {
+  "id": "4694ecd260dc",
+  "headline": "Shadowfax Q2 Profit Zooms Over 5X To ₹68 Cr",
+  "the_number": "₹68 Cr",
+  "why_it_matters": "Logistics player demonstrates major profit and revenue expansion.",
+  "founder_takeaway": "Focusing on operational efficiency drives significant bottom-line growth.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Shadowfax"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/shadowfax-q2-profit-zooms-over-5x-yoy-to-%e2%82%b968-cr-revenue-crosses-%e2%82%b91500-cr/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-10-29T08:57:20+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-30T13:36:11.359854+05:30"
  }
 ]
