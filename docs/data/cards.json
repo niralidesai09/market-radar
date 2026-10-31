@@ -7699,6 +7699,67 @@
   "first_seen": "2026-10-31T19:16:20.985628+05:30"
  },
  {
+  "id": "801c8968d432",
+  "headline": "Binance Hit by Record $6.3B Crypto Theft",
+  "the_number": "$6.3 billion",
+  "why_it_matters": "Massive security breach triggers crypto market drop and withdrawal halts.",
+  "founder_takeaway": "Prioritize cybersecurity defenses as breaches can wipe out billions instantly.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "fintech",
+   "other"
+  ],
+  "companies": [
+   "Binance"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://www.business-standard.com/world-news/binance-hit-by-record-6-3-bn-crypto-theft-north-korea-suspected-126103001944_1.html",
+  "source": "Business Standard Markets",
+  "score": 8,
+  "date": "2026-10-30T22:57:46+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T23:21:24.897385+05:30"
+ },
+ {
+  "id": "4cd685345a2b",
+  "headline": "Noel Tata Urges Tata Sons Board to Discuss Listing",
+  "the_number": "-",
+  "why_it_matters": "RBI mandate could force Tata Sons to list publicly.",
+  "founder_takeaway": "Regulatory compliance may force unexpected shifts in corporate structure.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Sons",
+   "SP Group",
+   "RBI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://yourstory.com/2026/10/noel-writes-to-tata-sons-to-take-biz-recast-sp-groups-funding-plea-at-nov-26-meet",
+  "source": "YourStory",
+  "score": 8,
+  "date": "2026-10-31T08:42:24+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T23:21:24.897385+05:30"
+ },
+ {
   "id": "1235b5baabc0",
   "headline": "SEBI Reviews Derivatives Market Timings And Settlement",
   "the_number": "-",
@@ -14013,5 +14074,387 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-10-31T19:16:20.985628+05:30"
+ },
+ {
+  "id": "70dce1c687e5",
+  "headline": "Sebi to Release FII Compliance Consultation Paper Soon",
+  "the_number": "-",
+  "why_it_matters": "India seeks to align FII rules globally amid capital outflows.",
+  "founder_takeaway": "Anticipate regulatory adjustments designed to ease international capital flows.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech",
+   "other"
+  ],
+  "companies": [
+   "Sebi"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-release-fii-compliance-consultation-paper-within-weeks-says-chairman-tuhin-kanta-pandey/articleshow/135400429.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-10-31T17:36:29+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T23:21:24.897385+05:30"
+ },
+ {
+  "id": "08e640a4b5de",
+  "headline": "Reliance Quarterly Profit Rises 40% on Oil Gains",
+  "the_number": "40%",
+  "why_it_matters": "Surging Brent crude prices significantly boosted Reliance's dominant oil-to-chemicals segment.",
+  "founder_takeaway": "Macro commodity price swings can heavily swing legacy revenue drivers.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/company-results/reliance-posts-40-rise-in-quarterly-profit-11793370836680.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-10-30T20:06:14+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T23:21:24.897385+05:30"
+ },
+ {
+  "id": "739e0b55cd52",
+  "headline": "RIL Posts Record ₹29,550 Crore Q2 Profit",
+  "the_number": "₹29,550 crore",
+  "why_it_matters": "O2C business recovery and Jio Platforms growth fuel record profits.",
+  "founder_takeaway": "Diversification across infrastructure and consumer tech stabilizes large-scale growth.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance Industries",
+   "Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 5,
+  "url": "https://www.livemint.com/market/stock-market-news/ril-jpl-q2-results-2026-impact-reliance-industries-jio-platforms-shares-in-focus-on-monday-2-nov-what-to-expect-11793373081405.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-30T22:27:01+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T23:21:24.897385+05:30"
+ },
+ {
+  "id": "218ddbcede21",
+  "headline": "Amazon and Intel Plunge on AI Spending Concerns",
+  "the_number": "25%",
+  "why_it_matters": "Rising AI infrastructure costs spark investor fears over shrinking tech cash flows.",
+  "founder_takeaway": "Heavy capital expenditure must clearly show sustainable pathways to profitability.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "Amazon",
+   "Intel"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/market/stock-market-news/amazon-intel-shares-crash-up-to-25-in-premarket-trade-as-ai-spending-concerns-trigger-tech-sell-off-whats-next-11793359621019.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-10-30T18:07:07+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T23:21:24.897385+05:30"
+ },
+ {
+  "id": "71722cb6583a",
+  "headline": "Skyroot Aerospace Targets Commercial Launches in Early 2027",
+  "the_number": "-",
+  "why_it_matters": "Skyroot plans to scale up to monthly rocket launches by 2027.",
+  "founder_takeaway": "Demonstrate technical proof of concept before scaling up commercial cadence.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Skyroot Aerospace"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/start-ups/skyroot-aerospace-eyes-commercial-rocket-launches-from-early-2027-126103001590_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-10-30T19:37:56+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T23:21:24.897385+05:30"
+ },
+ {
+  "id": "a8bc75962aad",
+  "headline": "MeitY Floats Privacy-Led Framework For Training AI Models",
+  "the_number": "-",
+  "why_it_matters": "Consent-based data sharing enables ethical training data access for Indian AI.",
+  "founder_takeaway": "Prepare data governance to align with emerging consent-based AI frameworks.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "MeitY"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/meity-floats-new-privacy-led-framework-to-unlock-data-for-training-ai-models/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-10-30T19:22:05+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T23:21:24.897385+05:30"
+ },
+ {
+  "id": "e66cdd4f3e1b",
+  "headline": "PB Fintech Q2 Net Profit Rises 43% Year-on-Year",
+  "the_number": "43%",
+  "why_it_matters": "PB Fintech achieved Rs 2,178 crore revenue with expanding quarterly profits.",
+  "founder_takeaway": "Strong revenue growth and profitability can coexist in mature fintechs.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "PB Fintech",
+   "Policybazaar"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://yourstory.com/2026/10/pb-fintech-net-profit-rises-43-rise-in-net-profit",
+  "source": "YourStory",
+  "score": 7,
+  "date": "2026-10-30T15:04:16+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T23:21:24.897385+05:30"
+ },
+ {
+  "id": "149be8f7454b",
+  "headline": "OpenAI Reportedly Lowers Target For New Funding Round",
+  "the_number": "-",
+  "why_it_matters": "Tempered mega-round targets suggest cooling investor appetite in generative AI.",
+  "founder_takeaway": "Even top AI market leaders face fundraising reality checks.",
+  "sentiment": "Neutral",
+  "category": "Funding",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "OpenAI"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+  "source": "TechCrunch",
+  "score": 7,
+  "date": "2026-10-31T16:12:55+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T23:21:24.897385+05:30"
+ },
+ {
+  "id": "0f484a6d1367",
+  "headline": "Salesforce Reportedly Acquires Defense Tech Startup Rune For $375M",
+  "the_number": "$375M",
+  "why_it_matters": "Enterprise SaaS giants are buying defense AI logistics platforms.",
+  "founder_takeaway": "Specialized AI software startups represent strategic acquisition targets for incumbents.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "SaaS",
+   "AI"
+  ],
+  "companies": [
+   "Salesforce",
+   "Rune"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 375,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+  "source": "TechCrunch",
+  "score": 7,
+  "date": "2026-10-30T23:21:23+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T23:21:24.897385+05:30"
+ },
+ {
+  "id": "0d618aef9860",
+  "headline": "Fed Needs At Least Two More Rate Hikes: Logan",
+  "the_number": "two",
+  "why_it_matters": "Additional US interest rate hikes maintain pressure on global capital costs.",
+  "founder_takeaway": "Expect prolonged high borrowing costs and tighter venture capital liquidity.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN0l1dXR6NGI2OV9OZGVkZHRFdzNqcVBnSGRFamxWZlNaZTNsQmdIbXRHVXc5VE9FZzcyWUI4YU5hai1VZlVtY2ZsQTh0VDgxYmtJT1V3X0NvUEZvRjBDT2VaQUdaeDdIWkZ5MlhraUdTVHJYSlM3RFVzU3lVNjctTzU2eFMzNk5kbDBIWlR2RWJ0NkQ2Znc?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 7,
+  "date": "2026-10-30T17:35:43+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T23:21:24.897385+05:30"
+ },
+ {
+  "id": "5c9a840b7735",
+  "headline": "Fed Officials Advocate Rate Hikes Amid Lingering Inflation",
+  "the_number": "-",
+  "why_it_matters": "Persisting US inflation pressures keep interest rates elevated across markets.",
+  "founder_takeaway": "Plan for sustained high cost of capital across global markets.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObTlSSnpPaC0yUGM0aTNCb3h0cUVRejBTRjg0SXVnT0MwSXNMSzBVS1NFSEpUaGxtOUpzSkZmQlRKWjFWQ2UtNEp2RUgzcWwyMEN3clpKaU1acDlRUGFhS21BTEpWQjdSVURWZjRJd19Tc19pbVVHeWYwUEZLdUlka0x6M1p5WDRMVkVjRmlLTWU?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 7,
+  "date": "2026-10-30T20:03:43+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T23:21:24.897385+05:30"
+ },
+ {
+  "id": "7e3c206930a7",
+  "headline": "DPIIT And ONDC Push To Digitise Kirana Procurement",
+  "the_number": "1.4 crore",
+  "why_it_matters": "Digitising B2B supply chains targets massive scale across small retailers.",
+  "founder_takeaway": "ONDC integration offers huge distribution access to traditional retail stores.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "quick commerce",
+   "other"
+  ],
+  "companies": [
+   "DPIIT",
+   "ONDC"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWhGVXV1VERBWFNVeURjN0xhYnNHYndkTnFEUHJId0hLRF85QTR6MHVVcVo4WkM2NEdQSEd5YVNHNkdyMGJsVlhIaVZoUTlsVmJjUDVzOWJsX2JQOVdlUHZvaEkyUlQzN09kb2JSWW9RY1RaeDYwbWNjRXVtTWt0eUJLclZiaTFjbGE3TFZ0ZW5vTk5kRjItV2VuVWo0dVdTQUJfSjVNWHlwYXNUSU9xaWFWTURoMThDdVlfUnhtaXVGejVoSGw0d0F3WGZKUWvSAc8BQVVfeXFMTnVoRlV1dVREQVhTVXlEYzdMYWJzR2J3ZE5xRFBySHdIS0RfOUE0ejB1VXFaOFpDNjRHUEhHeWFTRzZHcjBibFZYSGlWaFE5bFZiY1A1czlibF9iUDlXZVB2b2hJMlJUMzdPZG9iUllvUWNUWng2MG1jY0V1bU1rdHlCS3JWYmkxY2xhN0xWdGVub05OZEYyLVdlblVqNHVXU0FCX0o1TVh5cGFzVElPcWlhVk1EaDE4Q3VZX1J4bWl1Rno1aEhsNHdBd1hmSlFr?oc=5",
+  "source": "Startup India / DPIIT (Google News)",
+  "score": 7,
+  "date": "2026-10-30T15:28:12+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T23:21:24.897385+05:30"
+ },
+ {
+  "id": "fd2800f94185",
+  "headline": "Atomberg Technologies Receives SEBI Nod for IPO",
+  "the_number": "-",
+  "why_it_matters": "Secures regulatory approval to fund debt repayment, marketing, and R&D.",
+  "founder_takeaway": "Plan IPO proceeds clearly for debt, branding, and R&D.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "D2C"
+  ],
+  "companies": [
+   "Atomberg Technologies"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://yourstory.com/2026/10/atomberg-technologies-receives-sebi-nod-for-ipo",
+  "source": "YourStory",
+  "score": 7,
+  "date": "2026-10-30T14:04:45+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-10-31T23:21:24.897385+05:30"
  }
 ]
