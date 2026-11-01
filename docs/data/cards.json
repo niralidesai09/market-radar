@@ -7819,6 +7819,66 @@
   "first_seen": "2026-11-01T14:15:27.147361+05:30"
  },
  {
+  "id": "4b181f8946ee",
+  "headline": "CCI Approves Xavier Niel's €5.1B Vodafone Stake Deal",
+  "the_number": "€5.1 billion",
+  "why_it_matters": "Clears regulatory hurdle for Vodafone's largest shareholder acquisition.",
+  "founder_takeaway": "Large global cross-border telecom deals require multi-jurisdiction regulatory nods.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Vodafone Group",
+   "Vega SAS",
+   "Emirates Telecommunications Group"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/people/french-billionaire-xavier-niel-gets-cci-nod-for-16-2-vodafone-stake-what-is-the-5-1-billion-deal-11793459486004.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-11-01T00:10:18+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-01T19:54:13.391898+05:30"
+ },
+ {
+  "id": "88b2276edf22",
+  "headline": "Binance Hit by Unprecedented $6.3B Crypto Breach",
+  "the_number": "$6.3 bn",
+  "why_it_matters": "Massive hack exposes ongoing vulnerabilities in crypto exchange security.",
+  "founder_takeaway": "Robust security infrastructure is essential to withstand state-sponsored cyber attacks.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Binance"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 4,
+  "url": "https://www.livemint.com/market/stock-market-news/binance-hack-inside-24-hours-at-crypto-s-biggest-ever-6-3-bn-internet-bank-robbery-full-story-from-4-20-pm-thursday-11793520978709.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-11-01T15:15:58+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-01T19:54:13.391898+05:30"
+ },
+ {
   "id": "1235b5baabc0",
   "headline": "SEBI Reviews Derivatives Market Timings And Settlement",
   "the_number": "-",
@@ -14693,5 +14753,96 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-01T14:15:27.147361+05:30"
+ },
+ {
+  "id": "949635df5287",
+  "headline": "Meesho Limited Reports Allotment of Securities to NSE",
+  "the_number": "-",
+  "why_it_matters": "Signals capital alteration as Meesho advances corporate restructuring.",
+  "founder_takeaway": "Public disclosures mark key steps in private-to-public structural evolutions.",
+  "sentiment": "Neutral",
+  "category": "Funding",
+  "sector_tags": [
+   "quick commerce",
+   "other"
+  ],
+  "companies": [
+   "Meesho Limited"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Official",
+  "covered_by_count": 1,
+  "url": "https://nsearchives.nseindia.com/corporate/xbrl/ALTERATION_OF_CAPITAL_AND_FUND_RAISING_26469_WebXMLFile_20261101_171801645.xml",
+  "source": "NSE Announcements",
+  "score": 7,
+  "date": "2026-11-01T17:18:02+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": "archive/2026/11/949635df5287.html",
+  "unconfirmed": false,
+  "first_seen": "2026-11-01T19:54:13.391898+05:30"
+ },
+ {
+  "id": "70c1f294a497",
+  "headline": "Global Beverage Giants Advance India IPO Plans",
+  "the_number": "-",
+  "why_it_matters": "Multinationals look to unlock value through Indian public listings.",
+  "founder_takeaway": "India's robust public markets offer attractive liquidity for established brands.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Carlsberg",
+   "Pernod Ricard",
+   "Coca-Cola"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/global-beverage-majors-advance-india-ipo-plans-from-drhp-filing-to-board-approval/articleshow/135422834.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-11-01T14:45:28+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-01T19:54:13.391898+05:30"
+ },
+ {
+  "id": "143d4a91a22e",
+  "headline": "CCI Approves Prosus Investment in Sachin Bansal's Navi",
+  "the_number": "$100 million",
+  "why_it_matters": "Regulatory clearance unlocks substantial capital for Indian fintech expansion.",
+  "founder_takeaway": "Strategic global backing validates scalable digital financial services business models.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Prosus",
+   "Navi Ltd"
+  ],
+  "geography": "India",
+  "amount_usd_m": 100,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://yourstory.com/2026/11/prosus-investment-in-sachin-bansals-navi-gets-cci-nod",
+  "source": "YourStory",
+  "score": 7,
+  "date": "2026-11-01T12:23:51+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-01T19:54:13.391898+05:30"
  }
 ]
