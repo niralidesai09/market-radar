@@ -7879,6 +7879,33 @@
   "first_seen": "2026-11-01T19:54:13.391898+05:30"
  },
  {
+  "id": "79a50308e06a",
+  "headline": "Cabinet Approves Changes in Border FDI Rules",
+  "the_number": "-",
+  "why_it_matters": "Modifications to border FDI rules impact cross-border investment flows.",
+  "founder_takeaway": "Monitor cross-border investment policy shifts closely for funding.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVUwya2VHT3VGaUlZOE12bVlHY1NvVTFjSXRiUUtfOFZuaGFXNl9meVFicUh5N3RxbkNtZGhFS0xMUjFsUGI4UGVkQjRiTmpzc2Vpei1vSklpbnVqTGpfZ1RaM29vbUMyVS1LeW9ZdDc2Q09zeXJmeFJFbmU1ajh4RENucW5mV2dseVNhaW1QVGJCM054NjZFOGtTN3ZwczZrUmV5bVIwYUVzR3NZdkhzNGwzcmVpd1J6Smo4Mk9ORFdPZzg?oc=5",
+  "source": "Startup India / DPIIT (Google News)",
+  "score": 8,
+  "date": "2026-11-01T03:19:45+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-01T23:58:28.725830+05:30"
+ },
+ {
   "id": "1235b5baabc0",
   "headline": "SEBI Reviews Derivatives Market Timings And Settlement",
   "the_number": "-",
@@ -14844,5 +14871,63 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-01T19:54:13.391898+05:30"
+ },
+ {
+  "id": "21b998af91b3",
+  "headline": "Binance Resumes Withdrawals After Recovering Stolen Assets",
+  "the_number": "$6 billion",
+  "why_it_matters": "Binance committed to covering financial losses incurred from the hack.",
+  "founder_takeaway": "Robust security and contingency reserves safeguard user trust.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Binance"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds/articleshow/135427270.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-11-01T10:29:58+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-01T23:58:28.725830+05:30"
+ },
+ {
+  "id": "9dbbcdcb7ca9",
+  "headline": "SEBI Working to Delist Inactive Listed Companies",
+  "the_number": "-",
+  "why_it_matters": "Regulator targets companies with zero economic activity to protect investors.",
+  "founder_takeaway": "Maintaining active business operations is essential for public listings.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "SEBI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/sebi-working-to-delist-companies-with-no-economic-activity-chairman-126110100260_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-11-01T13:22:17+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-01T23:58:28.725830+05:30"
  }
 ]
