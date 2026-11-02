@@ -1908,6 +1908,38 @@
   "first_seen": "2026-11-02T22:48:21.962084+05:30"
  },
  {
+  "id": "5a58a2922c4e",
+  "headline": "Marvell Acquires Lumentum for $115 Billion in Stock Deal",
+  "the_number": "$115 billion",
+  "why_it_matters": "Massive chipmaker consolidation reflects surging confidence in Big Tech AI spending.",
+  "founder_takeaway": "Anticipate sustained demand surges across the AI hardware supply chain.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "Marvell",
+   "Lumentum",
+   "Broadcom"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 115000.0,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/companies/news/marvell-to-acquire-lumentum-in-115-billion-deal-steps-up-challenge-to-broadcom-amid-ai-boom-11793621075835.html",
+  "source": "Mint Companies",
+  "score": 9,
+  "date": "2026-11-02T18:11:01+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-03T03:53:43.568260+05:30"
+ },
+ {
   "id": "b1e5fdbf1b2b",
   "headline": "RBI Tightens Scrutiny on $1 Billion-Plus Overseas Investments",
   "the_number": "$1 billion",
@@ -7866,6 +7898,153 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-02T22:48:21.962084+05:30"
+ },
+ {
+  "id": "b97aed3ba104",
+  "headline": "Anthropic Revenue Jumps 1,100% Despite Huge Infrastructure Losses",
+  "the_number": "1,100%",
+  "why_it_matters": "High revenue growth contrasts with massive losses and heavy spending commitments.",
+  "founder_takeaway": "Weigh aggressive revenue growth against high capital infrastructure burn.",
+  "sentiment": "Neutral",
+  "category": "Earnings",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-revenue-jumps-1100-ahead-of-ipo-as-ai-spending-commitments-near-900-billion/articleshow/135472235.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-11-03T00:21:10+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-03T03:53:43.568260+05:30"
+ },
+ {
+  "id": "dea241e9ef44",
+  "headline": "Binance Resumes Operations Following $6.3 Billion Crypto Heist",
+  "the_number": "$6.3 billion",
+  "why_it_matters": "Major exchange stabilizes after massive breach triggers $3.64 billion outflows.",
+  "founder_takeaway": "Maintain high liquidity reserves to weather major security-driven customer redemptions.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Binance"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/tech/technology/binance-sees-outflows-stabilising-as-exchange-returns-online-after-6-3-billion-heist/articleshow/135443020.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-11-02T08:15:13+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-03T03:53:43.568260+05:30"
+ },
+ {
+  "id": "737aea9fdb0d",
+  "headline": "Sebi Recommends Removing 12.5% LTCG Tax for Foreign Investors",
+  "the_number": "12.5%",
+  "why_it_matters": "Scrapping foreign LTCG tax could spark major domestic capital inflows.",
+  "founder_takeaway": "Track regulatory tax shifts that could unlock institutional foreign capital.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Sebi"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/market/stock-market-news/sensex-nifty-tomorrow-3-nov-will-stock-market-jump-on-sebis-12-5-foreign-investors-ltcg-tax-removal-recommendation-11793629514612.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-11-02T20:10:33+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-03T03:53:43.568260+05:30"
+ },
+ {
+  "id": "5f71f0c807c4",
+  "headline": "Reliance Surges 12% Adding ₹1.83 Trillion in Value",
+  "the_number": "11.6%",
+  "why_it_matters": "Record earnings drive massive market-cap expansion, lifting domestic benchmark indices.",
+  "founder_takeaway": "Strong core segment cash flows effectively power ambitious market expansions.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance Industries",
+   "Jio Platforms"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://www.business-standard.com/markets/news/reliance-industries-takes-the-wheel-surges-12-to-steer-benchmarks-higher-126110201415_1.html",
+  "source": "Business Standard Markets",
+  "score": 8,
+  "date": "2026-11-02T23:03:44+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-03T03:53:43.568260+05:30"
+ },
+ {
+  "id": "5d812e0fada8",
+  "headline": "PB Fintech Hits Fresh Low, Down 48% Post-IRDAI Proposal",
+  "the_number": "48%",
+  "why_it_matters": "Proposed regulatory overhaul severely impacts market valuation of major insurtech.",
+  "founder_takeaway": "Prepare risk mitigations against sudden sector-wide structural regulatory overhauls.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "PB Fintech",
+   "IRDAI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/pb-fintechs-shares-hit-fresh-low-of-%e2%82%b9928-1-down-48-since-irdais-proposed-insurance-overhaul/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-11-02T10:28:31+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-03T03:53:43.568260+05:30"
  },
  {
   "id": "08a3ccf4c5c6",
@@ -14670,5 +14849,272 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-02T22:48:21.962084+05:30"
+ },
+ {
+  "id": "a9343d3b08ba",
+  "headline": "Meta Eyes $20 Billion Bond Sale for AI Buildout",
+  "the_number": "$20 billion",
+  "why_it_matters": "Tech giants are issuing massive debt to fund rising AI infrastructure.",
+  "founder_takeaway": "Explore corporate debt to fund long-term critical technology infrastructure.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Meta"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/meta-eyes-at-least-20-billion-from-potential-bond-offerings-bloomberg-news-reports/articleshow/135472448.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-11-03T00:28:02+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-03T03:53:43.568260+05:30"
+ },
+ {
+  "id": "861a811a5dc0",
+  "headline": "SpaceX Eyes Boost Mobile Deal to Rival Major Telecoms",
+  "the_number": "-",
+  "why_it_matters": "Musk explores entering the US mobile operator market to challenge established giants.",
+  "founder_takeaway": "Cross-industry expansion can disrupt legacy telecommunications markets effectively.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "SpaceX",
+   "AT&T",
+   "Verizon",
+   "Boost Mobile",
+   "T-Mobile"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/spacexs-next-rival-may-be-at-t-and-verizon-as-elon-musk-eyes-fourth-us-mobile-operator-in-boost-mobile-deal-11793632460281.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-02T21:22:27+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-03T03:53:43.568260+05:30"
+ },
+ {
+  "id": "0c6d37f69238",
+  "headline": "Coal India Unit SECL Files IPO Papers",
+  "the_number": "-",
+  "why_it_matters": "Provides public market investors access to one of India's largest coal producers.",
+  "founder_takeaway": "Public listings can unlock substantial value for operational state-backed subsidiaries.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Coal India",
+   "South Eastern Coalfields"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/market/ipo/upcoming-ipo-coal-india-unit-south-eastern-coalfields-files-papers-how-much-funds-to-be-raised-and-other-key-facts-11793636533876.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-02T22:50:10+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-03T03:53:43.568260+05:30"
+ },
+ {
+  "id": "358ef7e96779",
+  "headline": "Razorpay Secures Final GIFT City Cross-Border Payment Licence",
+  "the_number": "-",
+  "why_it_matters": "Enables multi-currency accounts and foreign transfers under a single unified regulatory framework.",
+  "founder_takeaway": "Regulatory approvals in international finance zones create competitive cross-border moats.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Razorpay"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.business-standard.com/companies/news/razorpay-gets-final-ifsca-licence-cross-border-payments-gift-city-126110200734_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-02T14:54:16+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-03T03:53:43.568260+05:30"
+ },
+ {
+  "id": "ac45e7ae54cd",
+  "headline": "Clinics On Cloud Raises ₹120 Cr Series A",
+  "the_number": "₹120 Cr",
+  "why_it_matters": "Health-tech firm secures capital to scale health ATMs internationally.",
+  "founder_takeaway": "Hardware-enabled healthcare models can successfully secure institutional Series A capital.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "healthtech"
+  ],
+  "companies": [
+   "Clinics On Cloud"
+  ],
+  "geography": "India",
+  "amount_usd_m": 12.5,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://inc42.com/buzz/clinics-on-cloud-bags-%e2%82%b9120-cr-to-take-its-health-atms-global/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-11-02T19:07:55+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-03T03:53:43.568260+05:30"
+ },
+ {
+  "id": "35eac4fe8391",
+  "headline": "Two Point O Raises $10M for Clean Energy",
+  "the_number": "$10 Mn",
+  "why_it_matters": "Provides dedicated financing for non-utility clean energy installations across sectors.",
+  "founder_takeaway": "Targeting underserved niches in large-scale transitions unlocks venture funding.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "fintech",
+   "other"
+  ],
+  "companies": [
+   "Two Point O"
+  ],
+  "geography": "India",
+  "amount_usd_m": 10.0,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://inc42.com/buzz/two-point-o-bags-10-mn-to-bridge-the-financing-gap-in-clean-energy/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-11-02T00:30:10+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-03T03:53:43.568260+05:30"
+ },
+ {
+  "id": "57506f2127a6",
+  "headline": "PRISM Q1 FY27 Revenue Surges 35%",
+  "the_number": "Rs 2,814 Cr",
+  "why_it_matters": "Hotel and vacation homes segments post 30% and 28% booking growth.",
+  "founder_takeaway": "Diversifying accommodation categories fuels robust top-line growth across hospitality segments.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "PRISM"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://yourstory.com/2026/11/oyo-parent-prisms-revenue-rises-35-to-rs-2814-cr-in-q1-fy27",
+  "source": "YourStory",
+  "score": 7,
+  "date": "2026-11-02T14:03:54+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-03T03:53:43.568260+05:30"
+ },
+ {
+  "id": "df35ac186475",
+  "headline": "ValueQuest Tristar Fund Secures Over Rs 2,100 Crore",
+  "the_number": "Rs 2,100 Cr",
+  "why_it_matters": "Strong investor appetite fuels specialized Indian advanced manufacturing and aerospace sectors.",
+  "founder_takeaway": "Specialized industrial and defense manufacturing sectors attract robust PE backing.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "ValueQuest"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://yourstory.com/2026/11/funding-valuequest-tristar-fund-beats-target-greenshoe-15-months-first-close",
+  "source": "YourStory",
+  "score": 7,
+  "date": "2026-11-02T08:24:11+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-03T03:53:43.568260+05:30"
+ },
+ {
+  "id": "b86b88ec9ca0",
+  "headline": "Anthropic warns it is near self-building AI capability",
+  "the_number": "-",
+  "why_it_matters": "Recursive self-improvement could dramatically accelerate AI capabilities.",
+  "founder_takeaway": "Prepare for rapid acceleration in advanced AI capabilities.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+  "source": "TechCrunch",
+  "score": 7,
+  "date": "2026-11-02T22:14:50+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-03T03:53:43.568260+05:30"
  }
 ]
