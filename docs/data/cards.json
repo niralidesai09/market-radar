@@ -243,125 +243,6 @@
   "first_seen": "2026-10-29T00:28:37.704837+05:30"
  },
  {
-  "id": "a9a604210c8a",
-  "headline": "Jio Platforms IPO Sees Record QIB Demand",
-  "the_number": "Rs 30,213-crore",
-  "why_it_matters": "Institutional appetite remains massive for mega-cap Indian tech offerings.",
-  "founder_takeaway": "Strong institutional backing drives public market confidence.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Jio Platforms",
-   "NSE"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Big Move",
-  "source_badge": "Verified media",
-  "covered_by_count": 5,
-  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/record-galore-jio-ipo-claims-crown-for-highest-qib-demand-among-indias-5-largest-issues-edges-past-nse/articleshow/135120259.cms",
-  "source": "Economic Times Markets",
-  "score": 9,
-  "date": "2026-10-22T18:51:18+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-22T23:35:57.751424+05:30"
- },
- {
-  "id": "2584b4244c87",
-  "headline": "DeepSeek Raises $15 Billion In Massive Funding Round",
-  "the_number": "$15 billion",
-  "why_it_matters": "Chinese AI labs are securing historic capital to rival US frontrunners.",
-  "founder_takeaway": "Frontier AI battles demand unprecedented war chests.",
-  "sentiment": "Neutral",
-  "category": "Funding",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "DeepSeek",
-   "Anthropic",
-   "OpenAI"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 15000,
-  "impact": "Big Move",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://www.livemint.com/companies/news/deepseek-raises-15-billion-to-challenge-anthropic-openai-and-other-us-ai-labs-11792649782182.html",
-  "source": "Mint Companies",
-  "score": 9,
-  "date": "2026-10-22T11:50:13+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-22T23:35:57.751424+05:30"
- },
- {
-  "id": "60a1bcb6be53",
-  "headline": "Reliance Jio IPO Subscription Climbs to 5.57 Times",
-  "the_number": "5.57 times",
-  "why_it_matters": "Broad investor categories show rising participation across all tranches.",
-  "founder_takeaway": "Tiered investor demand helps sustain IPO momentum.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Reliance Jio Platforms"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-subscription-status-day-1-day-2-check-qib-nii-retail-employee-ril-shareholders-wise-data-details-11792681049708.html",
-  "source": "Mint Markets",
-  "score": 9,
-  "date": "2026-10-22T20:33:05+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": true,
-  "first_seen": "2026-10-22T23:35:57.751424+05:30"
- },
- {
-  "id": "1f3379e7aef6",
-  "headline": "Akash Ambani Leads As Jio Moves Towards Public Listing",
-  "the_number": "-",
-  "why_it_matters": "Leadership succession takes center stage during critical conglomerate market milestones.",
-  "founder_takeaway": "Succession clarity signals stability to public investors.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Jio"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS3dHMi01b1EtNXE0S2Zhcm80ejNLZlg3YWpEaTBkazB5aVhpRmhzNHpsSFdrSDZhQW9EUktWaU5QMV9yYW1VY0thWUZCNHUwX2lkRXhST0hYaUp0RmdIRUVnWHJheTREV2w2ZlJaZXg0NFRGbFFTenRFTzRjUDNjRXlLQlVyVjVNOFJLWlpqUVdmc1JyeF9qOTRJYVNsYWdhTWE5YmJRdTYzczNNNFhj?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 9,
-  "date": "2026-10-22T10:26:23+00:00",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": true,
-  "first_seen": "2026-10-22T23:35:57.751424+05:30"
- },
- {
   "id": "be8f777ceb65",
   "headline": "Jio Platforms IPO Over 5X Subscribed on Day 3",
   "the_number": "₹30,213 crore",
@@ -1552,244 +1433,34 @@
   "first_seen": "2026-11-05T21:11:23.338375+05:30"
  },
  {
-  "id": "31c0c0f4ab88",
-  "headline": "Anthropic Plans IPO Amid Volatile Market Environment",
-  "the_number": "-",
-  "why_it_matters": "Public market appetite for AI companies faces intense institutional scrutiny.",
-  "founder_takeaway": "Public listings in rocky markets require strong differentiation.",
-  "sentiment": "Neutral",
-  "category": "IPO",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Anthropic",
-   "Oura"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-stands-alone-as-ai-market-jitters-sideline-others/articleshow/135121938.cms",
-  "source": "Economic Times Markets",
-  "score": 8,
-  "date": "2026-10-22T20:46:29+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-22T23:35:57.751424+05:30"
- },
- {
-  "id": "f7e14ffd4330",
-  "headline": "Swiggy Eyes Instamart Margin Boost Via Inventory Shift",
-  "the_number": "80 bps",
-  "why_it_matters": "Transitioning to direct inventory models can enhance unit economics significantly.",
-  "founder_takeaway": "Owning inventory unlocks greater margin and operational control.",
+  "id": "68053691b831",
+  "headline": "Adani Ports acquires Dutch storage operator Evos for €2.56B",
+  "the_number": "€2.56 billion",
+  "why_it_matters": "Expands Adani Ports' European presence with eight liquid cargo storage terminals.",
+  "founder_takeaway": "Strategic global acquisitions can rapidly scale market presence and infrastructure.",
   "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "quick commerce"
-  ],
-  "companies": [
-   "Swiggy",
-   "Instamart"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 6,
-  "url": "https://economictimes.indiatimes.com/tech/technology/swiggy-to-transition-to-indian-owned-entity-starting-q3fy27-eyes-80-bps-instamart-margin-boost/articleshow/135120230.cms",
-  "source": "Economic Times Tech",
-  "score": 8,
-  "date": "2026-10-22T18:57:42+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-22T23:35:57.751424+05:30"
- },
- {
-  "id": "70ced13594b9",
-  "headline": "Meta Ordered to Pay $25 Billion Privacy Penalty",
-  "the_number": "$25 billion",
-  "why_it_matters": "Meta faces massive penalty over consumer data privacy violations.",
-  "founder_takeaway": "Data privacy compliance must be prioritized to prevent massive liabilities.",
-  "sentiment": "Neutral",
-  "category": "Big Tech/AI",
+  "category": "M&A",
   "sector_tags": [
    "other"
   ],
   "companies": [
-   "Meta"
+   "Adani Ports",
+   "Evos"
   ],
   "geography": "Global",
   "amount_usd_m": null,
-  "impact": "Notable",
+  "impact": "Big Move",
   "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://www.livemint.com/companies/news/meta-ordered-to-pay-a-25-billion-penalty-what-data-privacy-case-will-impact-value-of-zuckerberg-company-new-mexico-11792630656853.html",
-  "source": "Mint Companies",
-  "score": 8,
-  "date": "2026-10-22T06:47:19+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-22T23:35:57.751424+05:30"
- },
- {
-  "id": "069fcc115e78",
-  "headline": "Eternal Q2FY27 Net Profit Jumps 92% to ₹125 Crore",
-  "the_number": "₹125 crore",
-  "why_it_matters": "Blinkit and Zomato drove surging adjusted Ebitda and 78% revenue growth.",
-  "founder_takeaway": "Marketplace scale and subsidiary growth can rapidly accelerate profitability.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "quick commerce"
-  ],
-  "companies": [
-   "Eternal",
-   "Zomato",
-   "Blinkit"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://www.business-standard.com/companies/quarterly-results/eternal-q2fy27-net-profit-jumps-92-to-125-crore-revenue-rises-78-126102101130_1.html",
+  "covered_by_count": 3,
+  "url": "https://www.business-standard.com/companies/news/adani-ports-to-acquire-dutch-operator-evos-in-1-18-billion-deal-126110501810_1.html",
   "source": "Business Standard Companies",
-  "score": 8,
-  "date": "2026-10-21T18:51:32+05:30",
+  "score": 9,
+  "date": "2026-11-05T19:17:45+05:30",
   "unc_number": false,
-  "raw_impact": "Notable",
+  "raw_impact": "Big Move",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-10-22T23:35:57.751424+05:30"
- },
- {
-  "id": "667b3b52e62f",
-  "headline": "Swiggy Stock Drops 26% in Month to Record Low",
-  "the_number": "-26%",
-  "why_it_matters": "Foreign portfolio investors reduced their holdings as Swiggy hit record lows.",
-  "founder_takeaway": "Post-IPO stock stability requires continuous institutional confidence and backing.",
-  "sentiment": "Bearish",
-  "category": "Macro",
-  "sector_tags": [
-   "quick commerce"
-  ],
-  "companies": [
-   "Swiggy"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/markets/news/swiggy-slips-26-in-1-month-hits-record-low-stock-down-46-from-ipo-price-126102200468_1.html",
-  "source": "Business Standard Markets",
-  "score": 8,
-  "date": "2026-10-22T12:29:48+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-22T23:35:57.751424+05:30"
- },
- {
-  "id": "566605fcbc6a",
-  "headline": "Swiggy to Begin Instamart Inventory Model Transition",
-  "the_number": "-",
-  "why_it_matters": "Achieving Indian-owned status lets Swiggy shift Instamart to an inventory model.",
-  "founder_takeaway": "Regulatory restructuring can create opportunities to pivot operational models.",
-  "sentiment": "Bullish",
-  "category": "Policy",
-  "sector_tags": [
-   "quick commerce"
-  ],
-  "companies": [
-   "Swiggy",
-   "Instamart"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://inc42.com/buzz/swiggy-to-begin-instamart-inventory-model-transition-eyes-pivot-within-three-quarters/",
-  "source": "Inc42",
-  "score": 8,
-  "date": "2026-10-22T16:56:53+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-22T23:35:57.751424+05:30"
- },
- {
-  "id": "5e0de5e0c992",
-  "headline": "Zetwerk IPO Yields 38.3X Returns for Early Backers",
-  "the_number": "38.3X",
-  "why_it_matters": "Early venture backers achieved up to 38.3X returns in Zetwerk's IPO.",
-  "founder_takeaway": "Patience in B2B manufacturing can generate massive venture exits.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Zetwerk",
-   "Kae Capital",
-   "Kalysta Capital",
-   "Lightspeed"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://inc42.com/buzz/zetwerk-ipo-kae-capital-kalysta-bag-38-3x-returns-lightspeed-pockets-%e2%82%b9440-cr/",
-  "source": "Inc42",
-  "score": 8,
-  "date": "2026-10-22T13:29:58+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-22T23:35:57.751424+05:30"
- },
- {
-  "id": "6fe976e46aa8",
-  "headline": "Elon Musk Invests $1 Billion in Skydance",
-  "the_number": "$1 billion",
-  "why_it_matters": "Provides financial boost as company cuts costs and lifts stock price.",
-  "founder_takeaway": "Large capital infusions can support corporate cost-cutting turnarounds.",
-  "sentiment": "Neutral",
-  "category": "Funding",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Skydance"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 1000,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
-  "source": "TechCrunch",
-  "score": 8,
-  "date": "2026-10-22T17:36:38+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-22T23:35:57.751424+05:30"
+  "first_seen": "2026-11-06T02:15:04.359090+05:30"
  },
  {
   "id": "b7f83c026f4c",
@@ -8127,6 +7798,176 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-05T21:11:23.338375+05:30"
+ },
+ {
+  "id": "8f7c41f0d32f",
+  "headline": "Nasdaq drops 5% as AI selloff intensifies sharply",
+  "the_number": "5%",
+  "why_it_matters": "Highlights sudden volatility and market corrections hitting tech and AI stocks.",
+  "founder_takeaway": "Prepare for macro market headwinds even during prolonged sector hype.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-qualcomm-nvidia-coreweave-tesla-amazon-meta-ai-stocks-data-center-stocks-semiconductor-stocks-brent-crude-us-jobs-report-federal-reserve-treasury-yield-news-5th-november-2026/liveblog/135575228.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-11-05T18:40:30+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T02:15:04.359090+05:30"
+ },
+ {
+  "id": "188f2d2e6c3e",
+  "headline": "Revolut valuation reaches $115B after secondary share sale",
+  "the_number": "$115 billion",
+  "why_it_matters": "Shows robust investor appetite for fintech leaders without new primary dilution.",
+  "founder_takeaway": "Secondary sales offer employee liquidity without diluting company ownership directly.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Revolut"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/revolut-confirms-115-billion-valuation-after-latest-share-sale-up-from-75-billion-in-less-than-a-year-11793896537484.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-11-05T22:20:52+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T02:15:04.359090+05:30"
+ },
+ {
+  "id": "284aa1b86ca0",
+  "headline": "PhysicsWallah Q2 profit doubles to nearly ₹144 crore",
+  "the_number": "₹143.63 crore",
+  "why_it_matters": "Demonstrates strong profitability and 18% revenue expansion in Indian edtech.",
+  "founder_takeaway": "Online growth combined with high-demand test prep drives profitable scale.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "edtech"
+  ],
+  "companies": [
+   "PhysicsWallah"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://www.livemint.com/companies/company-results/physicswallah-q2-net-profit-more-than-doubles-to-nearly-rs-144-crore-as-revenue-rises-18-11793893174732.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-11-05T21:35:54+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T02:15:04.359090+05:30"
+ },
+ {
+  "id": "6793a49afa32",
+  "headline": "Lenskart surges 11% post-Q2, up 90% from IPO",
+  "the_number": "90%",
+  "why_it_matters": "Shows sustained investor confidence and capital appreciation post-IPO for D2C.",
+  "founder_takeaway": "Delivering solid post-listing performance sustains strong investor valuation multiples.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "D2C"
+  ],
+  "companies": [
+   "Lenskart"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/lenskart-shares-gain-11-post-q2-up-90-from-ipo-price-more-gains-ahead-126110500529_1.html",
+  "source": "Business Standard Markets",
+  "score": 8,
+  "date": "2026-11-05T10:17:38+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T02:15:04.359090+05:30"
+ },
+ {
+  "id": "3cbf932ea50c",
+  "headline": "OpenAI targets potential IPO in 2027, says Brockman",
+  "the_number": "-",
+  "why_it_matters": "Signals OpenAI's roadmap toward public listing driven by enterprise growth.",
+  "founder_takeaway": "Building strong enterprise revenue underpins the transition to public markets.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "OpenAI"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+  "source": "TechCrunch",
+  "score": 8,
+  "date": "2026-11-05T18:02:27+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T02:15:04.359090+05:30"
+ },
+ {
+  "id": "800b8dbdd100",
+  "headline": "India stocks see largest foreign inflows in six years",
+  "the_number": "-",
+  "why_it_matters": "Falling oil prices and shifting AI trades boost Indian equities.",
+  "founder_takeaway": "Macro shifts in global trade can dramatically boost domestic liquidity.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT2FNazA4NjVLU04wVlFLNTFIcGplRVJsWmVsakIyMUdZQzRVc0lkY1dHTXVTd0d3ZnR6MU95MDYzTWpJOEZ3MkFNaVlqOFZJMGxabG1Jd2lnZC1ReHNxS1U5ekd1UFhMUXBoSEdPLWNXTWNPdzBhSnYtTVY3MzVuZTQtNEk3SkFVSUxaMWFGM3ItWFRBLUwzYUMteG9oVFd4WURaSTZZSGlVaDM2UlNiMUJWaFNQT280dWRYYmVXRjNyZw?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 8,
+  "date": "2026-11-05T16:10:23+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T02:15:04.359090+05:30"
  },
  {
   "id": "f93d4835b2b0",
@@ -16173,5 +16014,336 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-05T21:11:23.338375+05:30"
+ },
+ {
+  "id": "638e58ce0fd4",
+  "headline": "Apple seeks $7 billion bond sale for AI expansion",
+  "the_number": "$7 billion",
+  "why_it_matters": "Big tech leverages debt markets to fund massive AI infrastructure.",
+  "founder_takeaway": "Debt markets provide viable capital for funding heavy tech infrastructure.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Apple"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/apple-seeks-about-7-billion-from-bond-sale-bloomberg-news-reports/articleshow/135578897.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-11-05T21:07:12+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T02:15:04.359090+05:30"
+ },
+ {
+  "id": "9b1f5cd0a31e",
+  "headline": "Nasdaq falls 3% as tech slides on regulatory concerns",
+  "the_number": "3%",
+  "why_it_matters": "Policy uncertainty and regulatory scrutiny can quickly deflate tech valuations.",
+  "founder_takeaway": "Monitor shifting political and regulatory environments that directly impact tech.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia",
+   "Advanced Micro Devices",
+   "Tesla"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-falls-at-open-after-midterms-fueled-surge-as-chip-data-center-stocks-fall/articleshow/135577537.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-11-05T20:10:26+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T02:15:04.359090+05:30"
+ },
+ {
+  "id": "8c70e4149abf",
+  "headline": "Shiprocket Posts Maiden Quarterly Profit",
+  "the_number": "Rs 60 lakh",
+  "why_it_matters": "Signals path to sustainable unit economics for logistics aggregators.",
+  "founder_takeaway": "Disciplined operational focus can turn unprofitable businesses viable.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Shiprocket"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/tech/technology/shiprocket-posts-maiden-profit-on-strong-core-business-growth/articleshow/135570333.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-11-05T16:28:36+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T02:15:04.359090+05:30"
+ },
+ {
+  "id": "67bffa268102",
+  "headline": "Global Chip Stocks Plunge Over Forecasts And Regulations",
+  "the_number": "17%",
+  "why_it_matters": "AI hardware demand expectations face reality check and regulatory worries.",
+  "founder_takeaway": "Hardware supply chains remain vulnerable to geopolitical policy shifts.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "AMD",
+   "Arm",
+   "Qualcomm",
+   "Sandisk",
+   "Micron"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/us-stock-market-crash-chip-stocks-extend-sell-off-amd-arm-qualcomm-and-sandisk-plunge-up-to-17-nasdaq-down-6-11793900308301.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-05T23:21:52+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T02:15:04.359090+05:30"
+ },
+ {
+  "id": "a3671af9002e",
+  "headline": "Asian AI Stocks Slump Following US Midterm Results",
+  "the_number": "5.3%",
+  "why_it_matters": "US policy uncertainties trigger international tech and semiconductor market sell-offs.",
+  "founder_takeaway": "Macro political shifts quickly impact global tech valuations.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/why-asian-ai-stocks-tumbled-after-us-midterm-results-as-kospi-plunged-over-5-key-reasons-explained-11793873377482.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-05T20:33:16+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T02:15:04.359090+05:30"
+ },
+ {
+  "id": "0d886fdd4dfc",
+  "headline": "Sebi Permits Mutual Funds To Net Cash Settlements",
+  "the_number": "-",
+  "why_it_matters": "Improves liquidity management and capital efficiency for mutual fund schemes.",
+  "founder_takeaway": "Regulatory operational easing optimizes institutional working capital efficiency.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Sebi"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/market/sebi-allows-mutual-fund-schemes-to-net-cash-market-fund-settlements-11793879902529.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-05T18:06:56+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T02:15:04.359090+05:30"
+ },
+ {
+  "id": "b6b4c7cda386",
+  "headline": "Fairfax India Invests ₹2,000 Crore in IIFL Capital",
+  "the_number": "₹2,000 cr",
+  "why_it_matters": "Demonstrates strong institutional backing and conviction in Indian financial services.",
+  "founder_takeaway": "Strong strategic investors provide massive capital for market consolidation.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Fairfax India Holdings Corporation",
+   "IIFL Capital",
+   "FIH Mauritius Investments Ltd"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/fairfax-india-raises-stake-in-iifl-capital-to-38-with-2-000-cr-investment-126110501023_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-05T15:35:24+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T02:15:04.359090+05:30"
+ },
+ {
+  "id": "6659e7c8a03d",
+  "headline": "Nykaa Shares Fall Despite Net Profit Tripling in Q2",
+  "the_number": "₹101 crore",
+  "why_it_matters": "Public markets demand both profit growth and high operational momentum.",
+  "founder_takeaway": "Beating profit benchmarks does not guarantee favorable public market reactions.",
+  "sentiment": "Neutral",
+  "category": "Earnings",
+  "sector_tags": [
+   "D2C"
+  ],
+  "companies": [
+   "Nykaa"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/nykaa-s-q2-fails-to-impress-street-despite-200-rise-in-pat-stock-falls-2-126110500904_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-11-05T13:26:08+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T02:15:04.359090+05:30"
+ },
+ {
+  "id": "25832223dbd4",
+  "headline": "Eternal Surges 18% Nearing All-Time Peak",
+  "the_number": "18%",
+  "why_it_matters": "Reflects strong public investor confidence in food delivery and quick commerce.",
+  "founder_takeaway": "Dominant market leadership in high-frequency consumer sectors attracts premium valuations.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Eternal",
+   "Zomato",
+   "Blinkit",
+   "Adani Ports",
+   "TechM",
+   "ICICI Bank"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/sensex-stocks-adani-ports-techm-at-new-highs-eternal-icici-bank-near-peaks-126110500798_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-11-05T13:04:52+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T02:15:04.359090+05:30"
+ },
+ {
+  "id": "9bdac6bc04de",
+  "headline": "Moneyview Q2 Profit Jumps Over 400% YoY",
+  "the_number": "₹200.7 Cr",
+  "why_it_matters": "Proves scalable profitability is attainable in digital lending.",
+  "founder_takeaway": "Strong lending margins can drive exponential net profit growth.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Moneyview"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://inc42.com/buzz/moneyview-q2-profit-jumps-5x-yoy-to-%e2%82%b9201-cr-revenue-up-41/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-11-05T12:09:55+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T02:15:04.359090+05:30"
+ },
+ {
+  "id": "66de58262814",
+  "headline": "Cleantech Startup altM Raises $10.3M Series A",
+  "the_number": "$10.3 Mn",
+  "why_it_matters": "Capital continues flowing into sustainable manufacturing and cleantech solutions.",
+  "founder_takeaway": "Hardware and cleantech can secure sizable rounds with clear scaling.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "altM",
+   "Rainmatter"
+  ],
+  "geography": "India",
+  "amount_usd_m": 10.3,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://inc42.com/buzz/cleantech-startup-altm-raises-10-3-mn-to-scale-manufacturing/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-11-05T00:30:27+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T02:15:04.359090+05:30"
  }
 ]
