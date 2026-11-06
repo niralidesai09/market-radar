@@ -243,35 +243,6 @@
   "first_seen": "2026-10-29T00:28:37.704837+05:30"
  },
  {
-  "id": "57484abcee0f",
-  "headline": "Jio Platforms Crosses One Crore Applications Setting Global Record",
-  "the_number": "1 crore",
-  "why_it_matters": "First issue globally to cross one crore investor applications.",
-  "founder_takeaway": "Unprecedented scale and brand trust drive record-shattering retail subscription numbers.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Jio Platforms"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Big Move",
-  "source_badge": "Verified media",
-  "covered_by_count": 8,
-  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-creates-history-first-issue-globally-to-cross-1-crore-applications/articleshow/135139371.cms",
-  "source": "Economic Times Markets",
-  "score": 9,
-  "date": "2026-10-23T13:18:47+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-23T23:25:24.074517+05:30"
- },
- {
   "id": "9fba898e70c6",
   "headline": "Jio IPO Fully Subscribed in 100 Minutes",
   "the_number": "1.4 crore",
@@ -1406,128 +1377,34 @@
   "first_seen": "2026-11-06T20:44:36.538580+05:30"
  },
  {
-  "id": "ff67aec39948",
-  "headline": "RBI Governor Reiterates Mandatory Listing For Upper-Layer NBFCs",
-  "the_number": "-",
-  "why_it_matters": "Regulatory pressure mounts for top non-banking lenders to enter public markets.",
-  "founder_takeaway": "Regulatory compliance mandates listing timelines irrespective of company preference.",
+  "id": "fc41e3f3d482",
+  "headline": "Fox Completes $22B Acquisition of Roku",
+  "the_number": "$22B",
+  "why_it_matters": "Major media consolidation succeeds despite previous regulatory antitrust scrutiny.",
+  "founder_takeaway": "Regulatory probes do not always derail large strategic acquisitions.",
   "sentiment": "Neutral",
-  "category": "Policy",
+  "category": "M&A",
   "sector_tags": [
-   "fintech",
    "other"
   ],
   "companies": [
-   "Tata Sons"
+   "Fox",
+   "Roku"
   ],
-  "geography": "India",
-  "amount_usd_m": null,
+  "geography": "Global",
+  "amount_usd_m": 22000,
   "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-governor-reiterates-listing-requirement-for-top-nbfcs-as-focus-intensifies-on-tata-sons/articleshow/135149631.cms",
-  "source": "Economic Times Markets",
-  "score": 8,
-  "date": "2026-10-23T20:55:41+05:30",
+  "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+  "source": "TechCrunch",
+  "score": 9,
+  "date": "2026-11-06T16:05:36+00:00",
   "unc_number": false,
-  "raw_impact": "Notable",
+  "raw_impact": "Big Move",
   "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-23T23:25:24.074517+05:30"
- },
- {
-  "id": "7869b1916cb7",
-  "headline": "Swiggy Narrows Losses In Second Quarter FY27",
-  "the_number": "-",
-  "why_it_matters": "Demonstrates positive top-line growth while cutting net losses.",
-  "founder_takeaway": "Prioritize sustainable revenue expansion to steadily narrow operational losses.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "quick commerce",
-   "other"
-  ],
-  "companies": [
-   "Swiggy",
-   "eMudhra"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 10,
-  "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/swiggy-narrows-loss-in-q2-emudhra-cofounder-on-what-went-wrong/articleshow/135131640.cms",
-  "source": "Economic Times Tech",
-  "score": 8,
-  "date": "2026-10-23T07:37:17+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-23T23:25:24.074517+05:30"
- },
- {
-  "id": "cb83dd264009",
-  "headline": "Eternal Scales Blinkit While Swiggy Prioritizes Instamart Efficiency",
-  "the_number": "-",
-  "why_it_matters": "Highlights contrasting market strategies between aggressive growth and unit efficiency.",
-  "founder_takeaway": "Choose clearly between blitzscaling market share and maximizing operational efficiency.",
-  "sentiment": "Neutral",
-  "category": "Macro",
-  "sector_tags": [
-   "quick commerce",
-   "other"
-  ],
-  "companies": [
-   "Eternal",
-   "Swiggy",
-   "Blinkit",
-   "Instamart",
-   "Toing"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/eternal-swiggy-blinkit-instamart-course-tough-market-quick-commerce-food-delivery-11792736732684.html",
-  "source": "Mint Companies",
-  "score": 8,
-  "date": "2026-10-23T14:05:09+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-23T23:25:24.074517+05:30"
- },
- {
-  "id": "1a718913f4f4",
-  "headline": "Zetwerk Makes Market Debut Questioning Margin Expansion Viability",
-  "the_number": "$150 Mn",
-  "why_it_matters": "Public markets test whether massive scale alone can fix thin margins.",
-  "founder_takeaway": "Scaling operations must eventually yield improved operating profit margins.",
-  "sentiment": "Neutral",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Zetwerk"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://inc42.com/features/zetwerk-makes-its-market-debut-can-scale-alone-widen-its-thin-margins/",
-  "source": "Inc42",
-  "score": 8,
-  "date": "2026-10-23T13:16:38+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-23T23:25:24.074517+05:30"
+  "unconfirmed": true,
+  "first_seen": "2026-11-07T01:30:19.287291+05:30"
  },
  {
   "id": "884821c113d6",
@@ -7780,61 +7657,37 @@
   "first_seen": "2026-11-06T20:44:36.538580+05:30"
  },
  {
-  "id": "f93d4835b2b0",
-  "headline": "RBI targets curbing currency volatility over specific rupee levels",
-  "the_number": "-",
-  "why_it_matters": "RBI prioritizes orderly forex market conditions instead of defending specific levels.",
-  "founder_takeaway": "Manage foreign exchange risk without expecting fixed currency rates.",
+  "id": "00fc45ff7106",
+  "headline": "China Blocks SoftBank's $5.4B Robotics Deal",
+  "the_number": "$5.4 billion",
+  "why_it_matters": "Geopolitical scrutiny halts major cross-border robotics and tech deals.",
+  "founder_takeaway": "Cross-border tech exits face increasing regulatory and security hurdles.",
   "sentiment": "Neutral",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-does-not-target-any-specific-rupee-level-focuses-on-curbing-volatility-says-governor-sanjay-malhotra/articleshow/135148201.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-10-23T19:38:55+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-23T23:25:24.074517+05:30"
- },
- {
-  "id": "bf0ab20dcd18",
-  "headline": "Infosys ADRs Drop 6.3% After Lowering Growth Guidance",
-  "the_number": "6.3%",
-  "why_it_matters": "Guidance cuts and profit misses highlight cautious corporate technology spending.",
-  "founder_takeaway": "AI revenue growth provides resilience despite broader tech spending caution.",
-  "sentiment": "Bearish",
-  "category": "Earnings",
+  "category": "M&A",
   "sector_tags": [
    "AI",
    "other"
   ],
   "companies": [
-   "Infosys"
+   "SoftBank",
+   "ABB",
+   "Meta",
+   "Manus"
   ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
+  "geography": "Global",
+  "amount_usd_m": 5400,
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/infosys-adrs-crash-6-after-q2-results-as-revenue-guidance-cut-spooks-investors/articleshow/135145145.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-10-23T17:33:48+05:30",
+  "url": "https://www.livemint.com/companies/news/china-blocks-softbank-s-5-4-billion-abb-robotics-deal-how-beijing-is-tightening-its-grip-on-strategic-technologies-11793977670665.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-11-06T21:25:36+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-10-23T23:25:24.074517+05:30"
+  "first_seen": "2026-11-07T01:30:19.287291+05:30"
  },
  {
   "id": "f6690b3e57c3",
@@ -17081,5 +16934,236 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-06T20:44:36.538580+05:30"
+ },
+ {
+  "id": "7b34fb81f6a3",
+  "headline": "Alphabet Discloses $548 Million Qualcomm Stake",
+  "the_number": "$548 million",
+  "why_it_matters": "Alphabet holds substantial stake while Qualcomm navigates shifting hardware demand.",
+  "founder_takeaway": "Diversifying into data centers buffers against falling consumer hardware demand.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Alphabet",
+   "Qualcomm"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/technology/alphabet-discloses-548-million-worth-of-qualcomm-stake/articleshow/135608439.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-11-06T18:24:09+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-07T01:30:19.287291+05:30"
+ },
+ {
+  "id": "74fe596f227a",
+  "headline": "SoftBank Credit Risk Surges to Four-Year High",
+  "the_number": "4-year",
+  "why_it_matters": "Market doubts surrounding AI monetization directly elevate major investor debt risks.",
+  "founder_takeaway": "Investors increasingly demand clear paths to profitability from AI ventures.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "SoftBank Group"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/technology/softbank-credit-risk-jumps-to-4-year-high-as-ai-fears-roil-market/articleshow/135592268.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-11-06T09:07:56+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-07T01:30:19.287291+05:30"
+ },
+ {
+  "id": "d4c877c0432d",
+  "headline": "Anthropic IPO Valuation Ambitions Face Potential Cuts",
+  "the_number": "$1.5 trillion",
+  "why_it_matters": "AI market backlash threatens massive public offering valuations for top labs.",
+  "founder_takeaway": "Lofty private valuations face reality checks before hitting public markets.",
+  "sentiment": "Bearish",
+  "category": "IPO",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/anthropics-largest-ipo-on-record-ambition-on-hold-ai-backlash-could-threaten-timing-1-5-trillion-valuation-11793930460210.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-06T08:14:47+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-07T01:30:19.287291+05:30"
+ },
+ {
+  "id": "c8b3f215c35a",
+  "headline": "Indian Shares Log Biggest Gains in Seven Months",
+  "the_number": "-",
+  "why_it_matters": "Falling oil prices and renewed foreign inflows boost Indian equity markets.",
+  "founder_takeaway": "Macro tailwinds like lower crude prices support overall market sentiment.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmJaMVVmaUE0cUtPUW9iRklDNUNCV2k4c1NXYzllRGYzeUdXOFJkeGVEOUNsdkhwc0pfc3pkSVdvb3Nwc3FMSE0xTVBnbEtiQ29Gd2NzbmFtMU9rVXNoNXF3MkRrMEtHczdSX0VGUExrTDkyNHAxYWI0SGFWbVRSZWhDaGlvNkhLdUtiZGdDaWVQaFJ0NkRkckJvQ0ZzSnM2dmFUd2tZXzdQaWZBaFN4Y3BNYXo0UkVZRGpQTkdTUQ?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 7,
+  "date": "2026-11-06T11:50:15+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-07T01:30:19.287291+05:30"
+ },
+ {
+  "id": "8581a447820b",
+  "headline": "NCLT Declares Videocon's Venugopal Dhoot Bankrupt Over Loan Default",
+  "the_number": "₹12,668 crore",
+  "why_it_matters": "Personal insolvency enforcement holds major promoters accountable for massive corporate loan defaults.",
+  "founder_takeaway": "Personal guarantees carry severe insolvency risks during business failure.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Videocon Industries",
+   "SBI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/people/who-is-venugopal-dhoot-former-videocon-promoter-declared-bankrupt-by-nclt-mumbai-bench-over-rs-12-668-cr-sbi-default-11793958227774.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-06T16:15:00+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-07T01:30:19.287291+05:30"
+ },
+ {
+  "id": "bd3e82d3ce7f",
+  "headline": "Plea In Bombay HC Demands Tata Sons Stock Listing",
+  "the_number": "-",
+  "why_it_matters": "Regulatory push could force India's largest conglomerate holding firm into public markets.",
+  "founder_takeaway": "Regulatory compliance can force private holding structures to list publicly.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Sons",
+   "RBI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/bombay-hc-plea-seeks-rbi-direction-for-tata-sons-stock-market-listing-126110601724_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-06T19:15:56+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-07T01:30:19.287291+05:30"
+ },
+ {
+  "id": "35e26ea3f267",
+  "headline": "Indian IPOs Raise Record ₹2.23 Trillion In Best Samvat",
+  "the_number": "₹2.23 trillion",
+  "why_it_matters": "Record public fundraising demonstrates unprecedented domestic market liquidity and investor appetite.",
+  "founder_takeaway": "Robust public market liquidity offers strong exit windows for scale-ups.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/ipo/best-ever-samvat-for-ipos-record-2-23-trillion-raised-up-19-6-126110601904_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-11-06T23:32:09+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-07T01:30:19.287291+05:30"
+ },
+ {
+  "id": "3c69f61cb3af",
+  "headline": "Fed Seen Sticking To December Rate Hike Post Jobs Data",
+  "the_number": "-",
+  "why_it_matters": "Potential US rate hikes tighten global liquidity and capital access.",
+  "founder_takeaway": "Prolonged high interest rates sustain tight global venture capital conditions.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Fed"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 7,
+  "date": "2026-11-06T16:04:55+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-07T01:30:19.287291+05:30"
  }
 ]
