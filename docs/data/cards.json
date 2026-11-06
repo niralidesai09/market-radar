@@ -243,123 +243,6 @@
   "first_seen": "2026-10-29T00:28:37.704837+05:30"
  },
  {
-  "id": "be8f777ceb65",
-  "headline": "Jio Platforms IPO Over 5X Subscribed on Day 3",
-  "the_number": "₹30,213 crore",
-  "why_it_matters": "High demand signals robust market appetite for massive tech-telecom public offerings.",
-  "founder_takeaway": "Strong profitability and telecom leadership build solid public market demand.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "AI",
-   "other"
-  ],
-  "companies": [
-   "Jio Platforms"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Big Move",
-  "source_badge": "Verified media",
-  "covered_by_count": 4,
-  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-day-3-gmp-at-22-issue-subscribed-over-5x-check-brokerage-views-and-key-details/articleshow/135134397.cms",
-  "source": "Economic Times Markets",
-  "score": 9,
-  "date": "2026-10-23T10:06:55+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-23T12:30:33.490846+05:30"
- },
- {
-  "id": "ac8a60c16f49",
-  "headline": "Reliance Jio IPO Oversubscribed on Second Day",
-  "the_number": "5.57 times",
-  "why_it_matters": "Broad participation shows deep interest across institutional and non-institutional investors.",
-  "founder_takeaway": "Widespread investor category interest supports strong post-listing stability.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Reliance Jio"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/reliance-jio-ipo-oversubscribed-should-investors-apply-or-avoid-or-buy-shares-after-listing-what-experts-suggest-11792663479297.html",
-  "source": "Mint Markets",
-  "score": 9,
-  "date": "2026-10-23T09:16:10+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": true,
-  "first_seen": "2026-10-23T12:30:33.490846+05:30"
- },
- {
-  "id": "063850081e90",
-  "headline": "Zetwerk Makes Stock Market Debut at 5.5% Premium",
-  "the_number": "₹5,012 Cr",
-  "why_it_matters": "B2B manufacturing platforms can successfully list at a premium on public markets.",
-  "founder_takeaway": "B2B manufacturing models command positive market debuts.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Zetwerk"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Big Move",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://inc42.com/buzz/zetwerk-makes-nse-debut-at-5-5-premium-after-%e2%82%b95012-cr-ipo/",
-  "source": "Inc42",
-  "score": 9,
-  "date": "2026-10-23T04:36:10+00:00",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-23T12:30:33.490846+05:30"
- },
- {
-  "id": "c4c762c6b747",
-  "headline": "OpenAI Eyes $30B Raise at $1.25T Valuation",
-  "the_number": "$30B",
-  "why_it_matters": "Would establish the company as the highest valued private firm ever.",
-  "founder_takeaway": "Generative AI dominance can command unprecedented mega-round valuations.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "OpenAI"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 30000.0,
-  "impact": "Big Move",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-  "source": "TechCrunch",
-  "score": 9,
-  "date": "2026-10-22T22:08:24+00:00",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-23T12:30:33.490846+05:30"
- },
- {
   "id": "b050c45ade68",
   "headline": "Jio Platforms Crosses 1 Crore IPO Applications Record",
   "the_number": "1 crore",
@@ -1463,186 +1346,63 @@
   "first_seen": "2026-11-06T02:15:04.359090+05:30"
  },
  {
-  "id": "b7f83c026f4c",
-  "headline": "Swiggy Value Drops Rs 9,000 Cr on Instamart Losses",
-  "the_number": "₹9,000 crore",
-  "why_it_matters": "Widening quick-commerce losses trigger price target cuts and investor skepticism.",
-  "founder_takeaway": "Rapid quick-commerce scale must balance deteriorating contribution margins.",
-  "sentiment": "Bearish",
-  "category": "Earnings",
-  "sector_tags": [
-   "quick commerce"
-  ],
-  "companies": [
-   "Swiggy",
-   "Instamart"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 14,
-  "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-9000-crore-wiped-out-in-a-day-why-swiggy-investors-are-losing-patience-with-instamart/articleshow/135136399.cms",
-  "source": "Economic Times Markets",
-  "score": 8,
-  "date": "2026-10-23T11:19:34+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-23T12:30:33.490846+05:30"
- },
- {
-  "id": "b28f75915095",
-  "headline": "Musk Considers SpaceX and Tesla Mega Merger",
-  "the_number": "-",
-  "why_it_matters": "A combination would merge two massive tech and EV leaders.",
-  "founder_takeaway": "Special committees allow formal evaluation of strategic company mergers.",
-  "sentiment": "Neutral",
-  "category": "M&A",
-  "sector_tags": [
-   "EV",
-   "other"
-  ],
-  "companies": [
-   "SpaceX",
-   "Tesla"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/technology/elon-musk-wants-to-merge-spacex-and-tesla-heres-what-to-know/articleshow/135133989.cms",
-  "source": "Economic Times Tech",
-  "score": 8,
-  "date": "2026-10-23T09:39:25+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-23T12:30:33.490846+05:30"
- },
- {
-  "id": "55e3a99d1b33",
-  "headline": "Zetwerk Manufacturing shares list at 5% premium over IPO",
-  "the_number": "5%",
-  "why_it_matters": "Zetwerk completes its public debut, securing fresh capital alongside shareholder liquidity.",
-  "founder_takeaway": "IPOs can combine fresh growth capital with secondary exits.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Zetwerk Manufacturing"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 3,
-  "url": "https://economictimes.indiatimes.com/tech/technology/zetwerk-manufacturing-business-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/135134461.cms",
-  "source": "Economic Times Tech",
-  "score": 8,
-  "date": "2026-10-23T07:48:56+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-23T12:30:33.490846+05:30"
- },
- {
-  "id": "b4e5c534c797",
-  "headline": "Eternal Q2 Revenue Surges Driven by Blinkit Growth",
-  "the_number": "-",
-  "why_it_matters": "Blinkit's expansion powers Eternal's top-line performance.",
-  "founder_takeaway": "Quick commerce scale can significantly accelerate parent company revenue.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "quick commerce"
-  ],
-  "companies": [
-   "Eternal",
-   "Blinkit"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/eternals-strong-q2-report-exits-outpace-hiring-at-top-it-firms/articleshow/135103914.cms",
-  "source": "Economic Times Tech",
-  "score": 8,
-  "date": "2026-10-22T07:18:56+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-23T12:30:33.490846+05:30"
- },
- {
-  "id": "46b4b11704d6",
-  "headline": "Flipkart Pilots 'Eat-in by Minutes' in Bengaluru",
-  "the_number": "-",
-  "why_it_matters": "Flipkart challenges food delivery incumbents amid growing food services demand.",
-  "founder_takeaway": "Expanding food services markets attract deep-pocketed e-commerce giants.",
-  "sentiment": "Bullish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "quick commerce",
-   "other"
-  ],
-  "companies": [
-   "Flipkart",
-   "Zomato",
-   "Swiggy"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/flipkart-tests-eat-in-by-minutes-in-bengaluru-to-challenge-zomato-swiggy-in-food-delivery-market-11792668070064.html",
-  "source": "Mint Companies",
-  "score": 8,
-  "date": "2026-10-22T17:10:27+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-23T12:30:33.490846+05:30"
- },
- {
-  "id": "61bd68397566",
-  "headline": "Crude Oil Spikes 85% Threatening Global Growth",
-  "the_number": "85%",
-  "why_it_matters": "Brent crude above $113 threatens macroeconomic stability and inflation.",
-  "founder_takeaway": "Surging energy prices drive up logistics and operational expenditures.",
+  "id": "e734b7a9aaae",
+  "headline": "AI bubble fears trigger $2.3 trillion Wall Street selloff",
+  "the_number": "$2.3 trillion",
+  "why_it_matters": "Tech valuations suffer massive wipeout amid rising AI spending concerns.",
+  "founder_takeaway": "Expect increased investor scrutiny on AI unit economics and capex.",
   "sentiment": "Bearish",
   "category": "Macro",
   "sector_tags": [
-   "other"
+   "AI"
   ],
   "companies": [
-   "Saudi Aramco",
-   "Mirae Asset Sharekhan"
+   "Nvidia"
   ],
   "geography": "Global",
   "amount_usd_m": null,
   "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://www.business-standard.com/markets/news/crude-oil-up-85-in-2026-poses-threat-to-global-economy-brent-may-hit-120-126102300498_1.html",
-  "source": "Business Standard Markets",
-  "score": 8,
-  "date": "2026-10-23T12:21:02+05:30",
+  "url": "https://www.livemint.com/market/stock-market-news/ai-bubble-fears-trigger-2-3-trillion-wall-street-selloff-as-nasdaq-100-plunges-6-nvidia-falls-9-11793928748972.html",
+  "source": "Mint Markets",
+  "score": 9,
+  "date": "2026-11-06T07:10:01+05:30",
   "unc_number": false,
-  "raw_impact": "Notable",
+  "raw_impact": "Big Move",
   "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-23T12:30:33.490846+05:30"
+  "unconfirmed": true,
+  "first_seen": "2026-11-06T14:27:04.483958+05:30"
+ },
+ {
+  "id": "56135a1924a3",
+  "headline": "Adani Ports acquires European liquid storage major Evos",
+  "the_number": "€2.56 billion",
+  "why_it_matters": "Expands Adani's footprint across eight liquid storage terminals in Europe.",
+  "founder_takeaway": "Strategic global acquisitions accelerate geographic and infrastructure expansion.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Adani Ports",
+   "Evos"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/adani-ports-to-acquire-european-storage-major-evos-for-2-56-billion-126110501294_1.html",
+  "source": "Business Standard Companies",
+  "score": 9,
+  "date": "2026-11-05T16:41:01+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-11-06T14:27:04.483958+05:30"
  },
  {
   "id": "2fed16dcc5d7",
@@ -7968,6 +7728,95 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-06T02:15:04.359090+05:30"
+ },
+ {
+  "id": "4320b15ee36e",
+  "headline": "South Korea Kospi plunges 8.5% amid AI sell-off",
+  "the_number": "8.5%",
+  "why_it_matters": "Asian markets tumble following a sharp Wall Street tech decline.",
+  "founder_takeaway": "Global market volatility can rapidly depress public tech sentiment.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/asian-markets-today-south-koreas-kospi-crashes-8-plunges-below-5-000-whats-behind-the-selloff-11793930297845.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-11-06T07:51:04+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T14:27:04.483958+05:30"
+ },
+ {
+  "id": "369425efb7e5",
+  "headline": "Razorpay prepares for planned ₹6,000 Cr IPO",
+  "the_number": "₹6,000 Cr",
+  "why_it_matters": "Highlights upcoming large-scale public listings in India's fintech ecosystem.",
+  "founder_takeaway": "Strong technological moats are critical when preparing for public markets.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "fintech",
+   "AI"
+  ],
+  "companies": [
+   "Razorpay"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/features/mdr-and-ai-inside-the-two-acronyms-that-could-shape-razorpays-%e2%82%b96000-cr-ipo/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-11-06T08:17:42+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T14:27:04.483958+05:30"
+ },
+ {
+  "id": "e8b065dc9774",
+  "headline": "Angel One overtakes Zerodha as second-largest broker",
+  "the_number": "2.43 lakh",
+  "why_it_matters": "Shifts market dynamics in India's rapidly growing retail broking sector.",
+  "founder_takeaway": "Aggressive client acquisition can disrupt entrenched market leadership.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Angel One",
+   "Zerodha",
+   "Groww",
+   "Sahi"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://entrackr.com/news/angel-one-overtakes-zerodha-to-become-second-largest-broker-groww-adds-over-3-lakh-clients-in-october-12788879",
+  "source": "Entrackr",
+  "score": 8,
+  "date": "2026-11-06T13:24:39+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T14:27:04.483958+05:30"
  },
  {
   "id": "f93d4835b2b0",
@@ -16345,5 +16194,526 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-06T02:15:04.359090+05:30"
+ },
+ {
+  "id": "1886b7a3802b",
+  "headline": "Anthropic faces valuation cut ahead of public debut",
+  "the_number": "$1.5 trillion",
+  "why_it_matters": "Tech sell-off dampens investor appetite for massive AI valuations.",
+  "founder_takeaway": "Market corrections force realistic reassessments of ambitious IPO targets.",
+  "sentiment": "Bearish",
+  "category": "IPO",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-may-need-to-cut-ipo-ambitions-as-investors-balk-report/articleshow/135590866.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-11-06T08:04:40+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T14:27:04.483958+05:30"
+ },
+ {
+  "id": "db56f5701772",
+  "headline": "Jensen Huang loses $15.1B in AI stock rout",
+  "the_number": "$15.1 billion",
+  "why_it_matters": "A sharp tech pullback erased massive wealth and market value.",
+  "founder_takeaway": "Founder net worth closely tracks volatile market sentiment cycles.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/people/nvidia-ceo-jensen-huang-loses-15-billion-as-ai-linked-stock-sell-off-knocks-him-down-to-13th-on-billionaire-list-11793952730913.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-06T13:50:06+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T14:27:04.483958+05:30"
+ },
+ {
+  "id": "0eb4f45f0f50",
+  "headline": "Foreign investors pour $1.6B into Indian equities",
+  "the_number": "$1.6 billion",
+  "why_it_matters": "Global capital rotates out of AI trades into Indian stocks.",
+  "founder_takeaway": "Global sector rotations can drive heavy capital inflows locally.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/indian-stocks-set-for-pullback-after-sharp-rally-on-oil-slide-foreign-inflows-11793932289845.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-06T08:10:45+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T14:27:04.483958+05:30"
+ },
+ {
+  "id": "0653a3199da4",
+  "headline": "NCLT declares Videocon promoter Venugopal Dhoot bankrupt",
+  "the_number": "Rs 12,668 crore",
+  "why_it_matters": "Enforces personal insolvency resolution for massive defaulting corporate debts.",
+  "founder_takeaway": "Personal guarantees expose promoters to direct personal bankruptcy proceedings.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Videocon Industries",
+   "State Bank of India"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/nclt-declares-videocon-s-venugopal-dhoot-bankrupt-over-12-668-cr-sbi-dues-126110600864_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-06T13:54:53+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T14:27:04.483958+05:30"
+ },
+ {
+  "id": "46b62e1b06c5",
+  "headline": "DLF to invest ₹3,750 cr in Everstone JV",
+  "the_number": "₹3,750 cr",
+  "why_it_matters": "DLF expands reach into IREO India assets via strategic joint venture.",
+  "founder_takeaway": "Joint ventures offer an effective structure to pool acquisition capital.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "DLF",
+   "Everstone",
+   "IREO India"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/dlf-everstone-jv-ireo-investment-rs-3750-crore-126110600511_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-06T10:21:25+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T14:27:04.483958+05:30"
+ },
+ {
+  "id": "228d462ddef8",
+  "headline": "Indian Equities Rally as Sensex Soars 2700 Points",
+  "the_number": "₹4 lk cr",
+  "why_it_matters": "Foreign investor buying and falling crude prices boost Indian equities.",
+  "founder_takeaway": "Strong market sentiment can offset global technology sell-off concerns.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/us-midterm-results-impact-rs-4-lk-cr-added-sensex-soars-2700-pts-nifty-up-3-in-2-days-strategy-and-stocks-to-buy-11793941921903.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-06T11:18:44+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T14:27:04.483958+05:30"
+ },
+ {
+  "id": "3ac7e59d9251",
+  "headline": "Nalco plans ₹30,000 crore brownfield smelter expansion",
+  "the_number": "₹30,000 cr",
+  "why_it_matters": "Nalco aims to expand capacity by 0.5 mtpa by 2030-31.",
+  "founder_takeaway": "Large-scale capacity expansion demands long-term infrastructure planning.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Nalco"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/nalco-s-30-000-cr-brownfield-aluminium-smelter-expansion-gathers-pace-126110502015_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-05T21:08:50+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T14:27:04.483958+05:30"
+ },
+ {
+  "id": "c9a7c2783e20",
+  "headline": "FPIs log biggest daily Indian equity purchase since 2021",
+  "the_number": "₹14,796 cr",
+  "why_it_matters": "Falling crude and AI stock sell-offs prompted major Indian equity inflows.",
+  "founder_takeaway": "Macro shifts can rapidly redirect global institutional capital toward India.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/fpis-buy-14-796-cr-worth-indian-stocks-in-biggest-daily-inflow-since-2021-126110502078_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-11-06T08:28:29+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T14:27:04.483958+05:30"
+ },
+ {
+  "id": "dc5ac2b73661",
+  "headline": "Asian markets plunge as AI rout rattles global stocks",
+  "the_number": "8%",
+  "why_it_matters": "AI spending concerns and US political uncertainty triggered severe regional sell-offs.",
+  "founder_takeaway": "Global market turbulence can trigger unexpected volatility across all sectors.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/asian-markets-crash-as-ai-rout-rocks-us-markets-kospi-plunges-8-126110600087_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-11-06T07:54:56+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T14:27:04.483958+05:30"
+ },
+ {
+  "id": "706f9c2da946",
+  "headline": "Moneyview Q2 FY27 profit surges over 5X",
+  "the_number": "Rs 201 Cr",
+  "why_it_matters": "Revenue grew 41% alongside significant digital lending profit expansion.",
+  "founder_takeaway": "Digital lending scale can unlock exponential profit growth.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Moneyview"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://entrackr.com/fintrackr/moneyviews-q2-fy27-profit-jumps-515x-to-rs-201-cr-12786613",
+  "source": "Entrackr",
+  "score": 7,
+  "date": "2026-11-05T17:49:45+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T14:27:04.483958+05:30"
+ },
+ {
+  "id": "cc5ef6bf63bc",
+  "headline": "Shiprocket turns profitable in Q2 FY27",
+  "the_number": "Rs 674 Cr",
+  "why_it_matters": "Revenue rose 34.8% as the e-commerce logistics platform reached profitability.",
+  "founder_takeaway": "Sustained revenue growth can flip logistics operations into net profitability.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Shiprocket"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://entrackr.com/fintrackr/shiprocket-swings-to-profit-in-q2-fy27-revenue-rises-35-to-rs-674-cr-12785644",
+  "source": "Entrackr",
+  "score": 7,
+  "date": "2026-11-05T13:10:41+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T14:27:04.483958+05:30"
+ },
+ {
+  "id": "c0e7afe741cd",
+  "headline": "altM secures $10.3M Series A funding",
+  "the_number": "$10.3 Mn",
+  "why_it_matters": "Capital will expand manufacturing, R&D, and customer qualification programmes.",
+  "founder_takeaway": "Deep tech manufacturing needs strategic capital for testing and development.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "altM",
+   "Rainmatter",
+   "Mela Ventures"
+  ],
+  "geography": "India",
+  "amount_usd_m": 10.3,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://entrackr.com/news/specialty-chemicals-startup-altm-raises-103-mn-led-by-rainmatter-mela-ventures-12784954",
+  "source": "Entrackr",
+  "score": 7,
+  "date": "2026-11-05T11:00:37+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T14:27:04.483958+05:30"
+ },
+ {
+  "id": "aa3547203e76",
+  "headline": "Palo Alto Networks in talks to buy Clutch",
+  "the_number": "$500M",
+  "why_it_matters": "Potential acquisition highlights rising demand for AI agent security technology.",
+  "founder_takeaway": "Niche AI security innovations can rapidly unlock massive acquisition multiples.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Palo Alto Networks",
+   "Clutch"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 500,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+  "source": "TechCrunch",
+  "score": 7,
+  "date": "2026-11-06T06:28:32+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T14:27:04.483958+05:30"
+ },
+ {
+  "id": "91add19a8cd7",
+  "headline": "Harbinger raises $240M following defense sector expansion",
+  "the_number": "$240M",
+  "why_it_matters": "Startup builds electric trucks, emergency vehicles, and military platforms.",
+  "founder_takeaway": "Expanding into defense can open significant new capital pools.",
+  "sentiment": "Neutral",
+  "category": "Funding",
+  "sector_tags": [
+   "EV"
+  ],
+  "companies": [
+   "Harbinger"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 240,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+  "source": "TechCrunch",
+  "score": 7,
+  "date": "2026-11-05T17:52:44+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T14:27:04.483958+05:30"
+ },
+ {
+  "id": "6247b6836c7e",
+  "headline": "Food delivery startup Wonder files for IPO",
+  "the_number": "-",
+  "why_it_matters": "The company prepares to enter public markets after rapid expansion.",
+  "founder_takeaway": "Consistent strategic fundraising and acquisitions can position startups for IPOs.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Wonder"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+  "source": "TechCrunch",
+  "score": 7,
+  "date": "2026-11-05T17:11:48+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T14:27:04.483958+05:30"
+ },
+ {
+  "id": "939524e97f24",
+  "headline": "Dropbox acquires Tigris Data for $350M",
+  "the_number": "$350M",
+  "why_it_matters": "Acquisition powers DBX Agent Cloud storage platform for AI developers.",
+  "founder_takeaway": "Incumbents are actively acquiring infrastructure to power emerging AI workloads.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "AI",
+   "SaaS"
+  ],
+  "companies": [
+   "Dropbox",
+   "Tigris Data"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 350,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+  "source": "TechCrunch",
+  "score": 7,
+  "date": "2026-11-05T15:19:05+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T14:27:04.483958+05:30"
+ },
+ {
+  "id": "0823552a6422",
+  "headline": "India eases rules for accredited investors",
+  "the_number": "-",
+  "why_it_matters": "Market regulator streamlines regulatory framework for accredited Indian investors.",
+  "founder_takeaway": "Relaxed accreditation norms make private capital access simpler and faster.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNGNBdnBNYnpMaUVvamcwMlZhM3lXalNiX1BBdTN1TERaN0NjUldpbFpCNEUzZU1FVm1FNXdVQTF5RXFxWEprNlNDMGlvV0V6WnpuY3JkczF3QURoSFVaRFp0b2FhV3hzSGZfaHBHVzdTWGtjWDhpTjB2ODZIczVsbERFU29KWlhmT0Zya2s3bkFXaTJtYl9oYXpjLW9jeUVIU0cwTTRCVEpza2trcTd5M3QzNVAwU2RqZmtrbQ?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 7,
+  "date": "2026-11-05T21:02:44+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T14:27:04.483958+05:30"
+ },
+ {
+  "id": "e1a5a8855578",
+  "headline": "IndiGo in talks to purchase 100 Embraer jets",
+  "the_number": "100",
+  "why_it_matters": "IndiGo explores expanding its regional fleet with Embraer aircraft.",
+  "founder_takeaway": "Fleet expansion discussions signal strong long-term domestic travel demand expectations.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "IndiGo",
+   "Embraer"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTk94NTBhbjRkdzdPVjBhUTBsdnp4WWhud2dpNWJNcUh4Zl9HeWdCN3ZHN3VWTWN1RERINVlILTk1Y3lVT1JHUjRSc1ZEMTRnRlRBMmQ3YUlfWEdjek1hRW0wbHJUUVQ1bkZDdjhMbU9YcDM3eGlPeWlueTVXb2JKcFE4Zmhwb2VBTXVJbUdPcW9lSEpYVExTWXhBeGVBWnpwazRZ?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 7,
+  "date": "2026-11-05T11:05:51+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-06T14:27:04.483958+05:30"
  }
 ]
