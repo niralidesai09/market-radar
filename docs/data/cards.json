@@ -184,34 +184,33 @@
   "first_seen": "2026-10-29T00:28:37.704837+05:30"
  },
  {
-  "id": "05a9b5f5ba34",
-  "headline": "Anthropic files for US IPO at $1.5 trillion valuation",
-  "the_number": "$1.5 trillion",
-  "why_it_matters": "Anthropic's massive IPO sets a public valuation benchmark for AI development.",
-  "founder_takeaway": "Rapid revenue growth can offset massive losses during public offerings.",
+  "id": "37a11748d113",
+  "headline": "OpenAI Secures $11B Funding at $1.25T Valuation",
+  "the_number": "$11 billion",
+  "why_it_matters": "OpenAI hits historic valuation, reinforcing massive investor appetite for frontier AI models.",
+  "founder_takeaway": "Frontier AI development requires unprecedented capital to sustain growth.",
   "sentiment": "Bullish",
-  "category": "IPO",
+  "category": "Funding",
   "sector_tags": [
    "AI"
   ],
   "companies": [
-   "Anthropic",
    "OpenAI"
   ],
   "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Big Move",
+  "amount_usd_m": 11000.0,
+  "impact": "Notable",
   "source_badge": "Verified media",
-  "covered_by_count": 6,
-  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-opens-books-on-ais-explosive-growth-and-staggering-costs/articleshow/135212999.cms",
-  "source": "Economic Times Markets",
-  "score": 9,
-  "date": "2026-10-26T18:52:34+05:30",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlpNRm5XVy11c3hLY0NRdjh2T3VmOE1LOWQ2LXlvcFhmZlFJYkQya3N3QWxud2UteUZpWVlCTXVHUXZZTjIwRlVQaUhqOGhyM2lDaDJTSGcxMnE5MzhOZ1NHYlJIc1p5bHRxaVZjZDd4MFY2RWMtRkNlYkhSVkdpMlRBWi1PYUNmZGNydXZnOTZFMTFoOHR0azBpUlU1aHpVdFA4dlhCV0dDNm91VE0xSVg0bXZhcF9jaVAzcXYzaldOdw?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 10,
+  "date": "2026-11-08T15:12:57+00:00",
   "unc_number": false,
   "raw_impact": "Big Move",
   "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-26T19:57:31.975368+05:30"
+  "unconfirmed": true,
+  "first_seen": "2026-11-09T23:12:52.250377+05:30"
  },
  {
   "id": "acf459a0424e",
@@ -1290,153 +1289,33 @@
   "first_seen": "2026-11-07T19:45:20.361160+05:30"
  },
  {
-  "id": "d016c199a5e0",
-  "headline": "Ather Energy jumps 19% after swinging to Q2 profit",
-  "the_number": "Rs 1.26 crore",
-  "why_it_matters": "Ather achieved profitability while expanding revenue 62.8% year-on-year to Rs 1,464 crore.",
-  "founder_takeaway": "Reversing losses into profits triggers dramatic positive market re-ratings.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "EV"
-  ],
-  "companies": [
-   "Ather Energy"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 7,
-  "url": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-skyrocket-19-after-ev-maker-swings-to-rs-1-26-crore-profit-in-q2/articleshow/135209355.cms",
-  "source": "Economic Times Markets",
-  "score": 8,
-  "date": "2026-10-26T16:06:42+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-26T19:57:31.975368+05:30"
- },
- {
-  "id": "d847da5ffc8c",
-  "headline": "SoftBank sells Ola Electric entitlements amid rights issue",
-  "the_number": "Rs 1,000 crore",
-  "why_it_matters": "SoftBank offloaded 28% of rights entitlements amid persistent losses at Ola.",
-  "founder_takeaway": "Key investors may dilute stakes during rights issues amid losses.",
+  "id": "13f4eae92136",
+  "headline": "Nvidia Board Probes CEO Jensen Huang Over Spy Allegations",
+  "the_number": "50-50",
+  "why_it_matters": "Leadership uncertainty at the AI chip giant threatens corporate stability.",
+  "founder_takeaway": "Personal conduct and national security issues can jeopardize founder leadership.",
   "sentiment": "Bearish",
-  "category": "Funding",
-  "sector_tags": [
-   "EV"
-  ],
-  "companies": [
-   "SoftBank",
-   "Ola Electric",
-   "Motilal Oswal"
-  ],
-  "geography": "India",
-  "amount_usd_m": 120.0,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/stocks/news/softbank-sells-1-21-crore-ola-electric-rights-entitlements-as-ev-maker-seeks-to-raise-rs-1000-crore/articleshow/135209308.cms",
-  "source": "Economic Times Markets",
-  "score": 8,
-  "date": "2026-10-26T16:04:38+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-26T19:57:31.975368+05:30"
- },
- {
-  "id": "9e32b2bc5f62",
-  "headline": "Instacart explores potential sale to Uber or DoorDash",
-  "the_number": "$16 billion",
-  "why_it_matters": "A potential $16B-$17B deal would consolidate the delivery and quick-commerce sector.",
-  "founder_takeaway": "Mega-mergers among direct competitors face severe regulatory scrutiny risks.",
-  "sentiment": "Neutral",
-  "category": "M&A",
-  "sector_tags": [
-   "quick commerce"
-  ],
-  "companies": [
-   "Instacart",
-   "Uber",
-   "DoorDash"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 16000.0,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/instacart-explores-potential-sale-holds-preliminary-talks-with-uber-and-doordash-heres-all-about-the-deal-11792937647728.html",
-  "source": "Mint Companies",
-  "score": 8,
-  "date": "2026-10-25T20:36:52+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-26T19:57:31.975368+05:30"
- },
- {
-  "id": "abbbba7707fd",
-  "headline": "Tata Communications to invest $400-450M in AI fibre network",
-  "the_number": "$400-450 million",
-  "why_it_matters": "Tata is constructing core infrastructure to support data centres and AI hubs.",
-  "founder_takeaway": "Heavy infrastructure investments require multi-year patience for revenue realisation.",
-  "sentiment": "Bullish",
   "category": "Big Tech/AI",
   "sector_tags": [
    "AI"
   ],
   "companies": [
-   "Tata Communications"
+   "Nvidia"
   ],
-  "geography": "India",
+  "geography": "Global",
   "amount_usd_m": null,
-  "impact": "Notable",
+  "impact": "Big Move",
   "source_badge": "Verified media",
-  "covered_by_count": 5,
-  "url": "https://www.business-standard.com/industry/news/tata-communications-ai-fibre-network-india-investment-data-centres-126102600606_1.html",
-  "source": "Business Standard Companies",
-  "score": 8,
-  "date": "2026-10-26T14:22:47+05:30",
+  "covered_by_count": 10,
+  "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+  "source": "TechCrunch",
+  "score": 9,
+  "date": "2026-11-09T05:26:29+00:00",
   "unc_number": false,
-  "raw_impact": "Notable",
+  "raw_impact": "Big Move",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-10-26T19:57:31.975368+05:30"
- },
- {
-  "id": "931937f6941b",
-  "headline": "Jakson Solar to invest up to $525M locally",
-  "the_number": "$525 million",
-  "why_it_matters": "Substantial investment expands domestic manufacturing capacity for solar equipment.",
-  "founder_takeaway": "Local clean-tech manufacturing reduces supply-chain dependence on imports.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Jakson Solar"
-  ],
-  "geography": "India",
-  "amount_usd_m": 525.0,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOEdkVE5neXBZMHE0Vk4yZ214bUFGelFXejlJV0cyeDZyUUt5NUJPbldqSnNuVExSbHAwU2UyZ1Z5cmdhMGFPWUwxVnJWZ0kwdFlLOXpxYWhyUXNDZkg4djRSbjh1V3NleWNMQU5FaFdXclRtckhTUl92MXUwcHNBVHhTRVB1U21vRVN4MHZ5SHlNMFl4QlAtaHpreWNFX1BNYUl6R3QzbWhMdWNyOU4ybVFOb2NzSjdPQXhhTzh1eEc3dw?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 8,
-  "date": "2026-10-26T09:07:15+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-26T19:57:31.975368+05:30"
+  "first_seen": "2026-11-09T23:12:52.250377+05:30"
  },
  {
   "id": "dd0630ad2f8b",
@@ -7088,183 +6967,63 @@
   "first_seen": "2026-11-09T14:41:10.183903+05:30"
  },
  {
-  "id": "057866df8ca4",
-  "headline": "Bank of Japan nears 2% inflation milestone target",
-  "the_number": "2%",
-  "why_it_matters": "Japan shifts away from ultra-loose policy toward monetary tightening.",
-  "founder_takeaway": "Prepare for shifting global liquidity and cross-border currency effects.",
+  "id": "d9582357d049",
+  "headline": "PhysicsWallah Cuts Jobs via AI; Earmarks $20M M&A",
+  "the_number": "$20 Mn",
+  "why_it_matters": "Edtech leader leverages AI automation while managing offline profitability pressures.",
+  "founder_takeaway": "Deploy AI for internal efficiency while pursuing strategic inorganic growth.",
   "sentiment": "Neutral",
-  "category": "Macro",
+  "category": "Layoffs",
   "sector_tags": [
-   "other"
+   "edtech",
+   "AI"
   ],
   "companies": [
-   "Bank of Japan"
+   "PhysicsWallah"
   ],
-  "geography": "Global",
+  "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boj-nears-historic-inflation-milestone-shifts-focus-to-rate-hikes/articleshow/135206926.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-10-26T13:59:45+05:30",
+  "url": "https://entrackr.com/news/physicswallah-cites-ai-efficiencies-for-job-cuts-offline-biz-faces-profit-pressure-earmarks-20-mn-for-ma-12795872",
+  "source": "Entrackr",
+  "score": 8,
+  "date": "2026-11-09T15:32:20+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-10-26T19:57:31.975368+05:30"
+  "first_seen": "2026-11-09T23:12:52.250377+05:30"
  },
  {
-  "id": "fc31bf7c95f0",
-  "headline": "Meta plans non-voting Class C shares for AI",
-  "the_number": "January 2027",
-  "why_it_matters": "Meta raises capital for AI acquisitions while preserving founder voting control.",
-  "founder_takeaway": "Dual-class structures let founders raise equity without relinquishing control.",
+  "id": "f3c522ff77f3",
+  "headline": "Anthropic Purchases $3.4B in Natural Gas Turbines",
+  "the_number": "$3.4B",
+  "why_it_matters": "AI hyperscalers increasingly finance direct power infrastructure to secure energy.",
+  "founder_takeaway": "Compute scalability depends directly on securing dedicated energy generation infrastructure.",
   "sentiment": "Neutral",
   "category": "Big Tech/AI",
   "sector_tags": [
    "AI"
   ],
   "companies": [
-   "Meta Platforms"
+   "Anthropic"
   ],
   "geography": "Global",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/meta-to-create-non-voting-shares-to-fund-ai-expansion-retain-zuckerbergs-control/articleshow/135206256.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-10-26T13:36:26+05:30",
+  "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+  "source": "TechCrunch",
+  "score": 8,
+  "date": "2026-11-09T16:56:54+00:00",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-10-26T19:57:31.975368+05:30"
- },
- {
-  "id": "143e7a7efb31",
-  "headline": "SK Hynix weighs $12B special dividend after gains",
-  "the_number": "$12 billion",
-  "why_it_matters": "AI-driven chip boom is driving unprecedented cash generation and shareholder returns.",
-  "founder_takeaway": "Booming hardware infrastructure delivers outsized shareholder returns.",
-  "sentiment": "Bullish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "SK Hynix",
-   "Kioxia"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-sk-hynix-weighs-12-billion-special-dividend-ahead-of-q3-results-reports/articleshow/135205842.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-10-26T13:01:26+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-26T19:57:31.975368+05:30"
- },
- {
-  "id": "81c10615b444",
-  "headline": "Swiggy rebounds 5% after post-earnings 17% plunge",
-  "the_number": "5%",
-  "why_it_matters": "Food delivery turns profitable, but quick commerce losses dent valuations.",
-  "founder_takeaway": "Widening quick commerce losses will pressure overall corporate margins.",
-  "sentiment": "Bearish",
-  "category": "Earnings",
-  "sector_tags": [
-   "quick commerce"
-  ],
-  "companies": [
-   "Swiggy",
-   "Jefferies",
-   "Nomura"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-jump-5-a-day-after-q2-results-sparked-a-17-crash-why-brokerages-remain-bullish-despite-target-price-cuts/articleshow/135205591.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-10-26T12:43:51+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-26T19:57:31.975368+05:30"
- },
- {
-  "id": "4cbfbca4ad8b",
-  "headline": "Jio Platforms raises $3.1B in record India IPO",
-  "the_number": "$3.1 billion",
-  "why_it_matters": "Huge public raise proves deep domestic equity appetite for tech giants.",
-  "founder_takeaway": "Competitive bank fees keep issuance costs low for large IPOs.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Jio Platforms"
-  ],
-  "geography": "India",
-  "amount_usd_m": 3100.0,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jios-record-india-ipo-falls-short-of-record-payday-for-bankers/articleshow/135203965.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-10-26T11:16:31+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-26T19:57:31.975368+05:30"
- },
- {
-  "id": "8982bee7f4ad",
-  "headline": "Unacademy founders raise AI and deeptech venture fund",
-  "the_number": "-",
-  "why_it_matters": "Experienced Indian startup operators are transitioning into active tech venture investors.",
-  "founder_takeaway": "Operator-led capital is pivoting heavily toward AI and deeptech.",
-  "sentiment": "Bullish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI",
-   "edtech"
-  ],
-  "companies": [
-   "Unacademy",
-   "Flipkart"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/unacademy-founders-plan-ai-fund-flipkarts-premium-push/articleshow/135200550.cms",
-  "source": "Economic Times Tech",
-  "score": 7,
-  "date": "2026-10-26T07:34:54+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-26T19:57:31.975368+05:30"
+  "first_seen": "2026-11-09T23:12:52.250377+05:30"
  },
  {
   "id": "2ff5b52f805e",
@@ -16183,5 +15942,239 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-09T14:41:10.183903+05:30"
+ },
+ {
+  "id": "9938bf0f38c7",
+  "headline": "Google Plans In-House Chip Variants; Shares Rise 2%",
+  "the_number": "2%",
+  "why_it_matters": "Custom silicon diversification bolsters Google's competitive edge against chip suppliers.",
+  "founder_takeaway": "Vertical integration of core hardware can significantly reduce platform dependency.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Google",
+   "Alphabet"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/tech/technology/google-to-introduce-two-variants-of-in-house-chips-bloomberg-news/articleshow/135682947.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-11-09T18:26:44+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-09T23:12:52.250377+05:30"
+ },
+ {
+  "id": "90ea8f385763",
+  "headline": "BDR Pharma Buys Majority Stake in Acme Business",
+  "the_number": "$250 million",
+  "why_it_matters": "Consolidation in pharmaceutical formulations offers major exits for private equity investors.",
+  "founder_takeaway": "Strategic acquisitions can offer lucrative exits for existing investors.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "healthtech",
+   "other"
+  ],
+  "companies": [
+   "BDR Pharma",
+   "Acme",
+   "PAG"
+  ],
+  "geography": "India",
+  "amount_usd_m": 250.0,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/bdr-pharma-buys-majority-stake-in-acme-s-oral-solids-formulations-business-11794231899041.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-09T19:57:50+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-09T23:12:52.250377+05:30"
+ },
+ {
+  "id": "4cff3c7293a0",
+  "headline": "Wall Street Rebounds While Nvidia Stock Plunges 9%",
+  "the_number": "9%",
+  "why_it_matters": "Tech markets can decouple from single-stock executive leadership turmoil.",
+  "founder_takeaway": "Broader market trends can overcome individual company leadership crises.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/wall-street-bounces-back-from-ai-sell-off-nasdaq-rallies-over-3-but-nvidia-plunges-9-on-jensen-huang-controversy-11794238373887.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-09T21:19:00+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-09T23:12:52.250377+05:30"
+ },
+ {
+  "id": "905309841fe4",
+  "headline": "Eternal Shares Rebound 71% Backed by Blinkit Growth",
+  "the_number": "71%",
+  "why_it_matters": "Quick commerce margin expansion and network growth drive public market outperformance.",
+  "founder_takeaway": "Improving margins alongside expansion builds strong public market trust.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Eternal",
+   "Swiggy",
+   "Blinkit"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/eternal-shares-rebound-over-70-from-march-lows-emerge-as-top-nifty-50-recovery-stock-what-drove-the-rally-11794234112702.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-09T20:17:23+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-09T23:12:52.250377+05:30"
+ },
+ {
+  "id": "fc9e64d837de",
+  "headline": "HSBC Upgrades Indian Equities to Overweight Rating",
+  "the_number": "-",
+  "why_it_matters": "Global institutional backing signals strong valuation appeal and domestic corporate strength.",
+  "founder_takeaway": "Strong domestic credit and earnings attract foreign institutional capital.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "HSBC"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/hsbc-upgrades-indian-equities-to-overweight-cuts-china-to-neutral-126110901244_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-11-09T20:37:33+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-09T23:12:52.250377+05:30"
+ },
+ {
+  "id": "c4a638c5d47d",
+  "headline": "Tesla to End Cybertruck Production and Refund Deposits",
+  "the_number": "-",
+  "why_it_matters": "Halting vehicle lines reveals product viability challenges in electric vehicle hardware.",
+  "founder_takeaway": "Cut non-viable product lines early despite sunk development costs.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "EV"
+  ],
+  "companies": [
+   "Tesla"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+  "source": "TechCrunch",
+  "score": 7,
+  "date": "2026-11-09T13:43:28+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-09T23:12:52.250377+05:30"
+ },
+ {
+  "id": "7c2cc1f654ff",
+  "headline": "Indian Rupee Tracks AI Volatility and Crude Oil",
+  "the_number": "-",
+  "why_it_matters": "Emerging market currencies face pressure from global commodities and tech swings.",
+  "founder_takeaway": "Watch currency movements when planning foreign capital or imports.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZUJncUFJYWZ3Z1JsUjB6SFJfakZ2SmVEVU1MbGpYVDNOQ3hTSTQ0c0QtUDRuUEQwdmFobUNpTjliaUhMZlEzTXBjZ20wb002Q2pDcWY1SjFIWUJEeHdmVDlLb1drV2NkRklMaWlkRjNnS3FmOG1SZ3Nza2dyWV9KcGJUMEhvVVZfLXN1QXVYRmtvYjh1Uk1yRXpZdVR4aEtxSFZfWmVHdTRibDNQU2RwVkdBMmZPWWM?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 7,
+  "date": "2026-11-09T01:34:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-09T23:12:52.250377+05:30"
+ },
+ {
+  "id": "90d7a32de28f",
+  "headline": "Indian Equities Reach 8-Month High on Falling Oil",
+  "the_number": "-",
+  "why_it_matters": "Declining crude prices provide immediate relief and upside to Indian markets.",
+  "founder_takeaway": "Macro commodity shifts can spark broader domestic market rallies.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkM4eVdiUXpCc3Jld1NOSlRzMEFUeHcxb09peUlKS3ZFNTVLS2lwMFE0T0x1NV94RGowQjZEM0luODhHRFNZWWxaX2w2Y0Rqc1d5X2tXYlRwcU5wMVMxNHNjeWVXZEZSNkYtV1JEV29LeDE2bEVRMnNBbUVNNGV5cjNlYVYydGhKT3Awc2VVeEY3WTZSbWJjak43bmpTdmJjR2ZSU01fSXhCeFNVNXlYeGxPODh2UUlHQ1FRb3VNSzc?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 7,
+  "date": "2026-11-09T02:40:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-09T23:12:52.250377+05:30"
  }
 ]
