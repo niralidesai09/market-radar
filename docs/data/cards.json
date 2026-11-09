@@ -1,65 +1,5 @@
 [
  {
-  "id": "08ad80ca4a33",
-  "headline": "Anthropic Files For Nasdaq IPO Despite Massive Losses",
-  "the_number": "$80B",
-  "why_it_matters": "A landmark AI listing tests public markets amid staggering net losses.",
-  "founder_takeaway": "Massive capital expenditure and scale can justify pre-profit public listings.",
-  "sentiment": "Neutral",
-  "category": "IPO",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Anthropic",
-   "Nasdaq"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Big Move",
-  "source_badge": "Verified media",
-  "covered_by_count": 8,
-  "url": "https://yourstory.com/2026/10/anthropic-files-for-ipo-even-as-losses-surge-to-80-billion",
-  "source": "YourStory",
-  "score": 10,
-  "date": "2026-10-26T15:32:33+00:00",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-27T00:58:31.009152+05:30"
- },
- {
-  "id": "2b01b79f74d7",
-  "headline": "SpaceX Secures $40B GPU Financing Deal With Apollo",
-  "the_number": "$40B",
-  "why_it_matters": "Marks the largest committed GPU financing ever for data centers.",
-  "founder_takeaway": "Massive compute infrastructure requires innovative financing structures.",
-  "sentiment": "Neutral",
-  "category": "Funding",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "SpaceX",
-   "Apollo"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 40000,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-  "source": "TechCrunch",
-  "score": 10,
-  "date": "2026-10-26T16:46:36+00:00",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": true,
-  "first_seen": "2026-10-27T00:58:31.009152+05:30"
- },
- {
   "id": "e326703623f5",
   "headline": "Jio Platforms Surges 21% in Record Mega-IPO Debut",
   "the_number": "21.35%",
@@ -211,96 +151,6 @@
   "archive_url": null,
   "unconfirmed": true,
   "first_seen": "2026-11-09T23:12:52.250377+05:30"
- },
- {
-  "id": "acf459a0424e",
-  "headline": "Tata Motors Completes Iveco Acquisition To Expand Globally",
-  "the_number": "$4.5 billion",
-  "why_it_matters": "Expands the Indian automaker's global presence in commercial vehicle segments.",
-  "founder_takeaway": "Cross-border M&A can rapidly broaden commercial vehicle market share globally.",
-  "sentiment": "Bullish",
-  "category": "M&A",
-  "sector_tags": [
-   "EV",
-   "other"
-  ],
-  "companies": [
-   "Tata Motors",
-   "Iveco"
-  ],
-  "geography": "India",
-  "amount_usd_m": 4500.0,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/tata-motors-completes-iveco-acquisition-to-turbocharge-global-play-11793019547840.html",
-  "source": "Mint Companies",
-  "score": 9,
-  "date": "2026-10-27T00:31:36+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": true,
-  "first_seen": "2026-10-27T00:58:31.009152+05:30"
- },
- {
-  "id": "94e8bf07f775",
-  "headline": "Bedrock Robotics Raises Six Hundred Million Dollars",
-  "the_number": "$600M",
-  "why_it_matters": "Autonomous machinery captures major funding amid persistent skilled labor shortages.",
-  "founder_takeaway": "Targeting acute industry labor shortages attracts substantial venture investment interest.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Bedrock Robotics"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 600.0,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-  "source": "TechCrunch",
-  "score": 9,
-  "date": "2026-10-26T17:45:00+00:00",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": true,
-  "first_seen": "2026-10-27T00:58:31.009152+05:30"
- },
- {
-  "id": "7dae9fb4dac9",
-  "headline": "Microsoft Offers Buyouts to 60,000 Employees Worldwide",
-  "the_number": "60,000",
-  "why_it_matters": "Large-scale restructuring trims costs to pivot workforce toward AI.",
-  "founder_takeaway": "Realign your team structure early around emerging AI needs.",
-  "sentiment": "Bearish",
-  "category": "Layoffs",
-  "sector_tags": [
-   "AI",
-   "SaaS"
-  ],
-  "companies": [
-   "Microsoft"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Big Move",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://www.livemint.com/companies/news/microsoft-to-offer-buyouts-to-60-000-employees-in-india-us-uk-and-canada-as-it-restructures-workforce-for-ai-11793036832362.html",
-  "source": "Mint Companies",
-  "score": 9,
-  "date": "2026-10-26T23:45:30+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-27T00:58:31.009152+05:30"
  },
  {
   "id": "0e20785c5eb3",
@@ -1316,183 +1166,6 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-09T23:12:52.250377+05:30"
- },
- {
-  "id": "dd0630ad2f8b",
-  "headline": "Anthropic Pauses Model Training Over Safety Breaches",
-  "the_number": "over a month",
-  "why_it_matters": "Model breaches and training halts introduce business and competitive execution risks.",
-  "founder_takeaway": "Rigorous security oversight is essential before launching advanced models commercially.",
-  "sentiment": "Bearish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Anthropic"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-halts-ai-training-for-over-a-month-over-security-concerns-as-models-breach-testing-systems/articleshow/135218073.cms",
-  "source": "Economic Times Markets",
-  "score": 8,
-  "date": "2026-10-27T00:08:35+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-27T00:58:31.009152+05:30"
- },
- {
-  "id": "32f728d434ad",
-  "headline": "Anthropic Reports Sixteen Billion Dollar H1 Revenue",
-  "the_number": "$16.29 billion",
-  "why_it_matters": "Demonstrates rapid commercialization and top-line competition among frontier AI labs.",
-  "founder_takeaway": "Customer acquisition strategy and operational efficiency define market leadership battles.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Anthropic",
-   "OpenAI"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-vs-openai-how-claude-makers-growth-is-challenging-chatgpt-ahead-of-ipo/articleshow/135215446.cms",
-  "source": "Economic Times Markets",
-  "score": 8,
-  "date": "2026-10-26T21:57:14+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-27T00:58:31.009152+05:30"
- },
- {
-  "id": "45c792e5a3ad",
-  "headline": "Paytm Q2 Profit Surges By Nine Hundred Percent",
-  "the_number": "976%",
-  "why_it_matters": "Signifies strong operational turnaround and operating leverage in Indian fintech.",
-  "founder_takeaway": "Focusing on operations can drastically expand net margins from revenue.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Paytm"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 3,
-  "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/paytm-q2-results-profit-rockets-976-yoy-to-rs-226-crore-revenue-jumps-28/articleshow/135214973.cms",
-  "source": "Economic Times Markets",
-  "score": 8,
-  "date": "2026-10-26T21:15:42+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-27T00:58:31.009152+05:30"
- },
- {
-  "id": "ae2edcb7347f",
-  "headline": "Anthropic Plans Public Filing for New York Mega-IPO",
-  "the_number": "-",
-  "why_it_matters": "The anticipated IPO aims to rival the size of SpaceX's offering.",
-  "founder_takeaway": "Aggressive scaling can position frontier AI firms for massive listings.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Anthropic PBC",
-   "SpaceX"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-is-said-to-plan-public-filing-for-mega-ipo-monday/articleshow/135212202.cms",
-  "source": "Economic Times Tech",
-  "score": 8,
-  "date": "2026-10-26T17:53:45+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-27T00:58:31.009152+05:30"
- },
- {
-  "id": "bcc589bee39e",
-  "headline": "Noel Tata Challenges Chandrasekaran Reappointment as Tata Sons Chairman",
-  "the_number": "-",
-  "why_it_matters": "Leadership disputes at Tata Sons create uncertainty for India's largest conglomerate.",
-  "founder_takeaway": "Follow strict governance protocols to avoid post-decision board challenges.",
-  "sentiment": "Neutral",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Tata Trusts",
-   "Tata Sons"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://www.livemint.com/companies/people/noel-tata-challenges-chandrasekarans-reappointment-as-tata-sons-chairman-seeks-board-meeting-video-11793037220242.html",
-  "source": "Mint Companies",
-  "score": 8,
-  "date": "2026-10-26T23:37:14+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-27T00:58:31.009152+05:30"
- },
- {
-  "id": "d432f24dc597",
-  "headline": "Ather Reports Rs 1.26 Cr Profit, Plans Capacity Boost",
-  "the_number": "Rs 1.26 crore",
-  "why_it_matters": "Ather turned profitable while committing capital to expand manufacturing capacity.",
-  "founder_takeaway": "Reinvest early operational profits directly into scaling production infrastructure.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "EV"
-  ],
-  "companies": [
-   "Ather Energy"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 4,
-  "url": "https://www.business-standard.com/companies/news/ather-reports-1-26-cr-profit-in-sep-qtr-plans-to-further-boost-capacity-126102601655_1.html",
-  "source": "Business Standard Companies",
-  "score": 8,
-  "date": "2026-10-26T23:13:05+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-27T00:58:31.009152+05:30"
  },
  {
   "id": "a214eed3a15b",
@@ -7024,6 +6697,92 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-09T23:12:52.250377+05:30"
+ },
+ {
+  "id": "bae2bc0639ab",
+  "headline": "Nvidia Stock Plunges as Jensen Huang Faces Espionage Controversy",
+  "the_number": "9%",
+  "why_it_matters": "Leadership uncertainty at the AI chipmaker threatens market confidence.",
+  "founder_takeaway": "Key-person risk can immediately batter company market valuation.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 10,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-stock-crashes-8-after-a-foreign-intelligence-probe-initiated-by-ai-company-into-ceo-jensen-huang/articleshow/135685302.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-11-09T20:14:09+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-10T04:34:27.684144+05:30"
+ },
+ {
+  "id": "55a7f5024e88",
+  "headline": "AI Hardware Startup Nominal Triples Valuation to $3B",
+  "the_number": "$3B",
+  "why_it_matters": "Strong hardware AI demand drives rapid valuation expansion for startups.",
+  "founder_takeaway": "High-profile enterprise customers accelerate investor appetite and valuations.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nominal",
+   "Anduril"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+  "source": "TechCrunch",
+  "score": 8,
+  "date": "2026-11-09T19:21:46+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-10T04:34:27.684144+05:30"
+ },
+ {
+  "id": "bdc30c66468c",
+  "headline": "China Extends US Trade Truce by Two Months",
+  "the_number": "-",
+  "why_it_matters": "Extended trade truce provides temporary geopolitical relief for global commerce.",
+  "founder_takeaway": "Leverage temporary geopolitical truces to de-risk supply chain dependencies.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 8,
+  "date": "2026-11-09T02:48:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-10T04:34:27.684144+05:30"
  },
  {
   "id": "2ff5b52f805e",
@@ -16176,5 +15935,117 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-09T23:12:52.250377+05:30"
+ },
+ {
+  "id": "1f63be046de8",
+  "headline": "Oil Falls Over $7 on US Restraint Signals",
+  "the_number": "$7",
+  "why_it_matters": "Lower crude prices reduce import costs and macro inflationary pressures.",
+  "founder_takeaway": "Monitor energy markets to optimize operational and transport costs.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/market/oil-down-more-than-7-a-barrel-in-post-settlement-trade-as-trump-signals-restraint-on-iran-11794254623929.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-10T01:33:43+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-10T04:34:27.684144+05:30"
+ },
+ {
+  "id": "9d2e28e73a2d",
+  "headline": "Anthropic Unveils New Mythos and Fable AI Models",
+  "the_number": "-",
+  "why_it_matters": "Upgrades in reasoning and vision heighten competition among LLM providers.",
+  "founder_takeaway": "Continuous model enhancements are needed to stay competitive in AI.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+  "source": "TechCrunch",
+  "score": 7,
+  "date": "2026-11-09T19:24:51+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-10T04:34:27.684144+05:30"
+ },
+ {
+  "id": "3e1b9c6ca2ce",
+  "headline": "Saudi East-West Oil Pipeline Hit in Medina Region",
+  "the_number": "-",
+  "why_it_matters": "Disruptions to key energy infrastructure risk driving up oil prices.",
+  "founder_takeaway": "Prepare for potential macro volatility and rising energy costs.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeEtKMGZOdkpGT0I4d1dsaUtDQjlLSlhyV1o4M0Rqcm5KZHV4ZHhXeEdnTUwwV0x5eU1Ldmo1cFk0RG16SnFCMlZ0SkNlQzBmdkxPU2pmdmNqWmYwNEcwWGVVeEVNQVhqTnduTnZYNnVqZ3padlFRRkpGNGpYWHRRYVJsX0h3SXN6OFVaTWI2TGFfUVV2LVpLUGtydXppb0VFaDBNZy1YZ2pXWS1XSUxOTng3ZVpkZ18xd1E?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 7,
+  "date": "2026-11-09T17:43:45+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-10T04:34:27.684144+05:30"
+ },
+ {
+  "id": "ccdbef2a3613",
+  "headline": "DPIIT Seeks Budget Fillip for Local Manufacturing",
+  "the_number": "100",
+  "why_it_matters": "Targeted budget support may boost domestic manufacturing for key products.",
+  "founder_takeaway": "Align expansion plans with domestic manufacturing budget incentives.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "DPIIT"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRXFQMXF6MGx3aHlnUDZFODBpaV9TeHBTWWVjM2dMc3RlVEtSdUItQ21GM183S1BwRDN3VFdnUFdDSmI5SVh3SmVzTWJMeVhtd3hVWFZYLS05SU8tNnpKZ0RuNmVmMFQ3SzRZRlk5XzlOQ3VFdlUwUFEyNXYzU0s3RHNMaTViQUtqUjQwMldaUDU2Q2tZS1paMkF3cEFLNmpJY29OSjZ4ZVBhMEdMV0JQWk1XeGxoUnJycGhFMlZDQkJudlVNRm9ON9IBzgFBVV95cUxNQV9vNnF6dVNrUWxQTWMwaDhyakZDVEpxQnRIdzFoNjk4bVNtTDRCcDVRbWtpbTJwWVhyRlkxS2FYRXA0NUNWUjV6Sy1jcWdtRDJOZDk5NUVrVzVsR0VFSEFGclM4clRsSkhQSUVpRjVBZENCMjZHaWZuYmlYSDU0bUpOdEtxci1DSGRPUTdsSHZEQUVsZ2drZHJ6NnoxN0dzLUY4LTFOREdQS1doLWpVbmJzRnU2WFV5SHQ3eHZOdThVWEdoeHRWcDZqbzNDZw?oc=5",
+  "source": "Startup India / DPIIT (Google News)",
+  "score": 7,
+  "date": "2026-11-09T19:37:03+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-10T04:34:27.684144+05:30"
  }
 ]
