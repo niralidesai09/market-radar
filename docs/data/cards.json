@@ -1,35 +1,5 @@
 [
  {
-  "id": "9664a451b39d",
-  "headline": "Jio Platforms Lists at 21% Premium on NSE",
-  "the_number": "21%",
-  "why_it_matters": "Jio becomes India's second-largest listed firm by market capitalisation.",
-  "founder_takeaway": "Strong public market demand exists for dominant digital infrastructure leaders.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Jio Platforms",
-   "Reliance Industries"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Big Move",
-  "source_badge": "Verified media",
-  "covered_by_count": 10,
-  "url": "https://entrackr.com/news/jio-platforms-lists-at-21-premium-values-company-at-rs-125-lakh-crore-12759885",
-  "source": "Entrackr",
-  "score": 10,
-  "date": "2026-10-28T10:29:16+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-29T00:28:37.704837+05:30"
- },
- {
   "id": "37a11748d113",
   "headline": "OpenAI Secures $11B Funding at $1.25T Valuation",
   "the_number": "$11 billion",
@@ -86,35 +56,6 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-10T21:11:50.184114+05:30"
- },
- {
-  "id": "e4124e11ee29",
-  "headline": "US Fed Holds Interest Rates Steady Amid Persistent Inflation",
-  "the_number": "-",
-  "why_it_matters": "Elevated US inflation keeps potential future interest rate hikes on the table.",
-  "founder_takeaway": "High interest rates prolong cautious capital allocation and tighter liquidity.",
-  "sentiment": "Bearish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "US Federal Reserve"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Big Move",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-us-federal-reserve-holds-interest-rates-steady-as-stubborn-inflation-puts-future-rate-hikes-in-focus/articleshow/135275622.cms",
-  "source": "Economic Times Markets",
-  "score": 9,
-  "date": "2026-10-28T23:31:23+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-29T00:28:37.704837+05:30"
  },
  {
   "id": "9d1c41bf56fc",
@@ -1022,244 +963,92 @@
   "first_seen": "2026-11-11T20:59:26.437652+05:30"
  },
  {
-  "id": "76d46e0b2859",
-  "headline": "US Stocks Pull Back as Federal Reserve Holds Rates",
-  "the_number": "-",
-  "why_it_matters": "Markets react negatively as central bank maintains interest rates.",
-  "founder_takeaway": "Macro rate certainty remains elusive, influencing global risk asset sentiment.",
-  "sentiment": "Bearish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Federal Reserve"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-meeting-live-updates-dow-jones-nasdaq-sp-500-us-stock-market-today-kevin-warsh-fomc-meet-rate-cut-news-28th-oct/liveblog/135265171.cms",
-  "source": "Economic Times Markets",
-  "score": 8,
-  "date": "2026-10-28T17:33:22+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-29T00:28:37.704837+05:30"
- },
- {
-  "id": "555fa8ba6a34",
-  "headline": "US DOJ Inquiring About Nvidia's Hugging Face Purchase",
-  "the_number": "-",
-  "why_it_matters": "Antitrust scrutiny intensifies around major tech acquisitions in AI sector.",
-  "founder_takeaway": "Big Tech acquisition exits face heightened regulatory and antitrust headwinds.",
-  "sentiment": "Neutral",
-  "category": "M&A",
+  "id": "0481de3101a9",
+  "headline": "Anthropic IPO Multiple Times Oversubscribed, Targeting Massive Valuation",
+  "the_number": "$90.4 billion",
+  "why_it_matters": "Enormous investor appetite signals historic demand for frontline AI foundation models.",
+  "founder_takeaway": "Massive run-rates can unlock unprecedented public market capital for scale.",
+  "sentiment": "Bullish",
+  "category": "IPO",
   "sector_tags": [
    "AI"
   ],
   "companies": [
-   "Nvidia",
-   "Hugging Face",
-   "US DOJ"
+   "Anthropic",
+   "Goldman Sachs Group Inc."
   ],
   "geography": "Global",
-  "amount_usd_m": null,
+  "amount_usd_m": 90400.0,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-ipo-is-said-to-be-multiple-times-oversubscribed/articleshow/135743507.cms",
+  "source": "Economic Times Markets",
+  "score": 9,
+  "date": "2026-11-11T21:55:21+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-12T01:47:02.320806+05:30"
+ },
+ {
+  "id": "69792f3c8084",
+  "headline": "Fractile Raises $720M to Develop Custom AI Chips",
+  "the_number": "$720M",
+  "why_it_matters": "Huge capital rounds are fueling specialized hardware competition against incumbent chipmakers.",
+  "founder_takeaway": "Hardware moats in AI demand substantial upfront capital investments.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Fractile"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 720.0,
   "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/exclusiveus-doj-is-inquiring-about-nvidias-purchase-of-hugging-face-sources-say-11793212486758.html",
-  "source": "Mint Companies",
-  "score": 8,
-  "date": "2026-10-29T00:04:46+05:30",
+  "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+  "source": "TechCrunch",
+  "score": 9,
+  "date": "2026-11-11T19:34:55+00:00",
   "unc_number": false,
-  "raw_impact": "Notable",
+  "raw_impact": "Big Move",
   "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-29T00:28:37.704837+05:30"
+  "unconfirmed": true,
+  "first_seen": "2026-11-12T01:47:02.320806+05:30"
  },
  {
-  "id": "fa9df7fb03e2",
-  "headline": "Meesho Q2 Margins Hit 6% Despite Rising Tech Costs",
-  "the_number": "6%",
-  "why_it_matters": "Higher CAC and server costs may temper Meesho's near-term margin gains.",
-  "founder_takeaway": "Balance customer acquisition and infrastructure costs against margin growth.",
-  "sentiment": "Neutral",
+  "id": "b577d6b06f32",
+  "headline": "OpenAI Quarterly Revenue Crosses $10B with 50% Growth",
+  "the_number": "$10B",
+  "why_it_matters": "Rapid top-line expansion demonstrates soaring enterprise and consumer generative AI adoption.",
+  "founder_takeaway": "Focus on aggressively scaling revenue alongside substantial model infrastructure costs.",
+  "sentiment": "Bullish",
   "category": "Earnings",
   "sector_tags": [
-   "quick commerce",
-   "other"
-  ],
-  "companies": [
-   "Meesho"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://www.livemint.com/companies/company-results/meesho-flags-higher-festive-and-tech-costs-in-q2-as-margins-improve-11793199216905.html",
-  "source": "Mint Companies",
-  "score": 8,
-  "date": "2026-10-28T21:54:37+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-29T00:28:37.704837+05:30"
- },
- {
-  "id": "844594114d4a",
-  "headline": "US Fed FOMC Scheduled to Announce Rate Decision",
-  "the_number": "-",
-  "why_it_matters": "Global capital costs and liquidity hinge on impending Federal Reserve decisions.",
-  "founder_takeaway": "Track central bank rate policy decisions for macroeconomic runway impacts.",
-  "sentiment": "Neutral",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/stock-market-news/us-fed-meeting-october-2026-today-expectations-date-and-time-when-where-to-watch-kevin-warshs-speech-11793175022190.html",
-  "source": "Mint Markets",
-  "score": 8,
-  "date": "2026-10-28T14:50:31+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-29T00:28:37.704837+05:30"
- },
- {
-  "id": "d75bbfb276cb",
-  "headline": "Ola Electric ₹1,000 Cr Rights Issue Fully Subscribed",
-  "the_number": "₹1,000 cr",
-  "why_it_matters": "Strong shareholder participation provides fresh capital while shares rallied 23%.",
-  "founder_takeaway": "Active founder participation signals confidence during follow-on public capital raises.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "EV"
-  ],
-  "companies": [
-   "Ola Electric"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/companies/news/ola-electric-s-1-000-cr-rights-issue-fully-subscribed-as-shares-rally-23-126102801875_1.html",
-  "source": "Business Standard Companies",
-  "score": 8,
-  "date": "2026-10-28T21:08:29+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-29T00:28:37.704837+05:30"
- },
- {
-  "id": "6dca50c55a1a",
-  "headline": "Sarvam AI in Talks to Raise From Cognizant",
-  "the_number": "$3.5 Bn",
-  "why_it_matters": "Strategic IT services backing highlights surging enterprise interest in AI.",
-  "founder_takeaway": "Strategic IT corporate investors offer strong enterprise distribution channels.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
    "AI"
   ],
   "companies": [
-   "Sarvam AI",
-   "Cognizant Technology Solutions"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://inc42.com/buzz/cognizant-in-talks-to-invest-in-sarvam-at-3-5-bn-to-4-bn-valuation-report/",
-  "source": "Inc42",
-  "score": 8,
-  "date": "2026-10-28T09:50:02+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-29T00:28:37.704837+05:30"
- },
- {
-  "id": "9f7133723eef",
-  "headline": "US DOE Loans $5B to Power Tech Data Centers",
-  "the_number": "$5B",
-  "why_it_matters": "Government-backed nuclear modernization addresses massive energy needs of hyperscalers.",
-  "founder_takeaway": "Secure massive baseline energy and infrastructure early for compute scaling.",
-  "sentiment": "Bullish",
-  "category": "Policy",
-  "sector_tags": [
-   "AI",
-   "other"
-  ],
-  "companies": [
-   "Constellation Energy",
-   "Google",
-   "Amazon",
-   "Meta"
+   "OpenAI"
   ],
   "geography": "Global",
   "amount_usd_m": null,
   "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+  "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
   "source": "TechCrunch",
-  "score": 8,
-  "date": "2026-10-28T15:53:21+00:00",
+  "score": 9,
+  "date": "2026-11-11T16:14:44+00:00",
   "unc_number": false,
-  "raw_impact": "Notable",
+  "raw_impact": "Big Move",
   "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-29T00:28:37.704837+05:30"
- },
- {
-  "id": "87e2d1810ab9",
-  "headline": "Guidewire Acquires Hyperexponential for $1.7B in Cash",
-  "the_number": "$1.7B",
-  "why_it_matters": "Major cash acquisition accelerates AI agent deployment for insurance underwriting.",
-  "founder_takeaway": "Specialized AI workflow software commands premium cash valuations from incumbents.",
-  "sentiment": "Bullish",
-  "category": "M&A",
-  "sector_tags": [
-   "SaaS",
-   "AI"
-  ],
-  "companies": [
-   "Guidewire",
-   "Hyperexponential"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 1700,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
-  "source": "TechCrunch",
-  "score": 8,
-  "date": "2026-10-27T22:26:03+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-29T00:28:37.704837+05:30"
+  "unconfirmed": true,
+  "first_seen": "2026-11-12T01:47:02.320806+05:30"
  },
  {
   "id": "c26ef11dad97",
@@ -6503,91 +6292,156 @@
   "first_seen": "2026-11-11T20:59:26.437652+05:30"
  },
  {
-  "id": "8745f938db34",
-  "headline": "World Bank Projects 23% Commodity Price Surge",
-  "the_number": "23%",
-  "why_it_matters": "War and shipping disruptions threaten to escalate inflation and food risks.",
-  "founder_takeaway": "Prepare supply chains and input pricing for potential macro shocks.",
-  "sentiment": "Bearish",
-  "category": "Macro",
+  "id": "edc2f137e9e1",
+  "headline": "Anthropic Backed by Amazon, Alphabet, Microsoft, and Nvidia",
+  "the_number": "-",
+  "why_it_matters": "Strategic Big Tech alliances provide crucial compute and financial support.",
+  "founder_takeaway": "Partnering with hyperscalers can accelerate distribution and technical leverage.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
   "sector_tags": [
-   "other"
+   "AI"
   ],
   "companies": [
-   "World Bank"
+   "Anthropic",
+   "Amazon",
+   "Alphabet",
+   "Microsoft",
+   "Nvidia",
+   "OpenAI"
   ],
   "geography": "Global",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/world-bank-sees-commodity-prices-surging-23-in-2026-on-middle-east-war/articleshow/135274754.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-10-28T22:56:20+05:30",
+  "covered_by_count": 5,
+  "url": "https://www.livemint.com/companies/news/anthropic-ipo-check-openai-amazon-alphabet-pentagon-connection-how-ceo-amodei-s-housemates-sister-too-related-11794329869622.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-11-11T00:05:58+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-10-29T00:28:37.704837+05:30"
+  "first_seen": "2026-11-12T01:47:02.320806+05:30"
  },
  {
-  "id": "635d5016b302",
-  "headline": "Cholamandalam Q2 Profit Jumps 41%, Plans ₹5000 Cr QIP",
-  "the_number": "Rs 5000 crore",
-  "why_it_matters": "Strong income and lower credit losses back a massive capital raise.",
-  "founder_takeaway": "Leverage peak operating performance to execute large equity funding rounds.",
+  "id": "84cacd1c7083",
+  "headline": "Eternal Shares Up 375% Since IPO Driven by Blinkit",
+  "the_number": "375%",
+  "why_it_matters": "Improving operational profitability and quick-commerce expansion validate investor optimism.",
+  "founder_takeaway": "Execution in fast-growing verticals like quick commerce drives enterprise value.",
   "sentiment": "Bullish",
   "category": "Earnings",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Eternal",
+   "Blinkit"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/eternals-ipo-investors-sitting-on-375-gains-as-stock-hits-new-record-high-from-rs-76-price-to-rs-361-what-changed-11794391062630.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-11-11T16:11:57+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-12T01:47:02.320806+05:30"
+ },
+ {
+  "id": "cb3a9d8df6aa",
+  "headline": "Bajaj Finance Launches ₹11,700 Crore QIP to Repay Debt",
+  "the_number": "₹11,700 crore",
+  "why_it_matters": "Large equity issuance fortifies the NBFC's balance sheet against borrowings.",
+  "founder_takeaway": "Proactively refinance and strengthen balance sheets when public windows open.",
+  "sentiment": "Bullish",
+  "category": "Funding",
   "sector_tags": [
    "fintech"
   ],
   "companies": [
-   "Cholamandalam Investment and Finance"
+   "Bajaj Finance"
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/stocks/news/cholamandalam-investment-q2-net-profit-rises-41-on-strong-income-growth-plans-rs-5000-crore-capital-raise/articleshow/135272371.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-10-28T21:34:42+05:30",
+  "url": "https://www.business-standard.com/markets/news/bajaj-finance-launches-11-700-crore-qip-at-5-discount-to-closing-price-126111101488_1.html",
+  "source": "Business Standard Markets",
+  "score": 8,
+  "date": "2026-11-11T21:22:48+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-10-29T00:28:37.704837+05:30"
+  "first_seen": "2026-11-12T01:47:02.320806+05:30"
  },
  {
-  "id": "01784e4c3b21",
-  "headline": "Carlsberg India Files Updated DRHP for Complete OFS IPO",
-  "the_number": "$700 million",
-  "why_it_matters": "Multinationals continue tapping Indian equity markets to monetise local business units.",
-  "founder_takeaway": "Indian public markets provide strong liquidity and shareholder exits.",
-  "sentiment": "Bullish",
-  "category": "IPO",
+  "id": "837908ea63cd",
+  "headline": "Gaurav Munjal Steps Down as Unacademy CEO Post-Acquisition",
+  "the_number": "-",
+  "why_it_matters": "Leadership restructuring completes upGrad's post-acquisition consolidation of Unacademy.",
+  "founder_takeaway": "Acquisitions often necessitate transition from operational CEO to executive leadership.",
+  "sentiment": "Neutral",
+  "category": "M&A",
   "sector_tags": [
-   "other"
+   "edtech"
   ],
   "companies": [
-   "Carlsberg India"
+   "Unacademy",
+   "upGrad"
   ],
   "geography": "India",
-  "amount_usd_m": 700,
-  "impact": "Watch",
+  "amount_usd_m": null,
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/tuborg-maker-carlsberg-india-moves-closer-to-ipo-files-updated-drhp-for-complete-ofs-issue/articleshow/135265478.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-10-28T17:57:57+05:30",
+  "url": "https://yourstory.com/2026/11/gaurav-munjal-steps-down-as-unacademy-ceo-akhilendra-kumar-to-take-charge",
+  "source": "YourStory",
+  "score": 8,
+  "date": "2026-11-11T15:10:36+00:00",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-10-29T00:28:37.704837+05:30"
+  "first_seen": "2026-11-12T01:47:02.320806+05:30"
+ },
+ {
+  "id": "d9ab5c088fc6",
+  "headline": "House Republicans Summon Nvidia CEO Jensen Huang Over Inquiry",
+  "the_number": "-",
+  "why_it_matters": "Heightened congressional scrutiny targets top semiconductor leadership amid geopolitical tensions.",
+  "founder_takeaway": "Geopolitics increasingly impacts technology executives and public market operations.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+  "source": "TechCrunch",
+  "score": 8,
+  "date": "2026-11-11T19:22:22+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-12T01:47:02.320806+05:30"
  },
  {
   "id": "db157d7805a5",
@@ -16256,5 +16110,214 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-11T20:59:26.437652+05:30"
+ },
+ {
+  "id": "439257bc0f8c",
+  "headline": "Apollo Wins EasyJet Shareholder Backing for £5.7B Buyout",
+  "the_number": "£5.7 billion",
+  "why_it_matters": "EasyJet moves toward delisting via a massive private equity takeover.",
+  "founder_takeaway": "Cross-border takeovers face heavy regulatory scrutiny before closing.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "EasyJet",
+   "Apollo"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/easyjet-shareholders-approve-5-7-billion-apollo-takeover/articleshow/135740460.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-11-11T19:46:04+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-12T01:47:02.320806+05:30"
+ },
+ {
+  "id": "2c25b7850cb5",
+  "headline": "Fairfax Plans Exit from IIFL Finance for $320M",
+  "the_number": "$320 million",
+  "why_it_matters": "Fairfax reallocates capital from non-bank lenders toward acquiring IDBI Bank.",
+  "founder_takeaway": "Large investors divest existing holdings to finance bigger strategic bets.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Fairfax Financial Holdings",
+   "IIFL Finance",
+   "IDBI Bank",
+   "IIFL Capital"
+  ],
+  "geography": "India",
+  "amount_usd_m": 320,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/fairfax-financial-likely-to-exit-iifl-finance-sources-say/articleshow/135738516.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-11-11T18:39:37+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-12T01:47:02.320806+05:30"
+ },
+ {
+  "id": "a72806343d09",
+  "headline": "Moneyview Jumps 4% Following Neutral BofA Initiation",
+  "the_number": "58%",
+  "why_it_matters": "Fintech startup maintains post-IPO momentum despite analysts flagging balanced risk-reward.",
+  "founder_takeaway": "Post-listing rallies trigger conservative ratings as brokerages balance upside.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Moneyview",
+   "BofA"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/moneyview-shares-are-up-58-from-ipo-price-jump-4-today-after-bofa-coverage-what-it-said-check-price-target-11794377585073.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-11T14:06:15+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-12T01:47:02.320806+05:30"
+ },
+ {
+  "id": "48870c7dc42a",
+  "headline": "Tata Power Q2 Net Profit Jumps 33%",
+  "the_number": "₹1,652 cr",
+  "why_it_matters": "Surging utility earnings fund major new pumped storage and renewables.",
+  "founder_takeaway": "Strong operational cash flows sustain capital-intensive infrastructure expansion.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Power"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/quarterly-results/tata-power-q2-profit-rises-33-to-1-652-cr-11-871-cr-project-approved-126111101450_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-11T20:28:29+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-12T01:47:02.320806+05:30"
+ },
+ {
+  "id": "d7de1dda6d36",
+  "headline": "ValueQuest Commits ₹775 Cr to Manufacturing Startups",
+  "the_number": "₹775 cr",
+  "why_it_matters": "Domestic funds ramp up investments in defence, infrastructure, and engineering.",
+  "founder_takeaway": "Indigenous manufacturing and defence technologies attract substantial institutional capital.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "ValueQuest",
+   "Sagar Defence Engineering",
+   "Rational Engineers",
+   "TASE Global"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/valuequest-investment-sagar-defence-rational-engineers-tase-global-126111100837_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-11T15:41:48+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-12T01:47:02.320806+05:30"
+ },
+ {
+  "id": "8d8071fab54a",
+  "headline": "Cleantech Startup Greenjoules Closes Series B Round",
+  "the_number": "₹150 Cr",
+  "why_it_matters": "Renewable fuel startups secure growth capital amid clean energy transition.",
+  "founder_takeaway": "Sustained cleantech execution enables successful mid-stage capital raises.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Greenjoules"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://inc42.com/buzz/exclusive-greenjoules-raises-%e2%82%b962-cr-funding-from-amazon-singularity-to-scale-green-energy-operations/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-11-11T11:48:36+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-12T01:47:02.320806+05:30"
+ },
+ {
+  "id": "09b2436bdbfb",
+  "headline": "India Imposes Export Ban on Recycled Lithium-Ion Materials",
+  "the_number": "-",
+  "why_it_matters": "The export ban aims to preserve critical raw materials domestically.",
+  "founder_takeaway": "Export curbs create protected local supply chains for domestic recyclers.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "EV"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUnFLZWFOdjdkSGpnLXBCVm4tVjItUk1QZzBld1MtLV9KUElHNnRnOUhCc3JIdGFNTkdGTXZUT0xuakhicENCTS1oYzhpUF9rUFJueVhUVk1sWWlfWTRXRFczU21WalJQTDBTNnk4Q2lmX3prTEFpZFdITVg4eW9uT1EydWxHTnBSNklRbzQ4QkR2cDZFVHZmRXlhcmZ0aVpJc2t0V3lR?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 7,
+  "date": "2026-11-11T09:01:32+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-12T01:47:02.320806+05:30"
  }
 ]
