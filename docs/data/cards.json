@@ -1,67 +1,5 @@
 [
  {
-  "id": "e326703623f5",
-  "headline": "Jio Platforms Surges 21% in Record Mega-IPO Debut",
-  "the_number": "21.35%",
-  "why_it_matters": "Delivers the largest listing gain among India's five biggest IPOs.",
-  "founder_takeaway": "Strong fundamentals and subscriber monetization drive massive listing-day gains.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Jio Platforms",
-   "Nomura",
-   "Motilal Oswal",
-   "Elara Capital"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Big Move",
-  "source_badge": "Verified media",
-  "covered_by_count": 12,
-  "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-delivers-biggest-listing-gain-among-indias-5-largest-ipos-jumps-21-on-debut/articleshow/135256268.cms",
-  "source": "Economic Times Markets",
-  "score": 10,
-  "date": "2026-10-28T12:48:18+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-28T13:27:01.131153+05:30"
- },
- {
-  "id": "298e50473163",
-  "headline": "Jio Shares Surge 21% in Blockbuster Debut",
-  "the_number": "21%",
-  "why_it_matters": "Ranks as India's second-most valuable company, behind parent Reliance.",
-  "founder_takeaway": "Spin-offs can rival parent corporations in public valuation.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Jio",
-   "Reliance Industries"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Big Move",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
-  "source": "TechCrunch",
-  "score": 10,
-  "date": "2026-10-28T05:20:32+00:00",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-28T13:27:01.131153+05:30"
- },
- {
   "id": "247c3e2c0047",
   "headline": "Jio Platforms Enters $100 Billion Valuation Club Post-IPO",
   "the_number": "$108 billion",
@@ -180,65 +118,6 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-10T21:11:50.184114+05:30"
- },
- {
-  "id": "1db5649f0de5",
-  "headline": "Jio Expands into AI and Cloud Post-Listing",
-  "the_number": "21%",
-  "why_it_matters": "Outlines strategic expansion beyond connectivity into AI and cloud infrastructure.",
-  "founder_takeaway": "Leverage core telecom connectivity to cross-sell emerging AI technologies.",
-  "sentiment": "Bullish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Jio Platforms",
-   "Bharti Airtel"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/jio-ipo-largest-telecom-player-airtel-11793164174685.html",
-  "source": "Mint Companies",
-  "score": 9,
-  "date": "2026-10-28T11:21:53+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": true,
-  "first_seen": "2026-10-28T13:27:01.131153+05:30"
- },
- {
-  "id": "84419bf13379",
-  "headline": "Noel Tata Challenges Chandrasekaran's Reappointment Resolution",
-  "the_number": "-",
-  "why_it_matters": "Internal boardroom conflicts surface publicly at century-old conglomerate Tata Sons.",
-  "founder_takeaway": "Governance and succession disputes can divide even veteran boards.",
-  "sentiment": "Bearish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Tata Sons"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://yourstory.com/2026/10/noel-tata-challenges-resolution-reappoint-chandrasekaran-tata-sons-chairman",
-  "source": "YourStory",
-  "score": 9,
-  "date": "2026-10-27T05:23:13+00:00",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": true,
-  "first_seen": "2026-10-28T13:27:01.131153+05:30"
  },
  {
   "id": "8145fe5ddb51",
@@ -1178,43 +1057,12 @@
   "first_seen": "2026-11-11T02:01:47.737052+05:30"
  },
  {
-  "id": "201286e41d31",
-  "headline": "FCC Approves Amazon's Globalstar Acquisition",
-  "the_number": "$11.5 billion",
-  "why_it_matters": "Amazon secures regulatory clearance to scale satellite communications against SpaceX Starlink.",
-  "founder_takeaway": "Strategic megadeals accelerate satellite connectivity infrastructure building.",
-  "sentiment": "Neutral",
-  "category": "M&A",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Amazon Leo",
-   "Globalstar",
-   "SpaceX"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 11500,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/technology/us-agency-approves-amazon-leos-11-5-billion-acquisition-of-globalstar/articleshow/135251028.cms",
-  "source": "Economic Times Tech",
-  "score": 8,
-  "date": "2026-10-28T09:11:28+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-28T13:27:01.131153+05:30"
- },
- {
-  "id": "1e303c1e4685",
-  "headline": "Anthropic's Fast-Paced IPO Faces Skepticism",
-  "the_number": "-",
-  "why_it_matters": "Rapid growth at Anthropic raises nervous questions among public market investors.",
-  "founder_takeaway": "Record-setting growth invites heightened investor scrutiny during public offerings.",
-  "sentiment": "Neutral",
+  "id": "4c51351f63df",
+  "headline": "Anthropic IPO could raise up to $64.4 billion",
+  "the_number": "$64.4 billion",
+  "why_it_matters": "Anthropic targets a massive public market capital raise via IPO.",
+  "founder_takeaway": "Massive capital demands in frontier AI drive historic public offerings.",
+  "sentiment": "Bullish",
   "category": "IPO",
   "sector_tags": [
    "AI"
@@ -1223,142 +1071,19 @@
    "Anthropic"
   ],
   "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
+  "amount_usd_m": 64400,
+  "impact": "Big Move",
   "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/technology/anthropics-record-ipo-faces-some-big-questions/articleshow/135249836.cms",
-  "source": "Economic Times Tech",
-  "score": 8,
-  "date": "2026-10-28T08:12:31+05:30",
+  "covered_by_count": 4,
+  "url": "https://www.livemint.com/companies/anthropic-ipo-to-raise-as-much-as-644-11794308720307.html",
+  "source": "Mint Companies",
+  "score": 9,
+  "date": "2026-11-10T16:38:11+05:30",
   "unc_number": false,
-  "raw_impact": "Notable",
+  "raw_impact": "Big Move",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-10-28T13:27:01.131153+05:30"
- },
- {
-  "id": "22c4d39a9956",
-  "headline": "OpenAI Plans to Buy Google AI Chips",
-  "the_number": "-",
-  "why_it_matters": "Tech giants diversify chip sourcing to satisfy soaring AI computing demand.",
-  "founder_takeaway": "Hardware partnerships can bridge crucial computing capacity bottlenecks.",
-  "sentiment": "Neutral",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "OpenAI",
-   "Google"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-plans-to-buy-googles-ai-chips/articleshow/135249807.cms",
-  "source": "Economic Times Tech",
-  "score": 8,
-  "date": "2026-10-28T08:09:55+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-28T13:27:01.131153+05:30"
- },
- {
-  "id": "d89da3ade087",
-  "headline": "Anthropic IPO Filing Hits Indian IT Stocks",
-  "the_number": "-",
-  "why_it_matters": "Global AI public filings cause immediate tremors across Indian IT equities.",
-  "founder_takeaway": "Shifts in global AI technology alter traditional IT demand perceptions.",
-  "sentiment": "Bearish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI",
-   "other"
-  ],
-  "companies": [
-   "Anthropic",
-   "Walmart",
-   "Flipkart"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/anthropic-ipo-rocks-indian-it-walmart-in-no-hurry-to-list-flipkart/articleshow/135235874.cms",
-  "source": "Economic Times Tech",
-  "score": 8,
-  "date": "2026-10-27T19:05:54+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-28T13:27:01.131153+05:30"
- },
- {
-  "id": "ba1f3390c1f7",
-  "headline": "US Fed Rate Target Ranges 3.75%-4.00%",
-  "the_number": "25-basis-point",
-  "why_it_matters": "US benchmark interest rates set at 3.75%-4.00% impact global market liquidity.",
-  "founder_takeaway": "Rate trajectory directly guides international cost of capital assumptions.",
-  "sentiment": "Neutral",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/stock-market-news/us-fed-meeting-live-expectations-time-where-to-watch-kevin-warshs-speech-how-rate-decision-may-impact-gold-markets-11793157523493.html",
-  "source": "Mint Markets",
-  "score": 8,
-  "date": "2026-10-28T12:26:49+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-28T13:27:01.131153+05:30"
- },
- {
-  "id": "a709a1beb213",
-  "headline": "Cent Raises $15 Million, Acquires Medsee",
-  "the_number": "$15 million",
-  "why_it_matters": "Preventive healthcare startup Cent funds expansion and absorbs AI radiology capabilities.",
-  "founder_takeaway": "Pair early-stage equity funding with strategic AI tuck-in acquisitions.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "healthtech",
-   "AI"
-  ],
-  "companies": [
-   "Cent",
-   "Blume Ventures",
-   "South Park Commons",
-   "Medsee",
-   "Practo"
-  ],
-  "geography": "India",
-  "amount_usd_m": 15,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://entrackr.com/news/practo-co-founder-shashank-nds-startup-cent-raises-15-mn-led-by-blume-acquires-medsee-12757196",
-  "source": "Entrackr",
-  "score": 8,
-  "date": "2026-10-27T13:56:37+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-28T13:27:01.131153+05:30"
+  "first_seen": "2026-11-11T14:22:44.612820+05:30"
  },
  {
   "id": "f7c8ea1dacdf",
@@ -6594,6 +6319,214 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-11T02:01:47.737052+05:30"
+ },
+ {
+  "id": "2725ad48fc85",
+  "headline": "TSMC approves up to $1 billion investment in AI",
+  "the_number": "USD 1 billion",
+  "why_it_matters": "Foundry giant TSMC strengthens strategic ties with top AI clients.",
+  "founder_takeaway": "Deepening supplier investments can secure critical supply-chain alignment.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "TSMC",
+   "Anthropic",
+   "OpenAI"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 1000,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tsmc-to-invest-up-to-usd-1-billion-in-anthropic-openai/articleshow/135726655.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-11-11T10:43:09+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-11T14:22:44.612820+05:30"
+ },
+ {
+  "id": "b8784a935553",
+  "headline": "Nvidia loses $430 billion amid Jensen Huang controversy",
+  "the_number": "$430 billion",
+  "why_it_matters": "Governance concerns trigger a sharp 10% market value drop.",
+  "founder_takeaway": "Personal controversies involving founders directly trigger major corporate value destruction.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia",
+   "Microsoft"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 7,
+  "url": "https://www.livemint.com/companies/news/nvidia-briefly-slips-behind-microsoft-in-market-value-as-shares-tumble-10-amid-jensen-huang-controversy-11794363923176.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-11-11T08:15:58+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-11T14:22:44.612820+05:30"
+ },
+ {
+  "id": "05745b6dee2d",
+  "headline": "Bajaj Finance to launch $1.2 billion QIP soon",
+  "the_number": "$1.2 billion",
+  "why_it_matters": "Bajaj Finance swiftly moves to lock in large institutional funding.",
+  "founder_takeaway": "Rapid execution post-roadshows locks in investor appetite effectively.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Bajaj Finance"
+  ],
+  "geography": "India",
+  "amount_usd_m": 1200,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/market/stock-market-news/bajaj-finance-said-set-to-launch-up-to-1-2-billion-qip-as-early-as-this-week-11794382537759.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-11-11T13:21:00+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-11T14:22:44.612820+05:30"
+ },
+ {
+  "id": "9249cdbbc4e6",
+  "headline": "CCI approves Advent's ₹3,150-crore Yatharth Hospitals investment",
+  "the_number": "₹3,150-crore",
+  "why_it_matters": "Regulatory nod enables massive hospital capacity expansion past 5,000 beds.",
+  "founder_takeaway": "Primary capital infusions accelerate capital-intensive healthcare infrastructure expansions.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "healthtech",
+   "other"
+  ],
+  "companies": [
+   "CCI",
+   "Advent",
+   "Yatharth Hospitals"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/cci-approves-advent-s-3-150-crore-investment-in-yatharth-hospitals-126111000820_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-11-10T19:44:05+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-11T14:22:44.612820+05:30"
+ },
+ {
+  "id": "f77b37579a1a",
+  "headline": "FPIs Pump ₹56,771 Cr Into Indian Equities in 8 Days",
+  "the_number": "₹56,771 cr",
+  "why_it_matters": "Marks the biggest foreign institutional inflow into Indian equities since December 2020.",
+  "founder_takeaway": "Global AI market sell-offs can redirect massive capital into India.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.business-standard.com/markets/news/fpis-pump-56-771-cr-into-equities-in-8-days-biggest-inflow-since-dec-2020-126111100201_1.html",
+  "source": "Business Standard Markets",
+  "score": 8,
+  "date": "2026-11-11T09:33:52+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-11T14:22:44.612820+05:30"
+ },
+ {
+  "id": "14c208431c94",
+  "headline": "Kissht Parent OnEMI Raises ₹832 Cr Via Preferential Issue",
+  "the_number": "₹832 Cr",
+  "why_it_matters": "Brings 24 new investors onto digital lender Kissht's cap table.",
+  "founder_takeaway": "Preferential issues can rapidly diversify cap tables with institutional backers.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Kissht",
+   "OnEMI Technology Solutions"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-11-11T06:46:52+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-11T14:22:44.612820+05:30"
+ },
+ {
+  "id": "37ada38ea5dd",
+  "headline": "Adani Group Commits Over $120B Capex Over Five Years",
+  "the_number": "$120 billion",
+  "why_it_matters": "Signals aggressive multi-year infrastructure and industrial expansion across India.",
+  "founder_takeaway": "Massive long-term capex plans indicate domestic infrastructure confidence.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Adani Group"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNjBlMkpJdksyQW1Yc3lQTDM2VEtTZ3VKUGhSMjhQUW5GOTd6TWdBVklQWEhQVmVwVzctN01lSUpzZmVJSTBET3F3bEVlbi1uOFhHNDIzS0ExRHpuWnQxR0xMd0RiZnhJNGlPUmU1Yi1pU1dvcERRV1JwaGM5RHhKN0ZLdG5lNHpRQ3VYYW02bURUaHJtNUVnY05PY0htYnZXZUtxMVJSQWVhNDViZ2VaT2l4QnRjdkZHN2NUOVRn?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 8,
+  "date": "2026-11-10T11:06:09+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-11T14:22:44.612820+05:30"
  },
  {
   "id": "8745f938db34",
@@ -15961,5 +15894,129 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-11T02:01:47.737052+05:30"
+ },
+ {
+  "id": "8e7fbb13ea48",
+  "headline": "Resolven Mobilizes $900M and Targets Fresh $219M",
+  "the_number": "$900 million",
+  "why_it_matters": "Secures $700M fund-based debt and $200M group-level non-fund credit lines.",
+  "founder_takeaway": "Combining funded debt and non-fund lines optimizes large-scale financing.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Resolven"
+  ],
+  "geography": "India",
+  "amount_usd_m": 900,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/resolven-mobilizes-900-million-eyes-fresh-219-million-11794309578146.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-10T18:20:41+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-11T14:22:44.612820+05:30"
+ },
+ {
+  "id": "03c8b4545d5c",
+  "headline": "Three Workers Die at Tata's Hosur iPhone Facility",
+  "the_number": "40%",
+  "why_it_matters": "Accidents disrupt India's critical Apple supply chain where Tata assembles 40%.",
+  "founder_takeaway": "Manufacturing safety lapses threaten critical supply chain partnerships and operations.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Electronics",
+   "Apple",
+   "Foxconn"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/three-workers-die-at-tata-iphone-factory-in-tamil-nadus-hosur-11794287606590.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-10T10:50:36+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-11T14:22:44.612820+05:30"
+ },
+ {
+  "id": "98e9d25bc697",
+  "headline": "JPMorgan Backs Gen Z Driven Growth in Indian Internet",
+  "the_number": "-",
+  "why_it_matters": "Gen Z preferences favor edtech, food delivery, and modern fintech platforms.",
+  "founder_takeaway": "Designing specifically for Gen Z demographics attracts top institutional validation.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "edtech",
+   "fintech",
+   "other"
+  ],
+  "companies": [
+   "JPMorgan",
+   "PhysicsWallah",
+   "Meesho",
+   "Groww"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/gen-z-to-drive-india-s-next-internet-growth-wave-why-jpmorgan-picked-physicswallah-meesho-groww-shares-over-others-11794381624965.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-11T13:44:07+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-11T14:22:44.612820+05:30"
+ },
+ {
+  "id": "c0f2d28a6c54",
+  "headline": "Cognizant Launches Claude Frontier Group With 25,000 Professionals",
+  "the_number": "25,000",
+  "why_it_matters": "Introduces managed enterprise services to deploy and scale Anthropic's Claude.",
+  "founder_takeaway": "Enterprise AI adoption drives demand for specialized managed deployment workforces.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI",
+   "SaaS"
+  ],
+  "companies": [
+   "Cognizant"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/cognizant-sets-up-claude-frontier-group-with-over-25-000-professionals-126111000713_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-10T18:33:33+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-11T14:22:44.612820+05:30"
  }
 ]
