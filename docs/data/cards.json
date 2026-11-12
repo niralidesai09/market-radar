@@ -88,6 +88,35 @@
   "first_seen": "2026-11-12T21:36:07.469043+05:30"
  },
  {
+  "id": "82e91fd82b82",
+  "headline": "Nvidia CEO Jensen Huang Resigns Amid Controversies",
+  "the_number": "-",
+  "why_it_matters": "Nvidia loses visionary co-founder and leader during key AI race.",
+  "founder_takeaway": "Personal conduct and governance issues can derail iconic leadership.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 12,
+  "url": "https://www.livemint.com/companies/news/nvidia-ceo-jensen-huang-resigns-tech-giant-appoints-colette-kress-as-interim-ceo-report-11794491647631.html",
+  "source": "Mint Companies",
+  "score": 10,
+  "date": "2026-11-12T19:25:53+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-13T02:29:09.749964+05:30"
+ },
+ {
   "id": "9900c238c80f",
   "headline": "Binance Hit by $6.3B Security Breach, Freezes $3B Assets",
   "the_number": "$6.3B",
@@ -1106,122 +1135,33 @@
   "first_seen": "2026-11-12T21:36:07.469043+05:30"
  },
  {
-  "id": "4664b9f69925",
-  "headline": "Alphabet shares drop 13.5% after disappointing quarterly results",
-  "the_number": "13.5%",
-  "why_it_matters": "Ad revenue missed expectations and free cash flow turned negative.",
-  "founder_takeaway": "Free cash flow matters as much as top-line growth.",
-  "sentiment": "Bearish",
-  "category": "Earnings",
-  "sector_tags": [
-   "AI",
-   "other"
-  ],
-  "companies": [
-   "Alphabet",
-   "Google"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 4,
-  "url": "https://www.livemint.com/market/stock-market-news/alphabet-shares-plunge-13-set-for-biggest-1-day-drop-in-over-20-years-why-is-google-parent-falling-after-q3-results-11793284509177.html",
-  "source": "Mint Markets",
-  "score": 8,
-  "date": "2026-10-29T20:56:57+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-30T00:35:12.396457+05:30"
- },
- {
-  "id": "a34ad84b8a44",
-  "headline": "Alphabet sheds over $500 billion on AI and search concerns",
-  "the_number": "$500 billion",
-  "why_it_matters": "Weak ad sales and soaring AI infrastructure costs rattled market confidence.",
-  "founder_takeaway": "Heavy AI spending without immediate returns spooks public market investors.",
+  "id": "b4bc2a8db1b3",
+  "headline": "Nvidia Drops 10% In After-Hours Following Huang Reports",
+  "the_number": "10%",
+  "why_it_matters": "Leadership turmoil sparks downgrades and worries over AI strategic direction.",
+  "founder_takeaway": "Founder risk can trigger sudden equity and valuation re-ratings.",
   "sentiment": "Bearish",
   "category": "Big Tech/AI",
   "sector_tags": [
-   "AI",
-   "other"
+   "AI"
   ],
   "companies": [
-   "Alphabet",
-   "Google"
+   "Nvidia Corp"
   ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 3,
-  "url": "https://www.business-standard.com/companies/news/alphabet-loses-over-500-billion-in-market-value-as-ai-hits-google-search-126102901917_1.html",
-  "source": "Business Standard Companies",
-  "score": 8,
-  "date": "2026-10-29T23:24:02+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-30T00:35:12.396457+05:30"
- },
- {
-  "id": "27f55f37b3c7",
-  "headline": "Meesho narrows Q2 loss by 68% as revenue rises",
-  "the_number": "68%",
-  "why_it_matters": "Meesho's transacting user base reached 284 million amid scaling operations.",
-  "founder_takeaway": "Unit economics can improve rapidly alongside strong revenue growth.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Meesho"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 5,
-  "url": "https://yourstory.com/2026/10/meesho-reduces-losses-by-68-while-revenues-rises-34-in-q2-of-fy27",
-  "source": "YourStory",
-  "score": 8,
-  "date": "2026-10-28T15:04:11+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-30T00:35:12.396457+05:30"
- },
- {
-  "id": "9242c9500021",
-  "headline": "Wall Street ends higher as Fed holds rate steady",
-  "the_number": "-",
-  "why_it_matters": "Stable interest rates shift market attention toward corporate quarterly earnings.",
-  "founder_takeaway": "Macro rate pauses offer short-term valuation relief for equities.",
-  "sentiment": "Neutral",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [],
   "geography": "Global",
   "amount_usd_m": null,
   "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 8,
-  "date": "2026-10-28T23:53:34+00:00",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-shares-slide-as-investors-consider-future-without-huang/articleshow/135753594.cms",
+  "source": "Economic Times Markets",
+  "score": 9,
+  "date": "2026-11-12T08:51:39+05:30",
   "unc_number": false,
-  "raw_impact": "Notable",
+  "raw_impact": "Big Move",
   "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-30T00:35:12.396457+05:30"
+  "unconfirmed": true,
+  "first_seen": "2026-11-13T02:29:09.749964+05:30"
  },
  {
   "id": "96971faa1e61",
@@ -6503,295 +6443,325 @@
   "first_seen": "2026-11-12T21:36:07.469043+05:30"
  },
  {
-  "id": "6e9f16a28e02",
-  "headline": "Euro slips as ECB holds interest rates steady",
+  "id": "c09eefe9af24",
+  "headline": "IBM To End H-1B Sponsorship For Consulting Roles",
   "the_number": "-",
-  "why_it_matters": "Rising energy inflation and leadership shifts pressure the European currency.",
-  "founder_takeaway": "European macroeconomic softness may prolong currency volatility for exporters.",
-  "sentiment": "Neutral",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/euro-nudges-lower-after-ecb-holds-steady-stocks-inch-up/articleshow/135317787.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-10-29T19:07:39+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-30T00:35:12.396457+05:30"
- },
- {
-  "id": "e256ac04d40c",
-  "headline": "US September PCE inflation climbs to 0.5%",
-  "the_number": "0.5%",
-  "why_it_matters": "Higher inflation pressures raise the likelihood of a December rate hike.",
-  "founder_takeaway": "Persistent inflation means capital costs may remain elevated longer.",
-  "sentiment": "Bearish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-inflation-heats-up-in-september-consumer-spending-rises/articleshow/135317736.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-10-29T19:04:37+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-30T00:35:12.396457+05:30"
- },
- {
-  "id": "8140b0685e52",
-  "headline": "ED investigates Mudrex and Instadapp over crypto transfers",
-  "the_number": "₹4,900 crore",
-  "why_it_matters": "Regulatory scrutiny on crypto platforms intensifies over foreign exchange compliance.",
-  "founder_takeaway": "Strict adherence to foreign exchange regulations is essential for fintechs.",
+  "why_it_matters": "US visa crackdowns force tech giants to reduce foreign hiring.",
+  "founder_takeaway": "Global talent strategies must adapt rapidly to tightening immigration.",
   "sentiment": "Bearish",
   "category": "Policy",
   "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Mudrex",
-   "Instadapp"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://www.livemint.com/companies/news/unauthorised-cross-border-crypto-transfers-why-ed-searched-mudrex-and-instadapp-what-is-the-case-11793296006073.html",
-  "source": "Mint Companies",
-  "score": 7,
-  "date": "2026-10-30T00:28:13+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-30T00:35:12.396457+05:30"
- },
- {
-  "id": "0cac8ea55235",
-  "headline": "Tata Group faces leadership and governance disputes in November",
-  "the_number": "-",
-  "why_it_matters": "Internal leadership scrutiny tests governance at India's largest conglomerate.",
-  "founder_takeaway": "Maintain transparent board records and clear succession frameworks early.",
-  "sentiment": "Neutral",
-  "category": "Policy",
-  "sector_tags": [
    "other"
   ],
   "companies": [
-   "Tata Group"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/tata-group-s-november-test-chandrasekaran-s-reappointment-row-and-mehli-mistry-s-november-5-hearing-11793292372289.html",
-  "source": "Mint Companies",
-  "score": 7,
-  "date": "2026-10-30T00:13:11+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-30T00:35:12.396457+05:30"
- },
- {
-  "id": "66c550266930",
-  "headline": "Mobile connectivity startup Braid raises $38 million funding",
-  "the_number": "$38 million",
-  "why_it_matters": "Significant early capital flows into mobile connectivity solutions.",
-  "founder_takeaway": "Strategic venture backing validates deep-tech connectivity infrastructure plays.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Braid",
-   "Octopus Ventures",
-   "KPN Ventures"
+   "IBM"
   ],
   "geography": "Global",
-  "amount_usd_m": 38.0,
-  "impact": "Watch",
+  "amount_usd_m": null,
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/mobile-connectivity-startup-braid-raises-38-million-from-octopus-ventures-heres-how-it-plans-to-use-the-funding-11793280746390.html",
+  "url": "https://www.livemint.com/companies/news/ibm-to-end-h-1b-visa-and-green-card-sponsorship-for-most-consulting-roles-amid-trumps-immigration-crackdown-report-11794505557647.html",
   "source": "Mint Companies",
-  "score": 7,
-  "date": "2026-10-29T20:11:30+05:30",
+  "score": 8,
+  "date": "2026-11-12T23:55:14+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-10-30T00:35:12.396457+05:30"
+  "first_seen": "2026-11-13T02:29:09.749964+05:30"
  },
  {
-  "id": "b62fc3358523",
-  "headline": "Jio Platforms readies first post-listing Q2 earnings report",
-  "the_number": "9.2%",
-  "why_it_matters": "Post-listing performance tests telecom giant's sustained ARPU and profit growth.",
-  "founder_takeaway": "Public markets reward simultaneous revenue expansion and operating efficiency.",
+  "id": "91ccfb35b045",
+  "headline": "China-Linked Firms Reportedly Promised Nvidia Blackwells To DeepSeek",
+  "the_number": "-",
+  "why_it_matters": "Alleged supply arrangements raise scrutiny over US chip export compliance.",
+  "founder_takeaway": "Strict export controls require constant partner and supply-chain vetting.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia",
+   "DeepSeek"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/people/alice-huang-s-china-links-firms-related-to-her-promised-nvidia-blackwell-chips-to-deepseek-despite-us-ban-report-says-11794505719511.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-11-12T23:32:25+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-13T02:29:09.749964+05:30"
+ },
+ {
+  "id": "fcc1fa1374e0",
+  "headline": "Paytm Shares Rise 7.3% Near IPO Highs",
+  "the_number": "7.3%",
+  "why_it_matters": "Q2 profit of ₹226 crore and MDR hopes spur rally.",
+  "founder_takeaway": "Profitability and regulatory tailwinds can drive sustained market recoveries.",
   "sentiment": "Bullish",
   "category": "Earnings",
   "sector_tags": [
-   "other"
+   "fintech"
   ],
   "companies": [
-   "Jio Platforms"
+   "Paytm"
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/stock-market-news/jio-platforms-first-q2-results-after-bumper-listing-check-date-reliance-firm-s-earnings-in-focus-key-numbers-to-watch-11793290112398.html",
+  "url": "https://www.livemint.com/market/stock-market-news/paytm-shares-at-rs-1-925-close-in-on-ipo-listing-day-high-after-100-rally-from-march-lows-what-led-a-recovery-11794491626960.html",
   "source": "Mint Markets",
-  "score": 7,
-  "date": "2026-10-29T22:10:04+05:30",
+  "score": 8,
+  "date": "2026-11-12T22:19:29+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-10-30T00:35:12.396457+05:30"
+  "first_seen": "2026-11-13T02:29:09.749964+05:30"
  },
  {
-  "id": "a93a623c26a2",
-  "headline": "SEBI and RBI ease foreign investor onboarding process",
-  "the_number": "-",
-  "why_it_matters": "Streamlining foreign portfolio investment rules boosts global capital inflows into India.",
-  "founder_takeaway": "Anticipate easier access to international institutional capital in India.",
+  "id": "f6c9dfd43618",
+  "headline": "Anthropic Plans IPO Valued Up To $1.4 Trillion",
+  "the_number": "$1.4 trillion",
+  "why_it_matters": "AI giant eyes massive Nasdaq listing under ticker ANT.",
+  "founder_takeaway": "Early equity grants can unlock massive windfalls at liquidity.",
   "sentiment": "Bullish",
-  "category": "Policy",
+  "category": "IPO",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/ipo/anthropic-ipo-who-is-krishna-rao-meet-the-cfo-whose-1-30-stock-options-could-unlock-a-rs-7-000-crore-fortune-11794497618384.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-11-12T21:09:38+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-13T02:29:09.749964+05:30"
+ },
+ {
+  "id": "867a52f94f80",
+  "headline": "Wall Street Edges Up Despite Nvidia Drop",
+  "the_number": "0.29%",
+  "why_it_matters": "Major US indices post modest gains even as Nvidia slides.",
+  "founder_takeaway": "Broader market breadth can withstand single-stock leadership shocks.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "Nvidia"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.business-standard.com/world-news/wall-street-opens-lower-as-nvidia-ceo-huang-steps-down-tech-stocks-slide-126111201681_1.html",
+  "source": "Business Standard Markets",
+  "score": 8,
+  "date": "2026-11-12T20:15:13+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-13T02:29:09.749964+05:30"
+ },
+ {
+  "id": "b137e48aab73",
+  "headline": "Bajaj Finance Launches ₹11,700 Crore QIP",
+  "the_number": "₹11,700 crore",
+  "why_it_matters": "Large equity raise boosts lending balance sheet and signals institutional support.",
+  "founder_takeaway": "Timing capital raises at market peaks helps minimize equity dilution.",
+  "sentiment": "Bullish",
+  "category": "Funding",
   "sector_tags": [
    "fintech"
   ],
   "companies": [
-   "SEBI",
-   "RBI"
+   "Bajaj Finance"
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/stock-market-news/working-with-rbi-to-make-process-of-bringing-foreign-investors-into-indian-markets-faster-and-easier-sebi-chief-11793268804709.html",
-  "source": "Mint Markets",
-  "score": 7,
-  "date": "2026-10-29T15:47:47+05:30",
+  "url": "https://www.business-standard.com/markets/news/bajaj-finance-share-price-rallies-3-nears-52-week-high-on-qip-launch-126111200214_1.html",
+  "source": "Business Standard Markets",
+  "score": 8,
+  "date": "2026-11-12T10:06:19+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-10-30T00:35:12.396457+05:30"
+  "first_seen": "2026-11-13T02:29:09.749964+05:30"
  },
  {
-  "id": "1e5dcff21b47",
-  "headline": "Indian government defends $1.2 billion tax demand against Volkswagen",
-  "the_number": "$1.2 billion",
-  "why_it_matters": "Large-scale tax disputes increase regulatory unpredictability for multinational corporations.",
-  "founder_takeaway": "Thoroughly review import duties to mitigate future litigation risks.",
-  "sentiment": "Neutral",
-  "category": "Policy",
+  "id": "55bf40a54c79",
+  "headline": "SoftBank Incurs Over $3 Billion Loss Preordering Gas Turbines",
+  "the_number": "$3 billion",
+  "why_it_matters": "Turbine preorder write-down highlights costly energy bets powering AI centers.",
+  "founder_takeaway": "Speculative infrastructure procurement without clear deployment timelines brings huge downside.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "SoftBank"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+  "source": "TechCrunch",
+  "score": 8,
+  "date": "2026-11-12T17:00:52+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-13T02:29:09.749964+05:30"
+ },
+ {
+  "id": "a8b4ef01f1e0",
+  "headline": "Norwest Closes Record $4B Fund Expanding AI Focus",
+  "the_number": "$4B",
+  "why_it_matters": "Massive dry powder will accelerate funding for emerging AI companies.",
+  "founder_takeaway": "Venture capital continues to centralize massive capital behind AI startups.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Norwest"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 4000.0,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+  "source": "TechCrunch",
+  "score": 8,
+  "date": "2026-11-12T15:18:14+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-13T02:29:09.749964+05:30"
+ },
+ {
+  "id": "2f5e23f48c68",
+  "headline": "Kia India Plans $2 Billion Investment in Second Plant",
+  "the_number": "$2 billion",
+  "why_it_matters": "Multi-billion dollar expansion strengthens India's role as global manufacturing hub.",
+  "founder_takeaway": "Automakers are scaling long-term local production to secure domestic supply.",
+  "sentiment": "Bullish",
+  "category": "Macro",
   "sector_tags": [
    "EV",
    "other"
   ],
   "companies": [
-   "Volkswagen"
+   "Kia India"
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://www.business-standard.com/companies/news/govt-volkswagen-clash-in-court-over-record-1-2-billion-tax-dispute-126102901520_1.html",
-  "source": "Business Standard Companies",
-  "score": 7,
-  "date": "2026-10-29T23:32:30+05:30",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSkhfZlRPWFM0U0ZPcl9pcHNwWEFuaXZ4S3NJQ0l5b3E1Qk5wZDcyZGtUdDM0S2R0cUYycGlyWlI2UDk5ZmlQcjJEV1loTDh6X1oxRHlVdXFpTmkzRDVhRTYyc0tGRGk5cjN5bGlUbTlJTXV6OUxxU0RKdEdvbFdtQTFHQ2xtbjJjSUZlanNtTjdaVHlDOVRhbGVDaVRrWlVJdk1aQTRPZmxGMWJhQzA5MExyTjRSeVUtbFF3ZjVPLUtrdDRtd2c?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 8,
+  "date": "2026-11-12T07:41:00+00:00",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-10-30T00:35:12.396457+05:30"
+  "first_seen": "2026-11-13T02:29:09.749964+05:30"
  },
  {
-  "id": "2cb6d01fe1fb",
-  "headline": "Microsoft plans $25 billion bond sale for AI spending",
-  "the_number": "$25 billion",
-  "why_it_matters": "Massive debt issuance tests institutional appetite for funding AI infrastructure.",
-  "founder_takeaway": "Evaluate debt markets to fund long-term infrastructure and capital expenditure.",
-  "sentiment": "Neutral",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Microsoft"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/world-news/microsoft-eyes-to-raise-at-least-25-billion-in-first-us-bond-since-2017-126102901884_1.html",
-  "source": "Business Standard Companies",
-  "score": 7,
-  "date": "2026-10-29T22:52:24+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-30T00:35:12.396457+05:30"
- },
- {
-  "id": "f348a08d88d6",
-  "headline": "Pine Labs Q2 profit surges over 6X to ₹38.6 Cr",
-  "the_number": "₹38.6 Cr",
-  "why_it_matters": "Strong profit and revenue growth showcase maturing Indian fintech business models.",
-  "founder_takeaway": "Demonstrating exponential profit growth builds confidence for potential IPOs.",
+  "id": "def25e79fdc8",
+  "headline": "Reliance Plans $4.6 Billion Coal-to-Gas Project",
+  "the_number": "$4.6 billion",
+  "why_it_matters": "Substantial capital commitment advances alternative domestic gas production capacity.",
+  "founder_takeaway": "Industrial conglomerates continue deploying massive balance sheets into domestic energy.",
   "sentiment": "Bullish",
-  "category": "Earnings",
+  "category": "Macro",
   "sector_tags": [
-   "fintech"
+   "other"
   ],
   "companies": [
-   "Pine Labs"
+   "Reliance"
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://inc42.com/buzz/pine-labs-q2-profit-jumps-over-6x-yoy-to-%e2%82%b938-6-cr-revenue-rises-24/",
-  "source": "Inc42",
-  "score": 7,
-  "date": "2026-10-29T07:58:49+00:00",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWW5tUGVKQ1BTSjV5REE0LUhyUTZWVDljNVJ6RWh2VXJVUGVzSHpfY1BVRHJyREtCZGFSbWtyM3dBS19NUHNUWWQyMHUtN1NmZXlFRTBkaTZoT3JMcW1zelY4MXlFVDd1T3dsRm11emw2ZTRfLXBmeVlncVhIbGoyMXRlVTl0UmRIYnFCakVXWkRDc1VYSGpnS28tT3ZtYTExb3FMdXMxSGx4VlQtaUliTUdzd2V2UnNQa0VVNjVrV3drcjhYY1dnUDM5Zw?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 8,
+  "date": "2026-11-12T07:49:00+00:00",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-10-30T00:35:12.396457+05:30"
+  "first_seen": "2026-11-13T02:29:09.749964+05:30"
+ },
+ {
+  "id": "2fab35f8cbea",
+  "headline": "India's October Retail Inflation Rises to 6.09%",
+  "the_number": "6.09%",
+  "why_it_matters": "Higher retail inflation creates headwind for upcoming monetary policy decisions.",
+  "founder_takeaway": "Rising inflation pressures consumer spending and delays interest rate cuts.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPREdNUGJpdVdzdFc0aWVJQ2dFU21LNTdob0R6QXFwS1I0amswSzdzZC1TbWJrRm95ZFFMU3k2STdocmxMWHJETUpXSU1QeWtwY05mR2p3eFlRTkJUYjloTlN3QlYzWDhCWElxci1rU2FwNldyUG9jSkc3OWtnWjRJUjhyLVR5YTJnNkJROFlQZjZiNG52a0FzdWhMYlE?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 8,
+  "date": "2026-11-12T11:22:31+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-13T02:29:09.749964+05:30"
  },
  {
   "id": "06218364b58c",
@@ -15959,5 +15929,65 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-12T14:50:21.613661+05:30"
+ },
+ {
+  "id": "3930fd2d4f6f",
+  "headline": "Clean Max Pledges Rs 50,000 Crore Green Energy Investment",
+  "the_number": "Rs 50,000 crore",
+  "why_it_matters": "Massive renewable project directly powers emerging compute factory infrastructure.",
+  "founder_takeaway": "AI compute infrastructure depends heavily on co-locating dedicated clean power.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "Clean Max Enviro Energy Solutions",
+   "Neysa"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/companies/clean-max-enviro-energy-pledges-rs-50000-crore-investment-in-andhra-pradesh/articleshow/135771043.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-11-12T18:41:57+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-13T02:29:09.749964+05:30"
+ },
+ {
+  "id": "9545d31486f6",
+  "headline": "India Becomes OpenAI's Biggest Market for ChatGPT",
+  "the_number": "-",
+  "why_it_matters": "Rapid user adoption proves massive domestic appetite for conversational AI tools.",
+  "founder_takeaway": "India offers immense user acquisition scale for global tech products.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "OpenAI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/technology/india-becomes-chatgpts-biggest-market-openais-india-chief-corner-office-conversation/videoshow/135764629.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-11-12T15:36:38+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-13T02:29:09.749964+05:30"
  }
 ]
