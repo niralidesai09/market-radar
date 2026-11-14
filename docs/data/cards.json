@@ -1284,206 +1284,33 @@
   "first_seen": "2026-11-14T02:04:45.851571+05:30"
  },
  {
-  "id": "abb1546a0fe1",
-  "headline": "Reliance hits record quarterly net profit of ₹29,550 crore",
-  "the_number": "₹29,550 crore",
-  "why_it_matters": "O2C and digital growth drive massive corporate revenue expansion.",
-  "founder_takeaway": "Operational flexibility helps maximize profits amid elevated commodity prices.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Reliance Industries Ltd"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/oil-to-chemicals-business-powers-reliance-industries-record-quarterly-net-profit-up-34-to-29550-crore/articleshow/135387613.cms",
-  "source": "Economic Times Markets",
-  "score": 8,
-  "date": "2026-10-31T05:30:00+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T13:30:19.595643+05:30"
- },
- {
-  "id": "dfd2f32dc2a3",
-  "headline": "OpenAI cuts funding target by $10 billion",
-  "the_number": "$10 billion",
-  "why_it_matters": "Valuation and capital expectations recalibrate even for premier AI leaders.",
-  "founder_takeaway": "Align fundraising targets realistically with market demand and valuation limits.",
-  "sentiment": "Neutral",
-  "category": "Funding",
+  "id": "93502395f538",
+  "headline": "Nvidia Stock Falls 13% Following Jensen Huang Resignation",
+  "the_number": "13%",
+  "why_it_matters": "Leadership vacuum rattles dominant AI chipmaker and triggers analyst downgrades.",
+  "founder_takeaway": "Governance and executive conduct heavily impact market capitalization.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
   "sector_tags": [
    "AI"
   ],
   "companies": [
-   "OpenAI"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 20000,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-cuts-funding-target-by-10-billion-ft/articleshow/135384941.cms",
-  "source": "Economic Times Tech",
-  "score": 8,
-  "date": "2026-10-31T08:05:12+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T13:30:19.595643+05:30"
- },
- {
-  "id": "8ccb30d199fc",
-  "headline": "Binance investigates record $6.3 billion crypto theft",
-  "the_number": "$6.3 billion",
-  "why_it_matters": "Unprecedented heist shakes confidence in centralized cryptocurrency exchange security.",
-  "founder_takeaway": "Customer fund guarantees and fast asset tracking protect platform credibility.",
-  "sentiment": "Bearish",
-  "category": "Macro",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Binance"
+   "Nvidia"
   ],
   "geography": "Global",
   "amount_usd_m": null,
-  "impact": "Notable",
+  "impact": "Big Move",
   "source_badge": "Verified media",
-  "covered_by_count": 7,
-  "url": "https://www.livemint.com/companies/crypto-exchange-binance-hacked-biggest-hack-in-history-at-6-3bn-what-went-wrong-what-initial-investigations-suggest-11793368607461.html",
-  "source": "Mint Companies",
-  "score": 8,
-  "date": "2026-10-30T20:18:05+05:30",
+  "covered_by_count": 8,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-has-worst-week-since-trump-tariff-selloff-as-huang-exits/articleshow/135822623.cms",
+  "source": "Economic Times Markets",
+  "score": 9,
+  "date": "2026-11-14T09:58:50+05:30",
   "unc_number": false,
-  "raw_impact": "Notable",
+  "raw_impact": "Big Move",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-10-31T13:30:19.595643+05:30"
- },
- {
-  "id": "b94b442f404a",
-  "headline": "Binance $6.3 billion heist draws US agencies' scrutiny",
-  "the_number": "$6.3 bn",
-  "why_it_matters": "Major cyber breaches trigger intense regulatory and inter-agency investigations globally.",
-  "founder_takeaway": "Full loss coverage pledges preserve trust amid regulatory scrutiny.",
-  "sentiment": "Bearish",
-  "category": "Policy",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Binance"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/markets/cryptocurrency/fbi-secret-service-join-probe-as-6-bn-binance-hack-rattles-crypto-markets-126103100226_1.html",
-  "source": "Business Standard Markets",
-  "score": 8,
-  "date": "2026-10-31T09:27:59+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T13:30:19.595643+05:30"
- },
- {
-  "id": "56a5a8398098",
-  "headline": "RBI tightens cybersecurity checks on lenders following hacks",
-  "the_number": "-",
-  "why_it_matters": "Central bank steps up regulatory compliance to secure banking infrastructure.",
-  "founder_takeaway": "Prepare for elevated cybersecurity compliance costs across financial services.",
-  "sentiment": "Neutral",
-  "category": "Policy",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Reserve Bank of India"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUV9lcE01R2l5NFJ3Nmg3YWVuSUxtcUNET1ZsTHdEMGNTcGh6X1pqT0NjUkk3NFBXOHliWlhuaXZISV9KdXMxbFVyVGo0OXhUMkdFczRyVjRVMWhfWVRtN1JWRlNpVkdzNUJUNDQzTFM2TlJjbkxVUmljbnFSNDFQeWNXUE1ZTkJuQ2hxRnRIMENTUGprdW9NRWFYMkstLVNIbVpBc0NaZk1mVmlCV0pTUQ?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 8,
-  "date": "2026-10-30T21:59:04+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T13:30:19.595643+05:30"
- },
- {
-  "id": "1a7479a1ea84",
-  "headline": "India establishes high-level committee for banking reforms",
-  "the_number": "-",
-  "why_it_matters": "Government initiates policy oversight to drive structural banking sector enhancements.",
-  "founder_takeaway": "Anticipate policy shifts in banking that may impact fintech integration.",
-  "sentiment": "Neutral",
-  "category": "Policy",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWExOZnNHRnpzNVVGM2l1YkNBdUE4eFgtRld4YmZyYWdCcGFaWExaWEZ0Y1YzZXJ3V2tXSl90dHlSYk1ZVWhUTEp2VHJZMG9xYkFkbXk5NkZFZDZRMHJiTkxPeTZyOFdfT0tZTnk0VExXc0ZJazN1Q0E4Snc5cFk2T1FpbW44b2J5cUVxRHUwV1JMUVItS1Z6RmVLbzBPaDQzZGZvbA?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 8,
-  "date": "2026-10-30T15:25:43+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T13:30:19.595643+05:30"
- },
- {
-  "id": "d7be2490ec6f",
-  "headline": "Reliance profit surges 41% on refining and Jio",
-  "the_number": "41%",
-  "why_it_matters": "Refining margins and telecom dominance power consolidated profit expansion.",
-  "founder_takeaway": "Diversified business models hedge effectively against industry-specific headwinds.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Reliance",
-   "Jio"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 3,
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3F1YnFaLTBTLUs5bS1sUk1jVE9lYlFqS2ZQZDJibUpxbC1fSW5udUpITDFnUVhsWU5BekF4UUtjNm0za1VkeTZFSGstZGd1bnZ3cXZIdTZmeG5Ob0l3WFdWZm1zYy14Zy1PdkdSM29MZ29Qa0d6MUNBXzh3ME5fRG1ZNldhbGJxcjNfZDc5bzhOUFJQV2dHLW00X0pNUkw5UUlwZ3BhNjJ3THdYZllWbTB6SlM?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 8,
-  "date": "2026-10-30T16:01:23+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T13:30:19.595643+05:30"
+  "first_seen": "2026-11-14T14:08:26.869747+05:30"
  },
  {
   "id": "5adbbe334d14",
@@ -7036,266 +6863,154 @@
   "first_seen": "2026-11-14T02:04:45.851571+05:30"
  },
  {
-  "id": "0502b2e9e931",
-  "headline": "Brent crude climbs 13.6% to reach $117.64",
-  "the_number": "13.6%",
-  "why_it_matters": "Geopolitical conflict in oil choke points drives global inflationary pressures.",
-  "founder_takeaway": "Hedge against rising energy costs affecting logistics and supply chains.",
-  "sentiment": "Bearish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Goldman Sachs"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-soar-14-in-october-to-end-at-6-month-high-as-us-weighs-fresh-attacks-after-midterm-elections-more-upside-ahead/articleshow/135388221.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-10-31T10:11:11+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T13:30:19.595643+05:30"
- },
- {
-  "id": "90ea18e0ab91",
-  "headline": "Reliance Retail Q2 Profit Drops 24.5% Amid Quick-Commerce Investments",
-  "the_number": "24.5%",
-  "why_it_matters": "Aggressive quick commerce expansion and rising finance costs erode retail operating profits.",
-  "founder_takeaway": "Rapid scaling into new channels often compromises short-term net margins.",
-  "sentiment": "Bearish",
-  "category": "Earnings",
-  "sector_tags": [
-   "quick commerce",
-   "other"
-  ],
-  "companies": [
-   "Reliance Retail Ventures"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q2-profit-takes-a-hit-on-qcomm-push/articleshow/135387788.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-10-31T09:54:27+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T13:30:19.595643+05:30"
- },
- {
-  "id": "591809bda25c",
-  "headline": "US Tech Stocks Tumble on AI Capital Spending Concerns",
-  "the_number": "2.5%",
-  "why_it_matters": "Uncertain AI returns and heavy expenditure trigger large-scale tech equity selloffs.",
-  "founder_takeaway": "Demonstrate clear monetization paths alongside aggressive artificial intelligence capital expenditure.",
-  "sentiment": "Bearish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Intel",
-   "Amazon"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 3,
-  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-dow-jones-crashes-500-pts-nasdaq-over-2-5-as-ai-cash-burn-fears-spark-tech-selloff/articleshow/135377269.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-10-31T01:49:20+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T13:30:19.595643+05:30"
- },
- {
-  "id": "13b16e21e3f2",
-  "headline": "Nasdaq 100 Drops Over 5% Over Deepening AI Outlays",
-  "the_number": "5.8%",
-  "why_it_matters": "Trillions in market value evaporate as markets penalize surging AI infrastructure costs.",
-  "founder_takeaway": "High capital expenditure without fast returns strains market valuations significantly.",
-  "sentiment": "Bearish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Meta",
-   "Alphabet",
-   "Microsoft"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-100-cracks-5-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen/articleshow/135376949.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-10-31T01:40:09+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T13:30:19.595643+05:30"
- },
- {
-  "id": "8e0c822128ed",
-  "headline": "Swiggy's Toing App Raises Delivery Profitability Concerns Among Analysts",
+  "id": "d3630f17dca1",
+  "headline": "Anthropic Targets Record Fundraising in Upcoming Initial Public Offering",
   "the_number": "-",
-  "why_it_matters": "Affordable-meal ventures risk escalating fulfillment costs without driving profitable incremental demand.",
-  "founder_takeaway": "Low-ticket user acquisition strategies must strictly protect unit contribution margins.",
-  "sentiment": "Neutral",
-  "category": "Earnings",
+  "why_it_matters": "AI leader seeks unprecedented public valuation backed by top tech investors.",
+  "founder_takeaway": "Traditional pricing strategies provide stability in volatile public market debuts.",
+  "sentiment": "Bullish",
+  "category": "IPO",
   "sector_tags": [
-   "quick commerce",
-   "other"
+   "AI"
   ],
   "companies": [
-   "Swiggy"
+   "Anthropic",
+   "SpaceX"
   ],
-  "geography": "India",
+  "geography": "Global",
   "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/why-swiggy-s-toing-is-raising-questions-over-food-delivery-profitability-11793292907260.html",
-  "source": "Mint Companies",
-  "score": 7,
-  "date": "2026-10-31T06:00:54+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T13:30:19.595643+05:30"
- },
- {
-  "id": "79a1ab3ece3c",
-  "headline": "Reliance Retail Profit Drops 24% Amid Macro Demand Headwinds",
-  "the_number": "24%",
-  "why_it_matters": "Inflation and currency pressures compress margins despite steady top-line revenue growth.",
-  "founder_takeaway": "Macroeconomic headwinds require tight overhead management to maintain net profits.",
-  "sentiment": "Bearish",
-  "category": "Earnings",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Reliance Retail"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 2,
-  "url": "https://www.livemint.com/companies/reliance-retail-q2-results-net-profit-falls-24-to-2-611-crore-revenue-rises-6-11793374702917.html",
-  "source": "Mint Companies",
-  "score": 7,
-  "date": "2026-10-30T23:07:33+05:30",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-buyers-have-more-influence-on-price-than-spacex/articleshow/135823355.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-11-14T10:33:57+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-10-31T13:30:19.595643+05:30"
+  "first_seen": "2026-11-14T14:08:26.869747+05:30"
  },
  {
-  "id": "98e8efc7dec9",
-  "headline": "Nasdaq 100 Enters Third Correction as Tech Earnings Disappoint",
+  "id": "764986c60cbe",
+  "headline": "Quick-Commerce Rivals Join Government Gig Worker Welfare Panel",
   "the_number": "-",
-  "why_it_matters": "Earnings misses trigger broader tech selloffs, pushing indices into technical corrections.",
-  "founder_takeaway": "Market corrections increase scrutiny on profitability and corporate capital discipline.",
-  "sentiment": "Bearish",
-  "category": "Macro",
+  "why_it_matters": "Upcoming welfare mandates like insurance and healthcare may raise aggregator costs.",
+  "founder_takeaway": "Collaborate with regulators early to navigate rising platform labor costs.",
+  "sentiment": "Neutral",
+  "category": "Policy",
   "sector_tags": [
-   "other"
+   "quick commerce"
   ],
-  "companies": [],
-  "geography": "Global",
+  "companies": [
+   "Swiggy",
+   "Zepto",
+   "Eternal"
+  ],
+  "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/nasdaq-100-hits-third-correction-of-2026-on-unwinding-tech-stock-bets-11793388066834.html",
-  "source": "Mint Markets",
-  "score": 7,
-  "date": null,
+  "url": "https://www.livemint.com/companies/news/swiggy-zepto-eternal-rivals-on-same-board-what-govts-new-gig-worker-welfare-panel-means-11794626752228.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-11-14T09:00:06+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-10-31T13:30:19.595643+05:30"
+  "first_seen": "2026-11-14T14:08:26.869747+05:30"
  },
  {
-  "id": "b2aa1ba94c9f",
-  "headline": "Jio Platforms Profit Jumps 14% Led by Digital Services",
-  "the_number": "14%",
-  "why_it_matters": "Rising ARPU and 5G adoption fuel strong quarterly profit expansion.",
-  "founder_takeaway": "Improve average revenue per user to drive profitability at scale.",
+  "id": "d65e20c8ca86",
+  "headline": "Paytm Set to Revive Digital Wallet Business with RBI",
+  "the_number": "-",
+  "why_it_matters": "In-principle RBI clearance clears the runway for core service revival.",
+  "founder_takeaway": "Securing regulatory approvals allows revival of previously restricted core operations.",
   "sentiment": "Bullish",
-  "category": "Earnings",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Paytm",
+   "Paytm Payments Services Ltd"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://inc42.com/buzz/paytm-set-to-revive-wallet-business-with-rbi-in-principle-nod/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-11-13T11:46:44+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-14T14:08:26.869747+05:30"
+ },
+ {
+  "id": "981a73de6730",
+  "headline": "Bodhi Tree Buys Majority Stake In Adyar Ananda Bhavan",
+  "the_number": "$180M",
+  "why_it_matters": "Major private equity consolidation hits India's traditional food and retail space.",
+  "founder_takeaway": "Strong legacy consumer brands command major institutional buyout interest.",
+  "sentiment": "Bullish",
+  "category": "M&A",
   "sector_tags": [
    "other"
   ],
   "companies": [
-   "Jio Platforms"
+   "Adyar Ananda Bhavan",
+   "Bodhi Tree Systems"
   ],
   "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
+  "amount_usd_m": 180,
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/jio-platforms-profit-zooms-14-on-healthy-user-mix-digital-play/articleshow/135387627.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-10-31T09:49:01+05:30",
+  "url": "https://yourstory.com/2026/11/bodhi-tree-systems-acquires-majority-stake-in-adyar-ananda-bhavan",
+  "source": "YourStory",
+  "score": 8,
+  "date": "2026-11-13T04:50:52+00:00",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-10-31T13:30:19.595643+05:30"
+  "first_seen": "2026-11-14T14:08:26.869747+05:30"
  },
  {
-  "id": "97305b98b44a",
-  "headline": "Wall Street Slides as AI Cash Burn Sparks Tech Selloff",
+  "id": "2fd1b18314fc",
+  "headline": "US FAA Grounds All Domestic Flights Over Communication Issues",
   "the_number": "-",
-  "why_it_matters": "Investor concerns over heavy AI expenditure trigger broader market selloffs.",
-  "founder_takeaway": "Unchecked capital expenditure risks severe valuation pushback from equity markets.",
-  "sentiment": "Bearish",
+  "why_it_matters": "Critical infrastructure failure triggers severe disruption across American airspace operations.",
+  "founder_takeaway": "Critical systemic infrastructure requires robust fail-safes and communication redundancy.",
+  "sentiment": "Neutral",
   "category": "Macro",
   "sector_tags": [
-   "AI"
+   "other"
   ],
-  "companies": [],
+  "companies": [
+   "FAA"
+  ],
   "geography": "Global",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/wall-street-slides-as-ai-cash-burn-worries-spark-tech-selloff-11793385103163.html",
-  "source": "Mint Markets",
-  "score": 7,
-  "date": null,
+  "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+  "source": "TechCrunch",
+  "score": 8,
+  "date": "2026-11-13T21:44:38+00:00",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-10-31T13:30:19.595643+05:30"
+  "first_seen": "2026-11-14T14:08:26.869747+05:30"
  },
  {
   "id": "007c03cea4e8",
@@ -16232,5 +15947,180 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-14T02:04:45.851571+05:30"
+ },
+ {
+  "id": "3e4729b8684f",
+  "headline": "Reliance Plans Rs 43,000-Crore Andhra Pradesh Coal-To-Gas Plant",
+  "the_number": "₹43,000 crore",
+  "why_it_matters": "Massive domestic energy project promises 40,000 jobs and regional development.",
+  "founder_takeaway": "Align heavy capital expenditure plans with regional industrial policies.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reliance Industries"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/reliance-plans-rs-43-000-crore-coal-to-gas-plant-in-andhra-pradesh-could-generate-40-000-jobs-what-we-know-11794627790422.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-14T09:41:32+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-14T14:08:26.869747+05:30"
+ },
+ {
+  "id": "e2145e851386",
+  "headline": "Yes Bank Seeks SC Review Over AT-1 Bonds",
+  "the_number": "₹8,415 crore",
+  "why_it_matters": "The ruling significantly impacts Yes Bank's capital adequacy and buffer.",
+  "founder_takeaway": "Regulatory debt write-downs remain legally precarious and contentious.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "YES Bank"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/yes-bank-seeks-sc-review-of-ruling-on-8-415-crore-at-1-bond-write-down-126111301764_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-13T21:39:26+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-14T14:08:26.869747+05:30"
+ },
+ {
+  "id": "a5e803edeb6e",
+  "headline": "Karnataka HC Rejects Razorpay Founders' Plea In SFIO Probe",
+  "the_number": "-",
+  "why_it_matters": "Heightened legal scrutiny raises regulatory and compliance stakes for fintechs.",
+  "founder_takeaway": "Ensure ironclad corporate governance to withstand stringent regulatory investigations.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Razorpay"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/karnataka-hc-rejects-razorpay-cofounders-plea-to-quash-sfio-case/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-11-13T06:39:19+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-14T14:08:26.869747+05:30"
+ },
+ {
+  "id": "a89e40511448",
+  "headline": "ChatGPT Wallet Enables AI Agents To Checkout For Users",
+  "the_number": "-",
+  "why_it_matters": "Autonomous agentic commerce moves closer to mainstream consumer adoption.",
+  "founder_takeaway": "Integrate agent-ready checkout flows to capture autonomous purchasing demand.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI",
+   "fintech"
+  ],
+  "companies": [
+   "OpenAI"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+  "source": "TechCrunch",
+  "score": 7,
+  "date": "2026-11-13T16:00:12+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-14T14:08:26.869747+05:30"
+ },
+ {
+  "id": "de92575e0d50",
+  "headline": "Microsoft Cloud Suffers Major Global Enterprise Outage",
+  "the_number": "-",
+  "why_it_matters": "Widespread cloud disruptions paralyze daily operations for enterprise customers worldwide.",
+  "founder_takeaway": "Avoid single-cloud vendor reliance for critical enterprise business functions.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "SaaS"
+  ],
+  "companies": [
+   "Microsoft"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+  "source": "TechCrunch",
+  "score": 7,
+  "date": "2026-11-13T13:15:20+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-14T14:08:26.869747+05:30"
+ },
+ {
+  "id": "e963cc00a34e",
+  "headline": "Oil Market Returning to Surplus as Gulf Exports Recover",
+  "the_number": "-",
+  "why_it_matters": "A global oil surplus could lower fuel costs and curb inflation.",
+  "founder_takeaway": "Expect potential relief on fuel, energy, and logistics expenses.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "IEA"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcWtzQXhRVUlUbWQ0VVloOTVjekFCcC1XQlNXNWNRcERHNDFEbnBNTTFhZjV3Qjk5bGxCaDhoRFE1Yi1mdGNoR3JCVXY5MmQ0ODVnUWRabHowUDhYSUNKOXV5X0lLQzRBbWNabUFMTzVlMzBNOUUyWTgyeUg1cW5sRjJtUHo3TldPOEY4S19xOGwwYjlkemFibktTVTltVF94WUg5ekdJczcyUlBHOHZ0V3EtdWdjU0JOVkY4?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 7,
+  "date": "2026-11-13T11:34:59+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-14T14:08:26.869747+05:30"
  }
 ]
