@@ -1313,125 +1313,6 @@
   "first_seen": "2026-11-14T14:08:26.869747+05:30"
  },
  {
-  "id": "5adbbe334d14",
-  "headline": "Refining Powers Reliance's Quarterly Profit Surge of 40%",
-  "the_number": "40%",
-  "why_it_matters": "Reliance beats market forecasts via strong refining margins and operations.",
-  "founder_takeaway": "Core operational strength can buffer broader market volatility and expectations.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Reliance"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://www.livemint.com/companies/company-results/reliances-refining-business-powers-quarterly-earnings-beat-as-profit-rises-40-11793372409901.html",
-  "source": "Mint Companies",
-  "score": 8,
-  "date": "2026-10-30T21:07:55+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T19:16:20.985628+05:30"
- },
- {
-  "id": "a0c65a78cd73",
-  "headline": "Tata Motors Completes Takeover of Iveco",
-  "the_number": "89.42%",
-  "why_it_matters": "Tata Motors expands global commercial vehicle footprint through strategic majority buyout.",
-  "founder_takeaway": "Majority control allows seamless leadership integration and corporate alignment.",
-  "sentiment": "Bullish",
-  "category": "M&A",
-  "sector_tags": [
-   "EV",
-   "other"
-  ],
-  "companies": [
-   "Tata Motors",
-   "Iveco",
-   "Tata Sons"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/companies/news/tata-motors-completes-iveco-takeover-with-89-42-stake-buyout-continues-126103001773_1.html",
-  "source": "Business Standard Companies",
-  "score": 8,
-  "date": "2026-10-30T21:08:25+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T19:16:20.985628+05:30"
- },
- {
-  "id": "c98b084dfc43",
-  "headline": "Jio Platforms Reports 13.7% Q2 Profit Rise Post-Listing",
-  "the_number": "13.7%",
-  "why_it_matters": "Subscriber additions and ARPU growth drive post-listing revenue and profitability.",
-  "founder_takeaway": "Focusing on ARPU expansion provides durable post-IPO earnings momentum.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Jio Platforms"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 3,
-  "url": "https://yourstory.com/2026/10/jio-platforms-first-post-listing-results-user-growth-higher-arpu-drive-137-pc-profit-rise-in-q2",
-  "source": "YourStory",
-  "score": 8,
-  "date": "2026-10-31T08:47:31+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T19:16:20.985628+05:30"
- },
- {
-  "id": "c9d7bca35593",
-  "headline": "Jio Posts 14% Profit Jump in First Post-Debut Earnings",
-  "the_number": "14%",
-  "why_it_matters": "Consistent earnings growth validates market debut and public investor confidence.",
-  "founder_takeaway": "Strong maiden quarterly results build credibility with public market investors.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Jio"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2RJZzlhbDJyYjh5N01HbHFhNUFLbWU3czVrSjVkZ2ZLR05HRGNUVDNLX2ZCcF8wbkotRzdXTGprYjN6VVU0ZVNwVnF0U3BPUkJZTjNac0wwWEx3SGd5MERFYXA4elBUeDcxUE9VR1RFbW92X0N6aUFRSXZEQlhrYTdqLTlJVWpSNGJiVmlCcU5tN0s0cWRRaW9lUXlJXzA5QzY3OWNYdDdzVDdpQXo3ZldDNHZPZWs?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 8,
-  "date": "2026-10-30T14:20:35+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T19:16:20.985628+05:30"
- },
- {
   "id": "801c8968d432",
   "headline": "Binance Hit by Record $6.3B Crypto Theft",
   "the_number": "$6.3 billion",
@@ -7013,374 +6894,155 @@
   "first_seen": "2026-11-14T14:08:26.869747+05:30"
  },
  {
-  "id": "007c03cea4e8",
-  "headline": "Reddit Shares Fall as Google AI Threatens Referral Traffic",
-  "the_number": "23%",
-  "why_it_matters": "Platform dependency on Google search leaves referral traffic vulnerable to AI.",
-  "founder_takeaway": "Diversify distribution channels to avoid reliance on search engine referrals.",
-  "sentiment": "Bearish",
-  "category": "Big Tech/AI",
+  "id": "ae8f7a53b3a2",
+  "headline": "Mahanadi Coalfields Files RHP for Proposed Rs 9,500-Crore IPO",
+  "the_number": "Rs 9,500 crore",
+  "why_it_matters": "Coal India seeks to dilute a 10 percent subsidiary stake.",
+  "founder_takeaway": "Large state-backed divestments test public market absorption and appetite.",
+  "sentiment": "Neutral",
+  "category": "IPO",
   "sector_tags": [
-   "AI",
    "other"
   ],
   "companies": [
-   "Reddit",
-   "Google",
-   "Pinterest"
+   "Mahanadi Coalfields Ltd",
+   "Coal India"
   ],
-  "geography": "Global",
+  "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/reddit-plunges-23-as-googles-ai-search-threatens-traffic-and-user-growth/articleshow/135374718.cms",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-rs-9500-crore/articleshow/135829640.cms",
   "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-10-31T00:03:48+05:30",
+  "score": 8,
+  "date": "2026-11-14T15:42:53+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-10-31T19:16:20.985628+05:30"
+  "first_seen": "2026-11-14T19:53:34.374926+05:30"
  },
  {
-  "id": "4660ca57c576",
-  "headline": "S&P Cuts Meta Outlook to Negative Over Capex Concerns",
-  "the_number": "-",
-  "why_it_matters": "Aggressive capital expenditure raises uncertainty around tech giants' free cash flow.",
-  "founder_takeaway": "Balance heavy investment cycles with predictable free operating cash flows.",
+  "id": "4e9140baaf0f",
+  "headline": "SoftBank Trims Stake in Meesho via Rs 1,885-Crore Block Deal",
+  "the_number": "Rs 1,885 cr",
+  "why_it_matters": "SoftBank offloads 7.64 crore shares, trimming exposure to Indian startups.",
+  "founder_takeaway": "Anticipate secondary share sales as large investors rebalance portfolio risks.",
   "sentiment": "Bearish",
-  "category": "Big Tech/AI",
+  "category": "Funding",
   "sector_tags": [
    "other"
   ],
   "companies": [
-   "S&P Global",
-   "Meta Platforms"
+   "SoftBank",
+   "Meesho",
+   "SVF II Meerkat (DE) LLC"
   ],
-  "geography": "Global",
+  "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/technology/sp-global-revises-outlook-on-meta-to-negative-on-cashflow-concerns/articleshow/135385073.cms",
-  "source": "Economic Times Tech",
-  "score": 7,
-  "date": "2026-10-31T08:09:45+05:30",
+  "covered_by_count": 4,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/softbank-further-trims-india-exposure-offloads-meesho-shares-worth-rs-1885-cr/articleshow/135820907.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-11-14T08:15:13+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-10-31T19:16:20.985628+05:30"
+  "first_seen": "2026-11-14T19:53:34.374926+05:30"
  },
  {
-  "id": "9b6f12c2591f",
-  "headline": "Foxconn Explores New Tie-Up With OpenAI",
-  "the_number": "-",
-  "why_it_matters": "Hardware manufacturers and AI providers deepen partnerships to drive technological deployment.",
-  "founder_takeaway": "Form strategic alliances across the AI software and hardware stack.",
+  "id": "70525b89a342",
+  "headline": "Anthropic Holds Roadshow to Price $64 Billion IPO",
+  "the_number": "$64 billion",
+  "why_it_matters": "Massive public debut tests investor belief in enduring AI market leadership.",
+  "founder_takeaway": "Defensibility matters more than hype when convincing major institutional investors.",
   "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 64000,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/investors-flock-to-anthropic-ipo-but-question-durability-of-ai-lead/articleshow/135820893.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-11-14T08:13:41+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-14T19:53:34.374926+05:30"
+ },
+ {
+  "id": "e8bfec544a5e",
+  "headline": "Paytm Receives RBI In-Principle Nod for Wallet Licence",
+  "the_number": "-",
+  "why_it_matters": "RBI authorises PPSL to issue and operate prepaid payment instruments.",
+  "founder_takeaway": "Strict regulatory compliance is essential to reviving core fintech operations.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Paytm",
+   "One 97 Communications",
+   "Paytm Payments Services Limited",
+   "RBI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://entrackr.com/news/paytm-gets-rbis-in-principle-nod-for-wallet-licence-12806445",
+  "source": "Entrackr",
+  "score": 8,
+  "date": "2026-11-13T15:02:14+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-14T19:53:34.374926+05:30"
+ },
+ {
+  "id": "8d23e88a0f9b",
+  "headline": "Jensen Huang's Exit Rattles AI Startup Funding and Valuations",
+  "the_number": "-",
+  "why_it_matters": "Departure of key corporate backer threatens smaller checks and valuations.",
+  "founder_takeaway": "Relying on individual corporate champions creates immense funding transition risks.",
+  "sentiment": "Bearish",
   "category": "Big Tech/AI",
   "sector_tags": [
    "AI"
   ],
   "companies": [
-   "Foxconn",
-   "OpenAI"
+   "Nvidia"
   ],
   "geography": "Global",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/technology/foxconn-working-on-a-new-tie-up-with-openai-says-there-is-no-ai-bubble/articleshow/135352103.cms",
-  "source": "Economic Times Tech",
-  "score": 7,
-  "date": "2026-10-30T14:11:40+05:30",
+  "covered_by_count": 4,
+  "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+  "source": "TechCrunch",
+  "score": 8,
+  "date": "2026-11-13T22:43:00+00:00",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-10-31T19:16:20.985628+05:30"
- },
- {
-  "id": "cb74516c6fa7",
-  "headline": "S&P Downgrades Meta's Credit Outlook to Negative",
-  "the_number": "AA-",
-  "why_it_matters": "Heavy AI spending with uncertain returns pressures tech debt profiles.",
-  "founder_takeaway": "Ensure clear monetization models before scaling heavy infrastructure investments.",
-  "sentiment": "Bearish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI",
-   "other"
-  ],
-  "companies": [
-   "Meta",
-   "S&P Global Ratings"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/meta-ai-spending-cost-rating-s-p-downgrade-credit-outlook-aa-ability-monetize-limited-to-peers-high-capex-cash-flow-11793407712669.html",
-  "source": "Mint Companies",
-  "score": 7,
-  "date": "2026-10-31T06:33:11+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T19:16:20.985628+05:30"
- },
- {
-  "id": "649180cf1d9b",
-  "headline": "Chip Stocks Tumble Following Disappointing Tech Outlooks",
-  "the_number": "30%",
-  "why_it_matters": "Semiconductor weakness highlights growing anxiety over sustained technology demand.",
-  "founder_takeaway": "Cyclical downturns in tech infrastructure demand careful cash management.",
-  "sentiment": "Bearish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Intel",
-   "AMD",
-   "Nvidia",
-   "Broadcom",
-   "CXMT",
-   "Amazon"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://www.livemint.com/market/stock-market-news/chip-stocks-crash-intel-plunges-30-amd-drops-12-nvidia-and-broadcom-also-slide-whats-driving-the-selloff-11793380373861.html",
-  "source": "Mint Markets",
-  "score": 7,
-  "date": "2026-10-30T23:32:22+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T19:16:20.985628+05:30"
- },
- {
-  "id": "90e520d6db29",
-  "headline": "Reliance Reports Record Quarterly Revenue and Strong Profit Growth",
-  "the_number": "₹3,32,861 crore",
-  "why_it_matters": "Strong corporate earnings boost market confidence and broader economic momentum.",
-  "founder_takeaway": "High scale and diversified revenue streams defend against volatility.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Reliance Industries"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://www.livemint.com/market/stock-market-news/reliance-industries-q2-results-2026-ril-quarterly-earnings-announced-check-profit-revenue-ebitda-11793369864628.html",
-  "source": "Mint Markets",
-  "score": 7,
-  "date": "2026-10-30T20:07:20+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T19:16:20.985628+05:30"
- },
- {
-  "id": "f1732b15666c",
-  "headline": "CCI Approves Xavier Niel’s Vodafone Stake Acquisition and Deals",
-  "the_number": "5.1 bn euro",
-  "why_it_matters": "Regulatory clearance accelerates major domestic and cross-border consolidation deals.",
-  "founder_takeaway": "Regulatory approvals are critical gatekeepers for major acquisitions.",
-  "sentiment": "Bullish",
-  "category": "M&A",
-  "sector_tags": [
-   "fintech",
-   "other"
-  ],
-  "companies": [
-   "Vodafone",
-   "Navi",
-   "Aditya Birla Renewables",
-   "Solenergi Power",
-   "Adani Energy Solutions",
-   "IntelliSmart Infrastructure"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/companies/news/cci-xavier-niel-vodafone-stake-prosus-navi-aditya-birla-adani-deals-126103100598_1.html",
-  "source": "Business Standard Companies",
-  "score": 7,
-  "date": "2026-10-31T13:43:24+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T19:16:20.985628+05:30"
- },
- {
-  "id": "4a00c307d2e3",
-  "headline": "Noel Tata Seeks Tata Sons Restructuring on Board Agenda",
-  "the_number": "-",
-  "why_it_matters": "Restructuring discussions indicate impending governance shifts at India's largest conglomerate.",
-  "founder_takeaway": "Proactive board alignment is essential during major corporate restructurings.",
-  "sentiment": "Neutral",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Tata Sons",
-   "Shapoorji Pallonji"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/companies/news/three-letters-set-the-tone-for-tata-sons-board-meeting-on-november-26-126103001680_1.html",
-  "source": "Business Standard Companies",
-  "score": 7,
-  "date": "2026-10-30T20:17:35+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T19:16:20.985628+05:30"
- },
- {
-  "id": "eb9014617c3f",
-  "headline": "Walmart Investigates Flipkart Employees Over Alleged ₹150 Cr Kickbacks",
-  "the_number": "₹150 Cr",
-  "why_it_matters": "Internal corruption probes damage corporate governance reputation and investor trust.",
-  "founder_takeaway": "Strict internal compliance frameworks are non-negotiable as organizations scale.",
-  "sentiment": "Bearish",
-  "category": "Policy",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Walmart",
-   "Flipkart"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://inc42.com/buzz/walmart-probes-flipkart-employees-over-alleged-%e2%82%b9150-cr-kickbacks-report/",
-  "source": "Inc42",
-  "score": 7,
-  "date": "2026-10-31T08:26:18+00:00",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T19:16:20.985628+05:30"
- },
- {
-  "id": "d6b6061f40c5",
-  "headline": "PB Fintech Q2 Profit Surges 42.5% to ₹192.4 Crore",
-  "the_number": "₹192.4 Cr",
-  "why_it_matters": "Strong profitability highlights sustained operating leverage in listed fintech companies.",
-  "founder_takeaway": "Scaled digital distribution platforms can unlock significant profit expansion.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "PB Fintech"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://inc42.com/buzz/pb-fintech-q2-pat-jumps-42-to-%e2%82%b9192-cr-revenue-increases-35/",
-  "source": "Inc42",
-  "score": 7,
-  "date": "2026-10-30T12:30:36+00:00",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T19:16:20.985628+05:30"
- },
- {
-  "id": "b8b9d123ae85",
-  "headline": "SEBI Approves Atomberg’s ₹450 Crore Public Offering",
-  "the_number": "₹450 Cr",
-  "why_it_matters": "Regulatory approval paves the way for new-age consumer brand IPOs.",
-  "founder_takeaway": "Capital-efficient product innovation creates viable pathways toward public listings.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "D2C",
-   "other"
-  ],
-  "companies": [
-   "Atomberg",
-   "SEBI"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://inc42.com/buzz/sebi-greenlights-atombergs-%e2%82%b9450-cr-ipo/",
-  "source": "Inc42",
-  "score": 7,
-  "date": "2026-10-30T11:00:59+00:00",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T19:16:20.985628+05:30"
- },
- {
-  "id": "b57edfc67eb6",
-  "headline": "Atomberg Receives SEBI Approval for Proposed Initial Public Offering",
-  "the_number": "Rs 450 crore",
-  "why_it_matters": "SEBI approval advances another consumer brand toward public market listing.",
-  "founder_takeaway": "Deleveraging via fresh issue proceeds strengthens public market appeal.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "D2C"
-  ],
-  "companies": [
-   "Atomberg Technologies"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://entrackr.com/fintrackr/atomberg-gets-sebi-nod-for-its-proposed-ipo-12768426",
-  "source": "Entrackr",
-  "score": 7,
-  "date": "2026-10-30T16:33:23+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-10-31T19:16:20.985628+05:30"
+  "first_seen": "2026-11-14T19:53:34.374926+05:30"
  },
  {
   "id": "70dce1c687e5",
@@ -16122,5 +15784,239 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-14T14:08:26.869747+05:30"
+ },
+ {
+  "id": "68d4b6b85f1e",
+  "headline": "Centre Approves ₹30,000-Crore Andhra Pradesh Shipbuilding Cluster Project",
+  "the_number": "₹30,000-crore",
+  "why_it_matters": "In-principle nod supports 1.2 million gross tonnes annual shipbuilding capacity.",
+  "founder_takeaway": "Large-scale domestic manufacturing benefits heavily from strategic government infrastructure initiatives.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/dugarajapatnam-gets-in-principle-nod-for-30-000-crore-shipbuilding-cluster-in-andhra-pradesh-check-its-plans-capacity-11794658893385.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-14T19:21:00+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-14T19:53:34.374926+05:30"
+ },
+ {
+  "id": "7bc1cf27c9a1",
+  "headline": "Microsoft Restores Services After Global Outage Across 70 Countries",
+  "the_number": "-",
+  "why_it_matters": "Network capacity upgrade issue knocks Teams, Outlook, and Copilot offline.",
+  "founder_takeaway": "Implement rigorous deployment redundancy to avert wide-scale operational outages.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "SaaS",
+   "AI"
+  ],
+  "companies": [
+   "Microsoft"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/companies/news/deeply-sorry-microsoft-restores-services-after-mega-outage-what-happened-and-which-apps-are-back-online-11794646245141.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-14T14:33:10+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-14T19:53:34.374926+05:30"
+ },
+ {
+  "id": "94c40444f4b8",
+  "headline": "Bharti Airtel Wants Mobile Tariffs Hiked To ₹350 Monthly",
+  "the_number": "₹350",
+  "why_it_matters": "Higher mobile tariffs will improve telecom industry ARPU and cash flows.",
+  "founder_takeaway": "Pricing power enables sustainable infrastructure investments amid inflation.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Bharti Airtel"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/bharti-airtel-sunil-mittal-wants-mobile-tariff-hike-why-rs-350-monthly-12-per-day-cost-less-than-soap-pepsi-chips-packet-11794638826764.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-14T14:08:21+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-14T19:53:34.374926+05:30"
+ },
+ {
+  "id": "d75219a3a724",
+  "headline": "BYD Clears Import Hurdle To Accelerate India Push",
+  "the_number": "2,500-unit",
+  "why_it_matters": "Removing import caps allows BYD to scale luxury EV offerings.",
+  "founder_takeaway": "Overcoming regulatory hurdles unlocks access to larger addressable markets.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "EV"
+  ],
+  "companies": [
+   "BYD"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/chinas-byd-clears-import-hurdle-looks-to-accelerate-india-push-11794562283540.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-14T07:00:58+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-14T19:53:34.374926+05:30"
+ },
+ {
+  "id": "55e6abe3ff28",
+  "headline": "Noel Tata Opposes Listing Tata Sons To Protect Philanthropy",
+  "the_number": "-",
+  "why_it_matters": "A public listing could shift Tata's focus from philanthropy to profits.",
+  "founder_takeaway": "Public listing impacts governance, corporate culture, and stakeholder priorities.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Sons",
+   "Tata Trusts"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/tata-sons-listing-will-change-tata-way-will-engage-with-regulators-noel-126111400705_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-14T14:54:20+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-14T19:53:34.374926+05:30"
+ },
+ {
+  "id": "ae58f6416b3b",
+  "headline": "FirstCry Q2 Net Loss Narrows 75% To ₹12.6 Cr",
+  "the_number": "75%",
+  "why_it_matters": "Strong bottom-line improvement shows a clear trajectory toward overall profitability.",
+  "founder_takeaway": "Scale and operational efficiency help narrow net losses substantially.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "D2C"
+  ],
+  "companies": [
+   "FirstCry",
+   "Brainbees Solutions"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://inc42.com/buzz/firstcry-q2-net-loss-narrows-75-yoy-to-%e2%82%b912-6-cr-revenue-up-14/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-11-14T11:10:21+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-14T19:53:34.374926+05:30"
+ },
+ {
+  "id": "561534583355",
+  "headline": "Zetwerk Q2 Loss Widens 43% Despite Revenue Growth",
+  "the_number": "₹88.1 Cr",
+  "why_it_matters": "Rising operating costs weigh heavily on margins despite expanding revenue.",
+  "founder_takeaway": "Topline revenue expansion does not guarantee an improving bottom line.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Zetwerk"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://inc42.com/buzz/zetwerks-q2-loss-jumps-43-yoy-to-%e2%82%b988-cr-revenue-up-18/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-11-13T12:02:23+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-14T19:53:34.374926+05:30"
+ },
+ {
+  "id": "d8969f1c5914",
+  "headline": "Paytm Shares Near IPO Price After Consistent Profits",
+  "the_number": "Rs 1,939.70",
+  "why_it_matters": "Consecutive profitable quarters and regulatory approvals drive stock recovery.",
+  "founder_takeaway": "Consistent operational profitability can restore battered public market valuations.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Paytm",
+   "One 97 Communications"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://entrackr.com/news/paytm-shares-near-ipo-price-amid-mdr-rollout-and-6-consecutive-profitable-quarters-12806928",
+  "source": "Entrackr",
+  "score": 7,
+  "date": "2026-11-13T17:21:25+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-14T19:53:34.374926+05:30"
  }
 ]
