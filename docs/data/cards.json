@@ -1342,33 +1342,6 @@
   "first_seen": "2026-11-15T00:18:04.745920+05:30"
  },
  {
-  "id": "79a50308e06a",
-  "headline": "Cabinet Approves Changes in Border FDI Rules",
-  "the_number": "-",
-  "why_it_matters": "Modifications to border FDI rules impact cross-border investment flows.",
-  "founder_takeaway": "Monitor cross-border investment policy shifts closely for funding.",
-  "sentiment": "Neutral",
-  "category": "Policy",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVUwya2VHT3VGaUlZOE12bVlHY1NvVTFjSXRiUUtfOFZuaGFXNl9meVFicUh5N3RxbkNtZGhFS0xMUjFsUGI4UGVkQjRiTmpzc2Vpei1vSklpbnVqTGpfZ1RaM29vbUMyVS1LeW9ZdDc2Q09zeXJmeFJFbmU1ajh4RENucW5mV2dseVNhaW1QVGJCM054NjZFOGtTN3ZwczZrUmV5bVIwYUVzR3NZdkhzNGwzcmVpd1J6Smo4Mk9ORFdPZzg?oc=5",
-  "source": "Startup India / DPIIT (Google News)",
-  "score": 8,
-  "date": "2026-11-01T03:19:45+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-01T23:58:28.725830+05:30"
- },
- {
   "id": "a922a8e2092a",
   "headline": "Coal India subsidiary South Eastern Coalfields files IPO draft papers",
   "the_number": "66.81 crore",
@@ -7040,64 +7013,6 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-15T20:23:26.699481+05:30"
- },
- {
-  "id": "21b998af91b3",
-  "headline": "Binance Resumes Withdrawals After Recovering Stolen Assets",
-  "the_number": "$6 billion",
-  "why_it_matters": "Binance committed to covering financial losses incurred from the hack.",
-  "founder_takeaway": "Robust security and contingency reserves safeguard user trust.",
-  "sentiment": "Neutral",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Binance"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 3,
-  "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds/articleshow/135427270.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-11-01T10:29:58+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-01T23:58:28.725830+05:30"
- },
- {
-  "id": "9dbbcdcb7ca9",
-  "headline": "SEBI Working to Delist Inactive Listed Companies",
-  "the_number": "-",
-  "why_it_matters": "Regulator targets companies with zero economic activity to protect investors.",
-  "founder_takeaway": "Maintaining active business operations is essential for public listings.",
-  "sentiment": "Bullish",
-  "category": "Policy",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "SEBI"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/markets/news/sebi-working-to-delist-companies-with-no-economic-activity-chairman-126110100260_1.html",
-  "source": "Business Standard Markets",
-  "score": 7,
-  "date": "2026-11-01T13:22:17+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-01T23:58:28.725830+05:30"
  },
  {
   "id": "a8d33d605121",
@@ -15886,5 +15801,122 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-15T20:23:26.699481+05:30"
+ },
+ {
+  "id": "3ba55c723745",
+  "headline": "Scott Bessent Urges Outside CEO for Nvidia After Scandal",
+  "the_number": "-",
+  "why_it_matters": "Governance and illicit chip sales allegations threaten Nvidia's market standing.",
+  "founder_takeaway": "Prioritize strict compliance controls across global distributor networks.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/nvidia-needs-a-dramatic-shake-up-why-scott-bessent-wants-an-outsider-as-ceo-after-jensen-huang-scandal-11794766164762.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-16T00:02:18+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-16T00:55:43.475568+05:30"
+ },
+ {
+  "id": "df6c95228eaa",
+  "headline": "Qualcomm May Cut 1,000 Employees in India",
+  "the_number": "1,000",
+  "why_it_matters": "Reflects continuing tech sector layoffs impacting domestic Indian engineering workforce.",
+  "founder_takeaway": "Plan restructuring thoughtfully with transparent severance frameworks.",
+  "sentiment": "Bearish",
+  "category": "Layoffs",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Qualcomm"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/qualcomm-layoffs-who-gets-4-months-salary-and-extra-compensation-under-reported-exit-deal-11794758015590.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-15T21:33:24+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-16T00:55:43.475568+05:30"
+ },
+ {
+  "id": "b94271f4af7c",
+  "headline": "US Pushes Stricter AI Chip Export Curbs on China",
+  "the_number": "-",
+  "why_it_matters": "Bipartisan US bills may restrict global AI hardware access further.",
+  "founder_takeaway": "Prepare contingency plans for cross-border supply chain restrictions.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/jensen-huang-controversy-triggers-fresh-us-push-to-block-advanced-ai-chip-exports-to-china-report-11794745222099.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-15T18:28:19+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-16T00:55:43.475568+05:30"
+ },
+ {
+  "id": "9174ed81aa0b",
+  "headline": "Eternal Reassesses 2030 EV Target Amid Rapid Growth",
+  "the_number": "100 per cent",
+  "why_it_matters": "EV ecosystem limitations pose execution challenges for quick commerce scale.",
+  "founder_takeaway": "Match ambitious ESG targets to supply chain realities.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "quick commerce",
+   "EV"
+  ],
+  "companies": [
+   "Zomato",
+   "Blinkit",
+   "Eternal"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.business-standard.com/companies/news/zomato-parent-eternal-reworks-2030-ev-delivery-target-amid-fleet-expansion-126111500167_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-15T11:45:48+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-16T00:55:43.475568+05:30"
  }
 ]
