@@ -1342,65 +1342,6 @@
   "first_seen": "2026-11-15T00:18:04.745920+05:30"
  },
  {
-  "id": "9afdc5abc1cf",
-  "headline": "North Korean Hackers Steal Record $6.3 Billion From Binance",
-  "the_number": "$6.3 billion",
-  "why_it_matters": "Massive automated crypto theft exposes significant vulnerability in digital asset security.",
-  "founder_takeaway": "Automate security defenses to counter rapid algorithmic financial attacks.",
-  "sentiment": "Bearish",
-  "category": "Macro",
-  "sector_tags": [
-   "fintech",
-   "other"
-  ],
-  "companies": [
-   "Binance"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 4,
-  "url": "https://www.livemint.com/market/cryptocurrency/binance-crypto-theft-heres-how-north-korean-hackers-perfected-the-heist-stole-6-3-billion-in-20-minutes-details-11793500918241.html",
-  "source": "Mint Markets",
-  "score": 8,
-  "date": "2026-11-01T08:19:30+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-01T14:15:27.147361+05:30"
- },
- {
-  "id": "8b4a5044405d",
-  "headline": "UPI Hits Record 25.47 Billion Transactions in October",
-  "the_number": "25.47 billion",
-  "why_it_matters": "India's digital payment ecosystem continues exponential volume and value expansion.",
-  "founder_takeaway": "Build solutions atop India's surging, reliable digital payments infrastructure.",
-  "sentiment": "Bullish",
-  "category": "Macro",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "NPCI"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://entrackr.com/news/upi-hits-record-2547-bn-transactions-in-october-daily-value-crosses-rs-1-lakh-crore-12772871",
-  "source": "Entrackr",
-  "score": 8,
-  "date": "2026-11-01T11:36:01+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-01T14:15:27.147361+05:30"
- },
- {
   "id": "4b181f8946ee",
   "headline": "CCI Approves Xavier Niel's €5.1B Vodafone Stake Deal",
   "the_number": "€5.1 billion",
@@ -7075,182 +7016,60 @@
   "first_seen": "2026-11-15T00:18:04.745920+05:30"
  },
  {
-  "id": "58b732d096da",
-  "headline": "FPIs Withdraw Rs 34,843 Crore From Equities in October",
-  "the_number": "Rs 34,843 crore",
-  "why_it_matters": "Heavy foreign outflows pressure markets despite late-month domestic investor stabilizing inflows.",
-  "founder_takeaway": "Prepare for valuation volatility driven by shifts in foreign liquidity.",
-  "sentiment": "Bearish",
+  "id": "171c40be883c",
+  "headline": "FPIs pump ₹84,290 crore into Indian equities in November",
+  "the_number": "Rs 84,290 crore",
+  "why_it_matters": "Foreign inflows reverse two consecutive months of heavy capital outflows.",
+  "founder_takeaway": "Institutional liquidity is rebounding strongly into public Indian markets.",
+  "sentiment": "Bullish",
   "category": "Macro",
   "sector_tags": [
-   "fintech"
+   "other"
   ],
   "companies": [],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-pull-out-rs-34843-cr-from-equities-in-oct-turn-net-buyers-last-week/articleshow/135419712.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-11-01T11:55:21+05:30",
+  "url": "https://www.business-standard.com/markets/news/fpis-pump-84-290-crore-into-equities-in-first-fortnight-of-november-126111500184_1.html",
+  "source": "Business Standard Markets",
+  "score": 8,
+  "date": "2026-11-15T11:57:55+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-01T14:15:27.147361+05:30"
+  "first_seen": "2026-11-15T14:21:27.471803+05:30"
  },
  {
-  "id": "7a9ebfe00fe1",
-  "headline": "Xavier Niel Secures CCI Approval for ₹54,103 Cr Vodafone Deal",
-  "the_number": "16.2%",
-  "why_it_matters": "French billionaire deepens presence in global telecom through major strategic stake.",
-  "founder_takeaway": "Leverage core telecom strengths when diversifying into broader tech verticals.",
-  "sentiment": "Bullish",
-  "category": "M&A",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Vodafone",
-   "Iliad",
-   "CCI"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://www.livemint.com/companies/people/who-is-xavier-niel-french-billionaire-to-acquire-16-2-stake-in-vodafone-in-a-rs-54-103-cr-deal-all-you-need-to-know-11793518585824.html",
-  "source": "Mint Companies",
-  "score": 7,
-  "date": null,
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-01T14:15:27.147361+05:30"
- },
- {
-  "id": "5cf1295778ba",
-  "headline": "TVS Retains EV Lead as October Registrations Reach 2,23,847",
-  "the_number": "27%",
-  "why_it_matters": "Legacy automakers gain significant market share over pure EV startups.",
-  "founder_takeaway": "Strong distribution and brand reliability challenge pure-play startup incumbents.",
-  "sentiment": "Bullish",
-  "category": "Macro",
-  "sector_tags": [
-   "EV"
-  ],
-  "companies": [
-   "TVS Motor",
-   "Ather Energy",
-   "Ola Electric"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://entrackr.com/all-article/tvs-retains-ev-two-wheeler-lead-in-october-ather-grows-3-ola-declines-10-12772889",
-  "source": "Entrackr",
-  "score": 7,
-  "date": "2026-11-01T11:45:49+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-01T14:15:27.147361+05:30"
- },
- {
-  "id": "f7259776c8b5",
-  "headline": "SEBI Monitors Tata Group Amid Internal Governance Differences",
+  "id": "ce06d7f36108",
+  "headline": "Jensen Huang departs NVIDIA amid India AI ecosystem questions",
   "the_number": "-",
-  "why_it_matters": "Regulator scrutiny intensifies around corporate governance and prospective listing decisions.",
-  "founder_takeaway": "Maintain transparent board governance to avoid regulatory friction during listings.",
-  "sentiment": "Bearish",
-  "category": "Policy",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Tata Sons",
-   "SEBI"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://yourstory.com/2026/10/sebi-chairman-says-market-regulator-keeping-eye-on-tata-group-developments",
-  "source": "YourStory",
-  "score": 7,
-  "date": "2026-10-31T11:44:52+00:00",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-01T14:15:27.147361+05:30"
- },
- {
-  "id": "401b34a9f1ff",
-  "headline": "Reliance Retail targets JioMart profitability starting in FY28",
-  "the_number": "-",
-  "why_it_matters": "Sustainable growth prioritised over rapid burning via dark stores and margins.",
-  "founder_takeaway": "Focus on unit economics and sustainable growth over pure expansion.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "quick commerce"
-  ],
-  "companies": [
-   "Reliance Retail",
-   "JioMart"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://yourstory.com/2026/10/reliance-retail-focuses-on-disciplined-jiomart-expansion-targets-profitability-from-fy28",
-  "source": "YourStory",
-  "score": 7,
-  "date": "2026-10-31T08:43:58+00:00",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-01T14:15:27.147361+05:30"
- },
- {
-  "id": "970fc22f5912",
-  "headline": "OPEC+ agrees to keep oil output targets steady in December",
-  "the_number": "-",
-  "why_it_matters": "Stable production targets help maintain predictable energy and supply chain costs.",
-  "founder_takeaway": "Expect stable logistics and fuel costs in the near term.",
+  "why_it_matters": "Leadership shifts at Nvidia impact global and Indian AI ecosystems.",
+  "founder_takeaway": "Diversify hardware partners to shield against major leadership disruptions.",
   "sentiment": "Neutral",
-  "category": "Macro",
+  "category": "Big Tech/AI",
   "sector_tags": [
-   "other"
+   "AI"
   ],
   "companies": [
-   "OPEC+"
+   "NVIDIA"
   ],
-  "geography": "Global",
+  "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTk80ZVBzRVczc0hyRHU0RkJiTWx5ZDUwdnBHb0FWSmJyQWJzWHRYR0hZd0MzTW1INnFtSWRISVVRb1RncDltYW16eTYxRU9NcWJzanRqMmp4LWFXUVNTV2tzT3JCM0doS01hWDdGeUhNdHZ3WTdYXy14Q0luZTRmOWdQNlp2ZThtYlQ0cWhNSVk0c0ZkOUFyMExMUWRHMXRKamU2ZHRLa2pPMG9heUhzN2YwTnpCZw?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 7,
-  "date": "2026-10-31T18:05:10+00:00",
+  "covered_by_count": 6,
+  "url": "https://inc42.com/features/jensen-huangs-exit-how-deep-does-nvidias-ai-ecosystem-run-in-india/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-11-14T14:57:02+00:00",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-01T14:15:27.147361+05:30"
+  "first_seen": "2026-11-15T14:21:27.471803+05:30"
  },
  {
   "id": "949635df5287",
@@ -15783,5 +15602,184 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-15T00:18:04.745920+05:30"
+ },
+ {
+  "id": "125719c3d20f",
+  "headline": "Binance plans full withdrawal reopening after recovering hack funds",
+  "the_number": "95%",
+  "why_it_matters": "Exchange recovers 95% of stolen $6.3 billion, restoring user access.",
+  "founder_takeaway": "Robust incident response and asset recovery can protect operations.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Binance"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/commodities/news/binance-targets-full-reopening-of-withdrawals-by-next-week/articleshow/135828102.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-11-14T14:35:48+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-15T14:21:27.471803+05:30"
+ },
+ {
+  "id": "9aafcd837f79",
+  "headline": "Ola Electric shifts from direct sales to independent dealerships",
+  "the_number": "-",
+  "why_it_matters": "Transition aims to cut costs amid falling EV registrations.",
+  "founder_takeaway": "Direct-to-consumer models may require dealer networks to sustain scale.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "EV",
+   "D2C"
+  ],
+  "companies": [
+   "Ola Electric"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/ola-electric-founder-bhavish-aggarwal-has-a-new-plan-to-sell-e-scooters-shut-down-company-owned-outlets-and-11794724920505.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-15T12:20:43+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-15T14:21:27.471803+05:30"
+ },
+ {
+  "id": "7471c4cf84f9",
+  "headline": "Three IPOs set to raise over ₹10,000 crore combined",
+  "the_number": "₹10,000 crore",
+  "why_it_matters": "Primary markets accelerate with multi-company public listings this month.",
+  "founder_takeaway": "Public markets offer deep liquidity for scaled, established enterprises.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Crystal Crop Protection",
+   "Mahanadi Coalfields",
+   "Watrana Rentals"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/market/ipo/rs-10-000-cr-upcoming-ipos-latest-gmp-price-key-dates-crystal-crop-protection-mahanadi-coalfields-watrana-rentals-11794716857818.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-15T10:50:48+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-15T14:21:27.471803+05:30"
+ },
+ {
+  "id": "5b3301c89879",
+  "headline": "Sebi plans AI guardrails to protect capital markets",
+  "the_number": "-",
+  "why_it_matters": "Regulator focuses on disclosures and human accountability in AI usage.",
+  "founder_takeaway": "Incorporate human-in-the-loop workflows to anticipate impending compliance mandates.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "AI",
+   "fintech"
+  ],
+  "companies": [
+   "Sebi"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/sebi-plans-ai-guardrails-for-capital-markets-focus-on-investor-protection-126111500187_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-11-15T12:14:57+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-15T14:21:27.471803+05:30"
+ },
+ {
+  "id": "255261b866f0",
+  "headline": "MeitY opens consent manager registration portal under DPDP",
+  "the_number": "-",
+  "why_it_matters": "Operationalizes key compliance infrastructure under India's data protection law.",
+  "founder_takeaway": "Align user consent architecture with official DPDP regulatory channels.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "MeitY"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/dpdp-act-implementation-meity-opens-consent-manager-registration-portal/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-11-14T14:54:15+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-15T14:21:27.471803+05:30"
+ },
+ {
+  "id": "05f1becd8950",
+  "headline": "Tesla Opens Cybercab Pre-Orders With Monthly Fee",
+  "the_number": "$299",
+  "why_it_matters": "Tesla initiates personal autonomous vehicle rollouts paired with subscription pricing.",
+  "founder_takeaway": "Price sensitivity matters even when launching highly anticipated products.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "EV",
+   "AI"
+  ],
+  "companies": [
+   "Tesla"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+  "source": "TechCrunch",
+  "score": 7,
+  "date": "2026-11-14T20:04:44+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-15T14:21:27.471803+05:30"
  }
 ]
