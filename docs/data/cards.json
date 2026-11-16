@@ -6933,6 +6933,301 @@
   "first_seen": "2026-11-16T14:32:04.402844+05:30"
  },
  {
+  "id": "c3ed185c0d77",
+  "headline": "Nvidia Faces Uncertainty After CEO Jensen Huang Departs",
+  "the_number": "-",
+  "why_it_matters": "Leadership disruption at Nvidia shakes investor clarity across the AI ecosystem.",
+  "founder_takeaway": "Prepare robust succession plans to weather sudden executive leadership transitions.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nvidia-set-to-deliver-first-life-after-huang-briefing/articleshow/135896160.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-11-16T22:13:54+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-16T22:43:34.166369+05:30"
+ },
+ {
+  "id": "4bd5bdc20b17",
+  "headline": "Sebi Sets Up Panel to Review IPO Norms",
+  "the_number": "-",
+  "why_it_matters": "Easing compliance and promoter lock-in rules may streamline public market listings.",
+  "founder_takeaway": "Stay informed on listing rule reforms to optimize IPO timing.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Sebi",
+   "NSE"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 5,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-sets-up-sub-group-under-pmac-to-review-key-ipo-norms-nses-chauhan-to-head-panel/articleshow/135890467.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-11-16T18:37:52+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-16T22:43:34.166369+05:30"
+ },
+ {
+  "id": "8113cba9f9a3",
+  "headline": "Blackstone Acquires Majority Stake in AWS Data Centers",
+  "the_number": "$5 billion",
+  "why_it_matters": "Institutional capital is aggressively backing cloud and digital infrastructure assets.",
+  "founder_takeaway": "Heavy infrastructure partnerships can accelerate massive asset-backed growth strategies.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Blackstone Digital Infrastructure Trust",
+   "Amazon Web Services"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 5000,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/blackstone-reit-to-buy-majority-stake-in-5-billion-amazon-data-center-portfolio/articleshow/135890381.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-11-16T18:34:02+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-16T22:43:34.166369+05:30"
+ },
+ {
+  "id": "ee2911eb1e6e",
+  "headline": "IBM Sees AI Displacing 10-20% of Jobs",
+  "the_number": "10-20%",
+  "why_it_matters": "AI automation poses severe structural threats to traditional BPO employment.",
+  "founder_takeaway": "Build AI-augmented workflows rather than relying strictly on low-cost labor.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "IBM"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/tech/technology/ibm-investing-3-billion-annually-in-india-plans-10-billion-global-quantum-push-ceo/articleshow/135884070.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-11-16T16:00:25+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-16T22:43:34.166369+05:30"
+ },
+ {
+  "id": "f8c4337013c4",
+  "headline": "Hindustan Zinc Approves Mega Expansion to Double Output",
+  "the_number": "₹80,000-crore",
+  "why_it_matters": "Massive capital expenditure targets rising metal demand from domestic infrastructure.",
+  "founder_takeaway": "Align industrial capacity expansion with national economic growth tailwinds.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Hindustan Zinc"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/companies/news/hindustan-zinc-s-rs-80-000-crore-expansion-the-big-bet-to-double-its-metal-output-and-ride-india-s-infrastructure-boom-11794833054778.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-11-16T19:33:52+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-16T22:43:34.166369+05:30"
+ },
+ {
+  "id": "3b3f2507066f",
+  "headline": "Anthropic IPO Filing Balances Public Benefit and Flexibility",
+  "the_number": "-",
+  "why_it_matters": "AI public filings highlight tension between social missions and shareholder returns.",
+  "founder_takeaway": "Structure governance to protect mission goals during public market transitions.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/anthropic-promises-to-pursue-humanitys-benefit-its-ipo-filing-gives-it-wiggle-room-11794805350350.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-11-16T10:32:30+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-16T22:43:34.166369+05:30"
+ },
+ {
+  "id": "de22a7482633",
+  "headline": "RBI Reiterates Mandatory Listing Norms for Tata Sons",
+  "the_number": "-",
+  "why_it_matters": "Upper-layer NBFC rules enforce strict regulatory compliance and eventual listing.",
+  "founder_takeaway": "Regulatory compliance becomes unavoidable as enterprises scale into upper tiers.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech",
+   "other"
+  ],
+  "companies": [
+   "RBI",
+   "Tata Sons"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.business-standard.com/finance/news/rbi-reiterates-listing-mandate-for-tata-sons-seeks-compliance-with-norms-126111601897_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-11-16T22:08:53+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-16T22:43:34.166369+05:30"
+ },
+ {
+  "id": "311e802533b8",
+  "headline": "Finance Ministry Evaluates Equity Capital Gains Tax Changes",
+  "the_number": "-",
+  "why_it_matters": "Potential tax revisions could alter returns and liquidity in public equities.",
+  "founder_takeaway": "Anticipate policy shifts in investor taxation when planning capital strategies.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "CBDT"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/finmin-examining-suggestions-for-changes-in-equity-capital-gains-tax-cbdt-126111601256_1.html",
+  "source": "Business Standard Markets",
+  "score": 8,
+  "date": "2026-11-16T15:55:34+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-16T22:43:34.166369+05:30"
+ },
+ {
+  "id": "e07ac3bf4b3b",
+  "headline": "Urban Company Launches Rs 2,500 Crore QIP",
+  "the_number": "Rs 2,500 Cr",
+  "why_it_matters": "Institutional appetite remains vital for mature Indian home-service platforms.",
+  "founder_takeaway": "QIPs offer swift access to institutional capital for growth initiatives.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Urban Company"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://entrackr.com/news/urban-company-opens-rs-2500-cr-qip-sets-floor-price-at-rs-16103-per-share-12814907",
+  "source": "Entrackr",
+  "score": 8,
+  "date": "2026-11-16T19:47:03+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-16T22:43:34.166369+05:30"
+ },
+ {
+  "id": "22756b577313",
+  "headline": "Bharat Semi Raises $24M Seed for AI Sensors",
+  "the_number": "$24M",
+  "why_it_matters": "Early-stage Indian hardware startups are securing significant capital for global expansion.",
+  "founder_takeaway": "Securing marquee design wins drastically improves deeptech fundraising outcomes.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Bharat Semi",
+   "General Atomics"
+  ],
+  "geography": "India",
+  "amount_usd_m": 24,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+  "source": "TechCrunch",
+  "score": 8,
+  "date": "2026-11-15T23:30:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-16T22:43:34.166369+05:30"
+ },
+ {
   "id": "9e1a692b3a0c",
   "headline": "Commodity Derivatives Traders Surge 62% in FY26",
   "the_number": "62%",
@@ -15926,5 +16221,248 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-16T14:32:04.402844+05:30"
+ },
+ {
+  "id": "3ebaf0934c77",
+  "headline": "Nasdaq Drops Over 1% Amid AI Sector Selloff",
+  "the_number": "1%",
+  "why_it_matters": "Leadership exits and export curbs trigger broad semiconductor and tech corrections.",
+  "founder_takeaway": "Geopolitical curbs and key-person risks can suddenly depress tech valuations.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-falls-1-at-open-as-nvidia-woes-weigh-on-sentiment-ahead-of-earnings/articleshow/135894333.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-11-16T21:04:11+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-16T22:43:34.166369+05:30"
+ },
+ {
+  "id": "2ef4960f6e6c",
+  "headline": "Fractal Explores Acquiring Up to 25 AI Startups",
+  "the_number": "25",
+  "why_it_matters": "Fractal is consolidating domain expertise and frontier AI capabilities.",
+  "founder_takeaway": "Vertical AI startups have active buyout opportunities via established players.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "AI",
+   "SaaS"
+  ],
+  "companies": [
+   "Fractal Analytics"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/fractal-in-talks-with-up-to-25-ai-startups-for-acquisitions-ceo-says/articleshow/135886057.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-11-16T16:40:39+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-16T22:43:34.166369+05:30"
+ },
+ {
+  "id": "e5df0efcb896",
+  "headline": "Videocon Insolvency Sent Back for Fresh Bidding",
+  "the_number": "-",
+  "why_it_matters": "IBC compliance regarding dissenting creditors remains strictly enforced by courts.",
+  "founder_takeaway": "Resolution plans must rigorously protect dissenting creditor legal rights.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Videocon",
+   "Twin Star",
+   "Vedanta"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/sc-upholds-nclat-order-to-send-videocon-insolvency-case-back-for-fresh-bids-11794808015656.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-16T12:08:30+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-16T22:43:34.166369+05:30"
+ },
+ {
+  "id": "f24ee3f2bb5f",
+  "headline": "Jio Explores Indian Partners for Satellite Constellation",
+  "the_number": "1,600",
+  "why_it_matters": "A 1,600-satellite network could significantly accelerate India's private space industry.",
+  "founder_takeaway": "Launch capacity bottlenecks offer opportunities for domestic spacetech innovators.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Jio"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/jio-satellites-skyroot-spacex-tariffs-satcom-cosmos-11794737248227.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-16T05:48:22+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-16T22:43:34.166369+05:30"
+ },
+ {
+  "id": "6d95b8a1d4d1",
+  "headline": "Eternal Outperforms Swiggy in Q2 Growth",
+  "the_number": "77.6%",
+  "why_it_matters": "Quick-commerce investment is expanding Swiggy losses while Eternal grows profits.",
+  "founder_takeaway": "Aggressive quick-commerce scaling risks expanding sequential operational losses.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Swiggy",
+   "Eternal",
+   "Zomato"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/swiggy-vs-eternal-which-stock-has-the-stronger-growth-and-better-earnings-outlook-after-q2-results-11794829911764.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-16T18:04:56+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-16T22:43:34.166369+05:30"
+ },
+ {
+  "id": "bdfb2c586ceb",
+  "headline": "Ather Beats Ola Electric in Q2 Performance",
+  "the_number": "₹1.26 crore",
+  "why_it_matters": "Ather achieved positive EBITDA and profit as Ola revenue dropped.",
+  "founder_takeaway": "Operational efficiency and margin control outperform unsustainable revenue growth.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "EV"
+  ],
+  "companies": [
+   "Ather Energy",
+   "Ola Electric"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/ola-electric-vs-ather-energy-ather-shines-ola-struggles-in-q2-which-ev-stock-offers-better-upside-11794821623526.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-16T15:18:15+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-16T22:43:34.166369+05:30"
+ },
+ {
+  "id": "0de860e1c26a",
+  "headline": "Mahanadi Coalfields Sets IPO Price Band",
+  "the_number": "₹129 - ₹136",
+  "why_it_matters": "Coal India's 10% divestment provides fresh institutional and retail market liquidity.",
+  "founder_takeaway": "Monitor public market appetite for state-owned commodity and energy listings.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Coal India",
+   "Mahanadi Coalfields"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/ipo/coal-indias-mahanadi-coalfields-ipo-price-band-set-at-rs-129-rs-136-per-share-check-gmp-issue-details-key-dates-11794795588725.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-16T08:21:38+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-16T22:43:34.166369+05:30"
+ },
+ {
+  "id": "eede46516b7c",
+  "headline": "Dreamteam emerges from stealth with $53 million funding",
+  "the_number": "$53 million",
+  "why_it_matters": "AI-native CRM startups attract massive early capital from top-tier investors.",
+  "founder_takeaway": "Focus on workflow automation and conversational AI to close deals.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI",
+   "SaaS"
+  ],
+  "companies": [
+   "Dreamteam",
+   "Accel",
+   "Together Fund",
+   "Premji Invest"
+  ],
+  "geography": "India",
+  "amount_usd_m": 53.0,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/start-ups/dreamteam-emerges-from-stealth-with-53-million-to-build-ai-native-crm-126111601767_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-16T20:30:35+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-16T22:43:34.166369+05:30"
  }
 ]
