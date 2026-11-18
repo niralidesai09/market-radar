@@ -147,36 +147,6 @@
   "first_seen": "2026-11-18T15:16:19.983447+05:30"
  },
  {
-  "id": "d6a66314319d",
-  "headline": "Razorpay Targets $5 Billion Valuation Following SEBI Approval",
-  "the_number": "$5 billion",
-  "why_it_matters": "Reinforces strong investor appetite for mature, market-leading Indian fintech unicorns.",
-  "founder_takeaway": "Targeting large valuations requires proven scale and regulatory readiness.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Razorpay",
-   "SEBI"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://entrackr.com/news/razorpay-receives-sebi-approval-for-ipo-12780674",
-  "source": "Entrackr",
-  "score": 9,
-  "date": "2026-11-03T21:50:30+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": true,
-  "first_seen": "2026-11-04T21:07:38.978783+05:30"
- },
- {
   "id": "ca32d64b4613",
   "headline": "Razorpay receives Sebi approval for ₹5,000-6,000 crore IPO",
   "the_number": "₹5,000-6,000 cr",
@@ -1343,373 +1313,96 @@
   "first_seen": "2026-11-18T15:16:19.983447+05:30"
  },
  {
-  "id": "f39c49fdd4bf",
-  "headline": "Nykaa Q2 Profit Surges 207% to ₹101 Crore",
-  "the_number": "207%",
-  "why_it_matters": "Demonstrates rapid earnings growth and expansion via quick commerce and M&A.",
-  "founder_takeaway": "Strategic acquisitions and omni-channel strategies accelerate bottom-line profitability.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "D2C",
-   "quick commerce"
-  ],
-  "companies": [
-   "Nykaa",
-   "Simply Nam"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 4,
-  "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/nykaa-q2-results-pat-soars-207-yoy-to-rs-101-crore-revenue-up-28-co-to-acquire-82-stake-in-simply-nam/articleshow/135537436.cms",
-  "source": "Economic Times Markets",
-  "score": 8,
-  "date": "2026-11-04T16:51:24+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-04T21:07:38.978783+05:30"
- },
- {
-  "id": "8f6dfcebb7b3",
-  "headline": "Lenskart Q2 Net Profit Soars 122% YoY",
-  "the_number": "122.1%",
-  "why_it_matters": "Highlights high-margin retail expansion scaling successfully with 165 new stores.",
-  "founder_takeaway": "Combining physical store expansion with product margin improvements drives profits.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "D2C"
-  ],
-  "companies": [
-   "Lenskart Solutions"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/lenskart-q2-results-profit-zooms-122-yoy-to-rs-227-crore-revenue-grows-36/articleshow/135535400.cms",
-  "source": "Economic Times Markets",
-  "score": 8,
-  "date": "2026-11-04T16:00:33+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-04T21:07:38.978783+05:30"
- },
- {
-  "id": "5a9536c644c1",
-  "headline": "Oracle Scraps $7 Billion Tencent AI Partnership",
-  "the_number": "$7 billion",
-  "why_it_matters": "Geopolitical tensions directly disrupt massive cross-border AI and cloud partnerships.",
-  "founder_takeaway": "Geopolitical risks can overturn large international commercial agreements.",
-  "sentiment": "Neutral",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Oracle",
-   "Tencent"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/technology/oracle-abandons-7-billion-tencent-ai-deal-under-trump-pressure-ft/articleshow/135532578.cms",
-  "source": "Economic Times Tech",
-  "score": 8,
-  "date": "2026-11-04T14:20:40+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-04T21:07:38.978783+05:30"
- },
- {
-  "id": "966751680239",
-  "headline": "AMD Takes $1 Billion Charge Over Customer Warrants",
-  "the_number": "$1 billion",
-  "why_it_matters": "Huge enterprise chip supply deals come with significant accounting impacts.",
-  "founder_takeaway": "Offering equity warrants for mega-deals creates complex near-term quarterly charges.",
-  "sentiment": "Neutral",
-  "category": "Earnings",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "AMD",
-   "Meta",
-   "OpenAI"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amds-openai-meta-chip-deals-trigger-1-billion-quarterly-charge/articleshow/135531648.cms",
-  "source": "Economic Times Tech",
-  "score": 8,
-  "date": "2026-11-04T13:57:13+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-04T21:07:38.978783+05:30"
- },
- {
-  "id": "61c52d50c918",
-  "headline": "CVS Health to Spin Off 9,000 Retail Stores",
-  "the_number": "9,000",
-  "why_it_matters": "One of healthcare's largest breakups targets cost efficiency and core performance.",
-  "founder_takeaway": "Splitting massive business units can unlock focused operational improvements.",
-  "sentiment": "Neutral",
-  "category": "M&A",
-  "sector_tags": [
-   "healthtech",
-   "other"
-  ],
-  "companies": [
-   "CVS Health",
-   "CVS Pharmacy",
-   "Aetna",
-   "Caremark"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/cvs-health-split-healthcare-giant-to-separate-9-000-stores-in-one-of-the-industrys-biggest-ever-breakups-11793795605361.html",
-  "source": "Mint Companies",
-  "score": 8,
-  "date": "2026-11-04T19:12:57+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-04T21:07:38.978783+05:30"
- },
- {
-  "id": "2e07dbff113b",
-  "headline": "IndiGo Eyes Purchase of Up to 150 Embraer Jets",
-  "the_number": "100",
-  "why_it_matters": "Signifies major fleet diversification and aggressive network expansion in aviation.",
-  "founder_takeaway": "Diversifying core infrastructure partners helps scale operational reach broadly.",
-  "sentiment": "Bullish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "IndiGo",
-   "Embraer",
-   "Airbus"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/indigo-reportedly-in-talks-to-buy-100-embraer-jets-may-place-order-for-50-more-what-we-know-11793791096544.html",
-  "source": "Mint Companies",
-  "score": 8,
-  "date": "2026-11-04T17:32:43+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-04T21:07:38.978783+05:30"
- },
- {
-  "id": "33f3a78820cb",
-  "headline": "Lenskart Q2FY27 Profit Doubles to ₹232 Crore",
-  "the_number": "₹232 cr",
-  "why_it_matters": "Solid same-store sales and international margin stability drive robust operational leverage.",
-  "founder_takeaway": "Healthy same-store metrics underpin sustainable international and domestic retail profitability.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "D2C"
-  ],
-  "companies": [
-   "Lenskart"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/companies/quarterly-results/lenskart-q2fy27-net-profit-more-than-doubles-to-232-cr-revenue-up-32-5-126110401577_1.html",
-  "source": "Business Standard Companies",
-  "score": 8,
-  "date": "2026-11-04T18:24:30+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-04T21:07:38.978783+05:30"
- },
- {
-  "id": "bddde75b4b21",
-  "headline": "EloElo Raises $80 Million for AI Mobile Dramas",
-  "the_number": "$80 mn",
-  "why_it_matters": "Major funding signals strong global investor interest in AI-driven mobile entertainment.",
-  "founder_takeaway": "Integrating AI production can attract global capital for international expansion.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "AI",
-   "other"
-  ],
-  "companies": [
-   "EloElo",
-   "Hornbill",
-   "NBCUniversal"
-  ],
-  "geography": "India",
-  "amount_usd_m": 80,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 4,
-  "url": "https://www.business-standard.com/companies/news/eloelo-series-c-funding-hornbill-nbcuniversal-story-tv-microdrama-126110400565_1.html",
-  "source": "Business Standard Companies",
-  "score": 8,
-  "date": "2026-11-04T11:27:50+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-04T21:07:38.978783+05:30"
- },
- {
-  "id": "6bd7e26f6fcb",
-  "headline": "PhysicsWallah Returns To Profit In Q2 FY27",
-  "the_number": "₹143.6 Cr",
-  "why_it_matters": "PhysicsWallah proves sustained profitability while scaling up consolidated operations.",
-  "founder_takeaway": "Focus on profitable operations alongside aggressive top-line growth.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "edtech"
-  ],
-  "companies": [
-   "PhysicsWallah"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://inc42.com/buzz/physicswallah-returns-to-the-black-in-q2-posts-a-profit-of-%e2%82%b9143-6-cr/",
-  "source": "Inc42",
-  "score": 8,
-  "date": "2026-11-04T12:23:02+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-04T21:07:38.978783+05:30"
- },
- {
-  "id": "72ce5be2fe74",
-  "headline": "GIVA Secures Over $100M Led By Multiples",
-  "the_number": "$100 Mn",
-  "why_it_matters": "Massive private equity check funds extensive offline retail store rollout.",
-  "founder_takeaway": "Omnichannel scale requires significant capital for manufacturing and outlets.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "D2C"
-  ],
-  "companies": [
-   "GIVA",
-   "Multiples Alternate Asset Management"
-  ],
-  "geography": "India",
-  "amount_usd_m": 100,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://entrackr.com/news/giva-raises-over-100-mn-in-funding-round-led-by-multiples-pe-12779542",
-  "source": "Entrackr",
-  "score": 8,
-  "date": "2026-11-03T16:14:26+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-04T21:07:38.978783+05:30"
- },
- {
-  "id": "338b4972bcee",
-  "headline": "Nykaa Acquires 82% Stake In Simply Nam",
-  "the_number": "206%",
-  "why_it_matters": "Acquisitions strengthen Nykaa's premium makeup offerings and quick commerce performance.",
-  "founder_takeaway": "Acquiring niche founder-led brands enhances premium product mix efficiently.",
-  "sentiment": "Bullish",
-  "category": "M&A",
-  "sector_tags": [
-   "D2C",
-   "quick commerce"
-  ],
-  "companies": [
-   "Nykaa",
-   "Simply Nam",
-   "Bozzil"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://yourstory.com/2026/11/nykaa-reports-pat-beauty-marketplace-q2-fy27-simply-nam",
-  "source": "YourStory",
-  "score": 8,
-  "date": "2026-11-04T13:29:46+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-04T21:07:38.978783+05:30"
- },
- {
-  "id": "2d8bac3e8597",
-  "headline": "Revolut Valuation Jumps To $115B",
-  "the_number": "$115B",
-  "why_it_matters": "Secondary share sale prices Revolut at a massive 53% premium.",
-  "founder_takeaway": "Strategic geographic expansion into the US commands huge market premiums.",
+  "id": "e26b51aa820c",
+  "headline": "Kotak MF and BlackRock Buy Rs 1,905 Cr Groww Stake",
+  "the_number": "Rs 1,905 cr",
+  "why_it_matters": "Major institutional investors demonstrate strong secondary appetite for leading Indian fintech platforms.",
+  "founder_takeaway": "Secondary liquidity attracts tier-one mutual funds even pre-IPO.",
   "sentiment": "Bullish",
   "category": "Funding",
   "sector_tags": [
    "fintech"
   ],
   "companies": [
-   "Revolut",
-   "Glade Brook",
-   "Coatue",
-   "T. Rowe Price"
+   "Groww",
+   "Kotak Mahindra Mutual Fund",
+   "BlackRock"
   ],
-  "geography": "Global",
+  "geography": "India",
   "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mf-blackrock-others-buy-stake-worth-rs-1905-cr-in-groww/articleshow/135964570.cms",
+  "source": "Economic Times Markets",
+  "score": 9,
+  "date": "2026-11-18T18:52:43+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-18T22:08:20.538722+05:30"
+ },
+ {
+  "id": "97c71efe72ac",
+  "headline": "ACME Approves $3.6 Billion Odisha Green Ammonia Project",
+  "the_number": "$3.6 billion",
+  "why_it_matters": "Marks massive global green energy capital investment entering India's export-oriented infrastructure.",
+  "founder_takeaway": "Securing international commitments unlocks mega-scale industrial infrastructure financing.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "ACME",
+   "Brookfield"
+  ],
+  "geography": "India",
+  "amount_usd_m": 3600,
   "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
-  "source": "TechCrunch",
-  "score": 8,
-  "date": "2026-11-04T14:10:10+00:00",
+  "url": "https://www.livemint.com/companies/news/acme-completes-final-investment-decision-for-its-3-6-bn-green-ammonia-project-11795009268502.html",
+  "source": "Mint Companies",
+  "score": 9,
+  "date": "2026-11-18T20:08:45+05:30",
   "unc_number": false,
-  "raw_impact": "Notable",
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-11-18T22:08:20.538722+05:30"
+ },
+ {
+  "id": "fc1294d53116",
+  "headline": "Amazon and Google to Own Nearly 30% of Anthropic",
+  "the_number": "nearly 30%",
+  "why_it_matters": "Tech giants cement massive strategic ownership ahead of major AI public listing.",
+  "founder_takeaway": "Strategic Big Tech backing can dominate eventual public ownership.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Amazon",
+   "Google",
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+  "source": "TechCrunch",
+  "score": 9,
+  "date": "2026-11-17T22:29:05+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-04T21:07:38.978783+05:30"
+  "first_seen": "2026-11-18T22:08:20.538722+05:30"
  },
  {
   "id": "4217c40e28a6",
@@ -7164,60 +6857,237 @@
   "first_seen": "2026-11-18T15:16:19.983447+05:30"
  },
  {
-  "id": "5f320a3d4021",
-  "headline": "SEBI Reviews Innovators Growth Platform Framework",
+  "id": "18c71f41ad42",
+  "headline": "Nvidia Rejects Jensen Huang's Offer to Return as CEO",
   "the_number": "-",
-  "why_it_matters": "Regulatory review aims to improve public listing avenues for startups.",
-  "founder_takeaway": "Monitor evolving local exchange frameworks for domestic IPO readiness.",
+  "why_it_matters": "Nvidia board permanently moves past iconic founder amid ongoing executive transition.",
+  "founder_takeaway": "Board governance can permanently supersede even high-profile founder control.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 6,
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-rejects-jensen-huangs-offer-to-return-as-ceo-despite-pressure-from-silicon-valley/articleshow/135945875.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-11-18T07:57:25+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-18T22:08:20.538722+05:30"
+ },
+ {
+  "id": "de6e38918ef7",
+  "headline": "Nvidia Beats Estimates and Forecasts 75% FY28 Growth",
+  "the_number": "75%",
+  "why_it_matters": "Strong forward revenue forecasts provide stability amid unexpected leadership upheaval.",
+  "founder_takeaway": "Exceptional earnings execution can cushion abrupt leadership disruptions.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-earnings-beat-estimates-firm-wont-take-questions-on-resignation/articleshow/135945772.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-11-18T07:54:42+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-18T22:08:20.538722+05:30"
+ },
+ {
+  "id": "79e096c14d9e",
+  "headline": "OpenAI Unveils New Astra AI Model with Safeguards",
+  "the_number": "-",
+  "why_it_matters": "Advanced model launches indicate renewed product cadence paired with safety mechanisms.",
+  "founder_takeaway": "Delaying releases to build essential safety safeguards protects reputation.",
   "sentiment": "Neutral",
-  "category": "Policy",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "OpenAI"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/openai-unveils-new-astra-ai-model-after-scrapping-prior-release-11794940474665.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-11-18T00:04:34+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-18T22:08:20.538722+05:30"
+ },
+ {
+  "id": "64c38792b3f2",
+  "headline": "MEIL Group Raises $700M at ₹1 Trillion Valuation",
+  "the_number": "$700 million",
+  "why_it_matters": "Highlights massive private capital appetite for Indian infrastructure and asset monetisation.",
+  "founder_takeaway": "Structured equity offers substantial growth capital without immediate dilution.",
+  "sentiment": "Bullish",
+  "category": "Funding",
   "sector_tags": [
    "other"
   ],
   "companies": [
-   "SEBI"
+   "MEIL Group"
   ],
   "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Official",
-  "covered_by_count": 2,
-  "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-constitutes-working-group-to-review-the-innovators-growth-platform-framework_105610.html",
-  "source": "SEBI",
-  "score": 7,
-  "date": null,
+  "amount_usd_m": 700,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/meil-group-raises-700-million-from-global-investors-valued-at-1-trillion-126111801117_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-11-18T18:34:46+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": "archive/2026/11/5f320a3d4021.html",
+  "raw_impact": "Notable",
+  "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-04T21:07:38.978783+05:30"
+  "first_seen": "2026-11-18T22:08:20.538722+05:30"
  },
  {
-  "id": "d2b111ebd83d",
-  "headline": "Dow Jones Soars 1,000 Points as Democrats Win Congress",
-  "the_number": "1,000 points",
-  "why_it_matters": "Divided Washington curbs sharp policy shifts, driving US market rally.",
-  "founder_takeaway": "Policy stability and reduced regulatory disruption ease broader market sentiment.",
-  "sentiment": "Neutral",
+  "id": "6936f9f42876",
+  "headline": "FPIs Set Record with Rs 99k-Crore Indian Equity Purchases",
+  "the_number": "Rs 99k-crore",
+  "why_it_matters": "Sharp foreign inflows reverse aggressive year-to-date capital outflows from India.",
+  "founder_takeaway": "Foreign investor flows can reverse swiftly despite prolonged outflow periods.",
+  "sentiment": "Bullish",
   "category": "Macro",
   "sector_tags": [
    "other"
   ],
-  "companies": [],
-  "geography": "Global",
+  "companies": [
+   "NSDL"
+  ],
+  "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-dow-jones-soars-1000-points-at-open-as-democrats-win-congress-data-center-stocks-slide/articleshow/135542698.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-11-04T20:11:36+05:30",
+  "url": "https://www.business-standard.com/markets/news/fpis-smash-monthly-investment-record-in-indian-stocks-with-rs-99k-crore-buy-126111800696_1.html",
+  "source": "Business Standard Markets",
+  "score": 8,
+  "date": "2026-11-18T15:12:10+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-04T21:07:38.978783+05:30"
+  "first_seen": "2026-11-18T22:08:20.538722+05:30"
+ },
+ {
+  "id": "c34e0f8164cc",
+  "headline": "Humyn Labs Raises $47M for Robot Training Data",
+  "the_number": "$47 Mn",
+  "why_it_matters": "Physical AI and robotics infrastructure secure substantial early-stage venture backing.",
+  "founder_takeaway": "Data collection infrastructure for embodied AI commands strong investor interest.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Humyn Labs"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 47,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://inc42.com/buzz/humyn-labs-raises-47-mn-to-collect-training-data-for-robots/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-11-18T13:22:25+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-18T22:08:20.538722+05:30"
+ },
+ {
+  "id": "b7f0f27194e2",
+  "headline": "Amazon to invest $7 billion in Indian renewable energy",
+  "the_number": "$7 Bn",
+  "why_it_matters": "Amazon commits major capital to scale renewable energy infrastructure in India.",
+  "founder_takeaway": "Large tech firms offer opportunities in clean energy infrastructure partnerships.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Amazon"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/amazon-to-invest-7-bn-in-indian-renewable-energy-projects-by-2030/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-11-17T22:13:15+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-18T22:08:20.538722+05:30"
+ },
+ {
+  "id": "74fa1f5e6e2f",
+  "headline": "Nvidia maintains open-source AI strategy and Hugging Face acquisition",
+  "the_number": "-",
+  "why_it_matters": "Core M&A and open-source plans continue uninterrupted under interim leadership.",
+  "founder_takeaway": "Institutional strategic roadmaps can survive the exit of visionary founders.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia",
+   "Hugging Face"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+  "source": "TechCrunch",
+  "score": 8,
+  "date": "2026-11-17T23:04:35+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-18T22:08:20.538722+05:30"
  },
  {
   "id": "2457f1ad40bd",
@@ -15845,5 +15715,93 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-18T15:16:19.983447+05:30"
+ },
+ {
+  "id": "cd5e94a2fe2a",
+  "headline": "SpiceJet board approves Rs 5,500 crore fundraising plan",
+  "the_number": "Rs 5,500 crore",
+  "why_it_matters": "Capital injection seeks to stabilize operations and expand distressed fleet.",
+  "founder_takeaway": "Bold capitalization can restore market confidence amid severe operational crises.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "SpiceJet"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/spicejet-board-approves-up-to-rs-5500-crore-fundraise-to-support-fleet-expansion-drive-revival/articleshow/135958224.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-11-18T15:10:01+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-18T22:08:20.538722+05:30"
+ },
+ {
+  "id": "af040cc60209",
+  "headline": "Jensen Huang to testify before US House committees",
+  "the_number": "-",
+  "why_it_matters": "Scandal involving alleged Chinese espionage triggers high-profile Congressional scrutiny.",
+  "founder_takeaway": "Personal conduct and national security issues draw intense government oversight.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/technology/jensen-huang-to-appear-before-us-house-committees-on-december-1/articleshow/135932177.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-11-17T21:24:22+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-18T22:08:20.538722+05:30"
+ },
+ {
+  "id": "51281178fe39",
+  "headline": "Fractal Analytics Eyes 20-25 Startups For Acquisition",
+  "the_number": "20-25",
+  "why_it_matters": "Fractal plans aggressive acquisitions across healthcare and agentic AI.",
+  "founder_takeaway": "M&A demand is strong for specialized AI startups.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "AI",
+   "healthtech"
+  ],
+  "companies": [
+   "Fractal Analytics"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/fractal-analytics-eyes-20-25-startups-in-healthcare-ai-engineering-and-agentic-ai-whats-driving-the-acquisition-push-11794994352172.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-18T15:43:03+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-18T22:08:20.538722+05:30"
  }
 ]
