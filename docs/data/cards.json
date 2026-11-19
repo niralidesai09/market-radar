@@ -176,6 +176,36 @@
   "first_seen": "2026-11-19T02:59:43.990377+05:30"
  },
  {
+  "id": "8f44f8f11bbc",
+  "headline": "Anthropic prices IPO at $83 per share",
+  "the_number": "$1.5 trillion",
+  "why_it_matters": "Anthropic achieves massive valuation despite market volatility and regulatory concerns.",
+  "founder_takeaway": "Strong demand can override market jitters during public listings.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic",
+   "Nvidia"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 5,
+  "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion/articleshow/135975275.cms",
+  "source": "Economic Times Tech",
+  "score": 10,
+  "date": "2026-11-19T07:25:05+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-19T15:25:00.963583+05:30"
+ },
+ {
   "id": "3ceac8608e40",
   "headline": "Zipline Hits $21.5B Valuation With Walmart Expansion",
   "the_number": "$21.5B",
@@ -1434,246 +1464,34 @@
   "first_seen": "2026-11-19T02:59:43.990377+05:30"
  },
  {
-  "id": "235ce4fe303f",
-  "headline": "China Blocks SoftBank's $5.4B Takeover of ABB Robotics",
-  "the_number": "$5.4 billion",
-  "why_it_matters": "Geopolitical hurdles can halt cross-border AI and robotics mega-acquisitions.",
-  "founder_takeaway": "Anticipate regulatory blocks in international cross-border tech acquisitions.",
-  "sentiment": "Neutral",
-  "category": "M&A",
-  "sector_tags": [
-   "AI",
-   "other"
-  ],
-  "companies": [
-   "SoftBank",
-   "ABB"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 5400,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/technology/china-blocks-softbanks-5-4-billion-takeover-of-abbs-robotics-division-ft/articleshow/135565365.cms",
-  "source": "Economic Times Tech",
-  "score": 8,
-  "date": "2026-11-05T13:49:53+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-05T14:29:36.299120+05:30"
- },
- {
-  "id": "c391e51cade5",
-  "headline": "Google Announces $15 Billion Data Centre Investment in Malaysia",
-  "the_number": "$15 billion",
-  "why_it_matters": "Big tech continues aggressive capital expenditure to support surging AI demand.",
-  "founder_takeaway": "Rising AI demand creates huge infrastructure and computing needs.",
-  "sentiment": "Bullish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Google"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/technology/google-unveils-15-billion-data-centre-investment-in-malaysia/articleshow/135559941.cms",
-  "source": "Economic Times Tech",
-  "score": 8,
-  "date": "2026-11-05T10:42:59+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-05T14:29:36.299120+05:30"
- },
- {
-  "id": "5ab90bd75169",
-  "headline": "OpenAI Eyes 2027 IPO With Majority Enterprise Sales",
-  "the_number": "2027",
-  "why_it_matters": "Enterprise monetization is driving OpenAI toward public market readiness.",
-  "founder_takeaway": "Enterprise revenue is a proven foundation for public listings.",
+  "id": "1e2d0c7f31dc",
+  "headline": "Razorpay prepares India IPO filing next week",
+  "the_number": "$600 million",
+  "why_it_matters": "Leading Indian fintech targets $600M public offering in early 2024/February.",
+  "founder_takeaway": "Timing market readiness is key for successful fintech public debuts.",
   "sentiment": "Bullish",
   "category": "IPO",
   "sector_tags": [
-   "AI"
+   "fintech"
   ],
   "companies": [
-   "OpenAI"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-ready-to-ipo-in-2027-now-counts-majority-of-sales-from-enterprises-greg-brockman-says/articleshow/135556244.cms",
-  "source": "Economic Times Tech",
-  "score": 8,
-  "date": "2026-11-05T08:00:06+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-05T14:29:36.299120+05:30"
- },
- {
-  "id": "9cfd3a8fcef2",
-  "headline": "Goldman and Apollo Seek Buyers for $40B SpaceX Deal",
-  "the_number": "$40 billion",
-  "why_it_matters": "Massive private capital syndication is funding next-gen AI chip infrastructure.",
-  "founder_takeaway": "Financing custom AI hardware requires unprecedented institutional scale.",
-  "sentiment": "Bullish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Goldman Sachs",
-   "Apollo Global Management",
-   "SpaceX"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/technology/goldman-apollo-seek-buyers-for-40-billion-spacex-ai-chip-deal/articleshow/135556148.cms",
-  "source": "Economic Times Tech",
-  "score": 8,
-  "date": "2026-11-05T07:54:06+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-05T14:29:36.299120+05:30"
- },
- {
-  "id": "70ae0cf692b6",
-  "headline": "Lenskart Shares Surge 11% Following Strong Q2 Profit",
-  "the_number": "11.1%",
-  "why_it_matters": "Public markets reward strong quarterly profitability in omnichannel retail.",
-  "founder_takeaway": "Doubling profit directly accelerates stock market performance.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "D2C"
-  ],
-  "companies": [
-   "Lenskart"
+   "Razorpay",
+   "Tiger Global"
   ],
   "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
+  "amount_usd_m": 600.0,
+  "impact": "Big Move",
   "source_badge": "Verified media",
-  "covered_by_count": 4,
-  "url": "https://inc42.com/buzz/lenskart-shares-jump-11-to-all-time-high-after-q2-profit-more-than-doubles/",
-  "source": "Inc42",
-  "score": 8,
-  "date": "2026-11-05T06:22:08+00:00",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/tiger-backed-razorpay-set-to-file-for-india-ipo-as-early-as-next-week/articleshow/135983381.cms",
+  "source": "Economic Times Markets",
+  "score": 9,
+  "date": "2026-11-19T14:15:45+05:30",
   "unc_number": false,
-  "raw_impact": "Notable",
+  "raw_impact": "Big Move",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-05T14:29:36.299120+05:30"
- },
- {
-  "id": "7bfb463a3c31",
-  "headline": "India Weighs Removing Safe Harbour for Social Platforms",
-  "the_number": "-",
-  "why_it_matters": "Removing safe harbour increases legal liability for major social networks.",
-  "founder_takeaway": "Prepare for heightened compliance and intermediary liability risks.",
-  "sentiment": "Bearish",
-  "category": "Policy",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Meta",
-   "Google",
-   "X",
-   "Facebook",
-   "Instagram",
-   "YouTube"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://inc42.com/buzz/centre-weighs-withdrawing-safe-harbour-for-meta-google-x-report/",
-  "source": "Inc42",
-  "score": 8,
-  "date": "2026-11-05T05:55:54+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-05T14:29:36.299120+05:30"
- },
- {
-  "id": "ec9a2028eca5",
-  "headline": "PhysicsWallah Returns to Profit as Elo Elo Raises $80M",
-  "the_number": "$80 Mn",
-  "why_it_matters": "Major Indian edtech players are demonstrating renewed quarterly profitability.",
-  "founder_takeaway": "Prioritizing profit swings investor confidence back to edtech.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "edtech"
-  ],
-  "companies": [
-   "PhysicsWallah",
-   "Elo Elo"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 5,
-  "url": "https://inc42.com/buzz/physicswallahs-q2-profit-surge-elo-elo-bags-80-mn-more/",
-  "source": "Inc42",
-  "score": 8,
-  "date": "2026-11-05T02:30:11+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-05T14:29:36.299120+05:30"
- },
- {
-  "id": "626a0cda25c4",
-  "headline": "Sequoia Consolidates to Bay Area While Announcing $10B Funds",
-  "the_number": "$10 billion",
-  "why_it_matters": "Top venture capital is refocusing regionally despite massive new funds.",
-  "founder_takeaway": "VC geographic concentration may shift regional access to capital.",
-  "sentiment": "Neutral",
-  "category": "Funding",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Sequoia"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 10000,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
-  "source": "TechCrunch",
-  "score": 8,
-  "date": "2026-11-04T17:11:15+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-05T14:29:36.299120+05:30"
+  "first_seen": "2026-11-19T15:25:00.963583+05:30"
  },
  {
   "id": "8a4d87e273d7",
@@ -7074,296 +6892,210 @@
   "first_seen": "2026-11-19T02:59:43.990377+05:30"
  },
  {
-  "id": "abc1ab790b70",
-  "headline": "Meta Raises $15 Billion via Bond Sale for AI",
-  "the_number": "$15 billion",
-  "why_it_matters": "Tech giants turn to debt markets to finance aggressive AI compute.",
-  "founder_takeaway": "Explore debt to fund massive capital expenditures when necessary.",
-  "sentiment": "Bullish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Meta"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/technology/meta-raises-15-billion-in-five-part-us-bond-sale/articleshow/135522649.cms",
-  "source": "Economic Times Tech",
-  "score": 7,
-  "date": "2026-11-04T09:46:26+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-05T14:29:36.299120+05:30"
- },
- {
-  "id": "553b4979d53b",
-  "headline": "Jungle Ventures Targets Two Portfolio IPOs Annually",
-  "the_number": "$1 billion",
-  "why_it_matters": "VCs increasingly focus on structured public market liquidity events.",
-  "founder_takeaway": "Align expansion strategies early to match VC exit timelines.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Jungle Ventures",
-   "Moglix",
-   "Livspace"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/jungle-ventures-targets-two-ipos-a-year-from-its-portfolio-11793791578211.html",
-  "source": "Mint Companies",
-  "score": 7,
-  "date": "2026-11-05T06:01:02+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-05T14:29:36.299120+05:30"
- },
- {
-  "id": "4e754223c3b8",
-  "headline": "Nykaa targets 25 cities for quick commerce expansion",
-  "the_number": "207%",
-  "why_it_matters": "Faster deliveries are critical for driving beauty retailer repeat purchases.",
-  "founder_takeaway": "Quick commerce expansion can complement strong profitability growth.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "quick commerce",
-   "D2C"
-  ],
-  "companies": [
-   "Nykaa",
-   "Nykaa Now"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://www.livemint.com/companies/news/nykaa-pushes-quick-commerce-expansion-as-q2-profit-more-than-doubles-11793798987946.html",
-  "source": "Mint Companies",
-  "score": 7,
-  "date": "2026-11-04T20:13:29+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-05T14:29:36.299120+05:30"
- },
- {
-  "id": "ca900f9bc9f5",
-  "headline": "altM raises $10.3 million for industrial chemical manufacturing",
-  "the_number": "$10.3 mn",
-  "why_it_matters": "Biomaterials from agricultural residue are moving into commercial manufacturing.",
-  "founder_takeaway": "Secure capital specifically tailored to scale commercial industrial production.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "altM"
-  ],
-  "geography": "India",
-  "amount_usd_m": 10.3,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/companies/news/altm-series-a-funding-rainmatter-mela-ventures-specialty-chemicals-126110500797_1.html",
-  "source": "Business Standard Companies",
-  "score": 7,
-  "date": "2026-11-05T12:42:29+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-05T14:29:36.299120+05:30"
- },
- {
-  "id": "3e82cb6a67ba",
-  "headline": "Sebi greenlights Mahanadi Coalfields 10% IPO stake sale",
-  "the_number": "10%",
-  "why_it_matters": "World's largest coal producer Coal India monetizes subsidiary via IPO.",
-  "founder_takeaway": "Spinning off mature subsidiaries unlocks significant enterprise capital.",
+  "id": "d1eb09702870",
+  "headline": "Mahanadi Coalfields opens Rs 8,981 Cr IPO",
+  "the_number": "Rs 8,981 cr",
+  "why_it_matters": "Major public issue opens for domestic market subscription.",
+  "founder_takeaway": "Public listings provide strong liquidity pathways for major players.",
   "sentiment": "Neutral",
   "category": "IPO",
   "sector_tags": [
    "other"
   ],
   "companies": [
-   "Sebi",
-   "Mahanadi Coalfields",
-   "Coal India"
+   "Mahanadi Coalfields"
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://www.business-standard.com/markets/ipo/sebi-approves-mahanadi-coalfields-ipo-as-coal-india-plans-10-stake-sale-126110500099_1.html",
+  "url": "https://www.business-standard.com/markets/ipo/mahanadi-coalfields-8-981-cr-ipo-opens-today-price-lot-size-dates-126111900200_1.html",
   "source": "Business Standard Companies",
-  "score": 7,
-  "date": "2026-11-05T09:14:13+05:30",
+  "score": 8,
+  "date": "2026-11-19T09:36:02+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-05T14:29:36.299120+05:30"
+  "first_seen": "2026-11-19T15:25:00.963583+05:30"
  },
  {
-  "id": "2dbe3afcaeaf",
-  "headline": "Record ₹3 trillion FPI outflows hit Indian equities",
-  "the_number": "₹3.01 trillion",
-  "why_it_matters": "Foreign investors record worst selling in equities in 17 years.",
-  "founder_takeaway": "Expect public market volatility when foreign institutional capital exits heavily.",
-  "sentiment": "Bearish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/markets/news/3-trillion-fpi-outflows-samvat-2082-set-for-worst-selling-in-17-samvats-126110500670_1.html",
-  "source": "Business Standard Markets",
-  "score": 7,
-  "date": "2026-11-05T11:55:03+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-05T14:29:36.299120+05:30"
- },
- {
-  "id": "b72d57c2f68b",
-  "headline": "Sensex rallies 2100 points as crude prices fall",
-  "the_number": "2100 pts",
-  "why_it_matters": "Overnight plunge in Brent crude strengthens Indian macroeconomic tailwinds.",
-  "founder_takeaway": "Commodity price drops directly improve domestic market sentiment and tailwinds.",
+  "id": "cdf1cd278536",
+  "headline": "Humyn Labs raises $47 million Series A",
+  "the_number": "$47 million",
+  "why_it_matters": "Funding supports global expansion and physical robot testing infrastructure.",
+  "founder_takeaway": "Hardware and robotics testing infrastructure attracts significant early capital.",
   "sentiment": "Bullish",
-  "category": "Macro",
+  "category": "Funding",
   "sector_tags": [
-   "other"
+   "AI"
   ],
   "companies": [
-   "Geojit Investments"
+   "Humyn Labs"
   ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
+  "geography": "Global",
+  "amount_usd_m": 47.0,
+  "impact": "Notable",
   "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/markets/news/sensex-zooms-1600-pts-intraday-india-m-cap-tops-500-trn-key-reasons-126110500454_1.html",
-  "source": "Business Standard Markets",
-  "score": 7,
-  "date": "2026-11-05T09:44:34+05:30",
+  "covered_by_count": 2,
+  "url": "https://www.business-standard.com/companies/news/ai-startup-humyn-labs-raises-47-million-in-series-a-funding-round-126111800765_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-11-18T17:30:36+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-05T14:29:36.299120+05:30"
+  "first_seen": "2026-11-19T15:25:00.963583+05:30"
  },
  {
-  "id": "e42b37524a15",
-  "headline": "Sebi eases digital onboarding for overseas investors",
-  "the_number": "-",
-  "why_it_matters": "Streamlined KYC eases friction for foreign and NRI capital inflows.",
-  "founder_takeaway": "Simplified digital compliance lowers friction for international capital participation.",
+  "id": "bc20dcf7564c",
+  "headline": "Asian stocks rise following Anthropic IPO pricing",
+  "the_number": "1%",
+  "why_it_matters": "Record AI IPO pricing boosts global market sentiment and equities.",
+  "founder_takeaway": "High-profile tech public debuts lift broader market sentiment.",
   "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/asian-stocks-rise-after-anthropic-ipo-pricing-sets-stage-for-record-debut-126111900095_1.html",
+  "source": "Business Standard Markets",
+  "score": 8,
+  "date": "2026-11-19T08:50:21+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-19T15:25:00.963583+05:30"
+ },
+ {
+  "id": "dff2d8ef8a28",
+  "headline": "UPI MDR rollout delayed past 2027 polls",
+  "the_number": "-",
+  "why_it_matters": "Delaying merchant discount rates affects monetization timelines for UPI ecosystems.",
+  "founder_takeaway": "Regulatory payment monetization is often influenced by electoral cycles.",
+  "sentiment": "Bearish",
   "category": "Policy",
   "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Sebi"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/markets/news/sebi-eases-kyc-norms-for-overseas-investors-enables-digital-onboarding-126110500098_1.html",
-  "source": "Business Standard Markets",
-  "score": 7,
-  "date": "2026-11-05T09:14:24+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-05T14:29:36.299120+05:30"
- },
- {
-  "id": "f6e9d74878a1",
-  "headline": "Indian mainboard IPO fundraising breaches ₹2-trillion record",
-  "the_number": "₹2.12 trillion",
-  "why_it_matters": "Unprecedented public market depth supports 129 mainboard listing issues.",
-  "founder_takeaway": "Robust IPO markets offer ideal conditions for late-stage liquidity events.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
+   "fintech"
   ],
   "companies": [],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://www.business-standard.com/markets/news/samvat-2082-ipo-fundraise-crosses-2-trillion-mark-for-the-first-time-ever-126110500115_1.html",
-  "source": "Business Standard Markets",
-  "score": 7,
-  "date": "2026-11-05T08:45:10+05:30",
+  "url": "https://inc42.com/buzz/upi-mdr-rollout-may-be-pushed-beyond-2027-state-polls-report/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-11-19T06:04:57+00:00",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-05T14:29:36.299120+05:30"
+  "first_seen": "2026-11-19T15:25:00.963583+05:30"
  },
  {
-  "id": "e445dfa28110",
-  "headline": "Shiprocket Turns Profitable in Q2 With Revenue Growth",
-  "the_number": "₹674 Cr",
-  "why_it_matters": "Shiprocket posted consolidated profit alongside strong 35% YoY revenue growth.",
-  "founder_takeaway": "Focusing on operational efficiency can bring ecommerce platforms to profitability.",
+  "id": "5acfcfb375ef",
+  "headline": "Style Union raises Rs 485 crore",
+  "the_number": "Rs 485 crore",
+  "why_it_matters": "Fresh capital backs national retail expansion targeting 450 stores.",
+  "founder_takeaway": "Offline footprint expansion requires large-scale growth capital.",
   "sentiment": "Bullish",
-  "category": "Earnings",
+  "category": "Funding",
   "sector_tags": [
-   "other"
+   "D2C"
   ],
   "companies": [
-   "Shiprocket"
+   "Style Union",
+   "Venturi Partners",
+   "Elev8 Venture Partners"
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://inc42.com/buzz/shiprocket-turns-profitable-in-q2-revenue-jumps-35-yoy-to-%e2%82%b9674-cr/",
-  "source": "Inc42",
-  "score": 7,
-  "date": "2026-11-05T06:49:09+00:00",
+  "covered_by_count": 2,
+  "url": "https://yourstory.com/2026/11/style-union-raises-rs-485-cr-to-expand-beyond-southern-india",
+  "source": "YourStory",
+  "score": 8,
+  "date": "2026-11-19T05:40:51+00:00",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-05T14:29:36.299120+05:30"
+  "first_seen": "2026-11-19T15:25:00.963583+05:30"
+ },
+ {
+  "id": "0f46293e3612",
+  "headline": "Microsoft CEO Offers Buyouts to 60,000 Staff Over AI",
+  "the_number": "60,000",
+  "why_it_matters": "Big tech reallocates human capital as AI transforms workforce requirements.",
+  "founder_takeaway": "Anticipate restructuring needs as AI automation shifts core business models.",
+  "sentiment": "Neutral",
+  "category": "Layoffs",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "Microsoft"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+  "source": "TechCrunch",
+  "score": 8,
+  "date": "2026-11-19T00:42:56+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-19T15:25:00.963583+05:30"
+ },
+ {
+  "id": "3f0b5b1dbc71",
+  "headline": "Payhawk Raises $280M at $2B Valuation for Expense Platform",
+  "the_number": "$280M",
+  "why_it_matters": "Strong investor demand remains for AI-driven enterprise spend management tools.",
+  "founder_takeaway": "Automating finance workflows with AI agents attracts massive enterprise capital.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "fintech",
+   "SaaS",
+   "AI"
+  ],
+  "companies": [
+   "Payhawk"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 280,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+  "source": "TechCrunch",
+  "score": 8,
+  "date": "2026-11-18T19:29:41+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-19T15:25:00.963583+05:30"
  },
  {
   "id": "0226b68e7381",
@@ -15873,5 +15605,272 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-19T02:59:43.990377+05:30"
+ },
+ {
+  "id": "777d193d22a8",
+  "headline": "KKR Acquires Minority Stake in Gentari's India Renewables Platform",
+  "the_number": "8 GW",
+  "why_it_matters": "Private equity continues funding India's rapidly expanding renewable energy infrastructure.",
+  "founder_takeaway": "Large-scale green infrastructure requires deep-pocketed global private equity partners.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "KKR",
+   "Gentari"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/kkr-acquires-minority-stake-in-gentari-renewables-india-11795068988820.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-19T12:36:54+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-19T15:25:00.963583+05:30"
+ },
+ {
+  "id": "e50caed1e7a8",
+  "headline": "Paytm Shares Slide 7% on UPI MDR Rollout Delay",
+  "the_number": "7%",
+  "why_it_matters": "Delayed transaction charges threaten monetization and profitability for payment platforms.",
+  "founder_takeaway": "Regulatory dependency on monetization timelines directly impacts valuation and margins.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Paytm",
+   "Pine Labs",
+   "One Mobikwik Systems"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/paytm-share-price-crash-payment-stock-slides-7-on-upi-mdr-rollout-delay-pine-labs-one-mobikwik-systems-also-tumble-11795062771594.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-19T10:27:19+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-19T15:25:00.963583+05:30"
+ },
+ {
+  "id": "c539952d79e4",
+  "headline": "NLC India Renewables Files ₹3,300 Crore IPO Papers",
+  "the_number": "₹3,300 crore",
+  "why_it_matters": "Public sector units are monetizing green energy assets through public offerings.",
+  "founder_takeaway": "Public markets offer extensive liquidity for green and transition energy.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "NLC India",
+   "NLC India Renewables"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/nlc-india-renewables-files-ipo-papers-plans-3-300-crore-fresh-issue-126111900441_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-19T13:19:12+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-19T15:25:00.963583+05:30"
+ },
+ {
+  "id": "a2d187e2bb12",
+  "headline": "PB Fintech Drops 6% as Co-Founder Steps Down",
+  "the_number": "6%",
+  "why_it_matters": "Leadership exits at mature fintech platforms trigger market jitters and volatility.",
+  "founder_takeaway": "Communicate founder transition plans early to minimize public market shocks.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "PB Fintech"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://www.business-standard.com/markets/news/pb-fintech-shares-slide-over-6-after-co-founder-alok-bansal-steps-down-126111900475_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-11-19T12:54:27+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-19T15:25:00.963583+05:30"
+ },
+ {
+  "id": "f47e8734e833",
+  "headline": "Paytm and Pine Labs Tumble Over UPI MDR Deferral",
+  "the_number": "7%",
+  "why_it_matters": "Election-related delays in fee rollouts threaten fintech revenue growth timelines.",
+  "founder_takeaway": "Anticipate political calendars when modeling policy-dependent revenue mechanisms.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Paytm",
+   "Pine Labs"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.business-standard.com/markets/news/paytm-pine-labs-shares-drop-up-to-7-amid-concerns-on-upi-mdr-delay-126111900221_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-11-19T10:11:36+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-19T15:25:00.963583+05:30"
+ },
+ {
+  "id": "37584664be51",
+  "headline": "FPI Stock-Buying Tops ₹1 Trillion in Record November",
+  "the_number": "₹1 trillion",
+  "why_it_matters": "Foreign inflows reach historical highs, boosting domestic market liquidity.",
+  "founder_takeaway": "Macro factors like lower crude create strong tailwinds for capital.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/fpi-stock-buying-tops-1-trillion-in-november-highest-ever-monthly-inflow-126111801263_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-11-18T22:17:18+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-19T15:25:00.963583+05:30"
+ },
+ {
+  "id": "0e7dbf7e334a",
+  "headline": "Nitin Gadkari Urges States to Adopt Aggregator Guidelines",
+  "the_number": "-",
+  "why_it_matters": "Central guidance could end regulatory uncertainty for urban mobility platforms.",
+  "founder_takeaway": "Proactively align state-level operations with central regulatory frameworks.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/nitin-gadkari-urges-states-to-adopt-aggregator-guidelines-amid-bike-taxi-crackdowns/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-11-19T08:43:36+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-19T15:25:00.963583+05:30"
+ },
+ {
+  "id": "715053887b56",
+  "headline": "ACME Group's $3.6B Odisha Green Ammonia Project Enters Execution",
+  "the_number": "$3.6 bn",
+  "why_it_matters": "Signals strong institutional backing and long-term buyer demand for green ammonia.",
+  "founder_takeaway": "Securing long-term supply commitments helps de-risk massive capital expenditures.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "ACME Group",
+   "Brookfield"
+  ],
+  "geography": "India",
+  "amount_usd_m": 3600,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/acme-group-s-3-6-bn-green-ammonia-project-in-odisha-enters-execution-phase-126111801501_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-18T22:27:16+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-19T15:25:00.963583+05:30"
+ },
+ {
+  "id": "b04b8500816c",
+  "headline": "August AI Raises $12M For Healthcare Assistant US Expansion",
+  "the_number": "$12 Mn",
+  "why_it_matters": "Top tier investors back AI healthtech expansion into the US market.",
+  "founder_takeaway": "Target massive overseas markets with strong tier-one investor backing.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI",
+   "healthtech"
+  ],
+  "companies": [
+   "August AI",
+   "Accel",
+   "Peak XV Partners",
+   "Claypond Capital"
+  ],
+  "geography": "India",
+  "amount_usd_m": 12,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/august-ai-raises-12-mn-to-expand-ai-healthcare-assistant-in-the-us/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-11-19T07:13:39+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-19T15:25:00.963583+05:30"
  }
 ]
