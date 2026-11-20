@@ -266,36 +266,6 @@
   "first_seen": "2026-11-20T21:46:38.699150+05:30"
  },
  {
-  "id": "fc41e3f3d482",
-  "headline": "Fox Completes $22B Acquisition of Roku",
-  "the_number": "$22B",
-  "why_it_matters": "Major media consolidation succeeds despite previous regulatory antitrust scrutiny.",
-  "founder_takeaway": "Regulatory probes do not always derail large strategic acquisitions.",
-  "sentiment": "Neutral",
-  "category": "M&A",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Fox",
-   "Roku"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 22000,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
-  "source": "TechCrunch",
-  "score": 9,
-  "date": "2026-11-06T16:05:36+00:00",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": true,
-  "first_seen": "2026-11-07T01:30:19.287291+05:30"
- },
- {
   "id": "0c4697a3c6f5",
   "headline": "OpenAI raises $11B at $1.25T valuation",
   "the_number": "$11 billion",
@@ -1552,37 +1522,34 @@
   "first_seen": "2026-11-20T21:46:38.699150+05:30"
  },
  {
-  "id": "00fc45ff7106",
-  "headline": "China Blocks SoftBank's $5.4B Robotics Deal",
-  "the_number": "$5.4 billion",
-  "why_it_matters": "Geopolitical scrutiny halts major cross-border robotics and tech deals.",
-  "founder_takeaway": "Cross-border tech exits face increasing regulatory and security hurdles.",
-  "sentiment": "Neutral",
-  "category": "M&A",
+  "id": "789e0cd84383",
+  "headline": "Anthropic Debuts on Nasdaq at $1.5 Trillion Valuation",
+  "the_number": "$1.5 trillion",
+  "why_it_matters": "Delivers massive venture liquidity to fuel future AI investments.",
+  "founder_takeaway": "Historic valuations are achievable with massive market momentum.",
+  "sentiment": "Bullish",
+  "category": "IPO",
   "sector_tags": [
-   "AI",
-   "other"
+   "AI"
   ],
   "companies": [
-   "SoftBank",
-   "ABB",
-   "Meta",
-   "Manus"
+   "Anthropic",
+   "Nasdaq"
   ],
   "geography": "Global",
-  "amount_usd_m": 5400,
-  "impact": "Notable",
+  "amount_usd_m": null,
+  "impact": "Big Move",
   "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/china-blocks-softbank-s-5-4-billion-abb-robotics-deal-how-beijing-is-tightening-its-grip-on-strategic-technologies-11793977670665.html",
-  "source": "Mint Companies",
-  "score": 8,
-  "date": "2026-11-06T21:25:36+05:30",
+  "covered_by_count": 8,
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-1-5-trillion-debut-rewrites-venture-capitals-playbook/articleshow/136010952.cms",
+  "source": "Economic Times Tech",
+  "score": 9,
+  "date": "2026-11-20T08:28:04+05:30",
   "unc_number": false,
-  "raw_impact": "Notable",
+  "raw_impact": "Big Move",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-07T01:30:19.287291+05:30"
+  "first_seen": "2026-11-21T02:53:53.747810+05:30"
  },
  {
   "id": "5c9105ebafcd",
@@ -7230,235 +7197,183 @@
   "first_seen": "2026-11-20T21:46:38.699150+05:30"
  },
  {
-  "id": "7b34fb81f6a3",
-  "headline": "Alphabet Discloses $548 Million Qualcomm Stake",
-  "the_number": "$548 million",
-  "why_it_matters": "Alphabet holds substantial stake while Qualcomm navigates shifting hardware demand.",
-  "founder_takeaway": "Diversifying into data centers buffers against falling consumer hardware demand.",
-  "sentiment": "Neutral",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Alphabet",
-   "Qualcomm"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/technology/alphabet-discloses-548-million-worth-of-qualcomm-stake/articleshow/135608439.cms",
-  "source": "Economic Times Tech",
-  "score": 7,
-  "date": "2026-11-06T18:24:09+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-07T01:30:19.287291+05:30"
- },
- {
-  "id": "74fe596f227a",
-  "headline": "SoftBank Credit Risk Surges to Four-Year High",
-  "the_number": "4-year",
-  "why_it_matters": "Market doubts surrounding AI monetization directly elevate major investor debt risks.",
-  "founder_takeaway": "Investors increasingly demand clear paths to profitability from AI ventures.",
+  "id": "f4a5601b6616",
+  "headline": "Nasdaq Drops 5%, Erasing All 2026 Gains",
+  "the_number": "5%",
+  "why_it_matters": "Tech rout and corrections threaten broader market liquidity.",
+  "founder_takeaway": "Public market downturns can quickly impact startup valuations.",
   "sentiment": "Bearish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "SoftBank Group"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/technology/softbank-credit-risk-jumps-to-4-year-high-as-ai-fears-roil-market/articleshow/135592268.cms",
-  "source": "Economic Times Tech",
-  "score": 7,
-  "date": "2026-11-06T09:07:56+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-07T01:30:19.287291+05:30"
- },
- {
-  "id": "d4c877c0432d",
-  "headline": "Anthropic IPO Valuation Ambitions Face Potential Cuts",
-  "the_number": "$1.5 trillion",
-  "why_it_matters": "AI market backlash threatens massive public offering valuations for top labs.",
-  "founder_takeaway": "Lofty private valuations face reality checks before hitting public markets.",
-  "sentiment": "Bearish",
-  "category": "IPO",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Anthropic"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/anthropics-largest-ipo-on-record-ambition-on-hold-ai-backlash-could-threaten-timing-1-5-trillion-valuation-11793930460210.html",
-  "source": "Mint Companies",
-  "score": 7,
-  "date": "2026-11-06T08:14:47+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-07T01:30:19.287291+05:30"
- },
- {
-  "id": "c8b3f215c35a",
-  "headline": "Indian Shares Log Biggest Gains in Seven Months",
-  "the_number": "-",
-  "why_it_matters": "Falling oil prices and renewed foreign inflows boost Indian equity markets.",
-  "founder_takeaway": "Macro tailwinds like lower crude prices support overall market sentiment.",
-  "sentiment": "Bullish",
   "category": "Macro",
   "sector_tags": [
    "other"
   ],
-  "companies": [],
-  "geography": "India",
+  "companies": [
+   "Nasdaq"
+  ],
+  "geography": "Global",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmJaMVVmaUE0cUtPUW9iRklDNUNCV2k4c1NXYzllRGYzeUdXOFJkeGVEOUNsdkhwc0pfc3pkSVdvb3Nwc3FMSE0xTVBnbEtiQ29Gd2NzbmFtMU9rVXNoNXF3MkRrMEtHczdSX0VGUExrTDkyNHAxYWI0SGFWbVRSZWhDaGlvNkhLdUtiZGdDaWVQaFJ0NkRkckJvQ0ZzSnM2dmFUd2tZXzdQaWZBaFN4Y3BNYXo0UkVZRGpQTkdTUQ?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 7,
-  "date": "2026-11-06T11:50:15+00:00",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-anthropic-claude-nvidia-micron-meta-ai-stocks-fed-rate-hike-inflation-treasury-yield-news-20th-november-2026/liveblog/136028991.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-11-20T18:39:00+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-07T01:30:19.287291+05:30"
+  "first_seen": "2026-11-21T02:53:53.747810+05:30"
  },
  {
-  "id": "8581a447820b",
-  "headline": "NCLT Declares Videocon's Venugopal Dhoot Bankrupt Over Loan Default",
-  "the_number": "₹12,668 crore",
-  "why_it_matters": "Personal insolvency enforcement holds major promoters accountable for massive corporate loan defaults.",
-  "founder_takeaway": "Personal guarantees carry severe insolvency risks during business failure.",
-  "sentiment": "Bearish",
-  "category": "Policy",
+  "id": "744cd3004bcd",
+  "headline": "Jay Mehta Sells KKR Stake for $400 Million",
+  "the_number": "$400 million",
+  "why_it_matters": "Values the IPL franchise at roughly $1.78 billion.",
+  "founder_takeaway": "Premier sports assets can command massive private equity valuations.",
+  "sentiment": "Bullish",
+  "category": "M&A",
   "sector_tags": [
    "other"
   ],
   "companies": [
-   "Videocon Industries",
-   "SBI"
+   "Kolkata Knight Riders",
+   "Ares Management",
+   "Mehta Group",
+   "BCCI"
   ],
   "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
+  "amount_usd_m": 400,
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/people/who-is-venugopal-dhoot-former-videocon-promoter-declared-bankrupt-by-nclt-mumbai-bench-over-rs-12-668-cr-sbi-default-11793958227774.html",
+  "url": "https://www.livemint.com/companies/people/who-is-jay-mehta-meet-juhi-chawla-s-husband-selling-half-of-his-45-kkr-stake-for-400-million-11795193603052.html",
   "source": "Mint Companies",
-  "score": 7,
-  "date": "2026-11-06T16:15:00+05:30",
+  "score": 8,
+  "date": "2026-11-20T22:51:34+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-07T01:30:19.287291+05:30"
+  "first_seen": "2026-11-21T02:53:53.747810+05:30"
  },
  {
-  "id": "bd3e82d3ce7f",
-  "headline": "Plea In Bombay HC Demands Tata Sons Stock Listing",
-  "the_number": "-",
-  "why_it_matters": "Regulatory push could force India's largest conglomerate holding firm into public markets.",
-  "founder_takeaway": "Regulatory compliance can force private holding structures to list publicly.",
-  "sentiment": "Neutral",
-  "category": "Policy",
+  "id": "1aa598fcdf71",
+  "headline": "Urban Company Raises ₹2,500 Crore Through QIP",
+  "the_number": "₹2,500 crore",
+  "why_it_matters": "Oversubscription over six times shows strong institutional appetite.",
+  "founder_takeaway": "Institutional demand remains robust for established domestic tech platforms.",
+  "sentiment": "Bullish",
+  "category": "Funding",
   "sector_tags": [
    "other"
   ],
   "companies": [
-   "Tata Sons",
-   "RBI"
+   "Urban Company"
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://www.business-standard.com/companies/news/bombay-hc-plea-seeks-rbi-direction-for-tata-sons-stock-market-listing-126110601724_1.html",
+  "url": "https://www.business-standard.com/companies/news/urban-company-raises-rs-2500-crore-qip-issue-oversubscribed-six-times-126112000281_1.html",
   "source": "Business Standard Companies",
-  "score": 7,
-  "date": "2026-11-06T19:15:56+05:30",
+  "score": 8,
+  "date": "2026-11-20T10:32:14+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-07T01:30:19.287291+05:30"
+  "first_seen": "2026-11-21T02:53:53.747810+05:30"
  },
  {
-  "id": "35e26ea3f267",
-  "headline": "Indian IPOs Raise Record ₹2.23 Trillion In Best Samvat",
-  "the_number": "₹2.23 trillion",
-  "why_it_matters": "Record public fundraising demonstrates unprecedented domestic market liquidity and investor appetite.",
-  "founder_takeaway": "Robust public market liquidity offers strong exit windows for scale-ups.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/markets/ipo/best-ever-samvat-for-ipos-record-2-23-trillion-raised-up-19-6-126110601904_1.html",
-  "source": "Business Standard Markets",
-  "score": 7,
-  "date": "2026-11-06T23:32:09+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-07T01:30:19.287291+05:30"
- },
- {
-  "id": "3c69f61cb3af",
-  "headline": "Fed Seen Sticking To December Rate Hike Post Jobs Data",
+  "id": "27977c0efcf7",
+  "headline": "Supreme Court Allows Bike Taxis in Karnataka",
   "the_number": "-",
-  "why_it_matters": "Potential US rate hikes tighten global liquidity and capital access.",
-  "founder_takeaway": "Prolonged high interest rates sustain tight global venture capital conditions.",
-  "sentiment": "Bearish",
-  "category": "Macro",
+  "why_it_matters": "Protects operations for ride-hailing aggregators facing local restrictions.",
+  "founder_takeaway": "Regulatory challenges can be resolved through higher judicial relief.",
+  "sentiment": "Bullish",
+  "category": "Policy",
   "sector_tags": [
    "other"
   ],
   "companies": [
-   "Fed"
+   "Rapido",
+   "Uber"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/supreme-court-upholds-karnataka-hc-order-allowing-bike-taxis/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-11-20T13:04:13+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T02:53:53.747810+05:30"
+ },
+ {
+  "id": "aff839503a30",
+  "headline": "SatSure Secures ₹60 Cr from Antariksh Fund",
+  "the_number": "₹60 Cr",
+  "why_it_matters": "Deepens government-backed venture funding for Indian spacetech startups.",
+  "founder_takeaway": "Sovereign sector funds offer strong validation for deeptech.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "SatSure",
+   "Antariksh Venture Capital Fund"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/centres-antariksh-vc-fund-leads-satsures-%e2%82%b9200-cr-series-b-round/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-11-20T10:31:57+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T02:53:53.747810+05:30"
+ },
+ {
+  "id": "df90abe9ffb5",
+  "headline": "California Subpoenas Nvidia Over China Ties Concerns",
+  "the_number": "-",
+  "why_it_matters": "Signals mounting regulatory and legal scrutiny around AI hardware.",
+  "founder_takeaway": "Cross-border ties can trigger severe regulatory and disclosure risks.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia"
   ],
   "geography": "Global",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 7,
-  "date": "2026-11-06T16:04:55+00:00",
+  "covered_by_count": 2,
+  "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+  "source": "TechCrunch",
+  "score": 8,
+  "date": "2026-11-20T13:21:11+00:00",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-07T01:30:19.287291+05:30"
+  "first_seen": "2026-11-21T02:53:53.747810+05:30"
  },
  {
   "id": "a474de8cb159",
@@ -14875,5 +14790,243 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-20T21:46:38.699150+05:30"
+ },
+ {
+  "id": "517933bd9d3c",
+  "headline": "SEBI Plans Easing Rules To Accelerate FPI Onboarding",
+  "the_number": "-",
+  "why_it_matters": "Faster onboarding and reduced compliance boost foreign capital inflows to India.",
+  "founder_takeaway": "Stronger foreign market participation expands institutional capital access.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "SEBI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-plans-consultation-paper-to-remove-fpi-constraints-absent-in-other-markets/articleshow/136020808.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-11-20T14:49:53+05:30",
+  "unc_number": true,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-11-21T02:53:53.747810+05:30"
+ },
+ {
+  "id": "811850bfd15f",
+  "headline": "FDA Suspends Licences of Blinkit and Chaayos in Mumbai",
+  "the_number": "-",
+  "why_it_matters": "Hygiene violations lead directly to severe operational shutdowns by regulators.",
+  "founder_takeaway": "Never compromise on hygiene standards during rapid quick commerce expansions.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "quick commerce",
+   "D2C"
+  ],
+  "companies": [
+   "Blinkit",
+   "Chaayos",
+   "5 Spice"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/tukaram-mundhes-fda-suspends-licences-of-blinkit-chaayos-5-spice-among-6-mumbai-establishments-what-inspection-found-11795188506556.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-20T21:58:13+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T02:53:53.747810+05:30"
+ },
+ {
+  "id": "53053cebf1f3",
+  "headline": "Krishna Reddy Raises ₹6,700 Cr for Megha Engineering Stake",
+  "the_number": "₹6,700 cr",
+  "why_it_matters": "Large-scale private credit supports high-yield corporate restructuring and buyouts.",
+  "founder_takeaway": "Private debt enables significant equity consolidation despite steep borrowing costs.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Megha Engineering",
+   "Davidson Kempner",
+   "Varde Partners",
+   "Elham Credit Partners"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/pv-krishna-reddy-raises-6-700-cr-to-buy-uncle-s-stake-in-megha-engineering-126112000721_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-20T16:01:53+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T02:53:53.747810+05:30"
+ },
+ {
+  "id": "6eb1cf6196f6",
+  "headline": "Nvidia Plunges 32% Since Late October Amid Leadership Headwinds",
+  "the_number": "32%",
+  "why_it_matters": "Sharp declines in bellwether AI stocks alter broader technology sentiment.",
+  "founder_takeaway": "Executive leadership controversies can rapidly wipe out significant market value.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/nvidia-stock-falls-32-in-nov-is-it-a-buying-opportunity-analysts-answer-126112000133_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-11-20T08:24:08+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T02:53:53.747810+05:30"
+ },
+ {
+  "id": "4c1bac7ae0cb",
+  "headline": "Fireside Ventures Faces Leadership Churn and Succession Questions",
+  "the_number": "-",
+  "why_it_matters": "Venture leadership transitions disrupt investor confidence and future fund deployments.",
+  "founder_takeaway": "Ensure robust succession planning to preserve institutional stability and trust.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Fireside Ventures"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/features/fireside-ventures-changing-guard-exits-power-struggle-and-the-succession-question/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-11-20T12:45:10+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T02:53:53.747810+05:30"
+ },
+ {
+  "id": "853fa280f041",
+  "headline": "Paytm Board Approves ₹200 Cr Investment in Funding Societies",
+  "the_number": "₹200 Cr",
+  "why_it_matters": "Indian fintech giants are seeking regional footprint expansion across Southeast Asia.",
+  "founder_takeaway": "Strategic international minority investments can unlock new geographic growth corridors.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Paytm",
+   "Funding Societies"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/paytm-lines-up-%e2%82%b9200-cr-investment-in-singapores-funding-societies/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-11-19T15:27:42+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T02:53:53.747810+05:30"
+ },
+ {
+  "id": "3c8bdcaa14b5",
+  "headline": "PIDG Invests $11.7M in Recycling Firm NEPRA",
+  "the_number": "$11.7M",
+  "why_it_matters": "Circular economy startups are attracting significant global institutional investment rounds.",
+  "founder_takeaway": "Full-stack integration across waste value chains drives serious investor interest.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "PIDG",
+   "NEPRA"
+  ],
+  "geography": "India",
+  "amount_usd_m": 11.7,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://yourstory.com/2026/11/pidg-invests-117m-nepra-dry-waste-recycling-company",
+  "source": "YourStory",
+  "score": 7,
+  "date": "2026-11-20T11:58:34+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T02:53:53.747810+05:30"
+ },
+ {
+  "id": "034335f046da",
+  "headline": "India Relaxes Offshore Fund Disclosure Rules to Attract Capital",
+  "the_number": "-",
+  "why_it_matters": "Eased regulations can boost foreign capital inflows into Indian markets.",
+  "founder_takeaway": "Potential increase in foreign capital pool for Indian markets.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcVF5MHBHdVFOeE5KaGhFNHlITnI3V01FT0hjbnlyNUhZcmNyTjJQY1duY1lQd3FGU202ZEQ0RjF6UGowdmM0SHNXUzRfR2ozMjFfR0RLc0tFVUo5TEJUQW1YQnR1NVBKMlR2N1ZONXVNWWJhc3ZoOTVaYWl1bWJMZnhrLWdZS2pGM0ZBYUVDVkRScG43cTB5TkNPNHdOVnZNNVFVOFNEeTBMUE8yWjlWQmFtd1BjVE11ZlEwVzJRRlIyWTJhQjdRelZ3?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 7,
+  "date": "2026-11-20T14:49:41+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T02:53:53.747810+05:30"
  }
 ]
