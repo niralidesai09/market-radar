@@ -1464,100 +1464,6 @@
   "first_seen": "2026-11-21T02:53:53.747810+05:30"
  },
  {
-  "id": "1ad1913fced8",
-  "headline": "Beijing Blocks SoftBank's $5.4 Billion ABB Robotics Acquisition",
-  "the_number": "$5.4 billion",
-  "why_it_matters": "Regulatory blocks can abruptly disrupt global physical AI expansion strategies.",
-  "founder_takeaway": "Geopolitical hurdles can quickly derail cross-border M&A plans.",
-  "sentiment": "Neutral",
-  "category": "M&A",
-  "sector_tags": [
-   "AI",
-   "other"
-  ],
-  "companies": [
-   "SoftBank",
-   "ABB Robotics",
-   "OpenAI"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 5400,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/why-beijing-blocked-softbank-s-5-4-billion-abb-robotics-deal-setback-for-masayoshi-son-s-physical-ai-ambitions-11794061545591.html",
-  "source": "Mint Companies",
-  "score": 8,
-  "date": "2026-11-07T22:45:13+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-07T23:38:46.320202+05:30"
- },
- {
-  "id": "f403655f471d",
-  "headline": "SoftBank Sells 1.56% Lenskart Stake for ₹1,896 Crore",
-  "the_number": "₹1,896 crore",
-  "why_it_matters": "Secondary stake sales provide crucial liquidity to early venture investors.",
-  "founder_takeaway": "Large institutional buyers enable late-stage liquidity without full exits.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "D2C"
-  ],
-  "companies": [
-   "SoftBank",
-   "Lenskart",
-   "Goldman",
-   "SVF II Lightbulb (Cayman) Ltd"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/companies/news/softbank-sells-1-56-lenskart-stake-for-1-896-crore-goldman-biggest-buyer-126110701043_1.html",
-  "source": "Business Standard Companies",
-  "score": 8,
-  "date": "2026-11-07T18:17:40+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-07T23:38:46.320202+05:30"
- },
- {
-  "id": "e4a7db8062c8",
-  "headline": "Coca-Cola's India Bottler Hindustan Coca-Cola Files for IPO",
-  "the_number": "-",
-  "why_it_matters": "Major multinational subsidiaries continue tapping public markets in India.",
-  "founder_takeaway": "Robust public markets provide attractive listing opportunities for giants.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Hindustan Coca-Cola",
-   "Coca-Cola"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPczVmZ1Z5a2JtX2N0cndmT0dZV1ZVXzZwWlZPQTRQczlJeUQ4aldhdXdmZngzWVhJby1TQmlHZEFSZzFfR0pZbGE4aFVwVE5ZRW42R2tqVWNWc0JRYlktdVN0c29WX3dnakctZTZSUFRJRGswcXNrV1MwdHZQblhjdENjY2o0R0JULVlrRnM4NkZyUHNJVldqVy1jbTBNSTFIdXJTcA?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 8,
-  "date": "2026-11-07T10:05:57+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-07T23:38:46.320202+05:30"
- },
- {
   "id": "1f4062bdc204",
   "headline": "MakeMyTrip India Secures SEBI Approval for IPO",
   "the_number": "-",
@@ -7571,93 +7477,35 @@
   "first_seen": "2026-11-21T20:59:02.956419+05:30"
  },
  {
-  "id": "21ef6b3f4bed",
-  "headline": "Honasa's Q2 Net Profit Rises 87% YoY",
-  "the_number": "87%",
-  "why_it_matters": "Strong profit and revenue growth signal durable D2C public performance.",
-  "founder_takeaway": "Profitability scaling alongside revenue boosts public market confidence.",
+  "id": "328e3d3a3187",
+  "headline": "Bloom Raises $75 Million From Kedaara Capital",
+  "the_number": "$75 million",
+  "why_it_matters": "Hospitality brand secures capital to fund AI technology and room expansion.",
+  "founder_takeaway": "Scaling physical networks benefits from integrating tech and private equity.",
   "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "D2C"
-  ],
-  "companies": [
-   "Honasa",
-   "Mamaearth"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://yourstory.com/2026/11/mamaearth-parent-honasa-q2-net-profit-rises-87-pc",
-  "source": "YourStory",
-  "score": 7,
-  "date": "2026-11-06T13:00:12+00:00",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-07T23:38:46.320202+05:30"
- },
- {
-  "id": "ff59ab9d8295",
-  "headline": "Binance CFO Exits Following $6.3 Billion Crypto Hack",
-  "the_number": "$6.3 billion",
-  "why_it_matters": "Massive security breaches prompt immediate leadership instability at major platforms.",
-  "founder_takeaway": "Critical security failures can immediately trigger executive turnover.",
-  "sentiment": "Bearish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Binance"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-  "source": "TechCrunch",
-  "score": 7,
-  "date": "2026-11-07T17:24:07+00:00",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-07T23:38:46.320202+05:30"
- },
- {
-  "id": "6d72973eed55",
-  "headline": "Physicl Raises $10M for Sim-to-Real Robotics Digital Pipeline",
-  "the_number": "$10M",
-  "why_it_matters": "Closing the simulation-to-reality gap is critical for scaling robotics.",
-  "founder_takeaway": "Repurposing existing tech can solve complex robotics problems.",
-  "sentiment": "Neutral",
   "category": "Funding",
   "sector_tags": [
    "AI",
    "other"
   ],
   "companies": [
-   "Physicl"
+   "Bloom",
+   "Kedaara Capital"
   ],
-  "geography": "Global",
-  "amount_usd_m": 10,
-  "impact": "Watch",
+  "geography": "India",
+  "amount_usd_m": 75,
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-  "source": "TechCrunch",
-  "score": 7,
-  "date": "2026-11-06T13:00:00+00:00",
+  "url": "https://www.livemint.com/companies/news/bloom-raises-75-million-from-kedaara-capital-to-accelerate-expansion-invest-in-ai-technology-11795284401832.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-11-22T00:08:56+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-07T23:38:46.320202+05:30"
+  "first_seen": "2026-11-22T01:41:40.024759+05:30"
  },
  {
   "id": "43e3f3deb606",
@@ -15096,5 +14944,66 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-21T20:59:02.956419+05:30"
+ },
+ {
+  "id": "01b2cdbc4fc2",
+  "headline": "Nvidia and Anthropic Fall Amid Broader Tech Sell-Off",
+  "the_number": "14%",
+  "why_it_matters": "Tech rout sparks concerns over elevated AI valuations and corporate spending.",
+  "founder_takeaway": "Rapid revenue growth without profitability faces severe scrutiny during downturns.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia",
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/nvidia-vs-anthropic-shares-ai-chip-stock-tanks-14-while-claude-maker-falls-8-5-see-who-wins-in-earnings-valuation-11795238170165.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-21T11:41:37+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-22T01:41:40.024759+05:30"
+ },
+ {
+  "id": "b09240597009",
+  "headline": "Anthropic and SpaceX IPOs Generate $1 Billion in Fees",
+  "the_number": "$1 billion",
+  "why_it_matters": "Mega-scale technology listings provide major fee revenue for Wall Street banks.",
+  "founder_takeaway": "Late-stage blockbuster public listings produce immense investment banking fees.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "Anthropic",
+   "SpaceX"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/market/wall-street-banks-set-for-banner-year-as-anthropic-spacex-ipos-generate-1-billion-in-fees-11795201100809.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-21T00:28:20+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-22T01:41:40.024759+05:30"
  }
 ]
