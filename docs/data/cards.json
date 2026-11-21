@@ -266,65 +266,6 @@
   "first_seen": "2026-11-20T21:46:38.699150+05:30"
  },
  {
-  "id": "26f0f5f57a46",
-  "headline": "OpenAI Raises $11 Billion at $1.25 Trillion Valuation",
-  "the_number": "$11 billion",
-  "why_it_matters": "Massive funding secures AI dominance despite growing market and regulatory concerns.",
-  "founder_takeaway": "Investor appetite remains enormous for category leaders despite tech headwinds.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "OpenAI"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 11000,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/openai-raises-11-billion-at-1-25-trillion-valuation-amid-concerns-over-ai-spending-and-regulation-11794022360992.html",
-  "source": "Mint Companies",
-  "score": 9,
-  "date": "2026-11-07T09:11:28+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": true,
-  "first_seen": "2026-11-07T19:45:20.361160+05:30"
- },
- {
-  "id": "202769b315a6",
-  "headline": "Coca-Cola Bottler HCCH Files DRHP for Mega IPO",
-  "the_number": "₹11,663 crore",
-  "why_it_matters": "Promoters seek exit via a pure offer for sale listing.",
-  "founder_takeaway": "Large-scale IPOs can be executed entirely for promoter liquidity.",
-  "sentiment": "Neutral",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "HCCH",
-   "Hindustan Coca-Cola Overseas Holdings"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/markets/ipo/coca-cola-india-bottling-arm-hcch-files-drhp-ipo-99-75-crore-shares-126110700766_1.html",
-  "source": "Business Standard Markets",
-  "score": 9,
-  "date": "2026-11-07T16:08:14+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": true,
-  "first_seen": "2026-11-07T19:45:20.361160+05:30"
- },
- {
   "id": "13f4eae92136",
   "headline": "Nvidia Board Probes CEO Jensen Huang Over Spy Allegations",
   "the_number": "50-50",
@@ -1521,71 +1462,6 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-21T02:53:53.747810+05:30"
- },
- {
-  "id": "01e4503247a4",
-  "headline": "Investors Sell Groww Stake for ₹2,457 Crore",
-  "the_number": "₹2,457 crore",
-  "why_it_matters": "Early backers realize substantial liquidity via bulk deals in Indian fintech.",
-  "founder_takeaway": "Secondary sales offer substantial liquidity pathways for early venture backers.",
-  "sentiment": "Neutral",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Peak XV Partners",
-   "Y Combinator",
-   "Goldman Sachs",
-   "Billionbrains Garage Ventures",
-   "Groww"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://www.business-standard.com/companies/news/three-investors-offload-1-84-stake-in-groww-for-2-457-crore-in-bulk-deals-126110701037_1.html",
-  "source": "Business Standard Companies",
-  "score": 8,
-  "date": "2026-11-07T18:37:34+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-07T19:45:20.361160+05:30"
- },
- {
-  "id": "56d51424455d",
-  "headline": "Hindustan Coca-Cola Holdings Files Sebi Papers for IPO",
-  "the_number": "99,74,61,456",
-  "why_it_matters": "Promoters look to offload up to 997.5 million equity shares.",
-  "founder_takeaway": "OFS listings provide promoter liquidity without injecting company cash.",
-  "sentiment": "Neutral",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Hindustan Coca-Cola Holdings Ltd",
-   "The Coca-Cola Company",
-   "Jubilant Beverages",
-   "Hindustan Coca-Cola Overseas Holdings Pte Ltd"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/markets/ipo/hindustan-coca-cola-holdings-files-draft-papers-with-sebi-for-ipo-126110700650_1.html",
-  "source": "Business Standard Markets",
-  "score": 8,
-  "date": "2026-11-07T15:13:49+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-07T19:45:20.361160+05:30"
  },
  {
   "id": "1ad1913fced8",
@@ -7576,184 +7452,123 @@
   "first_seen": "2026-11-21T14:45:16.673588+05:30"
  },
  {
-  "id": "3e612028f83f",
-  "headline": "Amber Arm IL JIN Electronics Files ₹2,500 Cr IPO",
-  "the_number": "₹2,500 crore",
-  "why_it_matters": "Electronics manufacturing unit pursues fresh issue proceeds to retire outstanding borrowings.",
-  "founder_takeaway": "Fresh equity issues effectively strengthen balance sheets via debt reduction.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "IL JIN Electronics (India) Ltd",
-   "Amber Enterprises India Ltd"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/markets/ipo/amber-enterprises-arm-il-jin-electronics-files-drhp-for-2-500-crore-ipo-126110700332_1.html",
-  "source": "Business Standard Markets",
-  "score": 7,
-  "date": "2026-11-07T14:27:31+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-07T19:45:20.361160+05:30"
- },
- {
-  "id": "f5140ea38dc5",
-  "headline": "Mamaearth Parent Net Profit Surges 87% in Q2",
-  "the_number": "87%",
-  "why_it_matters": "Strong profitability and revenue growth underscore solid D2C market demand.",
-  "founder_takeaway": "Demonstrating high profit growth strengthens public market investor confidence.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "D2C"
-  ],
-  "companies": [
-   "Honasa Consumer",
-   "Mamaearth"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://yourstory.com/2026/11/mamaearth-parent-profit-surges-goyal-defends-temple-amid-backlash",
-  "source": "YourStory",
-  "score": 7,
-  "date": "2026-11-07T02:00:00+00:00",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-07T19:45:20.361160+05:30"
- },
- {
-  "id": "7ca1e0316573",
-  "headline": "Sequoia Shuts Down Its Pioneering Scout Program",
-  "the_number": "-",
-  "why_it_matters": "VCs rethink decentralized early-stage deal sourcing as models reach limits.",
-  "founder_takeaway": "Early-stage fundraising channels and scout ecosystems are structurally evolving.",
-  "sentiment": "Bearish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Sequoia"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-  "source": "TechCrunch",
-  "score": 7,
-  "date": "2026-11-07T05:01:54+00:00",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-07T19:45:20.361160+05:30"
- },
- {
-  "id": "7b5a2965d87a",
-  "headline": "AI Spending Stalls Despite Rising Usage, Ramp Shows",
-  "the_number": "-",
-  "why_it_matters": "Price cuts and efficiency gains challenge assumptions of persistent AI hypergrowth.",
-  "founder_takeaway": "Focus on ROI as enterprise customers implement tighter cost controls.",
+  "id": "2c2b80814a03",
+  "headline": "Nvidia Loses $1 Trillion Post Jensen Huang Exit",
+  "the_number": "$1.04 trillion",
+  "why_it_matters": "Nvidia lost $1.04 trillion in market value following CEO's exit.",
+  "founder_takeaway": "Key-person risk can heavily impact company market valuation.",
   "sentiment": "Bearish",
   "category": "Big Tech/AI",
   "sector_tags": [
    "AI",
-   "SaaS"
+   "other"
   ],
   "companies": [
-   "Ramp",
-   "Anthropic"
+   "Nvidia"
   ],
   "geography": "Global",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-  "source": "TechCrunch",
-  "score": 7,
-  "date": "2026-11-06T15:54:47+00:00",
+  "url": "https://www.livemint.com/companies/people/how-much-is-jensen-huangs-value-in-the-market-1-trillion-it-seems-nvidia-loses-25-capitalisation-after-ceos-exit-11795232305554.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-11-21T09:14:56+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-07T19:45:20.361160+05:30"
+  "first_seen": "2026-11-21T20:59:02.956419+05:30"
  },
  {
-  "id": "b5e0af24d1cb",
-  "headline": "SP Group Unit to Raise $200M Rupee Debt",
-  "the_number": "$200 mln",
-  "why_it_matters": "Conglomerates tap local-currency debt markets to secure operational liquidity.",
-  "founder_takeaway": "Local currency debt offers sizable funding without foreign exchange risk.",
+  "id": "bf91cc0dbba8",
+  "headline": "Noel Tata Challenges Tata Sons Governance and Listing Plans",
+  "the_number": "-",
+  "why_it_matters": "Board conflict highlights friction over governance and RBI listing communications.",
+  "founder_takeaway": "Maintain tight board alignment and transparent communications with regulators.",
   "sentiment": "Neutral",
-  "category": "Macro",
+  "category": "Policy",
   "sector_tags": [
    "other"
   ],
   "companies": [
-   "SP Group"
+   "Tata Sons",
+   "Tata Trusts",
+   "RBI"
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT09sZnI3RWRuNUhBVElyNFY2NVMxZWJTZS02Z2NtMWNkMlRpMFRhR19CS0RFTEtsN2VvUzBuTjVnQXg4OE5GTG91aFlYZVNUX0JlOFpEQW5kMUpuNHk3WjQwU1FoOHJTMzNMc0RjTHlsalBEYjFla1R5RllBeXBEVVFvdUlEUG00clJpYTVEOW1LU28wQjBnMmNwQl9VajVVQmlUS2RHT3daSG05OF90UXR5aGhJU0M4eG9fYw?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 7,
-  "date": "2026-11-06T10:08:09+00:00",
+  "covered_by_count": 2,
+  "url": "https://www.business-standard.com/companies/news/noel-tata-tata-sons-board-recording-chandrasekaran-reappointment-listing-126112100507_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-11-21T15:49:37+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-07T19:45:20.361160+05:30"
+  "first_seen": "2026-11-21T20:59:02.956419+05:30"
  },
  {
-  "id": "87e4f81252f1",
-  "headline": "Google Acquires Crusoe AI Data Center Site in Wyoming",
-  "the_number": "$17-billion",
-  "why_it_matters": "Big tech continues aggressive expansion into dedicated AI computing infrastructure.",
-  "founder_takeaway": "Hyperscalers are actively purchasing strategic AI infrastructure assets.",
-  "sentiment": "Neutral",
-  "category": "M&A",
+  "id": "e2c5a585df19",
+  "headline": "Anthropic Shares Fall 9% Following Record IPO",
+  "the_number": "$93.5 billion",
+  "why_it_matters": "Stretched valuations and heavy spending spark reality check for AI.",
+  "founder_takeaway": "High valuations face severe scrutiny without rapid paths to profitability.",
+  "sentiment": "Bearish",
+  "category": "IPO",
   "sector_tags": [
    "AI"
   ],
   "companies": [
-   "Google",
-   "Crusoe",
-   "Alphabet"
+   "Anthropic"
   ],
   "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
+  "amount_usd_m": 93500,
+  "impact": "Notable",
   "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/startups/google-acquires-wyoming-data-center-site-from-ai-infrastructure-firm-crusoe/articleshow/135625592.cms",
-  "source": "Economic Times Tech",
-  "score": 7,
-  "date": "2026-11-07T09:07:29+05:30",
+  "covered_by_count": 5,
+  "url": "https://www.business-standard.com/markets/news/anthropic-shares-tumble-after-record-ipo-as-ai-trade-faces-reality-check-126112001268_1.html",
+  "source": "Business Standard Markets",
+  "score": 8,
+  "date": "2026-11-20T21:06:41+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-07T19:45:20.361160+05:30"
+  "first_seen": "2026-11-21T20:59:02.956419+05:30"
+ },
+ {
+  "id": "9e2360a7bf35",
+  "headline": "CtrlS to Invest Over $1 Billion in Bihar",
+  "the_number": "$1 billion",
+  "why_it_matters": "Large-scale infrastructure investment expands Indian data centre capacity significantly.",
+  "founder_takeaway": "Infrastructure demand offers major opportunities in emerging regional hubs.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "CtrlS"
+  ],
+  "geography": "India",
+  "amount_usd_m": 1000,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ2NmeWdxV1pHdnNKeVo4cVVhbS1EMmNYZGNfYnA0RUtrbUVYRk1Ebnl5NE15SW82Xy1KMGQ2dXVxODFWSmFqSjdEeGpVbUdoS1ZZdGw0RTZfOHk0TnhVUGdzdmhPTFhpVmlWY1ZoaXFPUTFTLXJVNFBSZ05Ma3lHR3RER203cG1CRTNXZm5qVmU5b29hdkpKNmRaalJmYkhGaXlJaTE4cGRtZw?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 8,
+  "date": "2026-11-20T11:54:40+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T20:59:02.956419+05:30"
  },
  {
   "id": "21ef6b3f4bed",
@@ -15140,5 +14955,146 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-21T14:45:16.673588+05:30"
+ },
+ {
+  "id": "38c01d76f9c7",
+  "headline": "Voltas and Atomberg Form Air-Conditioner Compressor JV",
+  "the_number": "50%",
+  "why_it_matters": "Partnership expands domestic manufacturing capabilities for room air-conditioner compressors.",
+  "founder_takeaway": "Strategic joint ventures help scale manufacturing and product commercialisation.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "D2C",
+   "other"
+  ],
+  "companies": [
+   "Voltas",
+   "Atomberg Innovation"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/voltas-signs-joint-venture-agreement-with-atomberg-innovation-to-hold-50-stake-in-entity-all-we-know-11795248836596.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-21T14:28:17+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T20:59:02.956419+05:30"
+ },
+ {
+  "id": "274d47b1cc6f",
+  "headline": "Rupee Set for Best Monthly Gains in Eight Years",
+  "the_number": "8 years",
+  "why_it_matters": "Strong currency performance and softer bond yields improve macro stability.",
+  "founder_takeaway": "A stronger local currency can ease imported costs for businesses.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/rupee-set-for-best-monthly-gain-in-8-years-on-strong-foreign-fund-inflows-126112001061_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-11-20T19:06:46+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T20:59:02.956419+05:30"
+ },
+ {
+  "id": "8031bc7c04b3",
+  "headline": "DGGI Probes Rs 1 Lakh Cr China-Linked Transactions",
+  "the_number": "Rs 1 Lakh Cr",
+  "why_it_matters": "Tax enforcement searches intensify around high-volume gaming and foreign linkages.",
+  "founder_takeaway": "Ensure robust regulatory, cross-border, and tax compliance across transactions.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "DGGI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/dggi-probes-%e2%82%b91-lakh-cr-china-linked-gaming-transactions/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-11-21T14:06:36+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T20:59:02.956419+05:30"
+ },
+ {
+  "id": "7ebdfd2d3cd7",
+  "headline": "New UPI Merchant Fee Stirs Fairness Concerns",
+  "the_number": "-",
+  "why_it_matters": "Introduction of MDR raises questions over cost burdens and transparency.",
+  "founder_takeaway": "Prepare business models for potential monetization shifts in core infrastructure.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://yourstory.com/2026/11/upi-was-never-free-but-is-its-new-merchant-fee-fair",
+  "source": "YourStory",
+  "score": 7,
+  "date": "2026-11-21T02:20:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T20:59:02.956419+05:30"
+ },
+ {
+  "id": "88383f2c15bd",
+  "headline": "Supreme Court Rejects Karnataka Bike Taxi Ban Appeal",
+  "the_number": "17+",
+  "why_it_matters": "Clears regulatory roadblocks for bike taxi operations in Karnataka.",
+  "founder_takeaway": "Regulatory hurdles can be overturned through judicial appeals.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://yourstory.com/2026/11/what-parents-should-know-about-gta-6-bike-taxis-could-return-to-karnataka",
+  "source": "YourStory",
+  "score": 7,
+  "date": "2026-11-21T02:00:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T20:59:02.956419+05:30"
  }
 ]
