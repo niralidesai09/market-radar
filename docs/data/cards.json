@@ -266,35 +266,6 @@
   "first_seen": "2026-11-20T21:46:38.699150+05:30"
  },
  {
-  "id": "0c4697a3c6f5",
-  "headline": "OpenAI raises $11B at $1.25T valuation",
-  "the_number": "$11 billion",
-  "why_it_matters": "Massive capital injection shows continued backing despite scaled-back targets and market caution.",
-  "founder_takeaway": "Even top giants must calibrate fundraising goals to market conditions.",
-  "sentiment": "Neutral",
-  "category": "Funding",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "OpenAI"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 11000,
-  "impact": "Big Move",
-  "source_badge": "Verified media",
-  "covered_by_count": 3,
-  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-gets-11-billion-funding-at-1-25-trillion-valuation-report/articleshow/135624687.cms",
-  "source": "Economic Times Tech",
-  "score": 9,
-  "date": "2026-11-07T07:59:53+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-07T13:52:37.770620+05:30"
- },
- {
   "id": "26f0f5f57a46",
   "headline": "OpenAI Raises $11 Billion at $1.25 Trillion Valuation",
   "the_number": "$11 billion",
@@ -1550,36 +1521,6 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-21T02:53:53.747810+05:30"
- },
- {
-  "id": "5c9105ebafcd",
-  "headline": "ED searches CoinDCX and Delta Exchange India premises",
-  "the_number": "-",
-  "why_it_matters": "Heightened regulatory action targets alleged illegal cross-border cryptocurrency transfers.",
-  "founder_takeaway": "Maintain rigorous cross-border compliance to navigate intense regulatory audits.",
-  "sentiment": "Bearish",
-  "category": "Policy",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "CoinDCX",
-   "Delta Exchange India"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://inc42.com/buzz/ed-searches-coindcx-delta-exchange-over-alleged-illegal-cross-border-transfers/",
-  "source": "Inc42",
-  "score": 8,
-  "date": "2026-11-06T19:59:29+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-07T13:52:37.770620+05:30"
  },
  {
   "id": "01e4503247a4",
@@ -7376,100 +7317,12 @@
   "first_seen": "2026-11-21T02:53:53.747810+05:30"
  },
  {
-  "id": "a474de8cb159",
-  "headline": "Wall Street faces $5.7T rout as AI bets unwind",
-  "the_number": "$5.7 trillion",
-  "why_it_matters": "Doubts around AI infrastructure returns trigger a massive flight to safety.",
-  "founder_takeaway": "Demonstrate real ROI on infrastructure spending to sustain valuation premiums.",
-  "sentiment": "Bearish",
-  "category": "Macro",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-11-07T11:31:15+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-07T13:52:37.770620+05:30"
- },
- {
-  "id": "4ee5c9eadb89",
-  "headline": "Singapore court orders share seizure in Tata Power battle",
-  "the_number": "$650 million",
-  "why_it_matters": "Tata Power faces international enforcement after losing arbitration award set-aside appeals.",
-  "founder_takeaway": "Cross-border arbitration awards carry significant legal and operational enforcement risks.",
-  "sentiment": "Bearish",
-  "category": "Policy",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Tata Power",
-   "Kleros"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/tata-powers-650-million-debt-battle-why-singapore-court-ordered-seizure-sale-of-shares-in-local-firm-11794035897676.html",
-  "source": "Mint Companies",
-  "score": 7,
-  "date": "2026-11-07T12:53:46+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-07T13:52:37.770620+05:30"
- },
- {
-  "id": "e3b1f453017f",
-  "headline": "Arka secures ₹525 Cr commitment from TPG's Rise Funds",
-  "the_number": "₹525 cr",
-  "why_it_matters": "Large equity backing provides growth capital for Kirloskar-backed lending business.",
-  "founder_takeaway": "Milestone-linked tranches can unlock larger institutional funding commitments.",
+  "id": "0ed50f9a2f5d",
+  "headline": "Anthropic Shares Surge 17% on Trading Debut",
+  "the_number": "17%",
+  "why_it_matters": "Strong investor demand drives Anthropic's public market debut higher.",
+  "founder_takeaway": "Public markets still reward high-profile frontier AI companies.",
   "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Arka",
-   "TPG",
-   "Rise Funds"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/nbfc-india-arka-fincap-tpg-rise-funds-kirloskar-11794028463025.html",
-  "source": "Mint Companies",
-  "score": 7,
-  "date": "2026-11-07T11:24:31+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-07T13:52:37.770620+05:30"
- },
- {
-  "id": "c2f82bf65f3c",
-  "headline": "Anthropic lowers IPO valuation targets to $1.2T-$1.3T",
-  "the_number": "$1.2 trillion",
-  "why_it_matters": "Broader tech sell-offs depress expected public listing valuations for foundational AI.",
-  "founder_takeaway": "Public market multiples directly compress private market and IPO ambitions.",
-  "sentiment": "Bearish",
   "category": "IPO",
   "sector_tags": [
    "AI"
@@ -7479,228 +7332,248 @@
   ],
   "geography": "Global",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/anthropic-ipo-valuation-why-investors-are-lowering-expectations-after-wall-street-selloff-11794013538561.html",
-  "source": "Mint Companies",
-  "score": 7,
-  "date": "2026-11-07T06:47:06+05:30",
+  "covered_by_count": 7,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/anthropic-shares-close-17-higher-on-first-day-of-trading-amid-protest-arrests-outside-nasdaq/videoshow/136013757.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-11-20T10:18:04+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-07T13:52:37.770620+05:30"
+  "first_seen": "2026-11-21T14:45:16.673588+05:30"
  },
  {
-  "id": "886319459199",
-  "headline": "US tech stocks rebound after $2.5T selloff",
-  "the_number": "$2.5 trillion",
-  "why_it_matters": "Semiconductor and AI hardware stocks recover sharply following acute market overreaction.",
-  "founder_takeaway": "Prepare for heightened volatility around AI hardware and infrastructure narratives.",
+  "id": "0e1260434135",
+  "headline": "Karnataka Mulls Bike Taxi Regulations Over Blanket Ban",
+  "the_number": "-",
+  "why_it_matters": "Regulations rather than bans protect urban mobility and gig workers.",
+  "founder_takeaway": "Proactively align operations with regulators to avoid sudden bans.",
   "sentiment": "Bullish",
-  "category": "Macro",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/technology/final-decision-on-bike-taxis-after-discussion-with-advocate-general-karnataka-transport-minister-byrathi-suresh/articleshow/136046163.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-11-21T11:19:46+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T14:45:16.673588+05:30"
+ },
+ {
+  "id": "dba444af9f26",
+  "headline": "Databricks Eyes New Funding at $225 Billion Valuation",
+  "the_number": "$225 billion",
+  "why_it_matters": "Massive private valuations persist for core enterprise data and AI.",
+  "founder_takeaway": "Strategic data infrastructure continues to command peak venture valuations.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI",
+   "SaaS"
+  ],
+  "companies": [
+   "Databricks"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/startups/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-wsj/articleshow/136044631.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-11-21T09:47:31+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T14:45:16.673588+05:30"
+ },
+ {
+  "id": "26cd5184e62e",
+  "headline": "CrowdStrike in Discussions to Acquire Zscaler",
+  "the_number": "-",
+  "why_it_matters": "Enterprise demand for consolidated cybersecurity vendors drives major consolidation.",
+  "founder_takeaway": "Enterprises prefer integrated platforms over fragmented point solutions.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "SaaS"
+  ],
+  "companies": [
+   "CrowdStrike",
+   "Zscaler"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/technology/crowdstrike-in-talks-to-acquire-zscaler/articleshow/136043272.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-11-21T08:13:03+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T14:45:16.673588+05:30"
+ },
+ {
+  "id": "cb0e0a3fbb40",
+  "headline": "US SEC Investigates Nvidia Over Accounting Practices",
+  "the_number": "-",
+  "why_it_matters": "Regulatory scrutiny on accounting and governance creates uncertainty around Big Tech.",
+  "founder_takeaway": "Transparent accounting and revenue reporting prevent catastrophic regulatory probes.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
   "sector_tags": [
    "AI"
   ],
   "companies": [
-   "Nvidia",
-   "AMD",
-   "Intel",
-   "Micron"
+   "Nvidia"
   ],
   "geography": "Global",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/stock-market-news/us-stocks-what-led-to-crash-and-bounce-back-in-just-2-sessions-whats-next-for-nvidia-amd-intel-micron-shares-11794034954583.html",
-  "source": "Mint Markets",
-  "score": 7,
-  "date": "2026-11-07T13:36:43+05:30",
+  "covered_by_count": 3,
+  "url": "https://economictimes.indiatimes.com/tech/technology/nvidias-accounting-is-a-focus-of-us-sec-investigation-sources-say/articleshow/136043101.cms",
+  "source": "Economic Times Tech",
+  "score": 8,
+  "date": "2026-11-21T06:09:43+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-07T13:52:37.770620+05:30"
+  "first_seen": "2026-11-21T14:45:16.673588+05:30"
  },
  {
-  "id": "e21759fc02fe",
-  "headline": "Nifty surges over 8% marking six-year best week",
-  "the_number": "8.58%",
-  "why_it_matters": "Record weekly gains and FII inflows add ₹28 lakh crore value.",
-  "founder_takeaway": "Macro tailwinds and lower crude offer ideal windows for fundraising.",
-  "sentiment": "Bullish",
+  "id": "df2f16608b3f",
+  "headline": "Nasdaq Sinks 5.6% as AI Trade Sells Off",
+  "the_number": "5.6%",
+  "why_it_matters": "Valuation doubts and slowing capex spark a broad tech correction.",
+  "founder_takeaway": "Prepare for tighter funding conditions as public markets cool.",
+  "sentiment": "Bearish",
   "category": "Macro",
   "sector_tags": [
-   "other"
+   "AI"
   ],
-  "companies": [
-   "RIL"
-  ],
-  "geography": "India",
+  "companies": [],
+  "geography": "Global",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/stock-market-news/diwali-fireworks-nifty-surges-over-8-in-nov-2-6-week-best-in-6-yrs-after-us-midterm-election-results-ril-soars-13-11794030783772.html",
+  "url": "https://www.livemint.com/market/stock-market-news/us-stock-markets-nasdaq-100-5-6-pc-worst-week-since-covid-2020-s-p-500-3-7-pc-correction-investors-sell-off-ai-tech-11795223650589.html",
   "source": "Mint Markets",
-  "score": 7,
-  "date": "2026-11-07T12:07:46+05:30",
+  "score": 8,
+  "date": "2026-11-21T07:06:43+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-07T13:52:37.770620+05:30"
+  "first_seen": "2026-11-21T14:45:16.673588+05:30"
  },
  {
-  "id": "f6be2ced1381",
-  "headline": "Angel One surpasses Zerodha in active clients",
-  "the_number": "6.99 million",
-  "why_it_matters": "Competitive shifts disrupt market share rankings among India's top retail stockbrokers.",
-  "founder_takeaway": "Aggressive customer acquisition can unseat entrenched market incumbents.",
+  "id": "30c734126857",
+  "headline": "Sebi Proposes Easing Disclosure Rules for Foreign Funds",
+  "the_number": "-",
+  "why_it_matters": "Relaxing FPI norms aligns India with global standards to spur inflows.",
+  "founder_takeaway": "Easier foreign portfolio rules can expand downstream institutional liquidity.",
   "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Angel One",
-   "Zerodha",
-   "Groww"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://www.business-standard.com/companies/news/angel-one-overtakes-zerodha-to-become-2nd-largest-broker-by-active-clients-126110601754_1.html",
-  "source": "Business Standard Companies",
-  "score": 7,
-  "date": "2026-11-06T19:29:01+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-07T13:52:37.770620+05:30"
- },
- {
-  "id": "14d7cdbd90da",
-  "headline": "OYO parent PRISM reports Q1 PAT of ₹353 Cr",
-  "the_number": "₹353 Cr",
-  "why_it_matters": "A 17% YoY net profit rise strengthens PRISM's upcoming IPO prospects.",
-  "founder_takeaway": "Consistent quarterly profitability sets a strong base for public listings.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
+  "category": "Policy",
   "sector_tags": [
    "other"
   ],
   "companies": [
-   "PRISM",
-   "OYO"
+   "Sebi"
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://inc42.com/buzz/oyo-parent-prisms-profit-jumps-17-yoy-to-%e2%82%b9353-cr-in-q1/",
-  "source": "Inc42",
-  "score": 7,
-  "date": "2026-11-07T01:30:12+00:00",
+  "url": "https://www.livemint.com/market/sebi-proposes-easing-disclosure-rules-for-foreign-funds-11795183389431.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-11-20T20:15:39+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-07T13:52:37.770620+05:30"
+  "first_seen": "2026-11-21T14:45:16.673588+05:30"
  },
  {
-  "id": "bbb0da7d5449",
-  "headline": "Deepinder Goyal Defends Wearable Device Temple Investment",
-  "the_number": "$30 million",
-  "why_it_matters": "Deepinder Goyal invested $20M personal capital into wearable device Temple.",
-  "founder_takeaway": "Backing your product with personal capital signals strong conviction.",
+  "id": "e07dbcb25f3c",
+  "headline": "Noel Tata Challenges Board Process on Chandra's Reappointment",
+  "the_number": "-",
+  "why_it_matters": "Governance disputes at Tata Trusts could disrupt strategic decision-making.",
+  "founder_takeaway": "Ensure ironclad board meeting protocols to prevent internal governance disputes.",
   "sentiment": "Neutral",
-  "category": "Funding",
+  "category": "Big Tech/AI",
   "sector_tags": [
-   "healthtech"
+   "other"
   ],
   "companies": [
-   "Temple"
+   "Tata Trusts"
   ],
   "geography": "India",
-  "amount_usd_m": 30,
-  "impact": "Watch",
+  "amount_usd_m": null,
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://yourstory.com/2026/11/deepinder-goyal-defends-wearable-device-temple",
-  "source": "YourStory",
-  "score": 7,
-  "date": "2026-11-06T07:30:46+00:00",
+  "url": "https://www.business-standard.com/companies/news/noel-tata-questions-chandra-s-reappointment-seeks-recording-of-sep-meeting-126112100399_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-11-21T14:09:45+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-07T13:52:37.770620+05:30"
+  "first_seen": "2026-11-21T14:45:16.673588+05:30"
  },
  {
-  "id": "d3f34f59395a",
-  "headline": "ADNOC Signs 10-Year LNG Deal with Gujarat Energy",
-  "the_number": "10-year",
-  "why_it_matters": "Secures long-term energy supply for Gujarat's energy infrastructure.",
-  "founder_takeaway": "Long-term supply agreements help stabilize core operational dependencies.",
-  "sentiment": "Bullish",
+  "id": "162ad4723968",
+  "headline": "RBI Expected to Raise Rates in December and February",
+  "the_number": "-",
+  "why_it_matters": "Impending rate hikes signal prolonged higher borrowing costs across India.",
+  "founder_takeaway": "Plan runway conservatively against tightening domestic monetary conditions.",
+  "sentiment": "Bearish",
   "category": "Macro",
   "sector_tags": [
    "other"
   ],
   "companies": [
-   "ADNOC",
-   "Gujarat Energy"
+   "RBI"
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmVHTnM2czN3MDBGVkg1X01kRC01WUVLOXZYU2lGWW1vWENPOElfRW5mUnBVUTZfQm81WnY2SEdRNGxqWm1SdjRwS0xMV3lEZkJhUkRJaVlsRDBLc1Vzbm1zWmExRUJKYlNqVkRZNkVqZVlXY3F2MDVnbjd2azFJdWFraEN1RkRJMzBOYjE5bF8zTVprOUZaTmhJZ2h0SWdLMVFhZ0ptWlptZnU1YXVkNHVwOTh0WGh6b3JV?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0htMDdyM3NhYkRZMHFIU3V0VUhoNWs4ekl2elpzNWFnamZFZ0dXdnBseDNReXV6eklUTVZtUURSUlA2cWlRcFE5WXJMR3NDYUVsSkN6U2hRcGVyOW5GRzhmOWZvZG9IcjRxekRaYVk0MC1hdmVITnFMeE1QckpwSlpmS3daODhXREk5VDNxcGZ2bms0RFg1b2JPNmVxM09nWFhLWWczakZjSDBDS0VWTUNpcDBWc1E?oc=5",
   "source": "Reuters (Google News)",
-  "score": 7,
-  "date": "2026-11-06T06:01:00+00:00",
+  "score": 8,
+  "date": "2026-11-20T10:55:22+00:00",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-07T13:52:37.770620+05:30"
- },
- {
-  "id": "b9a4b658fcb3",
-  "headline": "Invest India Targets $8-9 Billion FDI in FY27",
-  "the_number": "$8-9 billion",
-  "why_it_matters": "Aimed at driving foreign direct investment across regional districts.",
-  "founder_takeaway": "Expanding into smaller districts could attract foreign investment support.",
-  "sentiment": "Bullish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Invest India"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0o5djRvY0NROUxWb3lPSldkSGg5NFR2WU4tekJvRFFIcWNVcTlUdWdIWURTcFctZGpnRm02ZkpVRXJhVnZwemY4dUNxSmVhclJ1WXFhaE5UelBBZTM0bUFnazJjc3NKN1BYZV82c2lmTkcyZk1Xdkl3TkpDaU5ZYl9SeFJDTFZ0ajU2dmdRLVpJRkVWUkZZRWlQN3BtZmxtNDFnM25mZEVSd3hfemxkaXk2UlpBODJ1NFhfc3pEMXpkOEtPY3hveXlVenpCVE5sUkHSAd8BQVVfeXFMTzBqOVJQWko1R2tKV19Vd1pCNVhDd1BqVmZ3R3JJN2hZcGU1Xzh3Q3B3SndObmd3MEJ0d0d2T28tMW1zRGtRaU1JNi1hRE1ZNHpGTmFySFR3T0tlOHJYZy01clVsRTgxUE9KWEk3M0Q1dXBPMllNMzRYT1lmQnYwcWRiWURWTlp6U3JqN21BNG52YzF3aE12aTBOa1VpbzZjMjhaWndpQ2F5VzlXSi1GdktBY1NoanlnUUl3WGxkUVJFeWxidlVSNXR3cjlUdGoxcWZ0YU81anEzYkdUUFZfNA?oc=5",
-  "source": "Startup India / DPIIT (Google News)",
-  "score": 7,
-  "date": "2026-11-06T14:02:09+00:00",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-07T13:52:37.770620+05:30"
+  "first_seen": "2026-11-21T14:45:16.673588+05:30"
  },
  {
   "id": "3e612028f83f",
@@ -15028,5 +14901,244 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-21T02:53:53.747810+05:30"
+ },
+ {
+  "id": "c1f1eeb2ef4e",
+  "headline": "Meesho Informs Exchange Regarding New Acquisition",
+  "the_number": "-",
+  "why_it_matters": "Meesho signals ongoing inorganic expansion through market acquisition disclosures.",
+  "founder_takeaway": "Strategic acquisitions offer fast avenues to scale capabilities or footprint.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "quick commerce",
+   "other"
+  ],
+  "companies": [
+   "Meesho Limited"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Official",
+  "covered_by_count": 1,
+  "url": "https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_26469_WebXMLFile_20261121_134750992.xml",
+  "source": "NSE Announcements",
+  "score": 7,
+  "date": "2026-11-21T13:47:51+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": "archive/2026/11/c1f1eeb2ef4e.html",
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T14:45:16.673588+05:30"
+ },
+ {
+  "id": "4ec1897fe095",
+  "headline": "Oracle confirms OpenAI infrastructure deal is fully funded",
+  "the_number": "3.3%",
+  "why_it_matters": "Secured compute funding underpins continued large-scale AI infrastructure commitments.",
+  "founder_takeaway": "Fully funding infrastructure deals reassures enterprise partners and markets.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI",
+   "SaaS"
+  ],
+  "companies": [
+   "Oracle",
+   "OpenAI"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/technology/oracle-says-openai-infrastructure-deal-is-fully-funded-after-final-capital-raise/articleshow/136044027.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-11-21T09:10:45+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T14:45:16.673588+05:30"
+ },
+ {
+  "id": "09a4d8932e1b",
+  "headline": "YouTube nears $3 billion settlement over youth addiction lawsuits",
+  "the_number": "$3 billion",
+  "why_it_matters": "Major platform liability and mandatory youth safeguards signal heightened regulation.",
+  "founder_takeaway": "Proactively build product safety features to preempt costly legal liabilities.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "YouTube"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/technology/youtube-nears-3-billion-settlement-with-us-school-districts-over-addiction-claims-bloomberg-news/articleshow/136043430.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-11-21T08:25:38+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T14:45:16.673588+05:30"
+ },
+ {
+  "id": "cef1bd3053c9",
+  "headline": "SoftBank explored and dropped $1 trillion SK Hynix buyout",
+  "the_number": "$1 trillion",
+  "why_it_matters": "Massive AI chip demand drives ambitious semiconductor acquisition considerations.",
+  "founder_takeaway": "Assess structural feasibility early before pursuing mega-scale strategic consolidation.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "SoftBank",
+   "SK Hynix"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 1000000,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/technology/softbanks-son-explored-1-trillion-buyout-of-sk-hynix-the-information/articleshow/136043315.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-11-21T08:16:30+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T14:45:16.673588+05:30"
+ },
+ {
+  "id": "7ae552bbd98a",
+  "headline": "GTA VI breaks records with $3.79 billion first-day sales",
+  "the_number": "$3.79 billion",
+  "why_it_matters": "Blockbuster entertainment IP generates historic consumer demand and day-one monetization.",
+  "founder_takeaway": "Long-term brand equity and anticipation can deliver record-setting commercial launches.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Rockstar Games"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/technology/grand-theft-auto-vi-sets-record-with-3-79b-in-first-day-retail-sales-rockstar-games-reports/articleshow/136043226.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-11-21T08:07:15+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T14:45:16.673588+05:30"
+ },
+ {
+  "id": "7f1fa57fc114",
+  "headline": "NSE reaches ₹5.6 lakh crore market cap, overtaking Nasdaq",
+  "the_number": "₹5.56 lakh crore",
+  "why_it_matters": "Surging domestic market activity propels NSE to the world's fifth-largest exchange.",
+  "founder_takeaway": "Domestic capital market infrastructure can scale into global industry leaders.",
+  "sentiment": "Bullish",
+  "category": "Earnings",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "NSE"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/nse-record-with-rs-5-6-lakh-cr-mcap-overtakes-hkex-nasdaq-to-become-worlds-5th-largest-listed-exchange-top-5-list-11795168082205.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-20T16:17:15+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T14:45:16.673588+05:30"
+ },
+ {
+  "id": "b7f1909d3dee",
+  "headline": "IndusInd Bank fires Kathpalia, invoking clawback over accounting discrepancies",
+  "the_number": "2020",
+  "why_it_matters": "Strict governance enforcement targets senior leadership following internal accounting probes.",
+  "founder_takeaway": "Maintain rigorous accounting controls; executive clawbacks carry severe consequences.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "IndusInd Bank"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/people/indusind-bank-invokes-clawback-provisions-against-kathpalia-from-2020-126112001445_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-20T23:23:25+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T14:45:16.673588+05:30"
+ },
+ {
+  "id": "f94ff5db36b5",
+  "headline": "Flipkart festive sale shift creates 100-bps drag on Walmart",
+  "the_number": "100-basis-point",
+  "why_it_matters": "E-commerce festive timing shifts heavily impact parent corporate quarterly earnings.",
+  "founder_takeaway": "Shifts in promotional event timing distort quarterly revenue reporting comparisons.",
+  "sentiment": "Neutral",
+  "category": "Earnings",
+  "sector_tags": [
+   "quick commerce",
+   "D2C"
+  ],
+  "companies": [
+   "Flipkart",
+   "Walmart"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/flipkart-s-big-billion-days-sale-timing-weighs-on-walmart-s-q3-growth-126112000289_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-20T10:47:14+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-21T14:45:16.673588+05:30"
  }
 ]
