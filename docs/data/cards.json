@@ -1464,6 +1464,38 @@
   "first_seen": "2026-11-21T02:53:53.747810+05:30"
  },
  {
+  "id": "c790e0bf107e",
+  "headline": "Amazon Eyes $7.5B Deal for AI Startup Decart",
+  "the_number": "$7.5 billion",
+  "why_it_matters": "AWS seeks to improve chip efficiency and challenge Nvidia's dominance.",
+  "founder_takeaway": "Efficiency-boosting AI infrastructure software commands premium valuations.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Amazon",
+   "Decart",
+   "Nvidia",
+   "AWS"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 7500,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/amazon-eyes-7-5-billion-decart-deal-to-boost-ai-chip-efficiency-challenge-nvidia-5-things-to-know-11795310250674.html",
+  "source": "Mint Companies",
+  "score": 9,
+  "date": "2026-11-22T07:20:46+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-11-22T14:54:28.989512+05:30"
+ },
+ {
   "id": "1f4062bdc204",
   "headline": "MakeMyTrip India Secures SEBI Approval for IPO",
   "the_number": "-",
@@ -7508,122 +7540,63 @@
   "first_seen": "2026-11-22T01:41:40.024759+05:30"
  },
  {
-  "id": "43e3f3deb606",
-  "headline": "UAE Court Holds NMC Health Founder Liable for Fraud",
-  "the_number": "$5.397 billion",
-  "why_it_matters": "UAE court establishes multi-billion-dollar liability for fraudulent trading and hidden borrowings.",
-  "founder_takeaway": "Fraudulent trading and hidden debt bring catastrophic personal liability.",
+  "id": "e56eca35b9c0",
+  "headline": "Anthropic Shares Fall 9% Following Market Debut",
+  "the_number": "9%",
+  "why_it_matters": "Signals growing investor skepticism regarding stretched 40-times-sales AI valuations.",
+  "founder_takeaway": "Public markets demand sustainable revenue multiples over pure AI hype.",
   "sentiment": "Bearish",
-  "category": "Policy",
+  "category": "IPO",
   "sector_tags": [
-   "healthtech",
-   "other"
+   "AI"
   ],
   "companies": [
-   "NMC Health"
+   "Anthropic",
+   "OpenAI"
   ],
   "geography": "Global",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/nmc-healthcare-founder-br-shetty-held-liable-for-5-4-billion-fraud-in-abu-dhabi-all-you-need-to-know-about-the-case-11794107578149.html",
-  "source": "Mint Companies",
-  "score": 7,
-  "date": "2026-11-08T09:01:13+05:30",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-post-debut-stumble-delivers-reality-check-for-ai-trade/articleshow/136066633.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-11-22T09:00:15+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-08T14:08:10.208545+05:30"
+  "first_seen": "2026-11-22T14:54:28.989512+05:30"
  },
  {
-  "id": "0ecf17f74897",
-  "headline": "ED Raids CoinDCX and Delta Exchange Over FEMA Violations",
+  "id": "2c8878c8a387",
+  "headline": "California Investigates Nvidia Over China Chip Sales Disclosures",
   "the_number": "-",
-  "why_it_matters": "Enforcement Directorate probes cross-border crypto derivatives and tokenised foreign stock transfers.",
-  "founder_takeaway": "Ensure strict cross-border foreign exchange compliance for digital assets.",
+  "why_it_matters": "Legal probe over misleading investors threatens potential civil or criminal penalties.",
+  "founder_takeaway": "Strict compliance in cross-border tech sales disclosures is critical.",
   "sentiment": "Bearish",
   "category": "Policy",
   "sector_tags": [
-   "fintech"
+   "AI"
   ],
   "companies": [
-   "CoinDCX",
-   "Delta Exchange"
+   "Nvidia"
   ],
-  "geography": "India",
+  "geography": "Global",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/costa-rica-shell-entity-and-unauthorised-foreign-transactions-what-ed-raids-at-coindcx-and-delta-exchange-found-11794103231236.html",
+  "url": "https://www.livemint.com/companies/news/more-trouble-for-nvidia-california-issues-subpoena-probe-to-look-at-potential-criminal-law-violations-what-we-know-11795314313192.html",
   "source": "Mint Companies",
-  "score": 7,
-  "date": "2026-11-08T07:49:25+05:30",
+  "score": 8,
+  "date": "2026-11-22T08:09:32+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-08T14:08:10.208545+05:30"
- },
- {
-  "id": "3b821354b6fa",
-  "headline": "Sebi Slashes Currency Derivatives Limits to Curb Rupee Speculation",
-  "the_number": "$5 million",
-  "why_it_matters": "Unhedged trading limits cut from $100M to ease rupee pressure.",
-  "founder_takeaway": "Regulatory changes can drastically curtail speculative trading access overnight.",
-  "sentiment": "Neutral",
-  "category": "Policy",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Sebi"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/will-sebi-s-new-rules-on-currency-derivatives-help-the-falling-rupee-11793955300780.html",
-  "source": "Mint Markets",
-  "score": 7,
-  "date": "2026-11-08T07:00:11+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-08T14:08:10.208545+05:30"
- },
- {
-  "id": "dc71315ca11c",
-  "headline": "Adani Enterprises Plans ₹35,000-₹40,000 Cr Annual Capex",
-  "the_number": "Rs 35,000 crore",
-  "why_it_matters": "Conglomerate targets heavy infrastructure expansion across airports and data centres.",
-  "founder_takeaway": "Massive capital expenditure drives long-term scale in core infrastructure.",
-  "sentiment": "Bullish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Adani Enterprises"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/companies/news/adani-enterprises-plans-35-000-40-000-cr-annual-capex-in-next-two-years-126110800133_1.html",
-  "source": "Business Standard Companies",
-  "score": 7,
-  "date": "2026-11-08T10:52:53+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-08T14:08:10.208545+05:30"
+  "first_seen": "2026-11-22T14:54:28.989512+05:30"
  },
  {
   "id": "16d32027c80a",
@@ -15005,5 +14978,156 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-22T01:41:40.024759+05:30"
+ },
+ {
+  "id": "3a57d1dd2fab",
+  "headline": "Private InvITs Plan Rs 17,000 Crore Public Offerings",
+  "the_number": "Rs 17,000 crore",
+  "why_it_matters": "Mobilises long-term capital for infrastructure expansion from broader investor pools.",
+  "founder_takeaway": "Public trusts offer scaled alternative financing for heavy infrastructure.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Brookfield",
+   "Investcorp"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/invit-ipo-rush-gathers-pace-4-5-private-trusts-likely-to-go-public-by-mar-2027/articleshow/136069094.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-11-22T12:15:10+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-22T14:54:28.989512+05:30"
+ },
+ {
+  "id": "b47249f5ebe2",
+  "headline": "CrowdStrike Talks with Zscaler Highlight Cybersecurity Consolidation",
+  "the_number": "-",
+  "why_it_matters": "Rising AI-powered cyber threats drive multibillion-dollar defensive mergers.",
+  "founder_takeaway": "Consolidation speeds up as enterprise clients demand unified security suites.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "SaaS",
+   "AI"
+  ],
+  "companies": [
+   "CrowdStrike",
+   "Zscaler"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/crowdstrikes-talks-with-zscaler-show-ai-led-cyber-consolidation-11795289624175.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-22T01:03:43+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-22T14:54:28.989512+05:30"
+ },
+ {
+  "id": "673a42e02528",
+  "headline": "Mahanadi Coalfields IPO Premium Plunges 92% Amid Weak Bids",
+  "the_number": "92%",
+  "why_it_matters": "Subdued near-term retail demand threatens listing gains despite strong cash flows.",
+  "founder_takeaway": "Solid fundamentals may still face weak short-term public market appetite.",
+  "sentiment": "Bearish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Mahanadi Coalfields"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/ipo/mahanadi-coalfields-ipo-gmp-check-down-92-from-rs-9-25-to-rs-0-7-issue-struggles-to-attract-bids-subscribe-or-avoid-11795252154826.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-21T15:56:10+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-22T14:54:28.989512+05:30"
+ },
+ {
+  "id": "9b55638bc866",
+  "headline": "Atomberg Partners with Voltas to Build AC Compressors",
+  "the_number": "-",
+  "why_it_matters": "Strengthens manufacturing capabilities ahead of consumer appliance startup's planned IPO.",
+  "founder_takeaway": "Strategic joint ventures with legacy leaders de-risk capital-heavy manufacturing.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "D2C",
+   "other"
+  ],
+  "companies": [
+   "Atomberg",
+   "Voltas"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/atomberg-voltas-execute-jv-agreement-to-build-ac-compressors/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-11-21T20:41:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-22T14:54:28.989512+05:30"
+ },
+ {
+  "id": "9148533afc9b",
+  "headline": "Noel Tata Requests Tata Sons Board Meeting Recordings",
+  "the_number": "-",
+  "why_it_matters": "Highlights governance and oversight discussions within India's largest conglomerate holding firm.",
+  "founder_takeaway": "Rigorous board documentation is essential for transparent corporate governance.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Trusts",
+   "Tata Sons"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://yourstory.com/2026/11/noel-seeks-tata-sons-board-meet-recordings-objects",
+  "source": "YourStory",
+  "score": 7,
+  "date": "2026-11-21T08:17:30+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-22T14:54:28.989512+05:30"
  }
 ]
