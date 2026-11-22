@@ -7599,62 +7599,34 @@
   "first_seen": "2026-11-22T14:54:28.989512+05:30"
  },
  {
-  "id": "16d32027c80a",
-  "headline": "Global AI Sell-Off Drives ₹46,000 Crore FPI Inflow to India",
-  "the_number": "₹45,970 crore",
-  "why_it_matters": "Global capital rotates from AI stocks into Indian equities boosting markets.",
-  "founder_takeaway": "Capital rotation favors resilient Indian markets over overheated AI themes.",
-  "sentiment": "Bullish",
-  "category": "Macro",
+  "id": "d9d4e1d5dbc9",
+  "headline": "Anthropic Runs Unusual IPO Process Chafing Investment Bankers",
+  "the_number": "-",
+  "why_it_matters": "Nontraditional listing processes disrupt conventional investment banking practices.",
+  "founder_takeaway": "Unconventional IPO routes can cause tension with investment bankers.",
+  "sentiment": "Neutral",
+  "category": "IPO",
   "sector_tags": [
-   "AI",
-   "other"
-  ],
-  "companies": [],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/stock-market-news/global-ai-sell-off-turns-into-indias-gain-as-fpis-pump-rs-46-000-crore-in-5-sessions-will-the-buying-spree-sustain-11794135940793.html",
-  "source": "Mint Markets",
-  "score": 7,
-  "date": "2026-11-08T17:01:31+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-08T19:54:34.650078+05:30"
- },
- {
-  "id": "fe57c57eb0c2",
-  "headline": "Angel One Becomes India's Second-Largest Broker by Active Clients",
-  "the_number": "69.98 lakh",
-  "why_it_matters": "Angel One surpasses Zerodha in active clients, shifting brokerage leadership.",
-  "founder_takeaway": "Aggressive client acquisition can displace entrenched market leaders over time.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "fintech"
+   "AI"
   ],
   "companies": [
-   "Angel One",
-   "Zerodha"
+   "Anthropic",
+   "SpaceX"
   ],
-  "geography": "India",
+  "geography": "Global",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://yourstory.com/2026/11/angel-one-becomes-indias-second-largest-broker-by-active-clients",
-  "source": "YourStory",
-  "score": 7,
-  "date": "2026-11-08T13:06:32+00:00",
+  "url": "https://www.livemint.com/companies/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-11795345268760.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-11-22T16:31:08+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-08T19:54:34.650078+05:30"
+  "first_seen": "2026-11-22T21:00:17.389312+05:30"
  },
  {
   "id": "0ace581ee8e4",
@@ -15129,5 +15101,35 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-22T14:54:28.989512+05:30"
+ },
+ {
+  "id": "cf80166ae0fa",
+  "headline": "Tata Sons Board Revisits Listing Debate Amid Internal Rift",
+  "the_number": "-",
+  "why_it_matters": "Internal disagreements between trusts and board complicate high-profile listing decisions.",
+  "founder_takeaway": "Maintain leadership alignment on listing plans to avoid governance disputes.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Sons",
+   "Tata Trusts"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/tata-sons-board-meeting-listing-issue-11795342582808.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-22T16:05:50+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-22T21:00:17.389312+05:30"
  }
 ]
