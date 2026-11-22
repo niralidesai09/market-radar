@@ -1496,6 +1496,37 @@
   "first_seen": "2026-11-22T14:54:28.989512+05:30"
  },
  {
+  "id": "5cb53fc05f7f",
+  "headline": "Tata Steel Agrees ₹28,000 Cr Deal With APL Apollo",
+  "the_number": "₹28,000 cr",
+  "why_it_matters": "Tata Steel transfers its tubes business and Tata Steel Colors unit.",
+  "founder_takeaway": "Divesting non-core business units can unlock massive corporate value.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Steel",
+   "APL Apollo Tubes",
+   "Tata Steel Colors"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.business-standard.com/companies/news/tata-steel-board-clears-28k-cr-sale-of-two-businesses-to-apl-apollo-tubes-126112200721_1.html",
+  "source": "Business Standard Companies",
+  "score": 9,
+  "date": "2026-11-22T21:13:02+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-23T01:55:40.377837+05:30"
+ },
+ {
   "id": "1f4062bdc204",
   "headline": "MakeMyTrip India Secures SEBI Approval for IPO",
   "the_number": "-",
@@ -15131,5 +15162,37 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-22T21:00:17.389312+05:30"
+ },
+ {
+  "id": "a285b673a33c",
+  "headline": "Sebi Proposes Shifting Exchange MD Tenures to Term Limits",
+  "the_number": "65",
+  "why_it_matters": "Proposed regulatory revisions impact leadership tenures at NSE and BSE.",
+  "founder_takeaway": "Regulatory governance shifts can disrupt established executive tenure plans.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech",
+   "other"
+  ],
+  "companies": [
+   "Sebi",
+   "NSE",
+   "BSE"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/nse-bse-chief-tenure-rules-sebi-proposal-11795333434935.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-22T15:08:47+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-23T01:55:40.377837+05:30"
  }
 ]
