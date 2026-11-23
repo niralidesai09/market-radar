@@ -1,34 +1,5 @@
 [
  {
-  "id": "37a11748d113",
-  "headline": "OpenAI Secures $11B Funding at $1.25T Valuation",
-  "the_number": "$11 billion",
-  "why_it_matters": "OpenAI hits historic valuation, reinforcing massive investor appetite for frontier AI models.",
-  "founder_takeaway": "Frontier AI development requires unprecedented capital to sustain growth.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "OpenAI"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 11000.0,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlpNRm5XVy11c3hLY0NRdjh2T3VmOE1LOWQ2LXlvcFhmZlFJYkQya3N3QWxud2UteUZpWVlCTXVHUXZZTjIwRlVQaUhqOGhyM2lDaDJTSGcxMnE5MzhOZ1NHYlJIc1p5bHRxaVZjZDd4MFY2RWMtRkNlYkhSVkdpMlRBWi1PYUNmZGNydXZnOTZFMTFoOHR0azBpUlU1aHpVdFA4dlhCV0dDNm91VE0xSVg0bXZhcF9jaVAzcXYzaldOdw?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 10,
-  "date": "2026-11-08T15:12:57+00:00",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": true,
-  "first_seen": "2026-11-09T23:12:52.250377+05:30"
- },
- {
   "id": "027e0ac37066",
   "headline": "Anthropic Targets $1.4 Trillion Valuation in Planned Nasdaq IPO",
   "the_number": "$64.35 billion",
@@ -266,33 +237,35 @@
   "first_seen": "2026-11-20T21:46:38.699150+05:30"
  },
  {
-  "id": "13f4eae92136",
-  "headline": "Nvidia Board Probes CEO Jensen Huang Over Spy Allegations",
-  "the_number": "50-50",
-  "why_it_matters": "Leadership uncertainty at the AI chip giant threatens corporate stability.",
-  "founder_takeaway": "Personal conduct and national security issues can jeopardize founder leadership.",
-  "sentiment": "Bearish",
-  "category": "Big Tech/AI",
+  "id": "383d3562e2f8",
+  "headline": "CrowdStrike acquires Zscaler for $44 billion",
+  "the_number": "$44 billion",
+  "why_it_matters": "Massive cybersecurity consolidation aims to bolster enterprise AI agent defenses.",
+  "founder_takeaway": "Enterprise security is becoming an essential pillar for AI.",
+  "sentiment": "Neutral",
+  "category": "M&A",
   "sector_tags": [
+   "SaaS",
    "AI"
   ],
   "companies": [
-   "Nvidia"
+   "CrowdStrike",
+   "Zscaler"
   ],
   "geography": "Global",
-  "amount_usd_m": null,
+  "amount_usd_m": 44000,
   "impact": "Big Move",
   "source_badge": "Verified media",
-  "covered_by_count": 10,
-  "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+  "covered_by_count": 2,
+  "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
   "source": "TechCrunch",
-  "score": 9,
-  "date": "2026-11-09T05:26:29+00:00",
+  "score": 10,
+  "date": "2026-11-23T16:20:11+00:00",
   "unc_number": false,
   "raw_impact": "Big Move",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-09T23:12:52.250377+05:30"
+  "first_seen": "2026-11-24T00:53:52.113840+05:30"
  },
  {
   "id": "55ff5cbc62ee",
@@ -1557,63 +1530,123 @@
   "first_seen": "2026-11-23T15:50:40.725656+05:30"
  },
  {
-  "id": "d9582357d049",
-  "headline": "PhysicsWallah Cuts Jobs via AI; Earmarks $20M M&A",
-  "the_number": "$20 Mn",
-  "why_it_matters": "Edtech leader leverages AI automation while managing offline profitability pressures.",
-  "founder_takeaway": "Deploy AI for internal efficiency while pursuing strategic inorganic growth.",
-  "sentiment": "Neutral",
-  "category": "Layoffs",
-  "sector_tags": [
-   "edtech",
-   "AI"
-  ],
-  "companies": [
-   "PhysicsWallah"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://entrackr.com/news/physicswallah-cites-ai-efficiencies-for-job-cuts-offline-biz-faces-profit-pressure-earmarks-20-mn-for-ma-12795872",
-  "source": "Entrackr",
-  "score": 8,
-  "date": "2026-11-09T15:32:20+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-09T23:12:52.250377+05:30"
- },
- {
-  "id": "f3c522ff77f3",
-  "headline": "Anthropic Purchases $3.4B in Natural Gas Turbines",
-  "the_number": "$3.4B",
-  "why_it_matters": "AI hyperscalers increasingly finance direct power infrastructure to secure energy.",
-  "founder_takeaway": "Compute scalability depends directly on securing dedicated energy generation infrastructure.",
-  "sentiment": "Neutral",
+  "id": "a73339fe1ad8",
+  "headline": "Nvidia brings back Jensen Huang as CEO",
+  "the_number": "-",
+  "why_it_matters": "Geopolitical probe continues while founder returns to stabilize Nvidia.",
+  "founder_takeaway": "Founders must prepare strong compliance oversight amid geopolitical scrutiny.",
+  "sentiment": "Bullish",
   "category": "Big Tech/AI",
   "sector_tags": [
    "AI"
   ],
   "companies": [
-   "Anthropic"
+   "Nvidia"
   ],
   "geography": "Global",
   "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 13,
+  "url": "https://www.livemint.com/companies/news/nvidia-brings-back-jensen-huang-as-ceo-amid-china-spy-affair-row-read-full-statement-11795443783057.html",
+  "source": "Mint Companies",
+  "score": 9,
+  "date": "2026-11-23T20:15:19+05:30",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-24T00:53:52.113840+05:30"
+ },
+ {
+  "id": "e483a8800952",
+  "headline": "Amazon acquires Decart tech for $7.5 billion",
+  "the_number": "$7.5 billion",
+  "why_it_matters": "Amazon secures optimization technology to accelerate its Trainium chip launch.",
+  "founder_takeaway": "Specialized AI optimization talent commands premium acquisition prices.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Amazon",
+   "Decart"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 7500,
   "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+  "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
   "source": "TechCrunch",
-  "score": 8,
-  "date": "2026-11-09T16:56:54+00:00",
+  "score": 9,
+  "date": "2026-11-23T17:14:23+00:00",
   "unc_number": false,
-  "raw_impact": "Notable",
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-11-24T00:53:52.113840+05:30"
+ },
+ {
+  "id": "15da0cbca7e4",
+  "headline": "Sierra hits $30B valuation after Series F",
+  "the_number": "$1.75 billion",
+  "why_it_matters": "Enterprise customer experience AI demand pushes valuation to $30 billion.",
+  "founder_takeaway": "Enterprise AI applications are capturing massive capital and rapid valuations.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI",
+   "SaaS"
+  ],
+  "companies": [
+   "Sierra"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 1750,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+  "source": "TechCrunch",
+  "score": 9,
+  "date": "2026-11-23T14:43:03+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-11-24T00:53:52.113840+05:30"
+ },
+ {
+  "id": "6dc434a80c86",
+  "headline": "Tata Steel selling tubes business for $3B",
+  "the_number": "$3 billion",
+  "why_it_matters": "Tata Steel divests key downstream units to APL Apollo.",
+  "founder_takeaway": "Divesting non-core business lines unlocks capital for core strategies.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Steel",
+   "APL Apollo"
+  ],
+  "geography": "India",
+  "amount_usd_m": 3000,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVpWcGJLY3JCOXlyRUZaR3p4MmNSU3V3Qm12b0N1aG5IcC00dDVJSnVsUFZ6dnU3VE5CWVZFVUc0ajhjZEgtRHFXRWVjUDQwTkwzTnJPVFlsZzJ3MVFOVXRPM3Rmc3o5ekZJci1QQ21jQWR4Z2dLQjdsSTZsRU8xNS1JMThzZTJ5SnZ3alpINjhUT05Hb0ZWNUdBUXNCc3l0OUZSZDlveW5pV0s4dTE0ZC1NeG9nS21zUGw2ZE94MA?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 9,
+  "date": "2026-11-22T18:35:50+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-09T23:12:52.250377+05:30"
+  "first_seen": "2026-11-24T00:53:52.113840+05:30"
  },
  {
   "id": "bae2bc0639ab",
@@ -7718,238 +7751,152 @@
   "first_seen": "2026-11-23T15:50:40.725656+05:30"
  },
  {
-  "id": "9938bf0f38c7",
-  "headline": "Google Plans In-House Chip Variants; Shares Rise 2%",
-  "the_number": "2%",
-  "why_it_matters": "Custom silicon diversification bolsters Google's competitive edge against chip suppliers.",
-  "founder_takeaway": "Vertical integration of core hardware can significantly reduce platform dependency.",
+  "id": "84c263db14c5",
+  "headline": "US stocks rally as Huang returns to Nvidia",
+  "the_number": "6%",
+  "why_it_matters": "Major indexes surge on renewed confidence in mega-cap tech leadership.",
+  "founder_takeaway": "Macro equity markets remain closely tied to AI bellwethers.",
   "sentiment": "Bullish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Google",
-   "Alphabet"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://economictimes.indiatimes.com/tech/technology/google-to-introduce-two-variants-of-in-house-chips-bloomberg-news/articleshow/135682947.cms",
-  "source": "Economic Times Tech",
-  "score": 7,
-  "date": "2026-11-09T18:26:44+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-09T23:12:52.250377+05:30"
- },
- {
-  "id": "90ea8f385763",
-  "headline": "BDR Pharma Buys Majority Stake in Acme Business",
-  "the_number": "$250 million",
-  "why_it_matters": "Consolidation in pharmaceutical formulations offers major exits for private equity investors.",
-  "founder_takeaway": "Strategic acquisitions can offer lucrative exits for existing investors.",
-  "sentiment": "Bullish",
-  "category": "M&A",
-  "sector_tags": [
-   "healthtech",
-   "other"
-  ],
-  "companies": [
-   "BDR Pharma",
-   "Acme",
-   "PAG"
-  ],
-  "geography": "India",
-  "amount_usd_m": 250.0,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/bdr-pharma-buys-majority-stake-in-acme-s-oral-solids-formulations-business-11794231899041.html",
-  "source": "Mint Companies",
-  "score": 7,
-  "date": "2026-11-09T19:57:50+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-09T23:12:52.250377+05:30"
- },
- {
-  "id": "4cff3c7293a0",
-  "headline": "Wall Street Rebounds While Nvidia Stock Plunges 9%",
-  "the_number": "9%",
-  "why_it_matters": "Tech markets can decouple from single-stock executive leadership turmoil.",
-  "founder_takeaway": "Broader market trends can overcome individual company leadership crises.",
-  "sentiment": "Neutral",
   "category": "Macro",
   "sector_tags": [
-   "AI"
+   "AI",
+   "other"
   ],
   "companies": [
    "Nvidia"
   ],
   "geography": "Global",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/stock-market-news/wall-street-bounces-back-from-ai-sell-off-nasdaq-rallies-over-3-but-nvidia-plunges-9-on-jensen-huang-controversy-11794238373887.html",
-  "source": "Mint Markets",
-  "score": 7,
-  "date": "2026-11-09T21:19:00+05:30",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-meta-anthropic-amd-micron-tesla-ai-chip-earnings-fed-rate-treasury-yield-news-23rd-november-2026/liveblog/136104474.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-11-23T18:42:48+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-09T23:12:52.250377+05:30"
+  "first_seen": "2026-11-24T00:53:52.113840+05:30"
  },
  {
-  "id": "905309841fe4",
-  "headline": "Eternal Shares Rebound 71% Backed by Blinkit Growth",
-  "the_number": "71%",
-  "why_it_matters": "Quick commerce margin expansion and network growth drive public market outperformance.",
-  "founder_takeaway": "Improving margins alongside expansion builds strong public market trust.",
+  "id": "8e4d382bf12a",
+  "headline": "Adani Airport raises $300M from 360 ONE",
+  "the_number": "$300 million",
+  "why_it_matters": "Funding backs expansion targeting 200 million passenger capacity.",
+  "founder_takeaway": "Institutional capital backs operators building long-term infrastructure capacity.",
   "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "quick commerce"
-  ],
-  "companies": [
-   "Eternal",
-   "Swiggy",
-   "Blinkit"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/eternal-shares-rebound-over-70-from-march-lows-emerge-as-top-nifty-50-recovery-stock-what-drove-the-rally-11794234112702.html",
-  "source": "Mint Markets",
-  "score": 7,
-  "date": "2026-11-09T20:17:23+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-09T23:12:52.250377+05:30"
- },
- {
-  "id": "fc9e64d837de",
-  "headline": "HSBC Upgrades Indian Equities to Overweight Rating",
-  "the_number": "-",
-  "why_it_matters": "Global institutional backing signals strong valuation appeal and domestic corporate strength.",
-  "founder_takeaway": "Strong domestic credit and earnings attract foreign institutional capital.",
-  "sentiment": "Bullish",
-  "category": "Macro",
+  "category": "Funding",
   "sector_tags": [
    "other"
   ],
   "companies": [
-   "HSBC"
+   "Adani Airport Holdings Ltd",
+   "360 ONE Asset"
+  ],
+  "geography": "India",
+  "amount_usd_m": 300,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-airport-raises-300-mn-from-360-one-asset-taking-total-equity-infusion-to-1-35-bn/articleshow/136104118.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-11-23T18:41:12+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-24T00:53:52.113840+05:30"
+ },
+ {
+  "id": "a20f30abd48c",
+  "headline": "Noel Tata Pushes Tata Sons Board Meeting to November 30",
+  "the_number": "-",
+  "why_it_matters": "Tata Sons' board will discuss mandatory listing versus remaining private.",
+  "founder_takeaway": "Shareholder and board alignment is crucial during major liquidity events.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Sons"
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/markets/news/hsbc-upgrades-indian-equities-to-overweight-cuts-china-to-neutral-126110901244_1.html",
-  "source": "Business Standard Markets",
-  "score": 7,
-  "date": "2026-11-09T20:37:33+05:30",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/companies/news/noel-tatas-objection-pushes-tata-sons-board-meeting-to-30-november-11795440715458.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-11-23T20:33:32+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-09T23:12:52.250377+05:30"
+  "first_seen": "2026-11-24T00:53:52.113840+05:30"
  },
  {
-  "id": "c4a638c5d47d",
-  "headline": "Tesla to End Cybertruck Production and Refund Deposits",
-  "the_number": "-",
-  "why_it_matters": "Halting vehicle lines reveals product viability challenges in electric vehicle hardware.",
-  "founder_takeaway": "Cut non-viable product lines early despite sunk development costs.",
-  "sentiment": "Neutral",
-  "category": "Big Tech/AI",
+  "id": "16255add242a",
+  "headline": "Steadview Capital Sells 0.73% Stake in Lenskart",
+  "the_number": "Rs 920.58 crore",
+  "why_it_matters": "Societe Generale and Goldman Sachs buy into major Indian eyewear retailer.",
+  "founder_takeaway": "Secondary block deals offer healthy liquidity windows for early investors.",
+  "sentiment": "Bullish",
+  "category": "Funding",
   "sector_tags": [
-   "EV"
+   "D2C"
   ],
   "companies": [
-   "Tesla"
+   "Steadview Capital",
+   "Lenskart",
+   "Societe Generale",
+   "Goldman Sachs"
   ],
-  "geography": "Global",
+  "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
-  "source": "TechCrunch",
-  "score": 7,
-  "date": "2026-11-09T13:43:28+00:00",
+  "url": "https://entrackr.com/news/steadview-capital-sells-073-stake-in-lenskart-for-rs-921-cr-through-block-deal-12835966",
+  "source": "Entrackr",
+  "score": 8,
+  "date": "2026-11-23T22:04:48+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-09T23:12:52.250377+05:30"
+  "first_seen": "2026-11-24T00:53:52.113840+05:30"
  },
  {
-  "id": "7c2cc1f654ff",
-  "headline": "Indian Rupee Tracks AI Volatility and Crude Oil",
+  "id": "edb64b3fefbe",
+  "headline": "RBI Plans Broker App Integration for Retail Bonds",
   "the_number": "-",
-  "why_it_matters": "Emerging market currencies face pressure from global commodities and tech swings.",
-  "founder_takeaway": "Watch currency movements when planning foreign capital or imports.",
-  "sentiment": "Neutral",
-  "category": "Macro",
+  "why_it_matters": "Central bank looks to boost retail participation in government securities.",
+  "founder_takeaway": "Leveraging existing retail broker rails accelerates distribution of financial products.",
+  "sentiment": "Bullish",
+  "category": "Policy",
   "sector_tags": [
-   "other"
+   "fintech"
   ],
   "companies": [],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZUJncUFJYWZ3Z1JsUjB6SFJfakZ2SmVEVU1MbGpYVDNOQ3hTSTQ0c0QtUDRuUEQwdmFobUNpTjliaUhMZlEzTXBjZ20wb002Q2pDcWY1SjFIWUJEeHdmVDlLb1drV2NkRklMaWlkRjNnS3FmOG1SZ3Nza2dyWV9KcGJUMEhvVVZfLXN1QXVYRmtvYjh1Uk1yRXpZdVR4aEtxSFZfWmVHdTRibDNQU2RwVkdBMmZPWWM?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZDVVNm9WN25iWENZQWVmV0M4ak9rbGxCc0pKa3hNaVRlS1VSVTZTN2U1ckFMQk8wYTlkdUJ0QVFPb0F6a2lGZDVFT0tjUVNJS2J6VWhyekcya2dVdHd0X1NaQWl3M3lubEdhTDNVZlVDS1lILUx0SVh6RUgtdzJpT09hMFpiSS1UNGpNbmdKZjg2UGRKZkZUUGlXOGlNYlZDQUFVUWlWYWsxbWRLODdoUDlKaFhGX1lyZXJWZElNMjJEd0ZZazZWaFV2VEw?oc=5",
   "source": "Reuters (Google News)",
-  "score": 7,
-  "date": "2026-11-09T01:34:00+00:00",
+  "score": 8,
+  "date": "2026-11-23T08:26:10+00:00",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-09T23:12:52.250377+05:30"
- },
- {
-  "id": "90d7a32de28f",
-  "headline": "Indian Equities Reach 8-Month High on Falling Oil",
-  "the_number": "-",
-  "why_it_matters": "Declining crude prices provide immediate relief and upside to Indian markets.",
-  "founder_takeaway": "Macro commodity shifts can spark broader domestic market rallies.",
-  "sentiment": "Bullish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkM4eVdiUXpCc3Jld1NOSlRzMEFUeHcxb09peUlKS3ZFNTVLS2lwMFE0T0x1NV94RGowQjZEM0luODhHRFNZWWxaX2w2Y0Rqc1d5X2tXYlRwcU5wMVMxNHNjeWVXZEZSNkYtV1JEV29LeDE2bEVRMnNBbUVNNGV5cjNlYVYydGhKT3Awc2VVeEY3WTZSbWJjak43bmpTdmJjR2ZSU01fSXhCeFNVNXlYeGxPODh2UUlHQ1FRb3VNSzc?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 7,
-  "date": "2026-11-09T02:40:00+00:00",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-09T23:12:52.250377+05:30"
+  "first_seen": "2026-11-24T00:53:52.113840+05:30"
  },
  {
   "id": "1f63be046de8",
