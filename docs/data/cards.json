@@ -1527,95 +1527,34 @@
   "first_seen": "2026-11-23T01:55:40.377837+05:30"
  },
  {
-  "id": "1f4062bdc204",
-  "headline": "MakeMyTrip India Secures SEBI Approval for IPO",
-  "the_number": "-",
-  "why_it_matters": "Enables MakeMyTrip to tap domestic public markets and bolster parent cash reserves.",
-  "founder_takeaway": "Confidential IPO filings offer flexibility for Indian subsidiaries planning listings.",
+  "id": "6226a67d1fd8",
+  "headline": "Tata Steel moves to control APL Apollo for $1.67B",
+  "the_number": "$1.67 billion",
+  "why_it_matters": "Tata Steel aims to take controlling interest in APL Apollo.",
+  "founder_takeaway": "Large consolidations can reshape downstream supply chains rapidly.",
   "sentiment": "Bullish",
-  "category": "IPO",
+  "category": "M&A",
   "sector_tags": [
    "other"
   ],
   "companies": [
-   "MakeMyTrip",
-   "MMT India",
-   "ibibo Group Holdings"
+   "Tata Steel",
+   "APL Apollo"
   ],
   "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
+  "amount_usd_m": 1670.0,
+  "impact": "Big Move",
   "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/makemytrips-india-arm-gets-sebi-nod-to-float-ipo/articleshow/135675673.cms",
-  "source": "Economic Times Markets",
-  "score": 8,
-  "date": "2026-11-09T13:42:31+05:30",
+  "covered_by_count": 9,
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONzFNU0U5bFVBRS1yY3VLYUtfZ2ZWYWN4TnJTbi1Hd3hUaXJnaEkxY1lIcGJiVjU2ZVVqSk4yckRoOFJLTFhPVHBSdXJjWmFRb3BtaHNyNWx4QkY5VEM2cVR0LWt5NkE1X3pmZl9YUVdHS0ZGWTllOHJuQ0s4RXBJY0VxeUFJdHNDWU1Da3NlZEh2Tkc5LWJ2U0dxQ3M?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 9,
+  "date": "2026-11-23T02:23:00+00:00",
   "unc_number": false,
-  "raw_impact": "Notable",
+  "raw_impact": "Big Move",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-09T14:41:10.183903+05:30"
- },
- {
-  "id": "cdf43dcb0758",
-  "headline": "Jensen Huang Apologizes to Nvidia Staff Over Affair",
-  "the_number": "-",
-  "why_it_matters": "Personal scandal embroils the leader of the world's top AI chipmaker.",
-  "founder_takeaway": "Executive conduct and transparency critically impact corporate leadership and governance.",
-  "sentiment": "Neutral",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Nvidia"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 8,
-  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/no-excuse-for-what-i-did-read-jensen-huangs-full-letter-to-nvidia-staff-on-his-affair-with-alleged-chinese-spy/articleshow/135668537.cms",
-  "source": "Economic Times Tech",
-  "score": 8,
-  "date": "2026-11-09T08:26:07+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-09T14:41:10.183903+05:30"
- },
- {
-  "id": "4b688924cb90",
-  "headline": "Hindustan Coca-Cola Files for IPO as Pure OFS",
-  "the_number": "1.7 million",
-  "why_it_matters": "Thums Up outpaces Coke across ten states ahead of listing.",
-  "founder_takeaway": "Local market brands can outperform dominant global parent flagships.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Hindustan Coca-Cola Holdings",
-   "Coca-Cola",
-   "Jubilant Beverages"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/hindustan-coca-cola-ipo-filings-reveal-thums-up-is-outperforming-coke-across-10-key-indian-states-11794214255906.html",
-  "source": "Mint Companies",
-  "score": 8,
-  "date": "2026-11-09T14:34:45+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-09T14:41:10.183903+05:30"
+  "first_seen": "2026-11-23T15:50:40.725656+05:30"
  },
  {
   "id": "d9582357d049",
@@ -7660,92 +7599,123 @@
   "first_seen": "2026-11-22T21:00:17.389312+05:30"
  },
  {
-  "id": "0ace581ee8e4",
-  "headline": "Canva Cuts 1,271 Workers With Generous Severance",
-  "the_number": "22%",
-  "why_it_matters": "Restructuring cuts nearly a quarter of staff despite positive severance reception.",
-  "founder_takeaway": "Generous severance cushions reputational blowback during necessary corporate workforce restructurings.",
-  "sentiment": "Neutral",
-  "category": "Layoffs",
+  "id": "b69023a585bf",
+  "headline": "Brookfield to acquire PGP Glass for $1.7 billion",
+  "the_number": "$1.7 billion",
+  "why_it_matters": "Brookfield buys PGP Glass from Blackstone, targeting AI-driven global growth.",
+  "founder_takeaway": "AI integration can significantly boost mature manufacturing business value.",
+  "sentiment": "Bullish",
+  "category": "M&A",
   "sector_tags": [
-   "SaaS"
+   "AI",
+   "other"
   ],
   "companies": [
-   "Canva"
+   "Brookfield",
+   "PGP Glass",
+   "Blackstone"
   ],
   "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
+  "amount_usd_m": 1700.0,
+  "impact": "Notable",
   "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/canvas-layoff-package-wins-praise-on-linkedin-6-months-salary-12-months-healthcare-free-macbook-and-career-support-11794144404558.html",
+  "covered_by_count": 3,
+  "url": "https://www.livemint.com/companies/news/why-brookfield-is-betting-1-7-billion-on-pgp-glass-and-how-ai-could-transform-its-global-business-11795423790625.html",
   "source": "Mint Companies",
-  "score": 7,
-  "date": "2026-11-08T23:20:12+05:30",
+  "score": 8,
+  "date": "2026-11-23T14:32:52+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-09T14:41:10.183903+05:30"
+  "first_seen": "2026-11-23T15:50:40.725656+05:30"
  },
  {
-  "id": "d9f3b98f39f0",
-  "headline": "Citi and HSBC Turn Bullish on Indian Equities",
-  "the_number": "$4.1 billion",
-  "why_it_matters": "Foreign inflows and oil slides drive sharp equity market rally.",
-  "founder_takeaway": "Macro tailwinds and foreign capital inflows improve domestic fundraising environments.",
-  "sentiment": "Bullish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Citi",
-   "HSBC"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/markets/stock-market-news/citi-bullish-on-indian-equities-sees-nifty-at-28-000-by-end-2027-126110900222_1.html",
-  "source": "Business Standard Markets",
-  "score": 7,
-  "date": "2026-11-09T10:39:56+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-09T14:41:10.183903+05:30"
- },
- {
-  "id": "0ac36943104b",
-  "headline": "Indian Rupee Extends Rally Putting RBI Dollar Buying In Focus",
+  "id": "87854d3f645d",
+  "headline": "Tata Sons postpones board meeting amid internal objections",
   "the_number": "-",
-  "why_it_matters": "Rupee gains draw attention to central bank dollar-buying intervention thresholds.",
-  "founder_takeaway": "Track rupee strength for import costs and forex exposure.",
-  "sentiment": "Bullish",
+  "why_it_matters": "Board delays meeting after Noel Tata raises agenda and conflict-of-interest issues.",
+  "founder_takeaway": "Strict corporate governance and timely disclosures prevent boardroom friction.",
+  "sentiment": "Neutral",
   "category": "Macro",
   "sector_tags": [
    "other"
   ],
   "companies": [
-   "RBI"
+   "Tata Sons"
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbmRYMGNidi13ZTlOWEpSRUR4cTdxV0ctVlowT2htXzZFMzJTUHhhSUdmcmtJczFKWFBkaWdrR1hCNUJpay1aNmVlRlNhUVZaWmpUc0pxU01ia0hUbWgwNnlaTEZmbkRNaE9GZUpoQjNpejA5ejA0akU0dWhQUmJQZG9wVFJLTF9kdE80NElJaFZZU2Y1UmhTdA?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 7,
-  "date": "2026-11-09T03:07:00+00:00",
+  "url": "https://www.livemint.com/companies/news/tata-sons-postpones-november-26-board-meeting-as-question-of-going-public-continues-to-remain-unsolved-11795409768053.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-11-23T10:36:05+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-09T14:41:10.183903+05:30"
+  "first_seen": "2026-11-23T15:50:40.725656+05:30"
+ },
+ {
+  "id": "b665c5a1642d",
+  "headline": "Ola Electric battery-cell plan faces yield and sales trouble",
+  "the_number": "-",
+  "why_it_matters": "Production misses threaten Ola Electric's plan to make cells in-house profitably.",
+  "founder_takeaway": "In-house manufacturing verticalization carries severe initial operational yield risks.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "EV"
+  ],
+  "companies": [
+   "Ola Electric"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/ola-electric-ola-cell-technologies-gigafactory-bhavish-aggarwal-11795333930351.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-11-23T06:00:19+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-23T15:50:40.725656+05:30"
+ },
+ {
+  "id": "46c82d63f572",
+  "headline": "Noel Tata Seeks Deferral of Tata Sons Board Meeting",
+  "the_number": "-",
+  "why_it_matters": "Mandatory listing decisions and restructuring plans face delays over board deliberations.",
+  "founder_takeaway": "Large conglomerate governance and listing plans require complex stakeholder alignment.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Sons"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/tata-sons-board-meeting-november-26-deferred-noel-tata-listing-dispute-126112300080_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-11-23T07:14:29+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-23T15:50:40.725656+05:30"
  },
  {
   "id": "9938bf0f38c7",
@@ -15194,5 +15164,276 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-23T01:55:40.377837+05:30"
+ },
+ {
+  "id": "e00c3bfcd2ca",
+  "headline": "Sensex Crashes 1,484 Points as Markets Tumble",
+  "the_number": "1,484 pts",
+  "why_it_matters": "Sharp domestic market sell-off drags benchmark indices below key support levels.",
+  "founder_takeaway": "Expect public market volatility to impact private market fundraising windows.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Axis Bank",
+   "Hindalco"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-maruti-adani-energy-share-price-23-november-2026/liveblog/136086783.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-11-23T07:13:21+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-23T15:50:40.725656+05:30"
+ },
+ {
+  "id": "1b3ecc92eae6",
+  "headline": "California AG Sues OpenAI Over Security and Public Safety",
+  "the_number": "-",
+  "why_it_matters": "Legal scrutiny intensifies around frontier AI models allegedly executing cyberattacks independently.",
+  "founder_takeaway": "Prioritize AI safety and regulatory compliance early before shipping models.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "OpenAI"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/california-ag-bonta-filed-lawsuit-against-openai-over-model-security-public-safety/articleshow/136089421.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-11-23T10:08:00+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-23T15:50:40.725656+05:30"
+ },
+ {
+  "id": "90219528ea05",
+  "headline": "Tata Sons Board Agenda Includes EGM and Quorum Issue",
+  "the_number": "-",
+  "why_it_matters": "Internal board discord highlights friction over governance and loss-making businesses.",
+  "founder_takeaway": "Establish clear quorum rules and transparent board meeting procedures early.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Sons",
+   "Tata Trusts"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/tata-sons-board-meeting-agenda-listing-egm-11795355045284.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-23T06:01:45+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-23T15:50:40.725656+05:30"
+ },
+ {
+  "id": "0b726c52c45e",
+  "headline": "L&T Bags ₹5,000 Crore Order for Chennai AI Cluster",
+  "the_number": "₹5,000 crore",
+  "why_it_matters": "Massive capital commitment highlights surging domestic enterprise AI infrastructure demand.",
+  "founder_takeaway": "Enterprise-scale AI infrastructure investments are rapidly expanding into India.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "L&T",
+   "Vyoma.AI",
+   "NVIDIA"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/l-t-bags-large-order-worth-5-000-crore-to-deploy-ai-cluster-in-chennai-126112300275_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-23T10:53:06+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-23T15:50:40.725656+05:30"
+ },
+ {
+  "id": "16333e3e01fe",
+  "headline": "Sensex Dives 1,500 Points on AI Valuation Concerns",
+  "the_number": "1,500 pts",
+  "why_it_matters": "US tech sell-offs and AI valuation fears trigger Indian market volatility.",
+  "founder_takeaway": "Global sentiment on tech valuations directly influences domestic capital markets.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/bulls-take-a-breather-sensex-dives-1-000-pts-intraday-a-short-term-blip-126112300436_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-11-23T12:56:42+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-23T15:50:40.725656+05:30"
+ },
+ {
+  "id": "0ef926beda9c",
+  "headline": "Sensex Tanks 1,484 Points as Midcaps and Smallcaps Drop",
+  "the_number": "1,484 pts",
+  "why_it_matters": "Broader market correction hits midcap and smallcap indices across sectors.",
+  "founder_takeaway": "Market-wide downturns require founders to preserve cash and manage runway.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/stock-market-live-november-23-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126112300084_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-11-23T08:04:36+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-23T15:50:40.725656+05:30"
+ },
+ {
+  "id": "912ec21d80ff",
+  "headline": "Ionic Wealth Raises Rs 177 Cr Strategic Round",
+  "the_number": "Rs 177 Cr",
+  "why_it_matters": "Wealth-tech secures fresh capital to expand AI integration and UHNI offerings.",
+  "founder_takeaway": "Backing from strategic incumbents accelerates growth in wealth management.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "fintech",
+   "AI"
+  ],
+  "companies": [
+   "Ionic Wealth",
+   "Angel One"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://entrackr.com/news/ionic-wealth-raises-rs-177-cr-from-angel-one-marquee-families-12833453",
+  "source": "Entrackr",
+  "score": 7,
+  "date": "2026-11-23T12:48:59+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-23T15:50:40.725656+05:30"
+ },
+ {
+  "id": "a77efc8c9303",
+  "headline": "InPrime Finserv Raises Rs 101.20 Cr Series B",
+  "the_number": "Rs 101.20 crore",
+  "why_it_matters": "Valuation doubles to Rs 360 Cr with backing from FMO.",
+  "founder_takeaway": "Strong performance enables founders to preserve substantial equity during growth.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "InPrime Finserv",
+   "FMO",
+   "Z47",
+   "Pravega Ventures",
+   "InfoEdge Ventures",
+   "Kettleborough VC"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://entrackr.com/decoding/inprime-finservs-founders-retains-285-stake-after-series-b-valuation-doubles-to-rs-360-cr-12833250",
+  "source": "Entrackr",
+  "score": 7,
+  "date": "2026-11-23T11:41:40+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-23T15:50:40.725656+05:30"
+ },
+ {
+  "id": "f7cb57c38dcc",
+  "headline": "Matters.AI to Raise Rs 110 Cr Pre-Series A",
+  "the_number": "Rs 110 crore",
+  "why_it_matters": "Data security startup secures significant early-stage funding led by Tanglin.",
+  "founder_takeaway": "Data security combined with AI attracts substantial early-stage venture funding.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI",
+   "SaaS"
+  ],
+  "companies": [
+   "Matters.AI",
+   "Tanglin Ventures"
+  ],
+  "geography": "India",
+  "amount_usd_m": 11.5,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://entrackr.com/exclusive/exclusive-mattersai-to-raise-rs-110-cr-in-pre-series-a-led-by-tanglin-ventures-12833226",
+  "source": "Entrackr",
+  "score": 7,
+  "date": "2026-11-23T11:37:57+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-23T15:50:40.725656+05:30"
  }
 ]
