@@ -1,34 +1,5 @@
 [
  {
-  "id": "027e0ac37066",
-  "headline": "Anthropic Targets $1.4 Trillion Valuation in Planned Nasdaq IPO",
-  "the_number": "$64.35 billion",
-  "why_it_matters": "A historic mega-IPO signals massive public market appetite for AI.",
-  "founder_takeaway": "Scale AI infrastructure to capture massive public capital.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Anthropic"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 64350,
-  "impact": "Big Move",
-  "source_badge": "Verified media",
-  "covered_by_count": 9,
-  "url": "https://www.livemint.com/market/ipo/anthropic-sets-ipo-price-band-at-70-78-targets-valuation-of-up-to-1-4-trillion-11794311891604.html",
-  "source": "Mint Markets",
-  "score": 10,
-  "date": "2026-11-10T18:08:20+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-10T21:11:50.184114+05:30"
- },
- {
   "id": "68d90bd698cb",
   "headline": "Nvidia Ousts CEO Jensen Huang; CFO Colette Kress Steps In",
   "the_number": "-",
@@ -266,72 +237,6 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-24T00:53:52.113840+05:30"
- },
- {
-  "id": "3048ae8fb96f",
-  "headline": "Tech Giants Commit $26 Billion to Anthropic Private Placement",
-  "the_number": "$26.0 billion",
-  "why_it_matters": "Key semiconductor and cloud partners anchor Anthropic's multi-billion capital base.",
-  "founder_takeaway": "Aligning supply-chain partners as investors solidifies technological moats.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Anthropic",
-   "AMD",
-   "Broadcom",
-   "Google",
-   "Micron",
-   "Microsoft",
-   "Nvidia",
-   "TSMC"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 26000,
-  "impact": "Big Move",
-  "source_badge": "Verified media",
-  "covered_by_count": 4,
-  "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-targets-valuation-of-about-1-trillion-in-ipo/articleshow/135710518.cms",
-  "source": "Economic Times Tech",
-  "score": 9,
-  "date": "2026-11-10T17:40:17+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-10T21:11:50.184114+05:30"
- },
- {
-  "id": "c66842e2198a",
-  "headline": "Blackstone to Invest ₹5,000 Crore in IIFL Finance",
-  "the_number": "₹5,000 crore",
-  "why_it_matters": "Major global private equity bet bolsters Indian NBFC lending.",
-  "founder_takeaway": "Strong secured lending models attract large institutional private equity.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Blackstone",
-   "IIFL Finance"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Big Move",
-  "source_badge": "Verified media",
-  "covered_by_count": 3,
-  "url": "https://www.livemint.com/companies/blackstone-iifl-finance-16-stake-buy-nbfc-pe-deal-11794312414497.html",
-  "source": "Mint Companies",
-  "score": 9,
-  "date": "2026-11-10T19:01:36+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-10T21:11:50.184114+05:30"
  },
  {
   "id": "8d5c9b80f1e5",
@@ -1708,63 +1613,35 @@
   "first_seen": "2026-11-24T17:31:53.410285+05:30"
  },
  {
-  "id": "8da613fe84ce",
-  "headline": "Nvidia CEO Faces FBI Probe Over Espionage Links",
-  "the_number": "-",
-  "why_it_matters": "Federal and congressional scrutiny triggers governance and legal risks for Nvidia.",
-  "founder_takeaway": "Reputational and geopolitical scrutiny can quickly threaten executive leadership.",
-  "sentiment": "Bearish",
-  "category": "Big Tech/AI",
+  "id": "de3bc194ca87",
+  "headline": "Amazon Acquires Decart for Reported $7.5 Billion",
+  "the_number": "$7.5 billion",
+  "why_it_matters": "Amazon aims to improve Trainium chip efficiency against Nvidia.",
+  "founder_takeaway": "Software optimization can bridge hardware performance gaps with market leaders.",
+  "sentiment": "Neutral",
+  "category": "M&A",
   "sector_tags": [
    "AI"
   ],
   "companies": [
+   "Amazon",
+   "Decart",
    "Nvidia"
   ],
   "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 3,
-  "url": "https://www.livemint.com/market/stock-market-news/nvidia-in-crisis-china-spy-allegations-fbi-probe-shares-crash-more-key-things-investors-should-know-still-a-buy-11794309541206.html",
-  "source": "Mint Markets",
-  "score": 8,
-  "date": "2026-11-10T17:49:59+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-10T21:11:50.184114+05:30"
- },
- {
-  "id": "6eabbda2095d",
-  "headline": "SEBI Clears MakeMyTrip India Arm for Local IPO",
-  "the_number": "-",
-  "why_it_matters": "Nasdaq-listed parent secures regulatory green light to list Indian unit.",
-  "founder_takeaway": "Dual-listing structures can unlock local capital markets for global companies.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "MakeMyTrip",
-   "SEBI"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
+  "amount_usd_m": 7500,
+  "impact": "Big Move",
   "source_badge": "Verified media",
   "covered_by_count": 2,
-  "url": "https://inc42.com/buzz/sebi-clears-makemytrips-india-ipo/",
-  "source": "Inc42",
-  "score": 8,
-  "date": "2026-11-10T06:07:44+00:00",
+  "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+  "source": "TechCrunch",
+  "score": 9,
+  "date": "2026-11-24T15:51:07+00:00",
   "unc_number": false,
-  "raw_impact": "Notable",
+  "raw_impact": "Big Move",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-10T21:11:50.184114+05:30"
+  "first_seen": "2026-11-25T00:29:32.876732+05:30"
  },
  {
   "id": "503d211d490e",
@@ -8070,150 +7947,119 @@
   "first_seen": "2026-11-24T17:31:53.410285+05:30"
  },
  {
-  "id": "59c6abf32b50",
-  "headline": "US Consumer Prices Rose 0.4% in October",
-  "the_number": "0.4%",
-  "why_it_matters": "Sticky inflation above 2% target increases odds of rate hikes.",
-  "founder_takeaway": "Expect prolonged higher interest rates to constrain global liquidity.",
-  "sentiment": "Bearish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-consumer-prices-rise-above-expectations-in-october/articleshow/135712897.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-11-10T19:31:53+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-10T21:11:50.184114+05:30"
- },
- {
-  "id": "17a23448b9a3",
-  "headline": "Israeli AI Security Startup Bay Raises $50 Million",
-  "the_number": "$50 million",
-  "why_it_matters": "Enterprise demand grows for autonomous agent security, control, and accountability.",
-  "founder_takeaway": "Solving AI governance bottlenecks unlocks enterprise tech adoption.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Bay"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 50,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/funding/israeli-ai-security-startup-bay-raises-50-million/articleshow/135711991.cms",
-  "source": "Economic Times Tech",
-  "score": 7,
-  "date": "2026-11-10T18:45:45+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-10T21:11:50.184114+05:30"
- },
- {
-  "id": "6d229d442358",
-  "headline": "Alibaba Chip Unit T-Head Files Confidential Hong Kong IPO",
-  "the_number": "-",
-  "why_it_matters": "Alibaba initiates spin-off listing for its proprietary semiconductor business.",
-  "founder_takeaway": "Corporate spin-offs help enterprise units unlock distinct public valuations.",
-  "sentiment": "Neutral",
-  "category": "IPO",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Alibaba Group",
-   "T-Head"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/technology/alibaba-chip-unit-t-head-files-confidential-hong-kong-ipo-application/articleshow/135711567.cms",
-  "source": "Economic Times Tech",
-  "score": 7,
-  "date": "2026-11-10T18:27:13+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-10T21:11:50.184114+05:30"
- },
- {
-  "id": "380f2f5ae9a1",
-  "headline": "Bajaj Finance Allots Warrants Worth Rs 5,799 Crore to Promoter",
-  "the_number": "Rs 5,799 crore",
-  "why_it_matters": "Promoter Bajaj Finserv increases capital backing through convertible warrants.",
-  "founder_takeaway": "Staged warrant payments provide structured infusion of promoter capital.",
+  "id": "b38c7a687f11",
+  "headline": "India PE/VC Investments Hit Five-Year Monthly High",
+  "the_number": "USD 8.7 billion",
+  "why_it_matters": "Monthly funding surged significantly, heavily driven by financial services deals.",
+  "founder_takeaway": "Capital availability is rebounding strongly, particularly for financial services startups.",
   "sentiment": "Bullish",
   "category": "Funding",
   "sector_tags": [
    "fintech"
   ],
-  "companies": [
-   "Bajaj Finance",
-   "Bajaj Finserv"
-  ],
+  "companies": [],
   "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
+  "amount_usd_m": 8700,
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-issues-5-74-crore-warrants-to-promoter-for-rs-5799-crore/articleshow/135708439.cms",
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/pe/vc-investments-in-india-surge-to-usd-8-7-billion-in-october-highest-monthly-level-in-five-years-ey-ivca-report/articleshow/136132831.cms",
   "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-11-10T16:22:44+05:30",
+  "score": 8,
+  "date": "2026-11-24T19:17:50+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-10T21:11:50.184114+05:30"
+  "first_seen": "2026-11-25T00:29:32.876732+05:30"
  },
  {
-  "id": "c51a39df9848",
-  "headline": "Sarvam Appoints Former Google Cloud Head as President and CBO",
-  "the_number": "-",
-  "why_it_matters": "Top Big Tech leaders are moving to homegrown Indian AI startups.",
-  "founder_takeaway": "Recruit proven enterprise leaders to expand B2B and government reach.",
+  "id": "f86c62a6c805",
+  "headline": "Jensen Huang Reinstated as Nvidia CEO",
+  "the_number": "11-day",
+  "why_it_matters": "Huang resumes leadership after board confirms no national security risk.",
+  "founder_takeaway": "Key founder leadership remains critical to corporate stability and vision.",
   "sentiment": "Bullish",
   "category": "Big Tech/AI",
   "sector_tags": [
    "AI"
   ],
   "companies": [
-   "Sarvam",
-   "Google Cloud"
+   "Nvidia"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 4,
+  "url": "https://www.livemint.com/companies/people/jensen-huang-back-as-nvidia-ceo-what-his-return-means-for-colette-kress-after-her-11-day-stint-as-interim-ceo-11795533795850.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-11-24T21:49:54+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T00:29:32.876732+05:30"
+ },
+ {
+  "id": "5b2c01ea33fc",
+  "headline": "Tata Sons Reviews Businesses After ₹29,000 Crore Losses",
+  "the_number": "₹29,000 crore",
+  "why_it_matters": "Leadership assesses turnaround plans across Air India and semiconductor ventures.",
+  "founder_takeaway": "Capital-intensive expansion requires strict loss oversight and ongoing performance reviews.",
+  "sentiment": "Bearish",
+  "category": "Earnings",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Sons",
+   "Air India",
+   "Tata Digital",
+   "Tata Electronics"
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/technology/sarvam-names-google-cloud-india-head-sashikumar-sreedharan-as-president-chief-business-officer/articleshow/135678677.cms",
-  "source": "Economic Times Tech",
-  "score": 7,
-  "date": "2026-11-09T15:51:51+05:30",
+  "url": "https://www.livemint.com/companies/tata-sons-reviews-air-india-tata-digital-and-tata-electronics-after-noel-tata-flags-losses-of-nearly-29-000-crore-11795527586758.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-11-24T19:20:06+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-10T21:11:50.184114+05:30"
+  "first_seen": "2026-11-25T00:29:32.876732+05:30"
+ },
+ {
+  "id": "0e311d5f543a",
+  "headline": "Trump Administration Set to Unveil New Tariffs",
+  "the_number": "-",
+  "why_it_matters": "New tariffs could disrupt global supply chains and manufacturing export flows.",
+  "founder_takeaway": "Build supply chain resilience against potential trade tariff policy shocks.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNklFaE54bEV6OGdKT29ScUxHUlZwRDNyREJ0MzBSZzZGdnptTkVxaXNHeWx2WjFWYVMzMzdMeU92dC1PVmYyZ1BTT3lCTWVRVnJ5ODFEb0NXYWpDd1ZQUlg4bkZ5QVAyck9KQUhMbldjY2FqMmtsZGs3MTFUY0xLZm9wMWRRTFAyS3VvZUZ6Wnk0VzlxTjR3VS1GSkJ1S3VCU2xmZ09FX1E5dUVjTUhfR21wMG1pcktxdGc?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 8,
+  "date": "2026-11-24T16:32:12+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T00:29:32.876732+05:30"
  },
  {
   "id": "efb64a4a50b1",
@@ -15420,5 +15266,304 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-24T17:31:53.410285+05:30"
+ },
+ {
+  "id": "c838ee2d53a8",
+  "headline": "Sanofi Acquires Insmed in $41 Billion Pipeline Deal",
+  "the_number": "$41 billion",
+  "why_it_matters": "Sanofi buys Insmed for $41 billion to offset impending patent expirations.",
+  "founder_takeaway": "Delaying pipeline renewal drives up future acquisition premiums exponentially.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "healthtech"
+  ],
+  "companies": [
+   "Sanofi",
+   "Insmed"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 41000,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/sanofis-41-billion-insmed-deal-shows-cost-of-a-patent-cliff-11795545425011.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-25T00:07:04+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T00:29:32.876732+05:30"
+ },
+ {
+  "id": "9f97a836fd1c",
+  "headline": "Karnataka Drivers Oppose Using Private Two-Wheelers as Taxis",
+  "the_number": "-",
+  "why_it_matters": "Pushing private vehicles as bike taxis faces stiff local regulatory resistance.",
+  "founder_takeaway": "Anticipate regulatory and local union friction when disrupting transportation models.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Rapido",
+   "Uber",
+   "Ola"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/why-karnataka-drivers-unions-oppose-nitin-gadkaris-push-for-private-two-wheelers-as-rapido-uber-ola-bike-taxis-11795536723259.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-24T22:21:36+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T00:29:32.876732+05:30"
+ },
+ {
+  "id": "eb54e986dfb6",
+  "headline": "US Blacklists Megaspeed Over Nvidia Chip Diversion Concerns",
+  "the_number": "-",
+  "why_it_matters": "US tightens tech export restrictions to prevent chip diversions to China.",
+  "founder_takeaway": "Closely monitor global supply chain compliance to avoid sudden blacklisting.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "Megaspeed International",
+   "Nvidia"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/companies/news/megaspeed-blacklisted-by-us-over-alleged-nvidia-chip-diversion-to-china-heres-what-it-means-11795527414065.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-24T20:01:38+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T00:29:32.876732+05:30"
+ },
+ {
+  "id": "9e4de658f309",
+  "headline": "Supreme Court Rules IDBI Bank Not State Under Article 12",
+  "the_number": "60%",
+  "why_it_matters": "Clears legal roadblocks for the Centre and LIC's strategic divestment plan.",
+  "founder_takeaway": "Legal definitions of state ownership impact enterprise restructuring and divestments.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech",
+   "other"
+  ],
+  "companies": [
+   "IDBI Bank",
+   "LIC"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/idbi-bank-not-state-under-article-12-rules-supreme-court-dismisses-appeal-by-association-what-we-know-11795508773827.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-24T14:04:22+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T00:29:32.876732+05:30"
+ },
+ {
+  "id": "3f13a6ebe9d1",
+  "headline": "Mahanadi Coalfields IPO Closes With 1.52x Subscription",
+  "the_number": "₹8,981.12 crore",
+  "why_it_matters": "Large public-sector issues continue to secure institutional and retail market participation.",
+  "founder_takeaway": "Consistent subscription demand enables successful executions of massive public offerings.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Mahanadi Coalfields",
+   "KFin Technologies"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/ipo/coal-indias-mahanadi-coalfields-ipo-allotment-likely-nov-25-heres-how-to-check-status-online-on-bse-nse-kfin-tech-11795494163132.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-24T10:30:18+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T00:29:32.876732+05:30"
+ },
+ {
+  "id": "c3abaa8b4b8d",
+  "headline": "Maharashtra GST Authorities Search Turtlemint Subsidiary",
+  "the_number": "-",
+  "why_it_matters": "Heightened tax enforcement targets fintech and insurance broking corporate subsidiaries.",
+  "founder_takeaway": "Ensure subsidiary compliance systems are fully audit-ready for unexpected inspections.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Turtlemint",
+   "Turtlemint Insurance Broking Services"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://inc42.com/buzz/maharashtra-gst-authorities-search-turtlemints-insurance-broking-arm/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-11-24T13:25:08+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T00:29:32.876732+05:30"
+ },
+ {
+  "id": "7fbb41f33b6a",
+  "headline": "SEBI Moves to Curb Grey Market Premium Circulation",
+  "the_number": "-",
+  "why_it_matters": "SEBI curbs unregulated unofficial listing predictions to safeguard retail investors.",
+  "founder_takeaway": "Unregulated market signaling channels risk clampdowns from watchful financial regulators.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech",
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/gmp-not-indicator-of-expected-returns-sebi-seeks-to-curb-ipo-gmp-circulation/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-11-24T13:15:41+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T00:29:32.876732+05:30"
+ },
+ {
+  "id": "6dc57a753ed8",
+  "headline": "AidenAI Raises $32 Million Series A Round",
+  "the_number": "$32 Mn",
+  "why_it_matters": "Investors continue backing scalable enterprise AI workflow and automation platforms.",
+  "founder_takeaway": "Strong enterprise workflows drive sizable Series A rounds in AI.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI",
+   "SaaS"
+  ],
+  "companies": [
+   "AidenAI"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 32.0,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-11-24T10:23:27+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T00:29:32.876732+05:30"
+ },
+ {
+  "id": "54a55ce3f97e",
+  "headline": "Anthropic Shares Fall Below $83 IPO Price Post-Debut",
+  "the_number": "31%",
+  "why_it_matters": "Heightens market concerns over AI valuations, competition, and mounting infrastructure costs.",
+  "founder_takeaway": "Soaring valuations face harsh scrutiny over real infrastructure costs.",
+  "sentiment": "Bearish",
+  "category": "IPO",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Anthropic"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/market/stock-market-news/anthropic-shares-crash-below-ipo-price-of-83-after-record-nasdaq-debut-down-31-from-peak-what-is-spooking-investors-11795533362689.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-24T21:32:54+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T00:29:32.876732+05:30"
+ },
+ {
+  "id": "3eb06678f844",
+  "headline": "Sebi Directs Market Players to Stop Publishing Grey Market Premiums",
+  "the_number": "-",
+  "why_it_matters": "Regulator cautions that unofficial grey market premiums lack investor protection.",
+  "founder_takeaway": "Do not depend on unofficial hype to gauge listing performance.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Sebi"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/sebi-asks-market-players-to-stop-publishing-grey-market-premiums-for-ipos-126112301145_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-11-23T19:41:11+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T00:29:32.876732+05:30"
  }
 ]
