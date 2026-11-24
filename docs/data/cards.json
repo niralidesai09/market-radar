@@ -268,35 +268,6 @@
   "first_seen": "2026-11-24T00:53:52.113840+05:30"
  },
  {
-  "id": "55ff5cbc62ee",
-  "headline": "Anthropic moves forward with IPO valuation range plans",
-  "the_number": "-",
-  "why_it_matters": "Signals accelerating public market debut for premier generative AI frontier labs.",
-  "founder_takeaway": "Prepare valuation narratives early ahead of public market scrutiny.",
-  "sentiment": "Neutral",
-  "category": "IPO",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Anthropic"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Big Move",
-  "source_badge": "Verified media",
-  "covered_by_count": 5,
-  "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-  "source": "TechCrunch",
-  "score": 9,
-  "date": "2026-11-10T01:27:12+00:00",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-10T14:49:02.664317+05:30"
- },
- {
   "id": "3048ae8fb96f",
   "headline": "Tech Giants Commit $26 Billion to Anthropic Private Placement",
   "the_number": "$26.0 billion",
@@ -1708,110 +1679,12 @@
   "first_seen": "2026-11-24T06:36:06.729232+05:30"
  },
  {
-  "id": "0c8beb41ae53",
-  "headline": "$35 billion lock-in shares unlocking across 116 Indian companies",
-  "the_number": "$35 billion",
-  "why_it_matters": "Massive supply unlocks can test broader liquidity across domestic equity markets.",
-  "founder_takeaway": "Anticipate secondary share supply pressure when lock-in periods expire.",
-  "sentiment": "Bearish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Jio Platforms",
-   "Shiprocket",
-   "SBI Funds Management",
-   "NSE",
-   "Zetwerk"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://www.livemint.com/market/ipo-lock-in-expiry-35-billion-in-shares-set-to-unlock-across-116-companies-jio-nse-zetwerk-in-focus-11794289275423.html",
-  "source": "Mint Markets",
-  "score": 8,
-  "date": "2026-11-10T11:47:34+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-10T14:49:02.664317+05:30"
- },
- {
-  "id": "cfdf216706a5",
-  "headline": "SEBI clears eight IPO issues including Razorpay and MakeMyTrip",
-  "the_number": "8",
-  "why_it_matters": "Regulatory approvals pave the way for major tech liquidity events.",
-  "founder_takeaway": "Regulatory clearance cycles require versatile capital raise structures and patience.",
+  "id": "ecb5363c954f",
+  "headline": "Nvidia Reinstates Jensen Huang as CEO and Director",
+  "the_number": "25%",
+  "why_it_matters": "CEO reinstatement immediately restores investor confidence and drives market surge.",
+  "founder_takeaway": "Key-person dependency heavily impacts company public valuation swings.",
   "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "fintech",
-   "other"
-  ],
-  "companies": [
-   "SEBI",
-   "Mahanadi Coalfields",
-   "Veritas Finance",
-   "Sagar Defence",
-   "Razorpay",
-   "MakeMyTrip"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://www.livemint.com/market/stock-market-news/upcoming-ipos-sebi-clears-8-issues-including-mahanadi-coalfields-veritas-finance-and-sagar-defence-details-here-11794281756897.html",
-  "source": "Mint Markets",
-  "score": 8,
-  "date": "2026-11-10T09:56:46+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-10T14:49:02.664317+05:30"
- },
- {
-  "id": "a284a76dcaec",
-  "headline": "Blackstone to acquire 15% stake in IIFL Finance",
-  "the_number": "₹5,000 crore",
-  "why_it_matters": "Major global PE backing restores balance sheet confidence in NBFCs.",
-  "founder_takeaway": "Promoter co-investment alongside PE giants cements strong alignment of interest.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Blackstone",
-   "IIFL Finance"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/companies/news/blackstone-set-to-become-key-investor-in-iifl-finance-with-15-stake-126111000088_1.html",
-  "source": "Business Standard Companies",
-  "score": 8,
-  "date": "2026-11-10T08:33:11+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-10T14:49:02.664317+05:30"
- },
- {
-  "id": "f92c281cc10b",
-  "headline": "Nvidia probes whether foreign intelligence targeted CEO Jensen Huang",
-  "the_number": "-",
-  "why_it_matters": "Geopolitical espionage risks increasingly target executive leadership of critical AI firms.",
-  "founder_takeaway": "Fortify operational security around executive leadership and strategic IP assets.",
-  "sentiment": "Neutral",
   "category": "Big Tech/AI",
   "sector_tags": [
    "AI"
@@ -1821,48 +1694,18 @@
   ],
   "geography": "Global",
   "amount_usd_m": null,
-  "impact": "Notable",
+  "impact": "Big Move",
   "source_badge": "Verified media",
-  "covered_by_count": 8,
-  "url": "https://yourstory.com/2026/11/nvidia-probes-whether-foreign-intelligence-targeted-jensen-huang",
-  "source": "YourStory",
-  "score": 8,
-  "date": "2026-11-10T02:00:00+00:00",
+  "covered_by_count": 13,
+  "url": "https://www.business-standard.com/companies/news/nvidia-reinstates-jensen-huang-as-ceo-board-director-with-immediate-effect-126112301137_1.html",
+  "source": "Business Standard Companies",
+  "score": 9,
+  "date": "2026-11-23T19:38:41+05:30",
   "unc_number": false,
-  "raw_impact": "Notable",
+  "raw_impact": "Big Move",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-10T14:49:02.664317+05:30"
- },
- {
-  "id": "88b6fafe71c6",
-  "headline": "Three workers die at Tata iPhone parts manufacturing plant",
-  "the_number": "Three",
-  "why_it_matters": "Workplace fatalities create regulatory and ESG headwinds for Apple's Indian supply-chain.",
-  "founder_takeaway": "Manufacturing scale must never compromise worker safety and factory compliance.",
-  "sentiment": "Bearish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Tata",
-   "Apple"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzVBU0RlVDBETXZNRDZhMHB0REwwZC1fMTNzdzc5VHZFc0pwZjl2ZW5mUGk2QXJ6Zmx4Q1puUUtoTXppdndSZl9iYUdaTXk1RlVBWEgwTTRObEpLdkpKbjJ1NUdGakxETkRrZUdyWENUa2c0VFRrcXVXUEszNm5hRzZ1UFRwTGdlV3poVlZTR051MTUxZElBZk1WbWRMaHViM0dfVnlsS05vajlQYWtqZU9IaTFiTTg4UXZHOGpodF9URHlLR004?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 8,
-  "date": "2026-11-10T03:28:00+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-10T14:49:02.664317+05:30"
+  "first_seen": "2026-11-24T17:31:53.410285+05:30"
  },
  {
   "id": "8da613fe84ce",
@@ -8052,238 +7895,179 @@
   "first_seen": "2026-11-24T06:36:06.729232+05:30"
  },
  {
-  "id": "39f351a6869e",
-  "headline": "RBI queries banks on bond forward derivative trade valuations",
+  "id": "f63c4651ae95",
+  "headline": "Adani Group Plans $120 Billion Capex Across Sectors",
+  "the_number": "$120 billion",
+  "why_it_matters": "Massive capital expenditure targets infrastructure, energy, and data centers.",
+  "founder_takeaway": "Balance aggressive capital expansion by managing strict leverage ratios.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Adani Group",
+   "Jefferies"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/adani-group-plans-120-billion-investment-over-next-5-6-years-jefferies-126112400462_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-11-24T14:22:32+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-24T17:31:53.410285+05:30"
+ },
+ {
+  "id": "a7cff2b97d8d",
+  "headline": "Adani Airport Holdings Raises Rs 2,790 Crore",
+  "the_number": "Rs 2,790 Cr",
+  "why_it_matters": "Fresh funding supports aggressive airport expansion and passenger capacity goals.",
+  "founder_takeaway": "Securing private equity backing provides runway for capital-intensive growth.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Adani Airport Holdings",
+   "360 ONE Asset"
+  ],
+  "geography": "India",
+  "amount_usd_m": 300,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/adani-airport-holdings-to-sell-1-55-stake-to-360-one-for-2-790-cr-126112300937_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-11-23T18:30:20+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-24T17:31:53.410285+05:30"
+ },
+ {
+  "id": "4d6f08ffb9cc",
+  "headline": "Tata Sons Postpones Board Meet Over Notice Concerns",
+  "the_number": "Nov 30",
+  "why_it_matters": "Corporate governance compliance delays discussions on listing India's largest conglomerate.",
+  "founder_takeaway": "Strict adherence to governance protocols prevents internal leadership disputes.",
+  "sentiment": "Neutral",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Sons",
+   "Tata Trusts"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/tata-sons-board-meet-postponed-to-nov-30-after-noel-raises-concerns-126112300775_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-11-23T16:38:58+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-24T17:31:53.410285+05:30"
+ },
+ {
+  "id": "d6d170c8f9c8",
+  "headline": "Nvidia Rally of 31% Lifts Major Wall Street Indices",
+  "the_number": "31%",
+  "why_it_matters": "Individual tech giants wield disproportionate influence over broader equity indices.",
+  "founder_takeaway": "Macro equity trends can be heavily swayed by top-weighted performers.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/nvidia-shares-soar-31-as-jensen-huang-s-return-sparks-wall-street-rally-126112400047_1.html",
+  "source": "Business Standard Markets",
+  "score": 8,
+  "date": "2026-11-24T08:41:15+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-24T17:31:53.410285+05:30"
+ },
+ {
+  "id": "e55041e96b83",
+  "headline": "Fed Signals Potential Rate Hikes as Inflation Remains High",
   "the_number": "-",
-  "why_it_matters": "Regulatory accounting shifts to Level 3 inputs threaten bank balance sheets.",
-  "founder_takeaway": "Prepare for strict mark-to-market accounting mandates on illiquid balance-sheet instruments.",
+  "why_it_matters": "Persistent inflation signals elevated global interest rates for longer.",
+  "founder_takeaway": "Prepare for higher cost of capital and cautious investors.",
   "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3lvbHFTMGFKUm9paUJYVzFoQzd1QnQtSzAtTlZmSlFyRW5Sc1hic3p2MVV0VWVrYjFkNDdQZlFTUWMzZGFueG5yMTVMcGhLWUxwQi16Ujk5b2ppMVRWTGowaHlMZDQ4Z19xbWpCQTRFVzFHSHhxeW9kbG80OTVtSEZsb3REX29FRFFPR0xzTnFjYXh6?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 8,
+  "date": "2026-11-23T23:38:48+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-24T17:31:53.410285+05:30"
+ },
+ {
+  "id": "da858c5224b3",
+  "headline": "RBI Proposes Trusted Person Sign-Off on Electronic Transfers",
+  "the_number": "-",
+  "why_it_matters": "Stricter authorization protocols aim to prevent electronic transaction fraud.",
+  "founder_takeaway": "Balance regulatory fraud compliance with seamless user friction.",
+  "sentiment": "Neutral",
   "category": "Policy",
   "sector_tags": [
    "fintech"
   ],
   "companies": [
-   "Reserve Bank of India"
+   "RBI"
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/bonds/rbi-said-to-query-bank-valuations-of-some-bond-derivative-trades/articleshow/135696624.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-11-10T07:32:12+05:30",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdUF0SHlKNENzdUZiQTBtLW9tbE5mREx0LW54RWFUWWhrdnJnYUtwWE1seHhfMW5UY2txc21NYUpMMnFOR0ZoYnNmSnptcTdsVGM5NUJnRlRGUWRmV1d3QmZtUzBtQVBaWUJ2by1TdzVTQTVISkZqeVExcjA4aVJMd2ljb2ZtclE3Y1Q4OGRCNEVHZ0JyMkcwV0VwSFQycW5LVk5ySkJ0RUtndWd5em0wYzd4cjd6blE?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 8,
+  "date": "2026-11-23T12:19:43+00:00",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-10T14:49:02.664317+05:30"
- },
- {
-  "id": "874196ff64f0",
-  "headline": "RBI's $239B Forward Position Capping Rupee Gains",
-  "the_number": "$239 bn",
-  "why_it_matters": "RBI forward position limits rupee appreciation despite FPI inflows.",
-  "founder_takeaway": "Expect managed currency volatility amid heavy foreign portfolio flows.",
-  "sentiment": "Neutral",
-  "category": "Macro",
-  "sector_tags": [
-   "fintech",
-   "other"
-  ],
-  "companies": [
-   "Reserve Bank of India"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/forex/rbis-usd-239-bn-forward-dollar-position-to-limit-rupee-gains-despite-fpi-inflows-report/articleshow/135678171.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-11-09T15:34:34+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-10T14:49:02.664317+05:30"
- },
- {
-  "id": "60b299bcfbd6",
-  "headline": "Anthropic Unveils Claude Fable and Mythos Ahead of IPO",
-  "the_number": "-",
-  "why_it_matters": "New Claude models strengthen Anthropic's standing against OpenAI pre-IPO.",
-  "founder_takeaway": "Continuous product releases build competitive defensibility prior to public listing.",
-  "sentiment": "Bullish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Anthropic",
-   "OpenAI"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-unveils-new-fable-mythos-models-as-competition-heats-up-ahead-of-ipo/articleshow/135697211.cms",
-  "source": "Economic Times Tech",
-  "score": 7,
-  "date": "2026-11-10T08:15:31+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-10T14:49:02.664317+05:30"
- },
- {
-  "id": "790befb89179",
-  "headline": "Banks Wary of AI Debt Post Market Selloff",
-  "the_number": "-",
-  "why_it_matters": "Lenders turn cautious on AI deals even with tech guarantees.",
-  "founder_takeaway": "AI infrastructure founders must prepare for tightening debt financing markets.",
-  "sentiment": "Bearish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/banks-investors-grow-wary-of-ai-debt-spooked-by-market-selloff/articleshow/135679930.cms",
-  "source": "Economic Times Tech",
-  "score": 7,
-  "date": "2026-11-09T16:38:27+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-10T14:49:02.664317+05:30"
- },
- {
-  "id": "cca87582be7f",
-  "headline": "FPIs Infuse ₹53.7k Crore in Indian Equities in November",
-  "the_number": "₹53.7k cr",
-  "why_it_matters": "Foreign investors return to India amid global AI stock sell-off.",
-  "founder_takeaway": "Global sector rotations can quickly redirect liquidity to emerging markets.",
-  "sentiment": "Bullish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/stock-market-news/fpis-return-to-india-stock-markets-with-rs-53-7k-cr-inflows-in-nov-so-far-attraction-point-for-investors-whats-next-11794297257316.html",
-  "source": "Mint Markets",
-  "score": 7,
-  "date": "2026-11-10T13:55:55+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-10T14:49:02.664317+05:30"
- },
- {
-  "id": "a60d814b5f59",
-  "headline": "ShareChat Parent Tops Rs 1,000 Cr Revenue in FY26",
-  "the_number": "Rs 1,000 Cr",
-  "why_it_matters": "ShareChat crosses major revenue mark but posts Rs 672 Cr loss.",
-  "founder_takeaway": "High scale in vernacular internet still requires solving long-term profitability.",
-  "sentiment": "Neutral",
-  "category": "Earnings",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "ShareChat",
-   "Meta"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://entrackr.com/fintrackr/sharechat-parent-crosses-rs-1000-cr-revenue-in-fy26-posts-rs-672-cr-loss-12797478",
-  "source": "Entrackr",
-  "score": 7,
-  "date": "2026-11-10T10:15:32+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-10T14:49:02.664317+05:30"
- },
- {
-  "id": "807e00d1c322",
-  "headline": "Arka Fincap Raises Rs 525 Cr from TPG",
-  "the_number": "Rs 525 Cr",
-  "why_it_matters": "NBFC secures fresh growth capital for expansion and risk technology.",
-  "founder_takeaway": "Investor backing in lending hinges on robust risk management systems.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Arka Fincap",
-   "The Rise Funds",
-   "TPG",
-   "Kirloskar Group"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://yourstory.com/2026/11/arka-fincap-raises-rs-525-crore-from-the-rise-funds-of-tpg",
-  "source": "YourStory",
-  "score": 7,
-  "date": "2026-11-10T05:38:07+00:00",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-10T14:49:02.664317+05:30"
- },
- {
-  "id": "18869a47a8da",
-  "headline": "Fervo Secures $12B in Geothermal Power Orders",
-  "the_number": "$12B",
-  "why_it_matters": "Falling drilling costs help geothermal power compete directly with natural gas.",
-  "founder_takeaway": "Cost reductions can unlock massive commercial order pipelines.",
-  "sentiment": "Neutral",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Fervo"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
-  "source": "TechCrunch",
-  "score": 7,
-  "date": "2026-11-09T20:55:34+00:00",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-10T14:49:02.664317+05:30"
+  "first_seen": "2026-11-24T17:31:53.410285+05:30"
  },
  {
   "id": "59c6abf32b50",
@@ -15513,5 +15297,128 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-24T06:36:06.729232+05:30"
+ },
+ {
+  "id": "b01727f4e0bf",
+  "headline": "Amazon Acquires Decart AI Chip Technology Amid Talent Grab",
+  "the_number": "-",
+  "why_it_matters": "Big tech firms aggressively acquire specialized external AI capabilities.",
+  "founder_takeaway": "Deep tech optimization makes startups valuable acquisition targets.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Amazon",
+   "Decart"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/startups/amazon-to-buy-decarts-ai-chip-optimization-tech-in-latest-ai-talent-grab/articleshow/136123347.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-11-24T13:15:21+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-24T17:31:53.410285+05:30"
+ },
+ {
+  "id": "cdf14f3fc5f3",
+  "headline": "Slurrp Farm Parent Eyes Majority Sale at ₹2,000 Crore",
+  "the_number": "₹2,000 crore",
+  "why_it_matters": "Strategic FMCG conglomerates actively pursue established Indian D2C brands.",
+  "founder_takeaway": "Building strong brand equity creates viable acquisition pathways.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "D2C"
+  ],
+  "companies": [
+   "Wholsum Foods",
+   "Slurrp Farm",
+   "Mille",
+   "Nestle",
+   "ITC"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/start-ups/wholsum-foods-fundraise-slurrp-farm-mille-majority-stake-sale-rs-2-000-crore-valuation-11795512527400.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-24T16:00:29+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-24T17:31:53.410285+05:30"
+ },
+ {
+  "id": "3b932e527ac4",
+  "headline": "Tata Steel Partners APL Apollo Promoter for Steel Capacity",
+  "the_number": "₹15,510 crore",
+  "why_it_matters": "Promoter family channels large stake sale proceeds into manufacturing.",
+  "founder_takeaway": "Capital recycling allows founders to enter strategic mega-partnerships.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Steel",
+   "APL Apollo",
+   "SG Tech"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/companies/news/tata-steel-apl-apollo-acquisition-deal-sanjay-gupta-family-11795444515768.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-24T06:00:32+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-24T17:31:53.410285+05:30"
+ },
+ {
+  "id": "7937bf06d2c4",
+  "headline": "SEBI Advises Against Publishing IPO Grey Market Premiums",
+  "the_number": "-",
+  "why_it_matters": "Unregulated GMP data is unverified and cannot reliably predict listing returns.",
+  "founder_takeaway": "Do not rely on grey market hype for IPO pricing.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "SEBI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/ipo/sebi-issues-upcoming-ipos-gmp-advisory-publication-of-such-pre-listing-premium-figures-may-be-detrimental-11795482712234.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-24T08:12:22+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-24T17:31:53.410285+05:30"
  }
 ]
