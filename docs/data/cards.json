@@ -239,36 +239,6 @@
   "first_seen": "2026-11-24T00:53:52.113840+05:30"
  },
  {
-  "id": "097ce2b38a07",
-  "headline": "Anthropic targets up to $1.4T valuation in IPO",
-  "the_number": "$1.41 trillion",
-  "why_it_matters": "Anthropic targets unprecedented $1.41T valuation at upper IPO price range.",
-  "founder_takeaway": "Massive AI demand can support historic public market valuations.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Anthropic",
-   "Nasdaq"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Big Move",
-  "source_badge": "Verified media",
-  "covered_by_count": 3,
-  "url": "https://yourstory.com/2026/11/anthropic-sets-70-to-78-price-range-for-its-ipo",
-  "source": "YourStory",
-  "score": 9,
-  "date": "2026-11-10T14:22:06+00:00",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-11T20:59:26.437652+05:30"
- },
- {
   "id": "0481de3101a9",
   "headline": "Anthropic IPO Multiple Times Oversubscribed, Targeting Massive Valuation",
   "the_number": "$90.4 billion",
@@ -1611,220 +1581,62 @@
   "first_seen": "2026-11-25T16:24:01.826133+05:30"
  },
  {
-  "id": "740850b477c5",
-  "headline": "Akhilendra Kumar named Unacademy CEO, Munjal becomes Chairman",
-  "the_number": "-",
-  "why_it_matters": "Leadership transition puts operational veteran at Unacademy's helm.",
-  "founder_takeaway": "Founders can hand operational reins while retaining strategic chairmanship.",
-  "sentiment": "Neutral",
-  "category": "Big Tech/AI",
+  "id": "23b22f4ac006",
+  "headline": "PhonePe resumes IPO targeting up to $15 billion valuation",
+  "the_number": "$12-15 billion",
+  "why_it_matters": "A major profitable fintech giant is preparing for public listing.",
+  "founder_takeaway": "Group-level profitability strengthens public market debuts significantly.",
+  "sentiment": "Bullish",
+  "category": "IPO",
   "sector_tags": [
-   "edtech"
+   "fintech"
   ],
   "companies": [
-   "Unacademy"
+   "PhonePe"
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Notable",
+  "impact": "Big Move",
   "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://www.livemint.com/companies/people/who-is-akhilendra-kumar-meet-new-ceo-of-unacademy-as-gaurav-munjal-to-become-executive-chairman-profile-of-leaders-11794405044620.html",
-  "source": "Mint Companies",
-  "score": 8,
-  "date": "2026-11-11T20:09:08+05:30",
+  "covered_by_count": 3,
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/phonepe-resumes-ipo-process-targets-listing-in-feb-mar-at-usd-12-15-bn-valuation/articleshow/136160163.cms",
+  "source": "Economic Times Markets",
+  "score": 9,
+  "date": "2026-11-25T17:15:14+05:30",
   "unc_number": false,
-  "raw_impact": "Notable",
+  "raw_impact": "Big Move",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-11T20:59:26.437652+05:30"
+  "first_seen": "2026-11-25T23:34:34.068589+05:30"
  },
  {
-  "id": "f8af3e1f8156",
-  "headline": "Nvidia chips worth $7.5B reportedly diverted to China",
-  "the_number": "$7.5 billion",
-  "why_it_matters": "Alleged illicit routing of 240,000 Nvidia chips heightens semiconductor trade scrutiny.",
-  "founder_takeaway": "Tight export controls demand rigorous supply chain compliance.",
+  "id": "7eeaee78b081",
+  "headline": "Flipkart CEO Kalyan Krishnamurthy steps down after 11 years",
+  "the_number": "11 years",
+  "why_it_matters": "Leadership change occurs at India's top e-commerce platform amid delays.",
+  "founder_takeaway": "Prolonged listing delays can prompt executive leadership restructuring.",
   "sentiment": "Bearish",
-  "category": "Policy",
-  "sector_tags": [
-   "AI",
-   "other"
-  ],
-  "companies": [
-   "Nvidia",
-   "Megaspeed"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/alice-huang-used-her-relationship-with-jensen-huang-to-move-240-000-nvidia-chips-worth-7-5-billion-to-china-report-11794363878153.html",
-  "source": "Mint Companies",
-  "score": 8,
-  "date": "2026-11-11T08:07:18+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-11T20:59:26.437652+05:30"
- },
- {
-  "id": "b4281eb48d33",
-  "headline": "MSCI Rejig could attract $1.7B inflows to India",
-  "the_number": "$1.7 billion",
-  "why_it_matters": "Four Indian firms could gain $1.7 billion in passive inflows.",
-  "founder_takeaway": "Index inclusion substantially boosts stock liquidity and global exposure.",
-  "sentiment": "Bullish",
   "category": "Macro",
   "sector_tags": [
-   "fintech",
    "other"
   ],
   "companies": [
-   "Adani Green Energy",
-   "LIC",
-   "Coforge",
-   "Meesho",
-   "ICICI Prudential Life Insurance",
-   "PI Industries"
+   "Flipkart"
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Notable",
+  "impact": "Big Move",
   "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/stock-market-news/msci-rejig-adani-green-lic-coforge-meesho-shares-set-to-enter-india-standard-index-icici-life-pi-industries-out-11794390119879.html",
-  "source": "Mint Markets",
-  "score": 8,
-  "date": "2026-11-11T15:49:55+05:30",
+  "covered_by_count": 8,
+  "url": "https://www.livemint.com/companies/news/kalyan-krishnamurthy-flipkart-ipo-walmart-11795596685318.html",
+  "source": "Mint Companies",
+  "score": 9,
+  "date": "2026-11-25T14:42:37+05:30",
   "unc_number": false,
-  "raw_impact": "Notable",
+  "raw_impact": "Big Move",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-11T20:59:26.437652+05:30"
- },
- {
-  "id": "d8ddf3235163",
-  "headline": "Blackstone to acquire nearly 16% of IIFL Finance",
-  "the_number": "Rs 5,000 crore",
-  "why_it_matters": "Blackstone bets $535 million on Indian non-banking financial sector.",
-  "founder_takeaway": "Global PE giants offer major validation for established lenders.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Blackstone",
-   "IIFL Finance"
-  ],
-  "geography": "India",
-  "amount_usd_m": 535.0,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://www.business-standard.com/markets/news/iifl-finance-blackstone-deal-stock-gains-4-brokerages-decode-impact-126111100226_1.html",
-  "source": "Business Standard Markets",
-  "score": 8,
-  "date": "2026-11-11T09:38:27+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-11T20:59:26.437652+05:30"
- },
- {
-  "id": "42e8a56937c3",
-  "headline": "Gaurav Munjal steps down as Unacademy CEO",
-  "the_number": "-",
-  "why_it_matters": "Follows upGrad's acquisition of rival edtech Unacademy two months prior.",
-  "founder_takeaway": "Post-acquisition integration often leads to top leadership exits.",
-  "sentiment": "Neutral",
-  "category": "M&A",
-  "sector_tags": [
-   "edtech"
-  ],
-  "companies": [
-   "Unacademy",
-   "upGrad"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://inc42.com/buzz/after-a-decade-long-stint-gaurav-munjal-to-step-down-as-unacademy-ceo/",
-  "source": "Inc42",
-  "score": 8,
-  "date": "2026-11-11T14:14:35+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-11T20:59:26.437652+05:30"
- },
- {
-  "id": "b62edcea8f91",
-  "headline": "Kissht parent OnEMI raises Rs 832 Cr",
-  "the_number": "Rs 832.20 crore",
-  "why_it_matters": "Preferential issue to 34 investors secures fresh equity financing.",
-  "founder_takeaway": "Preferential allotment expands access to diverse institutional and individual backers.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "OnEMI Technology Solutions",
-   "Kissht",
-   "BSE",
-   "NSE"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://entrackr.com/news/kissht-parent-onemi-completes-rs-832-cr-preferential-issue-12800355",
-  "source": "Entrackr",
-  "score": 8,
-  "date": "2026-11-11T11:56:52+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-11T20:59:26.437652+05:30"
- },
- {
-  "id": "bc24ae1746fc",
-  "headline": "Nvidia reviews succession plans amid CEO scrutiny",
-  "the_number": "-",
-  "why_it_matters": "Controversy around Jensen Huang sparks national security and leadership concerns.",
-  "founder_takeaway": "Robust succession planning is critical when leadership faces external scrutiny.",
-  "sentiment": "Bearish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Nvidia"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://yourstory.com/2026/11/nvidia-stares-succession-planning-jensen-huang-under-spotlight",
-  "source": "YourStory",
-  "score": 8,
-  "date": "2026-11-10T13:45:28+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-11T20:59:26.437652+05:30"
+  "first_seen": "2026-11-25T23:34:34.068589+05:30"
  },
  {
   "id": "edc2f137e9e1",
@@ -7790,268 +7602,147 @@
   "first_seen": "2026-11-25T16:24:01.826133+05:30"
  },
  {
-  "id": "272e0cf0084c",
-  "headline": "Bajaj Finance to Launch ₹11,700 Cr Share Sale",
-  "the_number": "Rs 11,700 cr",
-  "why_it_matters": "Institutional capital infusion strengthens NBFC balance sheets for growth.",
-  "founder_takeaway": "Large-scale institutional offerings provide robust long-term funding stability.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Bajaj Finance Ltd."
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-said-to-be-set-to-launch-up-to-1-2-billion-share-sale/articleshow/135729545.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-11-11T13:06:59+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-11T20:59:26.437652+05:30"
- },
- {
-  "id": "3f5918ec2e18",
-  "headline": "CoreWeave Q3 Revenue Beats Estimates on Strong AI Demand",
-  "the_number": "$3.66 billion",
-  "why_it_matters": "Sustained AI infrastructure demand drives significant quarterly revenue expansion.",
-  "founder_takeaway": "Surging enterprise AI computing needs create massive infrastructure opportunities.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
+  "id": "f3553f54f5bc",
+  "headline": "Nasdaq drops 600 points amid AI selloff and tariffs",
+  "the_number": "600 pts",
+  "why_it_matters": "Global tech routs tighten liquidity conditions for emerging market tech.",
+  "founder_takeaway": "Global market turbulence can compress high-flying technology valuations.",
+  "sentiment": "Bearish",
+  "category": "Macro",
   "sector_tags": [
    "AI"
   ],
-  "companies": [
-   "CoreWeave"
-  ],
+  "companies": [],
   "geography": "Global",
   "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/technology/coreweave-beats-quarterly-revenue-estimates-as-ai-demand-defies-growing-doubts/articleshow/135723447.cms",
-  "source": "Economic Times Tech",
-  "score": 7,
-  "date": "2026-11-11T08:18:03+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-11T20:59:26.437652+05:30"
- },
- {
-  "id": "a9110106a69e",
-  "headline": "Tata Power Approves ₹11,871 Crore Pumped Storage Project",
-  "the_number": "₹11,871 crore",
-  "why_it_matters": "Massive capital expenditure expands renewable energy generation and storage capacity.",
-  "founder_takeaway": "Scaling energy transitions requires major long-term infrastructure investment commitments.",
-  "sentiment": "Bullish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Tata Power"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/tata-power-approves-11-871-crore-pumped-storage-project-in-maharashtra-11794405107082.html",
-  "source": "Mint Companies",
-  "score": 7,
-  "date": "2026-11-11T20:14:08+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-11T20:59:26.437652+05:30"
- },
- {
-  "id": "e306d83ef4b3",
-  "headline": "Greenjoules Raises ₹150 Crore Series B for Renewable Fuels",
-  "the_number": "₹150 crore",
-  "why_it_matters": "Institutional backing expands domestic biofuel manufacturing from agricultural waste.",
-  "founder_takeaway": "Strategic global funds actively back commercially viable clean-tech operations.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Greenjoules",
-   "Amazon"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 2,
-  "url": "https://www.business-standard.com/companies/news/greenjoules-raises-150-crore-in-series-b-round-to-expand-renewable-fuels-126111101448_1.html",
-  "source": "Business Standard Companies",
-  "score": 7,
-  "date": "2026-11-11T20:27:32+05:30",
+  "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-alphabet-amazon-anthropic-dell-inflation-fed-rate-hike-gold-treasury-yield-news-25th-november-2026/liveblog/136163404.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-11-25T18:42:55+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-11T20:59:26.437652+05:30"
+  "first_seen": "2026-11-25T23:34:34.068589+05:30"
  },
  {
-  "id": "5795d5578957",
-  "headline": "Tide to Invest ₹3,100 Crore in India by 2030",
-  "the_number": "Rs 3,100 crore",
-  "why_it_matters": "Global fintechs view India as an essential technology engineering hub.",
-  "founder_takeaway": "Building tech centers in India leverages high-quality global engineering talent.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Tide"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/companies/news/uk-based-tide-plans-to-invest-3-100-crore-in-india-in-next-four-years-126111100746_1.html",
-  "source": "Business Standard Companies",
-  "score": 7,
-  "date": "2026-11-11T15:26:16+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-11T20:59:26.437652+05:30"
- },
- {
-  "id": "e27afefbbac1",
-  "headline": "Qualcomm Begins India Layoffs, Risking Around 1,000 Jobs",
-  "the_number": "1,000",
-  "why_it_matters": "Global restructuring impacts technology talent across key Indian development facilities.",
-  "founder_takeaway": "Tech talent availability rises during global multinational corporate restructurings.",
-  "sentiment": "Bearish",
-  "category": "Layoffs",
+  "id": "0a1bba3b9513",
+  "headline": "Shapoor Mistry lobbies Modi for Tata Sons public listing",
+  "the_number": "-",
+  "why_it_matters": "Key shareholder urges government intervention to enforce RBI listing rules.",
+  "founder_takeaway": "Regulatory compliance disputes between major shareholders create public friction.",
+  "sentiment": "Neutral",
+  "category": "IPO",
   "sector_tags": [
    "other"
   ],
   "companies": [
-   "Qualcomm"
+   "Tata Sons",
+   "Shapoorji Pallonji Group",
+   "Tata Trusts"
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/companies/news/qualcomm-starts-india-layoffs-around-1-000-jobs-potentially-at-risk-126111100761_1.html",
-  "source": "Business Standard Companies",
-  "score": 7,
-  "date": "2026-11-11T15:07:15+05:30",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/shapoor-mistry-lobbied-modi-twice-for-tata-sons-ipo-as-battle-over-listing-intensifies/articleshow/136160206.cms",
+  "source": "Economic Times Markets",
+  "score": 8,
+  "date": "2026-11-25T17:19:18+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-11T20:59:26.437652+05:30"
+  "first_seen": "2026-11-25T23:34:34.068589+05:30"
  },
  {
-  "id": "88c8bfc3b1ec",
-  "headline": "Sebi Enables Fully Digital NRI Investment KYC From Abroad",
-  "the_number": "-",
-  "why_it_matters": "Simplified onboarding unlocks foreign capital inflows into Indian domestic markets.",
-  "founder_takeaway": "Eliminating physical presence hurdles reduces customer friction and onboarding time.",
+  "id": "37b1c5448e21",
+  "headline": "Nasdaq 100 drops near 5 percent over AI concerns",
+  "the_number": "5%",
+  "why_it_matters": "Heavy spending and ROI doubts spark broad tech stock selloffs.",
+  "founder_takeaway": "High capital expenditure without clear ROI triggers sharp corrections.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/nasdaq-100-plunges-nearly-5-briefly-enters-bear-market-zone-as-ai-fears-and-fresh-tariffs-hit-sentiment-11795626875336.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-11-25T23:13:56+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T23:34:34.068589+05:30"
+ },
+ {
+  "id": "fcb99eea87b0",
+  "headline": "Goldman Sachs, Societe Generale Buy Lenskart Stake for Rs 920-Cr",
+  "the_number": "Rs 920-Cr",
+  "why_it_matters": "Global institutional investors continue buying into India's leading eyewear startup.",
+  "founder_takeaway": "Strong operational metrics attract top-tier global institutional capital.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "D2C"
+  ],
+  "companies": [
+   "Goldman Sachs",
+   "Societe Generale",
+   "Lenskart"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://yourstory.com/2026/11/goldman-sachs-societe-generale-buy-rs-920-cr-stake-lenskart",
+  "source": "YourStory",
+  "score": 8,
+  "date": "2026-11-25T05:06:20+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T23:34:34.068589+05:30"
+ },
+ {
+  "id": "7b72638c1b17",
+  "headline": "US to Cap India Tariffs at 17% Upon Deal",
+  "the_number": "17%",
+  "why_it_matters": "Trade pact terms establish maximum tariff rates for Indian exports.",
+  "founder_takeaway": "Watch tariff ceilings closely when pricing cross-border export goods.",
   "sentiment": "Bullish",
   "category": "Policy",
   "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Sebi"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/markets/news/nris-can-complete-investment-kyc-from-abroad-starting-dec-3-what-changes-126111101128_1.html",
-  "source": "Business Standard Markets",
-  "score": 7,
-  "date": "2026-11-11T17:38:09+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-11T20:59:26.437652+05:30"
- },
- {
-  "id": "94e003270483",
-  "headline": "Centre Bans Export of Lithium-Ion Battery Black Mass",
-  "the_number": "-",
-  "why_it_matters": "Export bans protect domestic critical mineral supply chains for EVs.",
-  "founder_takeaway": "Regulatory changes create domestic opportunities for circular battery recycling supply.",
-  "sentiment": "Neutral",
-  "category": "Policy",
-  "sector_tags": [
-   "EV"
+   "other"
   ],
   "companies": [],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://inc42.com/buzz/centre-bans-export-of-lithium-ion-batterys-black-mass/",
-  "source": "Inc42",
-  "score": 7,
-  "date": "2026-11-11T12:57:14+00:00",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-11T20:59:26.437652+05:30"
- },
- {
-  "id": "921d863435e6",
-  "headline": "SoftBank SVF2 Logs $42 Mn Ola Electric Loss",
-  "the_number": "$42 Mn",
-  "why_it_matters": "Lenskart and Meesho valuation gains offset SoftBank's Ola Electric losses.",
-  "founder_takeaway": "Public market performance directly impacts late-stage investor portfolio valuations.",
-  "sentiment": "Neutral",
-  "category": "Earnings",
-  "sector_tags": [
-   "EV",
-   "D2C"
-  ],
-  "companies": [
-   "SoftBank",
-   "Lenskart",
-   "Meesho",
-   "Ola Electric"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://inc42.com/buzz/softbank-q2-lenskart-meesho-drive-valuation-gains-ola-electric-books-losses/",
-  "source": "Inc42",
-  "score": 7,
-  "date": "2026-11-10T19:57:18+00:00",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 8,
+  "date": "2026-11-25T14:29:44+00:00",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-11T20:59:26.437652+05:30"
+  "first_seen": "2026-11-25T23:34:34.068589+05:30"
  },
  {
   "id": "439257bc0f8c",
@@ -15549,5 +15240,333 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-25T16:24:01.826133+05:30"
+ },
+ {
+  "id": "e72f6832dc93",
+  "headline": "Meesho Informs Exchange About Acquisition of New Companies",
+  "the_number": "-",
+  "why_it_matters": "Meesho signals corporate expansion via new entity acquisitions.",
+  "founder_takeaway": "Corporate structuring often precedes major expansion or new business verticals.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "quick commerce",
+   "other"
+  ],
+  "companies": [
+   "Meesho"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Official",
+  "covered_by_count": 1,
+  "url": "https://nsearchives.nseindia.com/corporate/xbrl/REG30_Restructuring_26469_WebXMLFile_20261125_232034773.xml",
+  "source": "NSE Announcements",
+  "score": 7,
+  "date": "2026-11-25T23:20:35+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": "archive/2026/11/e72f6832dc93.html",
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T23:34:34.068589+05:30"
+ },
+ {
+  "id": "a3394985affa",
+  "headline": "Carlyle Sells 7.4% Stake in Piramal Pharma",
+  "the_number": "Rs 2,211 crore",
+  "why_it_matters": "Major private equity divestment reshuffles ownership in Indian pharma.",
+  "founder_takeaway": "Secondary markets provide substantial liquidity for mature healthcare assets.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "healthtech",
+   "other"
+  ],
+  "companies": [
+   "Carlyle Group",
+   "Piramal Pharma",
+   "Aditya Birla Sun Life Mutual Fund"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/carlyle-pares-7-4-stake-in-piramal-pharma-for-over-rs-2211-crore/articleshow/136165837.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-11-25T20:32:44+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T23:34:34.068589+05:30"
+ },
+ {
+  "id": "f863c0854197",
+  "headline": "Wipro Secures Over $500 Million Contract From BP",
+  "the_number": "$500 million",
+  "why_it_matters": "Seven-year IT deal adds massive recurring annual revenue.",
+  "founder_takeaway": "Multi-year enterprise contracts anchor predictable cash flows during scale.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Wipro",
+   "BP"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/wipro-bags-500-million-contract-from-bp-11795614860412.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-25T20:29:34+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T23:34:34.068589+05:30"
+ },
+ {
+  "id": "068e5bfe6d31",
+  "headline": "SpaceX and Tesla Discuss Potential $3.2 Trillion Merger",
+  "the_number": "$3.2 trillion",
+  "why_it_matters": "Massive proposed all-stock consolidation creates unprecedented technology giant.",
+  "founder_takeaway": "Combining related corporate entities demands independent committee and bank oversight.",
+  "sentiment": "Neutral",
+  "category": "M&A",
+  "sector_tags": [
+   "EV",
+   "other"
+  ],
+  "companies": [
+   "Tesla",
+   "SpaceX"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 3200000,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/spacextesla-merger-elon-musk-s-companies-assemble-teams-to-discuss-biggest-ever-3-2-trillion-deal-11795572495864.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-25T07:49:12+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T23:34:34.068589+05:30"
+ },
+ {
+  "id": "b3e2fe64a547",
+  "headline": "Investors Question Fairness of ₹28,000-Crore Tata Steel-APL Deal",
+  "the_number": "₹28,000 crore",
+  "why_it_matters": "Complex debt-funded asset swaps face proxy advisory scrutiny.",
+  "founder_takeaway": "Ensure related-party and leveraged transaction terms are transparent to shareholders.",
+  "sentiment": "Bearish",
+  "category": "M&A",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "APL Apollo",
+   "Tata Steel"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/investors-proxy-firms-question-fairness-of-apl-apollos-28k-cr-tata-steel-deal-11795528424973.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-25T06:00:29+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T23:34:34.068589+05:30"
+ },
+ {
+  "id": "5c74549cda25",
+  "headline": "MCX Gold and Silver Plunge on Fed Expectations",
+  "the_number": "3.6%",
+  "why_it_matters": "Hot US inflation data sparks commodity sell-off and dollar strength.",
+  "founder_takeaway": "US macroeconomic data heavily dictates commodity and input cost hedging.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "MCX"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/commodities/mcx-gold-plunges-rs-4-500-10g-silver-sheds-nearly-rs-8-800-kg-as-pce-data-fuels-december-fed-rate-hike-fears-11795621934097.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-25T21:57:31+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T23:34:34.068589+05:30"
+ },
+ {
+  "id": "372cae2950ae",
+  "headline": "Nvidia Stock Falls 9% Amid AI Tech Headwinds",
+  "the_number": "9%",
+  "why_it_matters": "Rising infrastructure costs and regulation trigger sell-off in AI chipmakers.",
+  "founder_takeaway": "Rising AI compute infrastructure costs challenge hardware valuation multiples.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/nvidia-stock-loses-momentum-after-huangs-return-as-ceo-down-another-9-why-are-investors-dumping-ai-stocks-again-11795618514162.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-25T20:43:42+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T23:34:34.068589+05:30"
+ },
+ {
+  "id": "0f768cc45c5a",
+  "headline": "MSCI India Adds $385 Billion Amid Global Convulsions",
+  "the_number": "$385 billion",
+  "why_it_matters": "Global investors rotate capital into Indian equities despite tech sell-offs.",
+  "founder_takeaway": "Macro diversification makes Indian assets an attractive global capital haven.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "MSCI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/india-stock-market-sensex-nifty-today-ai-stocks-11795607301635.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-25T17:31:07+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T23:34:34.068589+05:30"
+ },
+ {
+  "id": "da8038965937",
+  "headline": "SEBI Centralises Supplementary KYC Data to Streamline Client Onboarding",
+  "the_number": "-",
+  "why_it_matters": "Centralised KYC eliminates redundant documentation, accelerating client onboarding across intermediaries.",
+  "founder_takeaway": "Prepare fintech onboarding workflows for SEBI's centralised data architecture.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "SEBI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-eases-kyc-norms-centralises-supplementary-client-data-to-simplify-onboarding/articleshow/136162936.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-11-25T18:41:00+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T23:34:34.068589+05:30"
+ },
+ {
+  "id": "811411a2c352",
+  "headline": "Flipkart CEO Kalyan Krishnamurthy Steps Down After 11 Years",
+  "the_number": "11 years",
+  "why_it_matters": "A major leadership change could alter Flipkart's strategic direction and market approach.",
+  "founder_takeaway": "Build robust succession plans for senior executives well in advance.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Flipkart"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/people/who-is-kalyan-krishnamurthy-meet-flipkart-ceo-stepping-down-after-nearly-a-decade-at-the-helm-what-s-next-for-him-11795596463140.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-25T14:40:35+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T23:34:34.068589+05:30"
+ },
+ {
+  "id": "5190bc98fdc1",
+  "headline": "ONDC Pilots NearU to Challenge Dark Store Quick Commerce",
+  "the_number": "four-hour",
+  "why_it_matters": "Enables fast delivery via local retailers without dedicated dark stores.",
+  "founder_takeaway": "Leverage existing retail infrastructure rather than building dark stores.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "ONDC",
+   "NearU"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.business-standard.com/technology/tech-news/ondc-takes-on-quick-commerce-with-nearu-bets-on-local-stores-for-delivery-126112500939_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-25T17:42:50+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-25T23:34:34.068589+05:30"
  }
 ]
