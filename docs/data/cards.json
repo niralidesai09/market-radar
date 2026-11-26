@@ -1,35 +1,5 @@
 [
  {
-  "id": "68d90bd698cb",
-  "headline": "Nvidia Ousts CEO Jensen Huang; CFO Colette Kress Steps In",
-  "the_number": "-",
-  "why_it_matters": "Sudden leadership change at the top firm leading AI boom.",
-  "founder_takeaway": "Strong governance and succession planning are critical during crises.",
-  "sentiment": "Neutral",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Nvidia",
-   "Synopsys"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Big Move",
-  "source_badge": "Verified media",
-  "covered_by_count": 15,
-  "url": "https://www.livemint.com/companies/people/nvidia-ceo-jensen-huang-to-step-down-in-big-blow-to-ai-boom-11794491910708.html",
-  "source": "Mint Companies",
-  "score": 10,
-  "date": "2026-11-12T19:30:18+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-12T21:36:07.469043+05:30"
- },
- {
   "id": "82e91fd82b82",
   "headline": "Nvidia CEO Jensen Huang Resigns Amid Controversies",
   "the_number": "-",
@@ -237,33 +207,6 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-24T00:53:52.113840+05:30"
- },
- {
-  "id": "c463948567c9",
-  "headline": "India's Inflation Breaches RBI's 6% Upper Limit",
-  "the_number": "6%",
-  "why_it_matters": "Breaching the tolerance band increases pressure for policy rate hikes.",
-  "founder_takeaway": "Expect tighter monetary conditions and higher cost of capital.",
-  "sentiment": "Bearish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSlE4RjR5cTc2cVI3bWZZWHJxcGdTTXA4UjBQNUEtbVdfeXJwdXZ1b21ZejRTaERGWmlXa0JDZ2ZKWHdBaUx3cVFwRnlTSzVzci1FakptNjVUWVZZYXZ2WEEwVy1LMktOWFlUdE5GNHpLbTBMNTR2VFFwRHUtSDFqUkNnUkFNUDBBR2Z0Zm84YjZraTJnaV9uUEU1NVZGN0xnaHVIMWVxRFNiOEsyelNQdWI0R1Y3UVpZ?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 9,
-  "date": "2026-11-12T12:27:03+00:00",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": true,
-  "first_seen": "2026-11-12T21:36:07.469043+05:30"
  },
  {
   "id": "b4bc2a8db1b3",
@@ -1522,302 +1465,64 @@
   "first_seen": "2026-11-26T15:59:12.867964+05:30"
  },
  {
-  "id": "d15537ff2b2d",
-  "headline": "Anthropic Prepares IPO Targeting Up to $64.4 Billion",
-  "the_number": "$64.4 billion",
-  "why_it_matters": "Mega AI IPO tests public market appetite for massive valuations.",
-  "founder_takeaway": "Early index inclusion and employee liquidity can optimize IPO success.",
-  "sentiment": "Bullish",
+  "id": "62f20c36c4ff",
+  "headline": "Flipkart CEO Kalyan Krishnamurthy ousted by parent Walmart",
+  "the_number": "-",
+  "why_it_matters": "Major leadership shakeup at India's top ecommerce player amid IPO plans.",
+  "founder_takeaway": "Parent company alignments dictate leadership tenure during critical phases.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Flipkart",
+   "Walmart",
+   "PhonePe"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Big Move",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://inc42.com/buzz/flipkart-ceo-ousted-phonepe-revives-ipo-more/",
+  "source": "Inc42",
+  "score": 9,
+  "date": "2026-11-26T02:30:25+00:00",
+  "unc_number": false,
+  "raw_impact": "Big Move",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-26T23:20:00.138185+05:30"
+ },
+ {
+  "id": "38c6ffe96a9a",
+  "headline": "Flipkart CEO steps down amid IPO uncertainty",
+  "the_number": "-",
+  "why_it_matters": "Product head Balaji Thiagarajan assumes interim leadership amid IPO uncertainty.",
+  "founder_takeaway": "Prepare interim leadership structures to handle sudden executive exits.",
+  "sentiment": "Bearish",
   "category": "IPO",
   "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Anthropic",
-   "SpaceX"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 64400,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/stocks/news/from-spacex-to-anthropic-markets-have-a-new-playbook-for-mega-share-debuts/articleshow/135756798.cms",
-  "source": "Economic Times Markets",
-  "score": 8,
-  "date": "2026-11-12T11:05:33+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-12T21:36:07.469043+05:30"
- },
- {
-  "id": "8e5dc17c8550",
-  "headline": "ReNew and CleanMax Pledge ₹1.3 Trillion in Andhra Pradesh",
-  "the_number": "₹1.3 trillion",
-  "why_it_matters": "Massive capital flow accelerates green energy and AI data centre infrastructure.",
-  "founder_takeaway": "Renewable energy and AI compute infrastructure demand is expanding rapidly.",
-  "sentiment": "Bullish",
-  "category": "Macro",
-  "sector_tags": [
-   "AI",
    "other"
   ],
   "companies": [
-   "ReNew",
-   "CleanMax"
+   "Flipkart"
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/renew-cleanmax-investments-rs-1-3-trillion-data-centres-green-energy-andhra-pradesh-renewable-energy-11794490757000.html",
-  "source": "Mint Companies",
-  "score": 8,
-  "date": "2026-11-12T20:02:05+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-12T21:36:07.469043+05:30"
- },
- {
-  "id": "83b49965e73d",
-  "headline": "Ola Electric Revenue Falls 39% as Margins Worsen",
-  "the_number": "-58.5%",
-  "why_it_matters": "Deteriorating unit economics raise concerns over operational turnaround in EV manufacturing.",
-  "founder_takeaway": "Focus on sustainable unit economics before scaling aggressive manufacturing capacity.",
-  "sentiment": "Bearish",
-  "category": "Earnings",
-  "sector_tags": [
-   "EV"
-  ],
-  "companies": [
-   "Ola Electric"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/company-results/ola-electric-struggles-to-stem-declining-revenue-worsening-unit-economics-evs-cell-plant-tvs-ather-hero-bajaj-11794486896087.html",
-  "source": "Mint Companies",
-  "score": 8,
-  "date": "2026-11-12T19:05:55+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-12T21:36:07.469043+05:30"
- },
- {
-  "id": "fbdf0e636f0c",
-  "headline": "SoftBank Offloads ₹1,174 Crore Stake in Meesho Block Deal",
-  "the_number": "₹1,174 crore",
-  "why_it_matters": "Early institutional investor begins liquidity realization via secondary market sales.",
-  "founder_takeaway": "Expect secondary discounted exits as large investors rebalance portfolio exposures.",
-  "sentiment": "Neutral",
-  "category": "Funding",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Meesho",
-   "SoftBank"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/stock-market-news/meesho-block-deal-svf-ii-meerkat-to-offload-1-stake-at-rs-246-apiece-deal-size-rs-1-174-crore-11794493326642.html",
-  "source": "Mint Markets",
-  "score": 8,
-  "date": "2026-11-12T20:14:31+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-12T21:36:07.469043+05:30"
- },
- {
-  "id": "50c6f8482fce",
-  "headline": "UPI MDR Rollout Introduces 0.4% Fee Above ₹2,000",
-  "the_number": "0.4%",
-  "why_it_matters": "MDR creates recurring monetisation streams for fintech payment aggregators.",
-  "founder_takeaway": "Regulatory monetisation models provide sustainable alternatives to discretionary subsidies.",
-  "sentiment": "Bullish",
-  "category": "Policy",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Paytm",
-   "MobiKwik",
-   "Pine Labs"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/stock-market-news/upi-mdr-rollout-after-diwali-what-it-means-for-paytm-mobikwik-and-pine-labs-what-investors-should-know-11794477959612.html",
-  "source": "Mint Markets",
-  "score": 8,
-  "date": "2026-11-12T17:19:09+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-12T21:36:07.469043+05:30"
- },
- {
-  "id": "374a170a4df3",
-  "headline": "RIL Plans ₹43,000 Crore Coal Gasification Project in Andhra",
-  "the_number": "₹43,000 crore",
-  "why_it_matters": "Huge energy investment strengthens domestic industrial capacity and long-term infrastructure.",
-  "founder_takeaway": "Heavy capital deployment aligns closely with regional industrial policy support.",
-  "sentiment": "Bullish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Reliance Industries"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/industry/news/ril-plans-43-000-crore-investment-in-andhra-coal-gasification-project-126111201468_1.html",
-  "source": "Business Standard Companies",
-  "score": 8,
-  "date": "2026-11-12T18:36:24+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-12T21:36:07.469043+05:30"
- },
- {
-  "id": "49d888d2575f",
-  "headline": "Adani Group Targets $2.9 Billion Evos Acquisition",
-  "the_number": "$2.9 billion",
-  "why_it_matters": "Adani expands infrastructure portfolio through large-scale international acquisition financing.",
-  "founder_takeaway": "Balanced debt and equity structures enable mega-deal acquisitions efficiently.",
-  "sentiment": "Bullish",
-  "category": "M&A",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Adani Group",
-   "Evos"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 2900,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/companies/news/adani-group-eyes-mix-of-equity-debt-for-2-9-billion-evos-takeover-126111200163_1.html",
-  "source": "Business Standard Companies",
-  "score": 8,
-  "date": "2026-11-12T09:09:09+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-12T21:36:07.469043+05:30"
- },
- {
-  "id": "069486e2f970",
-  "headline": "Norwest Closes $4 Billion Fund for AI and Healthcare",
-  "the_number": "$4B",
-  "why_it_matters": "Substantial global dry powder unlocked for venture stage tech investments.",
-  "founder_takeaway": "AI and healthtech remain premier targets for large global funds.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "AI",
-   "healthtech",
-   "fintech"
-  ],
-  "companies": [
-   "Norwest"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 4000,
-  "impact": "Notable",
+  "impact": "Big Move",
   "source_badge": "Verified media",
   "covered_by_count": 2,
-  "url": "https://yourstory.com/2026/11/norwest-closes-4b-fund-to-back-ai-healthcare-and-financial-infra",
-  "source": "YourStory",
-  "score": 8,
-  "date": "2026-11-12T12:54:20+00:00",
+  "url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+  "source": "TechCrunch",
+  "score": 9,
+  "date": "2026-11-25T13:08:19+00:00",
   "unc_number": false,
-  "raw_impact": "Notable",
+  "raw_impact": "Big Move",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-12T21:36:07.469043+05:30"
- },
- {
-  "id": "fd1fa3c6f516",
-  "headline": "Kia India to Invest $2 Billion in Second Plant",
-  "the_number": "$2B",
-  "why_it_matters": "Significant auto manufacturing expansion generates thousands of industrial jobs.",
-  "founder_takeaway": "Automakers are doubling down on localized Indian manufacturing hubs.",
-  "sentiment": "Bullish",
-  "category": "Macro",
-  "sector_tags": [
-   "EV",
-   "other"
-  ],
-  "companies": [
-   "Kia India"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://yourstory.com/2026/11/kia-india-to-invest-2b-in-second-plant-in-andhra-pradesh",
-  "source": "YourStory",
-  "score": 8,
-  "date": "2026-11-12T10:58:41+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-12T21:36:07.469043+05:30"
- },
- {
-  "id": "ad1cf9e2a97d",
-  "headline": "India to Ban PE Firms from Controlling Multiple NBFCs",
-  "the_number": "-",
-  "why_it_matters": "Regulatory curbs will restrict private equity consolidation across shadow banking.",
-  "founder_takeaway": "Fintech and lending founders face narrower private equity buyout options.",
-  "sentiment": "Bearish",
-  "category": "Policy",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaUotYjFJTTF3amV0VWJmdDl3V00xWlVZdTd2VkFzek1GZ2hQbndleXV5XzMxOVdFRU03dmNWWDFXbHVtQ3daOEM3WFV1VHJoc0V0d3pYMEN5VU9vR1p5dmJwaDNBRWlVLWcxeEVSSHBrX2lSQVphdHJSdjM1b1Z6QlY0YjVmRlBtT2dWM1pocm1nclI3SXVISkpqakVJb1Bpb25LRTBEZTVNbl84WmtyRko1YWdkazJZcHFRbVBTejk0bjE3SF9JeG9KOTU5QQ?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 8,
-  "date": "2026-11-12T08:14:21+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-12T21:36:07.469043+05:30"
+  "first_seen": "2026-11-26T23:20:00.138185+05:30"
  },
  {
   "id": "c09eefe9af24",
@@ -7587,6 +7292,121 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-26T15:59:12.867964+05:30"
+ },
+ {
+  "id": "66c8b73bb3cd",
+  "headline": "Tata Trusts challenges Chandrasekaran third term at Tata Sons",
+  "the_number": "₹65 crore",
+  "why_it_matters": "Unprecedented boardroom governance battle threatens leadership stability at Tata Group.",
+  "founder_takeaway": "Boardroom disputes can disrupt strategic decision-making and governance.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Trusts",
+   "Tata Sons"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 5,
+  "url": "https://www.business-standard.com/companies/news/tata-trusts-bombay-high-court-tata-sons-chandrasekaran-reappointment-126112600433_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-11-26T11:52:51+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-26T23:20:00.138185+05:30"
+ },
+ {
+  "id": "00e72e4d17ca",
+  "headline": "Finnable raises Rs 405 Cr in Series C",
+  "the_number": "Rs 405 Cr",
+  "why_it_matters": "Growth capital enables profitable fintech to scale multi-product lending business.",
+  "founder_takeaway": "Proven profitability can drive successful growth-stage fundraising rounds.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Finnable"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://yourstory.com/2026/11/finnable-raises-rs-405-crore-in-series-c-to-expand-multi-product-lending",
+  "source": "YourStory",
+  "score": 8,
+  "date": "2026-11-26T06:27:57+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-26T23:20:00.138185+05:30"
+ },
+ {
+  "id": "e8dd0a3e9ff1",
+  "headline": "Trump proposes tariffs for India compared to rival nations",
+  "the_number": "-",
+  "why_it_matters": "Looming trade tariffs could alter Indian export competitiveness against rival nations.",
+  "founder_takeaway": "Monitor international trade policy shifts to mitigate export risk.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNazJTSjI3dk40ZnhoM2ZJR2N2eXp0NUFoaWUxNUI4NW9wV19YWEtpd24tS0t5YnFHV2YzSkRmSXdiTnR6cjRuMTROY1d1VlQ2NUR3UjNNMUJkeU5XQVBOeUQ1VnVTQmtQU3BVOUNndHdyeUhvWDcxdmRHMGtheVJCREs4UzdCWS1VVDQwcmdQYWtILXltMHRhN1UxeTVtdGhuMFhpemlOdDRkLTB5?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 8,
+  "date": "2026-11-26T11:10:56+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-26T23:20:00.138185+05:30"
+ },
+ {
+  "id": "a2acd3b2d417",
+  "headline": "India swaps signal possible outsized RBI rate hike",
+  "the_number": "-",
+  "why_it_matters": "Market indicators point toward imminent domestic borrowing cost escalation.",
+  "founder_takeaway": "Anticipate higher interest rates in debt and liquidity planning.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "RBI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTURLc0UwZjNUdy05dVdJMVFLLUpDNUQwN19INXh3cVcwdW5fM2k3eDV2bnY4ZkZkMDVzSjN4N3Yzcm9CQ1MtT1hmaVJzMmY5VkpMUzgxQzVrQm1zZzU2OERSak1TeU84dDlTOVk0aEZSNXFGcUNzaFo2bVlXN2wwYjRScUxtVE9GeXFFRjBFdWdlZ2tjOEpnQ19UTmVJVnlBQ0ZVclBQdHhieTd0SDJlVEU3c0ZTaFZFazB6cVAtbWpqMmU2?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 8,
+  "date": "2026-11-26T10:21:58+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-26T23:20:00.138185+05:30"
  },
  {
   "id": "3930fd2d4f6f",
@@ -15691,5 +15511,388 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-26T15:59:12.867964+05:30"
+ },
+ {
+  "id": "97da9d6b0157",
+  "headline": "SEBI issues advisory on unregulated IPO grey market premiums",
+  "the_number": "-",
+  "why_it_matters": "Regulators scrutinize informal pricing metrics that influence retail IPO investor behavior.",
+  "founder_takeaway": "Rely on official disclosures rather than unregulated grey market hype.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "SEBI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Official",
+  "covered_by_count": 1,
+  "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/advisory-regarding-unregulated-pre-listing-premium-often-called-as-grey-market-premium-gmp-for-upcoming-initial-public-offers-ipos-_105942.html",
+  "source": "SEBI",
+  "score": 7,
+  "date": null,
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": "archive/2026/11/97da9d6b0157.html",
+  "unconfirmed": false,
+  "first_seen": "2026-11-26T23:20:00.138185+05:30"
+ },
+ {
+  "id": "dccc69dfd0d5",
+  "headline": "India bonds tumble as Brent oil crosses $95 barrel",
+  "the_number": "$95",
+  "why_it_matters": "High oil and food inflation risk tighter monetary policy ahead.",
+  "founder_takeaway": "Inflationary spikes threaten broader market liquidity and borrowing rates.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Reserve Bank of India"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-tumble-as-brent-tops-95-per-barrel-rbi-flags-food-inflation-risks/articleshow/136193320.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-11-26T18:41:40+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-26T23:20:00.138185+05:30"
+ },
+ {
+  "id": "cbf584ec74ff",
+  "headline": "Oil price surge reverses rupee rally as premiums rise",
+  "the_number": "$96",
+  "why_it_matters": "Elevated crude oil prices pressure currency valuation and national import costs.",
+  "founder_takeaway": "Hedge foreign currency exposure when commodity-driven exchange volatility spikes.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/spike-in-oil-prices-partly-reverses-rupee-rally-forward-premiums-surge/articleshow/136188127.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-11-26T16:06:16+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-26T23:20:00.138185+05:30"
+ },
+ {
+  "id": "69b402657e51",
+  "headline": "Rupee Slumps to 92.40 Against US Dollar",
+  "the_number": "92.40",
+  "why_it_matters": "Currency depreciation and proposed US tariffs threaten import costs and inflation.",
+  "founder_takeaway": "Prepare for higher import costs and FX volatility ahead.",
+  "sentiment": "Bearish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-20-paise-to-92-40-against-us-dollar-in-early-trade/articleshow/136179591.cms",
+  "source": "Economic Times Markets",
+  "score": 7,
+  "date": "2026-11-26T10:54:36+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-26T23:20:00.138185+05:30"
+ },
+ {
+  "id": "95c3d58c5449",
+  "headline": "Nvidia Halts AI Chip Shipments to Southeast Asia",
+  "the_number": "-",
+  "why_it_matters": "Supply chain disruptions threaten server shipments and regional compute availability.",
+  "founder_takeaway": "Diversify compute and server suppliers to avoid shipment halts.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia",
+   "Dell",
+   "Supermicro"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-halts-chip-shipments-to-southeast-asia-ft-reports/articleshow/136180352.cms",
+  "source": "Economic Times Tech",
+  "score": 7,
+  "date": "2026-11-26T11:28:19+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-26T23:20:00.138185+05:30"
+ },
+ {
+  "id": "f4186560481c",
+  "headline": "Probe Sought Into Charity Funds Used Against Tata Listing",
+  "the_number": "-",
+  "why_it_matters": "Legal challenges question charitable fund usage and stall IPO roadmap.",
+  "founder_takeaway": "Ensure clean governance when preparing complex corporate entities for listing.",
+  "sentiment": "Bearish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Sons",
+   "Tata Trusts"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/can-charity-money-be-used-to-fight-tata-sons-listing-vijay-singh-seeks-urgent-probe-11795705578505.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-26T22:04:25+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-26T23:20:00.138185+05:30"
+ },
+ {
+  "id": "7c2e685c8625",
+  "headline": "NSE Becomes World's Third-Largest Exchange Overtaking Nasdaq",
+  "the_number": "$64.1 billion",
+  "why_it_matters": "Indian public capital markets demonstrate unprecedented global scale and liquidity.",
+  "founder_takeaway": "Deep domestic market liquidity offers strong domestic IPO alternatives.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "NSE",
+   "Deutsche Boerse",
+   "London Stock Exchange Group",
+   "Nasdaq",
+   "HKEX"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/nse-is-now-worlds-third-largest-listed-exchange-by-market-cap-overtakes-nasdaq-lse-which-two-exchanges-are-ahead-11795697484423.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-26T18:55:46+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-26T23:20:00.138185+05:30"
+ },
+ {
+  "id": "d1f18eab920e",
+  "headline": "SAP Weighs Cutting 10,000 Jobs in AI Shift",
+  "the_number": "10,000",
+  "why_it_matters": "Legacy enterprise tech reshapes workforces aggressively to prioritize AI capabilities.",
+  "founder_takeaway": "Realign engineering and sales functions toward AI-driven efficiency early.",
+  "sentiment": "Neutral",
+  "category": "Layoffs",
+  "sector_tags": [
+   "SaaS",
+   "AI"
+  ],
+  "companies": [
+   "SAP"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring-126112601550_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-26T22:47:34+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-26T23:20:00.138185+05:30"
+ },
+ {
+  "id": "9c072f859a39",
+  "headline": "Urban Company Enters AC Market With Extended Warranty",
+  "the_number": "5 years",
+  "why_it_matters": "Service marketplaces can leverage technician networks to disrupt consumer hardware.",
+  "founder_takeaway": "Use existing service infrastructure to offer unmatched product warranties.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "D2C",
+   "other"
+  ],
+  "companies": [
+   "Urban Company"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/urban-company-enters-ac-market-with-units-designed-for-indian-summers-126112601340_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-26T20:07:23+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-26T23:20:00.138185+05:30"
+ },
+ {
+  "id": "24b7230ad915",
+  "headline": "Ultraviolette Breaks Ground on ₹779 Crore EV Plant",
+  "the_number": "₹779 crore",
+  "why_it_matters": "Major manufacturing expansion builds domestic electric vehicle supply capacity.",
+  "founder_takeaway": "Build scalable manufacturing capacity to meet long-term hardware demand.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "EV"
+  ],
+  "companies": [
+   "Ultraviolette"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/ultraviolette-breaks-ground-on-779-crore-electric-vehicle-plant-in-hosur-126112601000_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-26T17:22:01+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-26T23:20:00.138185+05:30"
+ },
+ {
+  "id": "15a08f6a8320",
+  "headline": "GEF Capital Partners Raises $615 Million Climate Fund",
+  "the_number": "$615 million",
+  "why_it_matters": "Large pools of capital are targeting South Asian energy transitions.",
+  "founder_takeaway": "Energy transition and climate startups can access substantial growth capital.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "GEF Capital Partners"
+  ],
+  "geography": "India",
+  "amount_usd_m": 615,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.business-standard.com/companies/news/gef-capital-partners-raises-615-million-in-first-close-of-climate-fund-126112600825_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-26T15:57:17+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-26T23:20:00.138185+05:30"
+ },
+ {
+  "id": "712bd286590f",
+  "headline": "Green Aero Raises $14 Million Series A Funding",
+  "the_number": "$14 million",
+  "why_it_matters": "Defence and aerospace startups in India secure early growth venture funding.",
+  "founder_takeaway": "Defence deeptech attracts serious venture funding for capital-intensive development.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Green Aero",
+   "Crane Ventures"
+  ],
+  "geography": "India",
+  "amount_usd_m": 14,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.business-standard.com/companies/news/green-aero-raises-14-million-to-develop-jet-engines-and-combat-drones-126112501253_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-26T06:00:27+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-26T23:20:00.138185+05:30"
+ },
+ {
+  "id": "7946da017a2c",
+  "headline": "Bharti Airtel to invest ₹1,200 crore in Assam data centres",
+  "the_number": "₹1,200 crore",
+  "why_it_matters": "Adds 40 MW digital infrastructure capacity across three Assam facilities by 2028.",
+  "founder_takeaway": "Expanding regional infrastructure improves local compute access and latency.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Bharti Airtel"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/bharti-airtel-to-invest-1-200-crore-in-three-data-centres-in-assam-126112501173_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-25T22:27:32+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-26T23:20:00.138185+05:30"
  }
 ]
