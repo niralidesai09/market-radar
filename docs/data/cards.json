@@ -1,34 +1,5 @@
 [
  {
-  "id": "82e91fd82b82",
-  "headline": "Nvidia CEO Jensen Huang Resigns Amid Controversies",
-  "the_number": "-",
-  "why_it_matters": "Nvidia loses visionary co-founder and leader during key AI race.",
-  "founder_takeaway": "Personal conduct and governance issues can derail iconic leadership.",
-  "sentiment": "Bearish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Nvidia"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Big Move",
-  "source_badge": "Verified media",
-  "covered_by_count": 12,
-  "url": "https://www.livemint.com/companies/news/nvidia-ceo-jensen-huang-resigns-tech-giant-appoints-colette-kress-as-interim-ceo-report-11794491647631.html",
-  "source": "Mint Companies",
-  "score": 10,
-  "date": "2026-11-12T19:25:53+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-13T02:29:09.749964+05:30"
- },
- {
   "id": "7c7efd3fe78d",
   "headline": "Anthropic Eyes Massive Over $60 Billion IPO Haul",
   "the_number": ">$60 billion",
@@ -207,35 +178,6 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-24T00:53:52.113840+05:30"
- },
- {
-  "id": "b4bc2a8db1b3",
-  "headline": "Nvidia Drops 10% In After-Hours Following Huang Reports",
-  "the_number": "10%",
-  "why_it_matters": "Leadership turmoil sparks downgrades and worries over AI strategic direction.",
-  "founder_takeaway": "Founder risk can trigger sudden equity and valuation re-ratings.",
-  "sentiment": "Bearish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Nvidia Corp"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-shares-slide-as-investors-consider-future-without-huang/articleshow/135753594.cms",
-  "source": "Economic Times Markets",
-  "score": 9,
-  "date": "2026-11-12T08:51:39+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": true,
-  "first_seen": "2026-11-13T02:29:09.749964+05:30"
  },
  {
   "id": "ce94755aeb00",
@@ -1523,327 +1465,6 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-26T23:20:00.138185+05:30"
- },
- {
-  "id": "c09eefe9af24",
-  "headline": "IBM To End H-1B Sponsorship For Consulting Roles",
-  "the_number": "-",
-  "why_it_matters": "US visa crackdowns force tech giants to reduce foreign hiring.",
-  "founder_takeaway": "Global talent strategies must adapt rapidly to tightening immigration.",
-  "sentiment": "Bearish",
-  "category": "Policy",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "IBM"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/ibm-to-end-h-1b-visa-and-green-card-sponsorship-for-most-consulting-roles-amid-trumps-immigration-crackdown-report-11794505557647.html",
-  "source": "Mint Companies",
-  "score": 8,
-  "date": "2026-11-12T23:55:14+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-13T02:29:09.749964+05:30"
- },
- {
-  "id": "91ccfb35b045",
-  "headline": "China-Linked Firms Reportedly Promised Nvidia Blackwells To DeepSeek",
-  "the_number": "-",
-  "why_it_matters": "Alleged supply arrangements raise scrutiny over US chip export compliance.",
-  "founder_takeaway": "Strict export controls require constant partner and supply-chain vetting.",
-  "sentiment": "Bearish",
-  "category": "Policy",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Nvidia",
-   "DeepSeek"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/people/alice-huang-s-china-links-firms-related-to-her-promised-nvidia-blackwell-chips-to-deepseek-despite-us-ban-report-says-11794505719511.html",
-  "source": "Mint Companies",
-  "score": 8,
-  "date": "2026-11-12T23:32:25+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-13T02:29:09.749964+05:30"
- },
- {
-  "id": "fcc1fa1374e0",
-  "headline": "Paytm Shares Rise 7.3% Near IPO Highs",
-  "the_number": "7.3%",
-  "why_it_matters": "Q2 profit of ₹226 crore and MDR hopes spur rally.",
-  "founder_takeaway": "Profitability and regulatory tailwinds can drive sustained market recoveries.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Paytm"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/stock-market-news/paytm-shares-at-rs-1-925-close-in-on-ipo-listing-day-high-after-100-rally-from-march-lows-what-led-a-recovery-11794491626960.html",
-  "source": "Mint Markets",
-  "score": 8,
-  "date": "2026-11-12T22:19:29+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-13T02:29:09.749964+05:30"
- },
- {
-  "id": "f6c9dfd43618",
-  "headline": "Anthropic Plans IPO Valued Up To $1.4 Trillion",
-  "the_number": "$1.4 trillion",
-  "why_it_matters": "AI giant eyes massive Nasdaq listing under ticker ANT.",
-  "founder_takeaway": "Early equity grants can unlock massive windfalls at liquidity.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Anthropic"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/ipo/anthropic-ipo-who-is-krishna-rao-meet-the-cfo-whose-1-30-stock-options-could-unlock-a-rs-7-000-crore-fortune-11794497618384.html",
-  "source": "Mint Markets",
-  "score": 8,
-  "date": "2026-11-12T21:09:38+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-13T02:29:09.749964+05:30"
- },
- {
-  "id": "867a52f94f80",
-  "headline": "Wall Street Edges Up Despite Nvidia Drop",
-  "the_number": "0.29%",
-  "why_it_matters": "Major US indices post modest gains even as Nvidia slides.",
-  "founder_takeaway": "Broader market breadth can withstand single-stock leadership shocks.",
-  "sentiment": "Neutral",
-  "category": "Macro",
-  "sector_tags": [
-   "AI",
-   "other"
-  ],
-  "companies": [
-   "Nvidia"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://www.business-standard.com/world-news/wall-street-opens-lower-as-nvidia-ceo-huang-steps-down-tech-stocks-slide-126111201681_1.html",
-  "source": "Business Standard Markets",
-  "score": 8,
-  "date": "2026-11-12T20:15:13+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-13T02:29:09.749964+05:30"
- },
- {
-  "id": "b137e48aab73",
-  "headline": "Bajaj Finance Launches ₹11,700 Crore QIP",
-  "the_number": "₹11,700 crore",
-  "why_it_matters": "Large equity raise boosts lending balance sheet and signals institutional support.",
-  "founder_takeaway": "Timing capital raises at market peaks helps minimize equity dilution.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Bajaj Finance"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/markets/news/bajaj-finance-share-price-rallies-3-nears-52-week-high-on-qip-launch-126111200214_1.html",
-  "source": "Business Standard Markets",
-  "score": 8,
-  "date": "2026-11-12T10:06:19+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-13T02:29:09.749964+05:30"
- },
- {
-  "id": "55bf40a54c79",
-  "headline": "SoftBank Incurs Over $3 Billion Loss Preordering Gas Turbines",
-  "the_number": "$3 billion",
-  "why_it_matters": "Turbine preorder write-down highlights costly energy bets powering AI centers.",
-  "founder_takeaway": "Speculative infrastructure procurement without clear deployment timelines brings huge downside.",
-  "sentiment": "Bearish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI",
-   "other"
-  ],
-  "companies": [
-   "SoftBank"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-  "source": "TechCrunch",
-  "score": 8,
-  "date": "2026-11-12T17:00:52+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-13T02:29:09.749964+05:30"
- },
- {
-  "id": "a8b4ef01f1e0",
-  "headline": "Norwest Closes Record $4B Fund Expanding AI Focus",
-  "the_number": "$4B",
-  "why_it_matters": "Massive dry powder will accelerate funding for emerging AI companies.",
-  "founder_takeaway": "Venture capital continues to centralize massive capital behind AI startups.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Norwest"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 4000.0,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-  "source": "TechCrunch",
-  "score": 8,
-  "date": "2026-11-12T15:18:14+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-13T02:29:09.749964+05:30"
- },
- {
-  "id": "2f5e23f48c68",
-  "headline": "Kia India Plans $2 Billion Investment in Second Plant",
-  "the_number": "$2 billion",
-  "why_it_matters": "Multi-billion dollar expansion strengthens India's role as global manufacturing hub.",
-  "founder_takeaway": "Automakers are scaling long-term local production to secure domestic supply.",
-  "sentiment": "Bullish",
-  "category": "Macro",
-  "sector_tags": [
-   "EV",
-   "other"
-  ],
-  "companies": [
-   "Kia India"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSkhfZlRPWFM0U0ZPcl9pcHNwWEFuaXZ4S3NJQ0l5b3E1Qk5wZDcyZGtUdDM0S2R0cUYycGlyWlI2UDk5ZmlQcjJEV1loTDh6X1oxRHlVdXFpTmkzRDVhRTYyc0tGRGk5cjN5bGlUbTlJTXV6OUxxU0RKdEdvbFdtQTFHQ2xtbjJjSUZlanNtTjdaVHlDOVRhbGVDaVRrWlVJdk1aQTRPZmxGMWJhQzA5MExyTjRSeVUtbFF3ZjVPLUtrdDRtd2c?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 8,
-  "date": "2026-11-12T07:41:00+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-13T02:29:09.749964+05:30"
- },
- {
-  "id": "def25e79fdc8",
-  "headline": "Reliance Plans $4.6 Billion Coal-to-Gas Project",
-  "the_number": "$4.6 billion",
-  "why_it_matters": "Substantial capital commitment advances alternative domestic gas production capacity.",
-  "founder_takeaway": "Industrial conglomerates continue deploying massive balance sheets into domestic energy.",
-  "sentiment": "Bullish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Reliance"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWW5tUGVKQ1BTSjV5REE0LUhyUTZWVDljNVJ6RWh2VXJVUGVzSHpfY1BVRHJyREtCZGFSbWtyM3dBS19NUHNUWWQyMHUtN1NmZXlFRTBkaTZoT3JMcW1zelY4MXlFVDd1T3dsRm11emw2ZTRfLXBmeVlncVhIbGoyMXRlVTl0UmRIYnFCakVXWkRDc1VYSGpnS28tT3ZtYTExb3FMdXMxSGx4VlQtaUliTUdzd2V2UnNQa0VVNjVrV3drcjhYY1dnUDM5Zw?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 8,
-  "date": "2026-11-12T07:49:00+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-13T02:29:09.749964+05:30"
- },
- {
-  "id": "2fab35f8cbea",
-  "headline": "India's October Retail Inflation Rises to 6.09%",
-  "the_number": "6.09%",
-  "why_it_matters": "Higher retail inflation creates headwind for upcoming monetary policy decisions.",
-  "founder_takeaway": "Rising inflation pressures consumer spending and delays interest rate cuts.",
-  "sentiment": "Bearish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPREdNUGJpdVdzdFc0aWVJQ2dFU21LNTdob0R6QXFwS1I0amswSzdzZC1TbWJrRm95ZFFMU3k2STdocmxMWHJETUpXSU1QeWtwY05mR2p3eFlRTkJUYjloTlN3QlYzWDhCWElxci1rU2FwNldyUG9jSkc3OWtnWjRJUjhyLVR5YTJnNkJROFlQZjZiNG52a0FzdWhMYlE?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 8,
-  "date": "2026-11-12T11:22:31+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-13T02:29:09.749964+05:30"
  },
  {
   "id": "9a57325b26c6",
@@ -7409,64 +7030,62 @@
   "first_seen": "2026-11-26T23:20:00.138185+05:30"
  },
  {
-  "id": "3930fd2d4f6f",
-  "headline": "Clean Max Pledges Rs 50,000 Crore Green Energy Investment",
-  "the_number": "Rs 50,000 crore",
-  "why_it_matters": "Massive renewable project directly powers emerging compute factory infrastructure.",
-  "founder_takeaway": "AI compute infrastructure depends heavily on co-locating dedicated clean power.",
-  "sentiment": "Bullish",
-  "category": "Macro",
+  "id": "dc73d1d198c6",
+  "headline": "Flipkart incoming CEO faces IPO delay and intense competition",
+  "the_number": "-",
+  "why_it_matters": "Incoming leadership must address stalled IPOs and rising operational pressures.",
+  "founder_takeaway": "Balancing capital-intensive units is vital during leadership transitions.",
+  "sentiment": "Bearish",
+  "category": "IPO",
   "sector_tags": [
-   "AI",
    "other"
   ],
   "companies": [
-   "Clean Max Enviro Energy Solutions",
-   "Neysa"
+   "Flipkart"
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/markets/companies/clean-max-enviro-energy-pledges-rs-50000-crore-investment-in-andhra-pradesh/articleshow/135771043.cms",
-  "source": "Economic Times Markets",
-  "score": 7,
-  "date": "2026-11-12T18:41:57+05:30",
+  "url": "https://www.livemint.com/companies/news/flipkarts-incoming-ceo-faces-a-multi-front-battle-11795691496329.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-11-26T19:07:28+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-13T02:29:09.749964+05:30"
+  "first_seen": "2026-11-27T03:59:03.314849+05:30"
  },
  {
-  "id": "9545d31486f6",
-  "headline": "India Becomes OpenAI's Biggest Market for ChatGPT",
-  "the_number": "-",
-  "why_it_matters": "Rapid user adoption proves massive domestic appetite for conversational AI tools.",
-  "founder_takeaway": "India offers immense user acquisition scale for global tech products.",
-  "sentiment": "Bullish",
-  "category": "Big Tech/AI",
+  "id": "ee876f2a148a",
+  "headline": "Huawei convicted in US on criminal and sanctions charges",
+  "the_number": "10",
+  "why_it_matters": "US criminal conviction impacts Chinese tech ambitions and cross-border operations.",
+  "founder_takeaway": "Strict compliance with global sanctions is non-negotiable for expansion.",
+  "sentiment": "Neutral",
+  "category": "Policy",
   "sector_tags": [
-   "AI"
+   "other"
   ],
   "companies": [
-   "OpenAI"
+   "Huawei"
   ],
-  "geography": "India",
+  "geography": "Global",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://economictimes.indiatimes.com/tech/technology/india-becomes-chatgpts-biggest-market-openais-india-chief-corner-office-conversation/videoshow/135764629.cms",
-  "source": "Economic Times Tech",
-  "score": 7,
-  "date": "2026-11-12T15:36:38+05:30",
+  "url": "https://www.livemint.com/companies/why-huawei-convicted-in-us-how-its-iran-business-triggered-7-yr-legal-battle-what-it-means-for-china-s-tech-goals-11795627748235.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-11-25T23:27:32+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-13T02:29:09.749964+05:30"
+  "first_seen": "2026-11-27T03:59:03.314849+05:30"
  },
  {
   "id": "1d60353aa18b",
@@ -15894,5 +15513,390 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-26T23:20:00.138185+05:30"
+ },
+ {
+  "id": "867f4812ad1d",
+  "headline": "Tata trustees seek Charity Commissioner intervention over board suit",
+  "the_number": "-",
+  "why_it_matters": "Escalating dispute threatens governance stability at India's largest conglomerate.",
+  "founder_takeaway": "Establish clear governance frameworks to avoid public internal strife.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Trusts",
+   "Tata Sons"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/singh-srinivasan-ask-charity-commissioner-to-rein-in-tata-suit-11795701927969.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-26T20:17:12+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T03:59:03.314849+05:30"
+ },
+ {
+  "id": "5c05b0c72827",
+  "headline": "Wipro to absorb 3,000 BP employees in deal",
+  "the_number": "3,000",
+  "why_it_matters": "Large-scale IT deal shifts global finance operations across multiple countries.",
+  "founder_takeaway": "Strategic vendor transitions help legacy giants streamline corporate costs.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Wipro",
+   "BP"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/wipro-lands-major-bp-deal-takes-over-3-000-employees-across-3-countries-why-is-the-british-co-transferring-staff-11795693466869.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-26T18:02:38+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T03:59:03.314849+05:30"
+ },
+ {
+  "id": "1529ebea35c5",
+  "headline": "Nvidia faces credit rating review after CEO reinstatement",
+  "the_number": "AA",
+  "why_it_matters": "Rating downgrade risk highlights governance concerns at world's top AI firm.",
+  "founder_takeaway": "Governance changes can directly impact corporate credit ratings negatively.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia",
+   "S&P Global Ratings"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/companies/news/nvidia-board-s-flip-flop-on-jensen-huang-as-ceo-puts-its-aa-credit-rating-at-risk-why-s-p-is-considering-a-downgrad-11795685706714.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-26T15:39:58+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T03:59:03.314849+05:30"
+ },
+ {
+  "id": "92cab6d5a8cf",
+  "headline": "SpaceX gets FCC approval for orbital space data centres",
+  "the_number": "1 million",
+  "why_it_matters": "Unlocks potential space-based compute infrastructure powered entirely by solar energy.",
+  "founder_takeaway": "Audacious infrastructure bets require navigation of novel regulatory environments.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "SpaceX",
+   "FCC"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/spacex-gets-fcc-nod-for-1-million-orbital-compute-modules-what-it-means-for-data-centres-in-space-11795656463966.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-26T07:04:59+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T03:59:03.314849+05:30"
+ },
+ {
+  "id": "1212abae1d23",
+  "headline": "Nifty surges 12.3% in November on foreign inflows",
+  "the_number": "12.3%",
+  "why_it_matters": "Strongest monthly rally since 2020 signals returning global investor confidence.",
+  "founder_takeaway": "Macro recovery and easing oil prices boost public market multiples.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "BSE",
+   "Eternal",
+   "Trent"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/stock-market-news/nifty-surges-over-12-in-november-eyes-biggest-monthly-gain-in-six-years-bse-eternal-trent-among-top-gainers-11795694066553.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-26T17:50:20+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T03:59:03.314849+05:30"
+ },
+ {
+  "id": "1fef3d841783",
+  "headline": "NSE receives RBI nod for corporate bond index futures",
+  "the_number": "-",
+  "why_it_matters": "Enables institutional hedging and deepens liquidity in Indian debt markets.",
+  "founder_takeaway": "New derivative tools allow companies to hedge credit risks effectively.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "NSE",
+   "RBI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/markets/news/nse-receives-rbi-s-approval-to-launch-corporate-bond-index-futures-126112601165_1.html",
+  "source": "Business Standard Markets",
+  "score": 7,
+  "date": "2026-11-26T18:49:09+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T03:59:03.314849+05:30"
+ },
+ {
+  "id": "4baa916c7541",
+  "headline": "Urban Company enters AC market with Native brand",
+  "the_number": "₹55,499",
+  "why_it_matters": "Home services unicorn expands into direct consumer hardware manufacturing and sales.",
+  "founder_takeaway": "Leverage established service distribution to sell proprietary consumer hardware.",
+  "sentiment": "Bullish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "D2C"
+  ],
+  "companies": [
+   "Urban Company"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/urban-company-forays-into-ac-market-opens-pre-bookings-for-native-acs-at-%e2%82%b955499/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-11-26T12:29:36+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T03:59:03.314849+05:30"
+ },
+ {
+  "id": "3912c4dc567c",
+  "headline": "XEBO.ai secures $10.5 Mn in Series A round",
+  "the_number": "$10.5 Mn",
+  "why_it_matters": "Enables expansion of customer experience management software globally.",
+  "founder_takeaway": "CX and AI management platforms see strong regional investor interest.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI",
+   "SaaS"
+  ],
+  "companies": [
+   "XEBO.ai"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 10.5,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://inc42.com/buzz/xebo-ai-bags-10-5-mn-to-strengthen-ai-solutions-stack/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-11-26T05:19:22+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T03:59:03.314849+05:30"
+ },
+ {
+  "id": "3fc33000b143",
+  "headline": "Vegapay bags $10 Mn to scale UPI credit",
+  "the_number": "$10 Mn",
+  "why_it_matters": "Accelerates deployment of credit lines built on UPI infrastructure.",
+  "founder_takeaway": "Building infrastructure around UPI credit lines attracts top-tier venture funds.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Vegapay",
+   "Vertex Ventures"
+  ],
+  "geography": "India",
+  "amount_usd_m": 10.0,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://inc42.com/buzz/vegapay-bags-10-mn-to-scale-credit-line-on-upi-infrastructure/",
+  "source": "Inc42",
+  "score": 7,
+  "date": "2026-11-26T00:30:23+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T03:59:03.314849+05:30"
+ },
+ {
+  "id": "693a9da196bb",
+  "headline": "Nexent Capital launches $1 Bn AI infrastructure fund",
+  "the_number": "$1 Bn",
+  "why_it_matters": "Massive institutional fund targeted at quantum-ready AI and advanced energy.",
+  "founder_takeaway": "Cross-border fund structures bridge Middle East capital with Indian vehicles.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "AI",
+   "other"
+  ],
+  "companies": [
+   "Nexent Capital"
+  ],
+  "geography": "Global",
+  "amount_usd_m": 1000.0,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://entrackr.com/snippets/nexent-capital-launches-1-bn-fund-for-ai-infra-advanced-energy-investments-12842840",
+  "source": "Entrackr",
+  "score": 7,
+  "date": "2026-11-26T13:47:16+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T03:59:03.314849+05:30"
+ },
+ {
+  "id": "f5e71a0cc532",
+  "headline": "OPEC+ likely to extend Q1 output targets",
+  "the_number": "-",
+  "why_it_matters": "Prevents immediate supply shifts as internal capacity disputes persist.",
+  "founder_takeaway": "Macro energy policy stalemates can create near-term fuel price uncertainty.",
+  "sentiment": "Neutral",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "OPEC+"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRWNNN09tM1phcUhhRlFRRTlHaW0yYU5fQUxJUVFEZjl5cEdhaHRnOGNwRkl6QUZTWEhNeU16Vnk5bHhNQ3JSd0FXNDlHZkdDVTV4ZkVsbUpQUFV4VWdobEhfdlpHOUt4SEJadFRpNHlYZTZRZFdBaEZKYnUyTHJ0eHlyWjE1a1FjenhuYWtoZHJJSHVPYVhjSlprNF81NkNiMlpQNUpBcy1kcHd3eEFaRjZHczhHV3RIWlJRaHZOQlBXUQ?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 7,
+  "date": "2026-11-26T14:39:21+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T03:59:03.314849+05:30"
+ },
+ {
+  "id": "aeecffa16c38",
+  "headline": "Tata charity arm challenges holding company reappointment",
+  "the_number": "-",
+  "why_it_matters": "Signals renewed internal leadership dispute within India's largest conglomerate.",
+  "founder_takeaway": "Shareholder and trust alignment is critical for smooth executive succession.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUXJ1bmRFZDdHN0djZWFiSkJIMFdJWVItZXJxT19mZ0hLUjNHb3hBckJPSkhYYXdBWjVKb3lHQ0U5U2lDV2trblVPd1JsU2tUYi1tNHhUOHdyU29fdzUyX2NZeGRIRk5Nb01sdzl6ekhQeXYzRmNtSHVpaGtCRktXdS1ld21CZURPMWVuT1ZYeUpVOV9ERl9QQ3AxV3RBZjJjX0ZIRmpSQVIxeklXOExaQWpXNWEzeGZj?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 7,
+  "date": "2026-11-26T04:45:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T03:59:03.314849+05:30"
+ },
+ {
+  "id": "f73398f3a8a4",
+  "headline": "DPIIT Releases FAQs on Press Note 2 for Investors",
+  "the_number": "-",
+  "why_it_matters": "Provides long-awaited regulatory clarity for foreign investment and investors.",
+  "founder_takeaway": "Review DPIIT clarifications to ensure investment and ownership compliance.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYW9MMnJEUWRNd3oyTkpqcVRkSzQyRTg3MnA1MjlNZEhJTWNnTWFWY0JnbmkzcHFGbDR1ZVM2T3VmYml0ZGVsOVVZNjc5eF8wNzQyeU03U0xsajVqR3hnMG9yTTRSLVhETXNRRDEzYzZVckV1VDhYYUpObTlSMG52OVpzbHRzMXZQQjZ0YmR0YnJZMHZ0dHVRRk8xWkxHa2ZfTVJVZE1tQ2p0akM3bUhsQkhJWUREOEpwMG03aHlDZ0p4eGxfOGpfYzZwS3B4aHk4cDNoOG9Cdm9aWmFTM0JlZzFpTmpzT0FWS1hR?oc=5",
+  "source": "Startup India / DPIIT (Google News)",
+  "score": 7,
+  "date": "2026-11-26T16:31:22+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T03:59:03.314849+05:30"
  }
 ]
