@@ -180,65 +180,6 @@
   "first_seen": "2026-11-24T00:53:52.113840+05:30"
  },
  {
-  "id": "f37bfd57b7cb",
-  "headline": "Anthropic Launches Roadshow Targeting Up to $64.4 Billion IPO",
-  "the_number": "$64.4 billion",
-  "why_it_matters": "One of the largest AI public market listings ever attempted.",
-  "founder_takeaway": "Massive capital requirements drive frontier AI companies public.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Anthropic"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 64400,
-  "impact": "Big Move",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://www.livemint.com/market/stock-market-news/mega-ai-anthropic-ipo-details-share-price-band-valuation-listing-date-all-you-need-to-know-about-the-upcoming-issue-11794552663877.html",
-  "source": "Mint Markets",
-  "score": 9,
-  "date": "2026-11-13T13:11:56+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-13T21:03:20.935347+05:30"
- },
- {
-  "id": "f5f8bd12e55d",
-  "headline": "Jensen Huang Resigns from Nvidia After 33 Years",
-  "the_number": "33 years",
-  "why_it_matters": "Creates major leadership uncertainty at the world's leading chipmaker.",
-  "founder_takeaway": "Founder succession planning is critical for institutional stability.",
-  "sentiment": "Bearish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI",
-   "other"
-  ],
-  "companies": [
-   "Nvidia"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Big Move",
-  "source_badge": "Verified media",
-  "covered_by_count": 6,
-  "url": "https://yourstory.com/2026/11/jensen-huang-resigns-after-33-years-at-nvidia",
-  "source": "YourStory",
-  "score": 9,
-  "date": "2026-11-12T14:38:57+00:00",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-13T21:03:20.935347+05:30"
- },
- {
   "id": "6cdfe1222b7c",
   "headline": "Razorpay Secures SEBI Approval for $600 Million IPO",
   "the_number": "$600 million",
@@ -1401,219 +1342,6 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-26T23:20:00.138185+05:30"
- },
- {
-  "id": "f037e19b43f9",
-  "headline": "Paytm Receives Preliminary RBI Nod for Digital Wallets",
-  "the_number": "-",
-  "why_it_matters": "Enables Paytm to restart critical wallet services post-audit approval.",
-  "founder_takeaway": "Audits and regulatory compliance remain prerequisites to relaunching.",
-  "sentiment": "Bullish",
-  "category": "Policy",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Paytm",
-   "PPSL",
-   "RBI"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 5,
-  "url": "https://www.livemint.com/companies/paytm-gets-rbi-nod-for-digital-wallet-business-when-can-users-add-money-and-make-payments-through-paytm-wallet-again-11794564726627.html",
-  "source": "Mint Companies",
-  "score": 8,
-  "date": "2026-11-13T16:02:54+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-13T21:03:20.935347+05:30"
- },
- {
-  "id": "d38a28327fcc",
-  "headline": "Paytm Surpasses Five-Year IPO High Following RBI Approval",
-  "the_number": "₹1,960",
-  "why_it_matters": "Stock rebounds past listing-day price on regulatory breakthrough.",
-  "founder_takeaway": "Securing key regulatory authorisations strongly revitalises market sentiment.",
-  "sentiment": "Bullish",
-  "category": "Earnings",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Paytm",
-   "PPSL",
-   "RBI"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/stock-market-news/paytm-shares-cross-rs-1-955-ipo-listing-day-high-after-nearly-five-years-whats-boosting-investor-confidence-11794575989775.html",
-  "source": "Mint Markets",
-  "score": 8,
-  "date": "2026-11-13T19:05:29+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-13T21:03:20.935347+05:30"
- },
- {
-  "id": "8396444d1e77",
-  "headline": "Haldiram Prepares for ₹10,000 Crore Stock Market Debut",
-  "the_number": "₹10,000 crore",
-  "why_it_matters": "Signals high public appetite for established traditional snack giants.",
-  "founder_takeaway": "Traditional FMCG brands can command massive public valuations.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "D2C",
-   "other"
-  ],
-  "companies": [
-   "Haldiram Snacks Food",
-   "EY"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/ipo/haldiram-ipo-in-making-namkeen-to-d-street-snack-giant-eyes-stock-market-debut-check-listing-timeline-valuation-11794562224305.html",
-  "source": "Mint Markets",
-  "score": 8,
-  "date": "2026-11-13T17:26:12+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-13T21:03:20.935347+05:30"
- },
- {
-  "id": "e8b58e32546d",
-  "headline": "Norwest Closes Record $4 Billion Global Fund",
-  "the_number": "$4 Bn",
-  "why_it_matters": "Expands Norwest's total AUM to $18 billion for global tech backing.",
-  "founder_takeaway": "Large dry powder available for growth and venture deals.",
-  "sentiment": "Bullish",
-  "category": "Funding",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Norwest",
-   "Babylist",
-   "Gong",
-   "Monogram Health",
-   "OfBusiness",
-   "VAST Data",
-   "Vuori",
-   "YipitData"
-  ],
-  "geography": "Global",
-  "amount_usd_m": 4000,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://entrackr.com/snippets/norwest-closes-4-bn-global-fund-takes-aum-to-18-bn-12803831",
-  "source": "Entrackr",
-  "score": 8,
-  "date": "2026-11-12T16:16:48+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-13T21:03:20.935347+05:30"
- },
- {
-  "id": "076e5b99074a",
-  "headline": "Nebius Plans $40 Billion Spending on AI Infrastructure",
-  "the_number": "$40 billion",
-  "why_it_matters": "Tests high-stakes cloud model via prepayments amid data center delays.",
-  "founder_takeaway": "Customer prepayments can finance aggressive capital expansions.",
-  "sentiment": "Neutral",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Nebius",
-   "Microsoft"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-  "source": "TechCrunch",
-  "score": 8,
-  "date": "2026-11-12T21:27:10+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-13T21:03:20.935347+05:30"
- },
- {
-  "id": "d855a987c663",
-  "headline": "India Trade Deficit Hits One-Year High of $39.88 Billion",
-  "the_number": "$39.88 billion",
-  "why_it_matters": "Gold imports drove October trade deficit to a one-year peak.",
-  "founder_takeaway": "Watch macroeconomic shifts and currency pressures from rising trade gaps.",
-  "sentiment": "Bearish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVC1qbUMzMG9XdFpsRGZQQzNVa3d1R2hfem5KQUplcU1DZWd4amxfa0Z0cTQ0QkU2SkkybmlacTlaNFlNSlB0UkJ6OWJZTUxzZ19lbDlZcmt2RHFMeUF3UjhvRHpFWnVwYzU0RkN1WF9MWFFuOThuMHJUaTdPdDh4VWtQMm9pVEZDZFdjcmVicDZzVDlhSzdHUTBsNWF4VkV2Y1FtRlAyT0tYZmhCdWFyUERaQy1JNDJuVU0tSw?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 8,
-  "date": "2026-11-13T13:54:00+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-13T21:03:20.935347+05:30"
- },
- {
-  "id": "807fd17896f4",
-  "headline": "Four Tankers Hit by Explosions in Strait of Hormuz",
-  "the_number": "-",
-  "why_it_matters": "Disruptions in vital oil shipping lanes threaten global energy supply chains.",
-  "founder_takeaway": "Geopolitical chokepoint risks require diversified and resilient logistics chains.",
-  "sentiment": "Bearish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcDQ2cWxyeTFpazFaX1ZNM2RoS0t2ZVpEa0JpMElTZVFMUElROEF5c20tMlU0dEszWFlEdkhfR2VOb3hEQmo3MjRtdVlSaEhkZnpKXzExbE5QcXItQ3Z6REoyY1Fpak9IUUplYWp6NTQ2UjBiNVk1WDN0MmJjaFRkOHNLdDYxMU9xOWhuMnVaTlNiVXJNTlhLYV9EZEpnd1oxYmF0cG82b2VkMURkYnkzZkZBX0hhWHM?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 8,
-  "date": "2026-11-12T16:27:35+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-13T21:03:20.935347+05:30"
  },
  {
   "id": "c5627f3e0a7e",
@@ -7062,124 +6790,243 @@
   "first_seen": "2026-11-27T16:03:48.218924+05:30"
  },
  {
-  "id": "4567232d6f36",
-  "headline": "JLR Cuts Margin and Revenue Guidance Amid Restructuring",
-  "the_number": "-",
-  "why_it_matters": "JLR losses and subdued margins continue weighing on Tata Motors PV.",
-  "founder_takeaway": "Post-demerger restructuring can prolong margin and revenue pressure.",
-  "sentiment": "Bearish",
-  "category": "Earnings",
+  "id": "7cfe8006660e",
+  "headline": "RBI Rolls Back Daily CRR Requirement Hike",
+  "the_number": "90%",
+  "why_it_matters": "Eases banking liquidity deficit by reducing daily CRR maintenance hurdles.",
+  "founder_takeaway": "Improved banking liquidity supports smoother short-term borrowing conditions.",
+  "sentiment": "Bullish",
+  "category": "Macro",
   "sector_tags": [
-   "EV"
+   "other"
   ],
   "companies": [
-   "JLR",
-   "Tata Motors"
+   "RBI"
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/company-results/jlr-cuts-margin-revenue-guidance-as-restructuring-weighs-on-tata-motors-11794576780763.html",
-  "source": "Mint Companies",
-  "score": 7,
-  "date": "2026-11-13T20:34:58+05:30",
+  "url": "https://www.livemint.com/market/rbi-reverses-daily-crr-rule-as-bank-liquidity-tightens-11795780978865.html",
+  "source": "Mint Markets",
+  "score": 8,
+  "date": "2026-11-27T18:14:02+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-13T21:03:20.935347+05:30"
+  "first_seen": "2026-11-27T23:04:40.259379+05:30"
  },
  {
-  "id": "ccd7a4ac7728",
-  "headline": "Sembcorp Green Infra Gets Approval for ₹3,750 Crore IPO",
-  "the_number": "₹3,750 crore",
-  "why_it_matters": "SEBI clearance enables fresh issue to repay existing debt obligations.",
-  "founder_takeaway": "IPOs remain an effective route to deleverage balance sheets.",
+  "id": "54b9f842741a",
+  "headline": "Mahanadi Coalfields Prepares Debut Following $969M IPO",
+  "the_number": "$969 million",
+  "why_it_matters": "Marks a massive public market debut with strong investor attention.",
+  "founder_takeaway": "Robust public markets offer liquidity for large-scale enterprise expansions.",
   "sentiment": "Bullish",
   "category": "IPO",
   "sector_tags": [
    "other"
   ],
   "companies": [
-   "Sembcorp Green Infra",
-   "Temasek"
+   "Mahanadi Coalfields"
+  ],
+  "geography": "India",
+  "amount_usd_m": 969,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/mahanadi-coalfields-set-for-stock-market-debut-after-969-million-ipo-126112700129_1.html",
+  "source": "Business Standard Companies",
+  "score": 8,
+  "date": "2026-11-27T08:57:53+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T23:04:40.259379+05:30"
+ },
+ {
+  "id": "90f7bdcf080f",
+  "headline": "Haleon Weighs Controlling Stake In HealthKart at $1.4B Valuation",
+  "the_number": "$1.4 Bn",
+  "why_it_matters": "Strategic global buyers continue to value Indian D2C health brands.",
+  "founder_takeaway": "Building strong category leadership attracts global strategic buyout interest.",
+  "sentiment": "Bullish",
+  "category": "M&A",
+  "sector_tags": [
+   "D2C",
+   "healthtech"
+  ],
+  "companies": [
+   "Haleon",
+   "HealthKart"
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/sembcorp-green-infra-ipo-temasek-backed-renewable-energy-company-gets-sebi-nod-for-3-750-crore-public-issue-11794574597354.html",
-  "source": "Mint Companies",
-  "score": 7,
-  "date": "2026-11-13T18:34:59+05:30",
+  "url": "https://inc42.com/buzz/haleon-in-talks-to-acquire-controlling-stake-in-healthkart-at-1-4-bn-valuation-report/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-11-27T09:26:03+00:00",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-13T21:03:20.935347+05:30"
+  "first_seen": "2026-11-27T23:04:40.259379+05:30"
  },
  {
-  "id": "43a323abe235",
-  "headline": "MobiKwik Secures NBFC License, Targets ₹5,000 Crore Loans",
-  "the_number": "₹5,000 crore",
-  "why_it_matters": "RBI NBFC registration allows direct lending expansion over 3-4 years.",
-  "founder_takeaway": "Direct regulatory licenses enhance captive lending and margins.",
+  "id": "68f47c6ded7e",
+  "headline": "Swiggy Instamart Cuts 340 Corporate and Support Roles",
+  "the_number": "340",
+  "why_it_matters": "Quick commerce giants streamline corporate overhead to improve operational efficiency.",
+  "founder_takeaway": "Cost rationalization remains crucial even in high-growth quick commerce sectors.",
+  "sentiment": "Neutral",
+  "category": "Layoffs",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Swiggy",
+   "Instamart"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 5,
+  "url": "https://inc42.com/buzz/swiggy-instamart-lays-off-340-employees-amid-organisational-restructuring/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-11-27T06:28:51+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T23:04:40.259379+05:30"
+ },
+ {
+  "id": "b63856bb3e34",
+  "headline": "GEF Capital Closes India Climate Fund at $615M",
+  "the_number": "$615 Mn",
+  "why_it_matters": "Injects substantial private equity capital into India’s climate sector.",
+  "founder_takeaway": "Climate and sustainability startups have dedicated, expanding growth capital available.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "GEF Capital Partners"
+  ],
+  "geography": "India",
+  "amount_usd_m": 615,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://inc42.com/buzz/gef-capital-partners-announces-first-close-of-india-climate-fund-iv-at-615-mn/",
+  "source": "Inc42",
+  "score": 8,
+  "date": "2026-11-26T16:47:45+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T23:04:40.259379+05:30"
+ },
+ {
+  "id": "cd1174111099",
+  "headline": "HC to Hear Tata Trusts Plea Against Chandrasekaran",
+  "the_number": "-",
+  "why_it_matters": "Governance disputes at Tata Sons can create leadership and market uncertainty.",
+  "founder_takeaway": "Strict adherence to shareholder voting covenants avoids contentious legal disputes.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Trusts",
+   "Tata Sons"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 4,
+  "url": "https://yourstory.com/2026/11/hc-tata-trusts-pleas-against-chandrasekaran-reappointment",
+  "source": "YourStory",
+  "score": 8,
+  "date": "2026-11-26T12:01:01+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T23:04:40.259379+05:30"
+ },
+ {
+  "id": "2a3f0110076d",
+  "headline": "Volkswagen Drags Mercedes and BMW into India Tax Battle",
+  "the_number": "$1.2 billion",
+  "why_it_matters": "Multi-billion dollar tax disputes increase regulatory risks for foreign automakers.",
+  "founder_takeaway": "Clarify customs and tax classifications early to prevent massive liabilities.",
+  "sentiment": "Bearish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Volkswagen",
+   "Mercedes",
+   "BMW"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmMzM2R4OXZYcTVXODQ1TnFvVldUOGtBQmhhV1lHS29wOThxUmpDRXVBTHhfZDY3d1QxZF9rTmlVTU5PQXhVWDlSdWtTUHBCOTlVbmlRLUhpWW9aTUFURUN5WHhMOGtMV0hHUGY0QjZIbVROOExQNUlMU21YU0hYUktmcGo0RU5DNGl4Uy1RTnBkOEVYV3lSSzZYZ1lfM094U2JJTnhadm43aFlNZGtvb0MxOXFESVk?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 8,
+  "date": "2026-11-27T11:45:57+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T23:04:40.259379+05:30"
+ },
+ {
+  "id": "70bbf08e76c3",
+  "headline": "EPFO Considers AIF Investments to Boost Subscriber Returns",
+  "the_number": "-",
+  "why_it_matters": "Pension fund investments into AIFs can unlock domestic institutional venture capital.",
+  "founder_takeaway": "Domestic institutional capital may increasingly back Indian alternative investment funds.",
   "sentiment": "Bullish",
   "category": "Policy",
   "sector_tags": [
-   "fintech"
+   "fintech",
+   "other"
   ],
   "companies": [
-   "MobiKwik",
-   "MobiKwik Financial Services"
+   "EPFO"
   ],
   "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/mobikwik-secures-nbfc-registration-rbi-aim-disburse-rs-5000-crore-worth-loans-in-3-4-years-what-customers-expect-fintech-11794540522717.html",
-  "source": "Mint Companies",
-  "score": 7,
-  "date": "2026-11-13T15:01:07+05:30",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMUlQLU1RQWNWNXlOSGRNcVZzVHJHQVF1UjVaX3hGdWtTNDYzWlNTQmI0dzlDVUlrSnRlR0VpZkZWcW8tZ0pyQWZUZ0xJZUl6UnpuYWNidWFZcUdXbEp3ZlZpTFAzUVRXQXR0ckxBdHk5OGk4UnR0bkNMOTVHazZvQWZ4anJJWm51RzJhZk5RZVk1bm9TeWpMUzBmOGNWYkI0ZmVSa0VxcVJRNFZEamZvNkc3b2hrSWtUOVRJem1hdS1DajYwbFA3aWVaRmVxNjg?oc=5",
+  "source": "Startup India / DPIIT (Google News)",
+  "score": 8,
+  "date": "2026-11-27T14:04:04+00:00",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-13T21:03:20.935347+05:30"
- },
- {
-  "id": "3a932e933cdf",
-  "headline": "NSE shares cross ₹2,000 mark post-IPO listing",
-  "the_number": "₹2007.60",
-  "why_it_matters": "NSE hits a psychological peak on BSE following its listing.",
-  "founder_takeaway": "Public market listing can drive substantial stock price momentum.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "NSE",
-   "BSE"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/market/stock-market-news/after-ipo-listing-nse-shares-hit-rs-2-000-mark-for-the-first-time-buy-sell-or-hold-what-stock-market-experts-say-11794550519441.html",
-  "source": "Mint Markets",
-  "score": 7,
-  "date": "2026-11-13T12:24:13+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-13T21:03:20.935347+05:30"
+  "first_seen": "2026-11-27T23:04:40.259379+05:30"
  },
  {
   "id": "431314764cbb",
@@ -15840,5 +15687,250 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-27T16:03:48.218924+05:30"
+ },
+ {
+  "id": "9f7a15d6749f",
+  "headline": "RBI Mandates Debit Holds on Suspected Mule Accounts",
+  "the_number": "-",
+  "why_it_matters": "Standardizes bank procedures to rapidly freeze cyber fraud and mule accounts.",
+  "founder_takeaway": "Fintechs must strengthen real-time fraud detection and KYC compliance systems.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "RBI"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Official",
+  "covered_by_count": 1,
+  "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64062",
+  "source": "RBI Press Releases",
+  "score": 7,
+  "date": "2026-11-27T20:45:00+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": "archive/2026/11/9f7a15d6749f.html",
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T23:04:40.259379+05:30"
+ },
+ {
+  "id": "f5753c5d55d2",
+  "headline": "IBM Ends US Visa Sponsorship for Most Consulting Roles",
+  "the_number": "31 December",
+  "why_it_matters": "Forces Indian and foreign consulting staff to relocate abroad or quit.",
+  "founder_takeaway": "Cross-border hiring faces mounting immigration restrictions and compliance hurdles.",
+  "sentiment": "Bearish",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "IBM"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/ibm-ends-us-visa-and-green-card-sponsorship-for-most-consulting-jobs-what-happens-to-indian-tech-workers-11795787786263.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-27T20:33:03+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T23:04:40.259379+05:30"
+ },
+ {
+  "id": "fe37d864b2c6",
+  "headline": "Nvidia Buyers Warned Against Serving Chinese Firms",
+  "the_number": "-",
+  "why_it_matters": "Tighter US export controls limit Chinese access to cloud-based advanced GPUs.",
+  "founder_takeaway": "Audit your cloud computing customer base to maintain hardware access.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "Nvidia"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/companies/news/nvidia-chip-buyers-told-to-rule-out-chinese-firms-as-customers-to-access-advanced-gpus-under-new-us-curbs-11795751648276.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-27T09:36:36+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T23:04:40.259379+05:30"
+ },
+ {
+  "id": "3a4cf6ea1f86",
+  "headline": "Sebi to Slash FPI Onboarding Time to Five Days",
+  "the_number": "-",
+  "why_it_matters": "Faster FPI onboarding accelerates foreign capital flow into Indian markets.",
+  "founder_takeaway": "Expect quicker access to foreign institutional funding via Indian markets.",
+  "sentiment": "Bullish",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Sebi"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://www.livemint.com/market/sebi-to-recast-rulebook-to-fund-india-growth-tuhin-kanta-pandey-11795784087961.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-27T22:18:42+05:30",
+  "unc_number": true,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": true,
+  "first_seen": "2026-11-27T23:04:40.259379+05:30"
+ },
+ {
+  "id": "3ed57daa0635",
+  "headline": "Sebi Clears Eight Companies for Upcoming IPOs",
+  "the_number": "8",
+  "why_it_matters": "A robust public market pipeline signals ongoing domestic investor appetite.",
+  "founder_takeaway": "Public markets remain receptive to mid-market Indian enterprises.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Sterlite Electric",
+   "Svatantra Microfin",
+   "Gaurik Fashions Ltd",
+   "Emerald Jewel Industry India Ltd",
+   "Beauty Garage Ltd",
+   "Noble Hygiene Ltd",
+   "MP Steel (India) Ltd",
+   "Kataria Dhulchand Pannalal Jewellers Ltd"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/market/ipo/sebi-approves-eight-ipos-sterlite-electric-svatantra-microfin-11795783678926.html",
+  "source": "Mint Markets",
+  "score": 7,
+  "date": "2026-11-27T19:04:09+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T23:04:40.259379+05:30"
+ },
+ {
+  "id": "dddc3f6c326a",
+  "headline": "Tata Steel Deal Triggers $4B Market Value Drop",
+  "the_number": "$4 bn",
+  "why_it_matters": "Backlash over minority shareholder protection drives sharp corporate value destruction.",
+  "founder_takeaway": "Prioritize minority investor interests when structuring controlling M&A deals.",
+  "sentiment": "Bearish",
+  "category": "M&A",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Steel",
+   "APL Apollo"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.business-standard.com/companies/news/tata-steel-apollo-deal-tests-india-s-reinforced-corporate-governance-rules-126112700196_1.html",
+  "source": "Business Standard Companies",
+  "score": 7,
+  "date": "2026-11-27T09:46:34+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T23:04:40.259379+05:30"
+ },
+ {
+  "id": "68d430d68dcd",
+  "headline": "FirstCry-Backed Swara Baby Sets Rs 800 Cr IPO",
+  "the_number": "Rs 800 Cr",
+  "why_it_matters": "Major D2C and baby product suppliers continue tapping public markets.",
+  "founder_takeaway": "Backing from category leaders creates strong credibility for IPO exits.",
+  "sentiment": "Bullish",
+  "category": "IPO",
+  "sector_tags": [
+   "D2C"
+  ],
+  "companies": [
+   "Swara Baby Products",
+   "FirstCry",
+   "Brainbees Solutions",
+   "Anadya Bon Merchari LLP"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 2,
+  "url": "https://entrackr.com/news/firstcry-backed-swara-baby-products-fixes-rs-105-111-price-band-for-rs-800-cr-ipo-12844862",
+  "source": "Entrackr",
+  "score": 7,
+  "date": "2026-11-27T10:54:42+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T23:04:40.259379+05:30"
+ },
+ {
+  "id": "34161d82b956",
+  "headline": "Vegapay Secures $10M Series A Round",
+  "the_number": "$10M",
+  "why_it_matters": "Institutional investors continue funding tech platforms expanding Credit Line on UPI.",
+  "founder_takeaway": "Deep banking tech integration attracts tier-one venture capital interest.",
+  "sentiment": "Bullish",
+  "category": "Funding",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [
+   "Vegapay",
+   "Vertex Ventures",
+   "Prosus"
+  ],
+  "geography": "India",
+  "amount_usd_m": 10.0,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://yourstory.com/2026/11/vegapay-raises-10m-in-series-a-round-co-led-by-vertex-ventures-prosus",
+  "source": "YourStory",
+  "score": 7,
+  "date": "2026-11-26T12:17:45+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-27T23:04:40.259379+05:30"
  }
 ]
