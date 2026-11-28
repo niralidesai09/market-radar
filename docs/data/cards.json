@@ -180,35 +180,6 @@
   "first_seen": "2026-11-24T00:53:52.113840+05:30"
  },
  {
-  "id": "93502395f538",
-  "headline": "Nvidia Stock Falls 13% Following Jensen Huang Resignation",
-  "the_number": "13%",
-  "why_it_matters": "Leadership vacuum rattles dominant AI chipmaker and triggers analyst downgrades.",
-  "founder_takeaway": "Governance and executive conduct heavily impact market capitalization.",
-  "sentiment": "Bearish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Nvidia"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Big Move",
-  "source_badge": "Verified media",
-  "covered_by_count": 8,
-  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-has-worst-week-since-trump-tariff-selloff-as-huang-exits/articleshow/135822623.cms",
-  "source": "Economic Times Markets",
-  "score": 9,
-  "date": "2026-11-14T09:58:50+05:30",
-  "unc_number": false,
-  "raw_impact": "Big Move",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-14T14:08:26.869747+05:30"
- },
- {
   "id": "9c558a7ae326",
   "headline": "Jensen Huang Resigns from Nvidia Following Scandal",
   "the_number": "-",
@@ -1283,156 +1254,6 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-26T23:20:00.138185+05:30"
- },
- {
-  "id": "d3630f17dca1",
-  "headline": "Anthropic Targets Record Fundraising in Upcoming Initial Public Offering",
-  "the_number": "-",
-  "why_it_matters": "AI leader seeks unprecedented public valuation backed by top tech investors.",
-  "founder_takeaway": "Traditional pricing strategies provide stability in volatile public market debuts.",
-  "sentiment": "Bullish",
-  "category": "IPO",
-  "sector_tags": [
-   "AI"
-  ],
-  "companies": [
-   "Anthropic",
-   "SpaceX"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 2,
-  "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-buyers-have-more-influence-on-price-than-spacex/articleshow/135823355.cms",
-  "source": "Economic Times Markets",
-  "score": 8,
-  "date": "2026-11-14T10:33:57+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-14T14:08:26.869747+05:30"
- },
- {
-  "id": "764986c60cbe",
-  "headline": "Quick-Commerce Rivals Join Government Gig Worker Welfare Panel",
-  "the_number": "-",
-  "why_it_matters": "Upcoming welfare mandates like insurance and healthcare may raise aggregator costs.",
-  "founder_takeaway": "Collaborate with regulators early to navigate rising platform labor costs.",
-  "sentiment": "Neutral",
-  "category": "Policy",
-  "sector_tags": [
-   "quick commerce"
-  ],
-  "companies": [
-   "Swiggy",
-   "Zepto",
-   "Eternal"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/swiggy-zepto-eternal-rivals-on-same-board-what-govts-new-gig-worker-welfare-panel-means-11794626752228.html",
-  "source": "Mint Companies",
-  "score": 8,
-  "date": "2026-11-14T09:00:06+05:30",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-14T14:08:26.869747+05:30"
- },
- {
-  "id": "d65e20c8ca86",
-  "headline": "Paytm Set to Revive Digital Wallet Business with RBI",
-  "the_number": "-",
-  "why_it_matters": "In-principle RBI clearance clears the runway for core service revival.",
-  "founder_takeaway": "Securing regulatory approvals allows revival of previously restricted core operations.",
-  "sentiment": "Bullish",
-  "category": "Policy",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Paytm",
-   "Paytm Payments Services Ltd"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 3,
-  "url": "https://inc42.com/buzz/paytm-set-to-revive-wallet-business-with-rbi-in-principle-nod/",
-  "source": "Inc42",
-  "score": 8,
-  "date": "2026-11-13T11:46:44+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-14T14:08:26.869747+05:30"
- },
- {
-  "id": "981a73de6730",
-  "headline": "Bodhi Tree Buys Majority Stake In Adyar Ananda Bhavan",
-  "the_number": "$180M",
-  "why_it_matters": "Major private equity consolidation hits India's traditional food and retail space.",
-  "founder_takeaway": "Strong legacy consumer brands command major institutional buyout interest.",
-  "sentiment": "Bullish",
-  "category": "M&A",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Adyar Ananda Bhavan",
-   "Bodhi Tree Systems"
-  ],
-  "geography": "India",
-  "amount_usd_m": 180,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://yourstory.com/2026/11/bodhi-tree-systems-acquires-majority-stake-in-adyar-ananda-bhavan",
-  "source": "YourStory",
-  "score": 8,
-  "date": "2026-11-13T04:50:52+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-14T14:08:26.869747+05:30"
- },
- {
-  "id": "2fd1b18314fc",
-  "headline": "US FAA Grounds All Domestic Flights Over Communication Issues",
-  "the_number": "-",
-  "why_it_matters": "Critical infrastructure failure triggers severe disruption across American airspace operations.",
-  "founder_takeaway": "Critical systemic infrastructure requires robust fail-safes and communication redundancy.",
-  "sentiment": "Neutral",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "FAA"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Notable",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
-  "source": "TechCrunch",
-  "score": 8,
-  "date": "2026-11-13T21:44:38+00:00",
-  "unc_number": false,
-  "raw_impact": "Notable",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-14T14:08:26.869747+05:30"
  },
  {
   "id": "ae8f7a53b3a2",
@@ -6936,179 +6757,117 @@
   "first_seen": "2026-11-28T03:42:10.486305+05:30"
  },
  {
-  "id": "3e4729b8684f",
-  "headline": "Reliance Plans Rs 43,000-Crore Andhra Pradesh Coal-To-Gas Plant",
-  "the_number": "₹43,000 crore",
-  "why_it_matters": "Massive domestic energy project promises 40,000 jobs and regional development.",
-  "founder_takeaway": "Align heavy capital expenditure plans with regional industrial policies.",
-  "sentiment": "Bullish",
-  "category": "Macro",
-  "sector_tags": [
-   "other"
-  ],
-  "companies": [
-   "Reliance Industries"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.livemint.com/companies/news/reliance-plans-rs-43-000-crore-coal-to-gas-plant-in-andhra-pradesh-could-generate-40-000-jobs-what-we-know-11794627790422.html",
-  "source": "Mint Companies",
-  "score": 7,
-  "date": "2026-11-14T09:41:32+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-14T14:08:26.869747+05:30"
- },
- {
-  "id": "e2145e851386",
-  "headline": "Yes Bank Seeks SC Review Over AT-1 Bonds",
-  "the_number": "₹8,415 crore",
-  "why_it_matters": "The ruling significantly impacts Yes Bank's capital adequacy and buffer.",
-  "founder_takeaway": "Regulatory debt write-downs remain legally precarious and contentious.",
-  "sentiment": "Bearish",
-  "category": "Policy",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "YES Bank"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://www.business-standard.com/companies/news/yes-bank-seeks-sc-review-of-ruling-on-8-415-crore-at-1-bond-write-down-126111301764_1.html",
-  "source": "Business Standard Companies",
-  "score": 7,
-  "date": "2026-11-13T21:39:26+05:30",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-14T14:08:26.869747+05:30"
- },
- {
-  "id": "a5e803edeb6e",
-  "headline": "Karnataka HC Rejects Razorpay Founders' Plea In SFIO Probe",
+  "id": "ccf1811ae263",
+  "headline": "Flipkart Prepares Cash Payout for Staff Amid Leadership Shift",
   "the_number": "-",
-  "why_it_matters": "Heightened legal scrutiny raises regulatory and compliance stakes for fintechs.",
-  "founder_takeaway": "Ensure ironclad corporate governance to withstand stringent regulatory investigations.",
-  "sentiment": "Bearish",
-  "category": "Policy",
-  "sector_tags": [
-   "fintech"
-  ],
-  "companies": [
-   "Razorpay"
-  ],
-  "geography": "India",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://inc42.com/buzz/karnataka-hc-rejects-razorpay-cofounders-plea-to-quash-sfio-case/",
-  "source": "Inc42",
-  "score": 7,
-  "date": "2026-11-13T06:39:19+00:00",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-14T14:08:26.869747+05:30"
- },
- {
-  "id": "a89e40511448",
-  "headline": "ChatGPT Wallet Enables AI Agents To Checkout For Users",
-  "the_number": "-",
-  "why_it_matters": "Autonomous agentic commerce moves closer to mainstream consumer adoption.",
-  "founder_takeaway": "Integrate agent-ready checkout flows to capture autonomous purchasing demand.",
-  "sentiment": "Bullish",
-  "category": "Big Tech/AI",
-  "sector_tags": [
-   "AI",
-   "fintech"
-  ],
-  "companies": [
-   "OpenAI"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-  "source": "TechCrunch",
-  "score": 7,
-  "date": "2026-11-13T16:00:12+00:00",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-14T14:08:26.869747+05:30"
- },
- {
-  "id": "de92575e0d50",
-  "headline": "Microsoft Cloud Suffers Major Global Enterprise Outage",
-  "the_number": "-",
-  "why_it_matters": "Widespread cloud disruptions paralyze daily operations for enterprise customers worldwide.",
-  "founder_takeaway": "Avoid single-cloud vendor reliance for critical enterprise business functions.",
+  "why_it_matters": "Cash payouts help retain critical talent when IPO timelines remain uncertain.",
+  "founder_takeaway": "Offer liquidity alternatives to retain talent during delayed exits.",
   "sentiment": "Neutral",
   "category": "Big Tech/AI",
   "sector_tags": [
-   "SaaS"
-  ],
-  "companies": [
-   "Microsoft"
-  ],
-  "geography": "Global",
-  "amount_usd_m": null,
-  "impact": "Watch",
-  "source_badge": "Verified media",
-  "covered_by_count": 1,
-  "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
-  "source": "TechCrunch",
-  "score": 7,
-  "date": "2026-11-13T13:15:20+00:00",
-  "unc_number": false,
-  "raw_impact": "Watch",
-  "archive_url": null,
-  "unconfirmed": false,
-  "first_seen": "2026-11-14T14:08:26.869747+05:30"
- },
- {
-  "id": "e963cc00a34e",
-  "headline": "Oil Market Returning to Surplus as Gulf Exports Recover",
-  "the_number": "-",
-  "why_it_matters": "A global oil surplus could lower fuel costs and curb inflation.",
-  "founder_takeaway": "Expect potential relief on fuel, energy, and logistics expenses.",
-  "sentiment": "Bullish",
-  "category": "Macro",
-  "sector_tags": [
    "other"
   ],
   "companies": [
-   "IEA"
+   "Walmart",
+   "Flipkart"
   ],
-  "geography": "Global",
+  "geography": "India",
   "amount_usd_m": null,
-  "impact": "Watch",
+  "impact": "Notable",
   "source_badge": "Verified media",
   "covered_by_count": 1,
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcWtzQXhRVUlUbWQ0VVloOTVjekFCcC1XQlNXNWNRcERHNDFEbnBNTTFhZjV3Qjk5bGxCaDhoRFE1Yi1mdGNoR3JCVXY5MmQ0ODVnUWRabHowUDhYSUNKOXV5X0lLQzRBbWNabUFMTzVlMzBNOUUyWTgyeUg1cW5sRjJtUHo3TldPOEY4S19xOGwwYjlkemFibktTVTltVF94WUg5ekdJczcyUlBHOHZ0V3EtdWdjU0JOVkY4?oc=5",
-  "source": "Reuters (Google News)",
-  "score": 7,
-  "date": "2026-11-13T11:34:59+00:00",
+  "url": "https://www.livemint.com/companies/news/walmarts-chris-nicholas-likely-to-visit-india-on-30-november-as-flipkarts-krishnamurthy-steps-down-what-we-know-11795853815607.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-11-28T13:55:07+05:30",
   "unc_number": false,
-  "raw_impact": "Watch",
+  "raw_impact": "Notable",
   "archive_url": null,
   "unconfirmed": false,
-  "first_seen": "2026-11-14T14:08:26.869747+05:30"
+  "first_seen": "2026-11-28T15:19:26.103565+05:30"
+ },
+ {
+  "id": "ab8b484aed3d",
+  "headline": "Swiggy Instamart Cuts 340 Jobs Amid Rising Losses",
+  "the_number": "340",
+  "why_it_matters": "Mounting losses and fierce quick-commerce competition force aggressive workforce rationalization.",
+  "founder_takeaway": "Prune team sizes early if unit economics face persistent pressure.",
+  "sentiment": "Bearish",
+  "category": "Layoffs",
+  "sector_tags": [
+   "quick commerce"
+  ],
+  "companies": [
+   "Swiggy"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 3,
+  "url": "https://www.livemint.com/companies/news/swiggy-instamart-to-lay-off-340-employees-amid-mounting-losses-growing-competition-heres-who-will-be-impacted-11795850655855.html",
+  "source": "Mint Companies",
+  "score": 8,
+  "date": "2026-11-28T13:02:00+05:30",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-28T15:19:26.103565+05:30"
+ },
+ {
+  "id": "88ae97ea2b6e",
+  "headline": "RBI Cuts Reserve Ratio Maintenance to 90 Percent",
+  "the_number": "90%",
+  "why_it_matters": "Lower daily reserve maintenance provides liquidity flexibility to the banking system.",
+  "founder_takeaway": "Track banking liquidity shifts to forecast borrowing and credit availability.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "fintech"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMTZCVkNFN1hpMXFNenlmV015NDBlOER3VzJidHV4WndKWFVqLWNxQnNFdWl0clZiNFV0RGdsN3YzdjFQYzVISWNtZDJGaU55bFdzYVpVS3RPYk9pMEdHUFdfRVQ5N0hKcWdDYTVZc2F0YnMxUkJVYk02Z09Sa1NMV1FldUo4RDRNd1ZGVWRNQjJKYnZLYlVaR2R4eEdMcTBoMGNRT0tB?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 8,
+  "date": "2026-11-27T12:37:43+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-28T15:19:26.103565+05:30"
+ },
+ {
+  "id": "79a50308e06a",
+  "headline": "Cabinet Approves Changes in Land Border FDI Rules",
+  "the_number": "-",
+  "why_it_matters": "Revised foreign investment policies alter capital access from border-sharing nations.",
+  "founder_takeaway": "Monitor regulatory FDI shifts before planning cross-border cap table expansions.",
+  "sentiment": "Neutral",
+  "category": "Policy",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Notable",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVUwya2VHT3VGaUlZOE12bVlHY1NvVTFjSXRiUUtfOFZuaGFXNl9meVFicUh5N3RxbkNtZGhFS0xMUjFsUGI4UGVkQjRiTmpzc2Vpei1vSklpbnVqTGpfZ1RaM29vbUMyVS1LeW9ZdDc2Q09zeXJmeFJFbmU1ajh4RENucW5mV2dseVNhaW1QVGJCM054NjZFOGtTN3ZwczZrUmV5bVIwYUVzR3NZdkhzNGwzcmVpd1J6Smo4Mk9ORFdPZzg?oc=5",
+  "source": "Startup India / DPIIT (Google News)",
+  "score": 8,
+  "date": "2026-11-27T19:13:28+00:00",
+  "unc_number": false,
+  "raw_impact": "Notable",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-28T15:19:26.103565+05:30"
  },
  {
   "id": "68d4b6b85f1e",
@@ -15630,5 +15389,121 @@
   "archive_url": null,
   "unconfirmed": false,
   "first_seen": "2026-11-28T03:42:10.486305+05:30"
+ },
+ {
+  "id": "850575eb2dfa",
+  "headline": "Tata Sons Files Caveats in High Court and Supreme Court",
+  "the_number": "-",
+  "why_it_matters": "Preemptive legal filings guard against unexpected stays on board leadership decisions.",
+  "founder_takeaway": "Anticipate shareholder litigation before conducting contentious executive board meetings.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [
+   "Tata Sons"
+  ],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 5,
+  "url": "https://www.livemint.com/companies/news/tata-sons-files-caveats-in-bombay-hc-sc-ahead-of-possible-tata-trusts-appeal-over-board-meeting-all-about-the-row-11795846285289.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-28T11:54:08+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-28T15:19:26.103565+05:30"
+ },
+ {
+  "id": "3d2b1d06795e",
+  "headline": "OpenAI Countersues Apple Over Alleged Trade Secret Theft",
+  "the_number": "-",
+  "why_it_matters": "AI hardware ambitions trigger high-stakes trade secret and talent disputes.",
+  "founder_takeaway": "Ensure ironclad IP protections and clean hiring practices against rivals.",
+  "sentiment": "Neutral",
+  "category": "Big Tech/AI",
+  "sector_tags": [
+   "AI"
+  ],
+  "companies": [
+   "OpenAI",
+   "Apple"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/openai-vs-apple-what-is-the-trade-secrets-dispute-and-why-are-the-two-tech-giants-heading-for-a-legal-battle-11795830326678.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-28T07:39:29+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-28T15:19:26.103565+05:30"
+ },
+ {
+  "id": "6d2796075bcc",
+  "headline": "SAP Considers Cutting 10,000 Jobs in AI Pivot",
+  "the_number": "10,000",
+  "why_it_matters": "Legacy enterprise software leaders are shedding workforce to fund AI investments.",
+  "founder_takeaway": "Reallocate headcount directly toward AI capabilities to stay competitive globally.",
+  "sentiment": "Bearish",
+  "category": "Layoffs",
+  "sector_tags": [
+   "SaaS",
+   "AI"
+  ],
+  "companies": [
+   "SAP"
+  ],
+  "geography": "Global",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://www.livemint.com/companies/news/sap-layoffs-german-software-major-considering-10-000-job-cuts-9-of-global-workforce-could-be-hit-check-which-depts-11795762014958.html",
+  "source": "Mint Companies",
+  "score": 7,
+  "date": "2026-11-27T12:43:51+05:30",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-28T15:19:26.103565+05:30"
+ },
+ {
+  "id": "f0d3643af28e",
+  "headline": "Indian Central Bank Lets Rupee Rise Countering Depreciation",
+  "the_number": "-",
+  "why_it_matters": "Central bank action stabilizes the currency against one-way depreciation bets.",
+  "founder_takeaway": "Manage foreign exchange risk as currency intervention shifts volatility dynamics.",
+  "sentiment": "Bullish",
+  "category": "Macro",
+  "sector_tags": [
+   "other"
+  ],
+  "companies": [],
+  "geography": "India",
+  "amount_usd_m": null,
+  "impact": "Watch",
+  "source_badge": "Verified media",
+  "covered_by_count": 1,
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaktQNmpwalZ6MUN4ZFF0OG14aGVqRVh3OWl5MHlLTHNFd3FJNi10U1I1UGI1bjJqRm15NGR3UXJtcFRKcjZtbmlZZF9tVFdub0N0Zl85RTBodGE0OHFyVWM5M1BESkE5Y1JwRV8xaWc2a1owN05TSUw5aGE2UFMta0l3dURQRllvZkM4NUZ5UGI3dWpZeDFxbDB5enJUWWpfMDJnWll6SGczVXpjanVkMFJ3NzVrdw?oc=5",
+  "source": "Reuters (Google News)",
+  "score": 7,
+  "date": "2026-11-27T04:30:00+00:00",
+  "unc_number": false,
+  "raw_impact": "Watch",
+  "archive_url": null,
+  "unconfirmed": false,
+  "first_seen": "2026-11-28T15:19:26.103565+05:30"
  }
 ]
